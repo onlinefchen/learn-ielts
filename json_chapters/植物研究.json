@@ -6,7 +6,10 @@
       "word": "photosynthesis",
       "pos": "n.",
       "meaning": "光合作用",
-      "tips": "【联想记忆】将'photosynthesis'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】photo(光) + synthesis(合成) = 光合作用。plants use light to make food",
+      "phonetic": "/ˌfəʊtəʊˈsɪnθəsɪs/",
+      "example": "Photosynthesis is essential for life on Earth, as it produces oxygen and converts carbon dioxide into organic compounds.",
+      "example_translation": "光合作用对地球上的生命至关重要，因为它产生氧气并将二氧化碳转化为有机化合物。"
     },
     {
       "word": "respire",
@@ -14,13 +17,15 @@
       "meaning": "呼吸",
       "example": "|相比于 breathe 更正式，但是 breath 更常用",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'respire'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】re(再) + spir(呼吸) + e = 重复呼吸。植物和动物都需要呼吸",
+      "phonetic": "/rɪˈspaɪə(r)/"
     },
     {
       "word": "dioxide",
       "pos": "n.",
       "meaning": "二氧化物",
-      "tips": "【联想记忆】将'dioxide'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'dioxide'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/daɪˈɒksaɪd/"
     },
     {
       "word": "vegetation",
@@ -29,13 +34,14 @@
       "example": "There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者",
       "phonetic": "/ˌvedʒəˈteɪʃn/",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'vegetation'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】veget(生长) + ation = 植被，生长的植物总称"
     },
     {
       "word": "herb",
       "pos": "n.",
       "meaning": "药草；香草",
-      "tips": "【联想记忆】将'herb'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】herb - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/hɜːb/"
     },
     {
       "word": "perennial",
@@ -43,26 +49,31 @@
       "meaning": "多年生植物；长期的；持久的",
       "example": "These perennials should be planted where they can naturalize",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'perennial'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】per(通过) + ennial(年) = 多年生的",
+      "phonetic": "/pəˈreniəl/"
     },
     {
       "word": "botany",
       "pos": "n.",
       "meaning": "植物学",
-      "tips": "【联想记忆】将'botany'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】botan(植物) + y = 植物学",
+      "phonetic": "/ˈbɒtəni/"
     },
     {
       "word": "ecology",
       "pos": "n.",
       "meaning": "生态学；生态",
-      "tips": "【联想记忆】将'ecology'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ecology'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/iˈkɒlədʒi/"
     },
     {
       "word": "ecosystem",
       "pos": "n.",
       "meaning": "生态系统",
       "phonetic": "/ˈiːkəʊsɪstəm/",
-      "tips": "【联想记忆】将'ecosystem'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ecosystem'按音节拆分，结合语境反复练习记忆",
+      "example": "Forest ecosystems support incredible biodiversity and play a vital role in climate regulation.",
+      "example_translation": "森林生态系统支持令人难以置信的生物多样性，在气候调节中发挥重要作用。"
     },
     {
       "word": "eco-friendly",
@@ -70,7 +81,7 @@
       "meaning": "对生态环境友好的",
       "example": "Attention to eco-friendly packaging is increasing|user-friendly adj. 便于使用的",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'eco-friendly'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'eco-friendly'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "horticulture",
@@ -78,7 +89,8 @@
       "meaning": "园艺学；园艺",
       "example": "Horticulture is the industry and science of plant cultivation",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'horticulture'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】horti(花园) + culture = 园艺，花园栽培",
+      "phonetic": "/ˈhɔːtɪkʌltʃə(r)/"
     },
     {
       "word": "organism",
@@ -86,7 +98,8 @@
       "meaning": "有机体；生物",
       "example": "|organ n. 器官",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'organism'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】organ(器官) + ism = 有机体，由器官组成的生物体",
+      "phonetic": "/ˈɔːɡənɪzəm/"
     },
     {
       "word": "genetics",
@@ -94,13 +107,14 @@
       "meaning": "遗传学",
       "example": "In genetics, genes were formerly called factors|gene n. 基因。genetic adj. 基因的",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'genetics'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'genetics'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "mutation",
       "pos": "n.",
       "meaning": "突变；变异",
-      "tips": "【联想记忆】将'mutation'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】mutation - 以tion结尾的名词，表示动作或状态",
+      "phonetic": "/mjuːˈteɪʃn/"
     },
     {
       "word": "variation",
@@ -108,13 +122,13 @@
       "meaning": "变种；变异",
       "example": "|vary v. 变化",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'variation'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】variation - 以tion结尾的名词，表示动作或状态"
     },
     {
       "word": "diversity",
       "pos": "n.",
       "meaning": "多样性",
-      "tips": "【联想记忆】将'diversity'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'diversity'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "hybridisation/hybridization",
@@ -122,7 +136,7 @@
       "meaning": "杂交",
       "example": "|hybrid car",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'hybridisation/hybridization'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】hybridisation/hybridization - 以tion结尾的名词，表示动作或状态"
     },
     {
       "word": "classify",
@@ -130,13 +144,14 @@
       "meaning": "分类",
       "example": "Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'classify'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'classify'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "reproduce",
       "pos": "v.",
       "meaning": "繁殖",
-      "tips": "【联想记忆】将'reproduce'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'reproduce'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˌriːprəˈdjuːs/"
     },
     {
       "word": "evolve",
@@ -144,13 +159,13 @@
       "meaning": "进化；发展",
       "example": "|evolve from 从...进化而来",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'evolve'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'evolve'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "fluctuate",
       "pos": "v.",
       "meaning": "波动；起伏",
-      "tips": "【联想记忆】将'fluctuate'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】fluctuate - 以ate结尾的动词，表示'使...'"
     },
     {
       "word": "reclaim",
@@ -158,7 +173,7 @@
       "meaning": "开垦；利用",
       "example": "This land was reclaimed from the sea",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'reclaim'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'reclaim'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cultivate",
@@ -166,13 +181,14 @@
       "meaning": "耕作；培养",
       "example": "The farmer is cultivating his land|cultivate the habit of 养成...的习惯",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'cultivate'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】cult(耕作) + ivate = 培养，耕作栽培",
+      "phonetic": "/ˈkʌltɪveɪt/"
     },
     {
       "word": "sow",
       "pos": "v.",
       "meaning": "播种",
-      "tips": "【联想记忆】将'sow'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】sow - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "harvest",
@@ -180,7 +196,8 @@
       "meaning": "收割；收获；收成",
       "example": "A good summer harvest is not easy to come by|at the harvest",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'harvest'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【联想记忆】harvest像'哈维斯特'，丰收的季节",
+      "phonetic": "/ˈhɑːvɪst/"
     },
     {
       "word": "pluck",
@@ -188,13 +205,13 @@
       "meaning": "采；摘",
       "example": "The pluck a rose for his lover",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'pluck'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'pluck'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "pick",
       "pos": "v.",
       "meaning": "拾；摘",
-      "tips": "【联想记忆】将'pick'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pick - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "yield",
@@ -202,7 +219,7 @@
       "meaning": "产出；屈服；服从；产量；投资收益",
       "example": "This land yields well|yielding adj. 易弯曲的；顺从的。unyielding adj. 坚硬的；不屈不挠的",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'yield'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'yield'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "rear",
@@ -210,7 +227,7 @@
       "meaning": "培养；抚养；饲养；后部",
       "example": "Most farmer in this area rear sheep",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'rear'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】rear - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "arable",
@@ -218,7 +235,7 @@
       "meaning": "适合耕种的",
       "example": "This area changed quickly from arable land to desert",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'arable'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'arable'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "plough/plow",
@@ -226,7 +243,7 @@
       "meaning": "犁；耕",
       "example": "The ground was ploughed/plowed and planted with corn",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'plough/plow'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'plough/plow'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "spade",
@@ -234,7 +251,7 @@
       "meaning": "铲；锹",
       "example": "He bought a new spade",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'spade'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'spade'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "rake",
@@ -242,7 +259,7 @@
       "meaning": "耙子；耙；搜索",
       "example": "With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'rake'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】rake - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "stack",
@@ -250,7 +267,7 @@
       "meaning": "堆；垛；堆积",
       "example": "I have a stack of homework to do|委婉的拒绝别人：I have stack of things to do. My friend has a stack of money that his is raking it in",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'stack'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'stack'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "heap",
@@ -258,7 +275,7 @@
       "meaning": "（大而杂乱的）堆",
       "example": "A heap of clothes was lying in the corner",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'heap'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】heap - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "bundle",
@@ -266,7 +283,7 @@
       "meaning": "捆；包；束",
       "example": "He collected a bundle of sticks",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'bundle'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'bundle'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "bunch",
@@ -274,7 +291,7 @@
       "meaning": "一束（花）；一串（钥匙）",
       "example": "I bought a bunch of lilacs 我买了一束丁香花|I'm sorry. I have a bunch of work to do 礼貌的回绝",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'bunch'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'bunch'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "vase",
@@ -282,13 +299,13 @@
       "meaning": "瓶；花瓶",
       "example": "This flaw makes the vase less valable",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'vase'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】vase - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "sunlight",
       "pos": "n.",
       "meaning": "阳光",
-      "tips": "【联想记忆】将'sunlight'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'sunlight'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "short-day",
@@ -296,19 +313,20 @@
       "meaning": "短日照的",
       "example": "Soybean is a typical short-day corp 大豆是典型的短日照作物",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'short-day'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'short-day'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "shade-tolerant",
       "pos": "adj.",
       "meaning": "耐阴的",
-      "tips": "【联想记忆】将'shade-tolerant'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'shade-tolerant'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "fungus",
       "pos": "n.",
       "meaning": "真菌",
-      "tips": "【联想记忆】将'fungus'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'fungus'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈfʌŋɡəs/"
     },
     {
       "word": "mould/mold",
@@ -316,7 +334,7 @@
       "meaning": "霉菌/发霉",
       "example": "The walls were black with mould",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'mould/mold'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'mould/mold'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "pollen",
@@ -324,7 +342,8 @@
       "meaning": "花粉；给...授粉",
       "example": "Each spring, pollen from nearby plants is blown into the water",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'pollen'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'pollen'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈpɒlən/"
     },
     {
       "word": "germinate",
@@ -332,7 +351,8 @@
       "meaning": "发芽",
       "example": "Warmth is needed for the seeds to germinate",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'germinate'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】germ(芽) + inate = 发芽，种子长出嫩芽",
+      "phonetic": "/ˈdʒɜːmɪneɪt/"
     },
     {
       "word": "seed",
@@ -340,13 +360,14 @@
       "meaning": "种子",
       "example": "The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'seed'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】seed - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/siːd/"
     },
     {
       "word": "burgeon",
       "pos": "n./v.",
       "meaning": "嫩枝；新芽/极速生长；发芽；抽枝",
-      "tips": "【联想记忆】将'burgeon'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'burgeon'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "bud",
@@ -354,13 +375,14 @@
       "meaning": "芽；苞；蓓蕾",
       "example": "The rose are in bud|break out into bud 发芽。buddy=bud 老兄",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'bud'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】bud - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "flower",
       "pos": "n./v.",
       "meaning": "花；开花植物/成熟；繁荣；开花",
-      "tips": "【联想记忆】将'flower'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'flower'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈflaʊə(r)/"
     },
     {
       "word": "blossom",
@@ -368,7 +390,8 @@
       "meaning": "开花；花朵",
       "example": "The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'blossom'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'blossom'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈblɒsəm/"
     },
     {
       "word": "bloom",
@@ -376,7 +399,8 @@
       "meaning": "花朵",
       "example": "The apple trees are out of bloom",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'bloom'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'bloom'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/bluːm/"
     },
     {
       "word": "scent",
@@ -384,7 +408,8 @@
       "meaning": "气味；香味；使具有香味",
       "example": "The flower scents the air",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'scent'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'scent'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/sent/"
     },
     {
       "word": "aromatic",
@@ -392,7 +417,8 @@
       "meaning": "芳香的",
       "example": "Aromatic plants are often used in cooking",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'aromatic'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】aroma(香味) + tic = 芳香的",
+      "phonetic": "/ˌærəˈmætɪk/"
     },
     {
       "word": "ripen",
@@ -400,7 +426,7 @@
       "meaning": "使成熟",
       "example": "The sun ripens the corn|ripe adj. 熟的。ripener n. 催熟剂。Is this fruit ripe? 这个果子熟了么？",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'ripen'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ripen'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "fruit",
@@ -408,7 +434,8 @@
       "meaning": "结果实",
       "example": "The apple trees fruited early this year",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'fruit'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'fruit'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/fruːt/"
     },
     {
       "word": "wither",
@@ -416,7 +443,7 @@
       "meaning": "（使）枯萎",
       "example": "The grapes withered on the vine|withered adj. 凋谢了的；枯萎的",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'wither'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'wither'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "decompose",
@@ -424,97 +451,102 @@
       "meaning": "分解；腐烂",
       "example": "You can apply heat to decompose organic compounds 你可以加热来分解有机化合物",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'decompose'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'decompose'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "rot",
       "pos": "v./n.",
       "meaning": "使腐烂；使腐坏；腐烂",
-      "tips": "【联想记忆】将'rot'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】rot - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "decay",
       "pos": "v.",
       "meaning": "腐烂",
-      "tips": "【联想记忆】将'decay'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'decay'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "stale",
       "pos": "adj.",
       "meaning": "不新鲜的；没有新意的；陈腐的",
-      "tips": "【联想记忆】将'stale'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'stale'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "rainforest",
       "pos": "n.",
       "meaning": "雨林",
-      "tips": "【联想记忆】将'rainforest'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'rainforest'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "jungle",
       "pos": "n.",
       "meaning": "丛林",
-      "tips": "【联想记忆】将'jungle'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'jungle'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "plantation",
       "pos": "n.",
       "meaning": "种植园",
-      "tips": "【联想记忆】将'plantation'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【词根记忆】plant(种植) + ation = 种植园",
+      "phonetic": "/plænˈteɪʃn/"
     },
     {
       "word": "field",
       "pos": "n.",
       "meaning": "原野；场地；野外",
-      "tips": "【联想记忆】将'field'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'field'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "terrace",
       "pos": "n.",
       "meaning": "梯田",
-      "tips": "【联想记忆】将'terrace'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'terrace'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "timber",
       "pos": "n.",
       "meaning": "木材；木料；林木",
-      "tips": "【联想记忆】将'timber'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'timber'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈtɪmbə(r)/"
     },
     {
       "word": "charcoal",
       "pos": "n.",
       "meaning": "木炭",
-      "tips": "【联想记忆】将'charcoal'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】charcoal - 以al结尾的形容词，表示'与...有关的'"
     },
     {
       "word": "log",
       "pos": "n.",
       "meaning": "原木；日志",
-      "tips": "【联想记忆】将'log'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】log - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "logo",
       "pos": "n.",
       "meaning": "标识；徽标",
-      "tips": "【联想记忆】将'logo'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】logo - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "forestry",
       "pos": "n.",
       "meaning": "林学；林业",
-      "tips": "【联想记忆】将'forestry'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'forestry'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈfɒrɪstri/"
     },
     {
       "word": "branch",
       "pos": "n.",
       "meaning": "树枝；分支机构；分店",
-      "tips": "【联想记忆】将'branch'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'branch'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/brɑːntʃ/"
     },
     {
       "word": "trunk",
       "pos": "n.",
       "meaning": "树干；躯干；大箱子",
-      "tips": "【联想记忆】将'trunk'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'trunk'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/trʌŋk/"
     },
     {
       "word": "bough",
@@ -522,7 +554,7 @@
       "meaning": "大树枝",
       "example": "The window of his car was broken by a bough during last night's storm",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'bough'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'bough'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "root",
@@ -530,7 +562,8 @@
       "meaning": "根；使生根",
       "example": "|root cause 根本原因",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'root'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】root - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/ruːt/"
     },
     {
       "word": "hay",
@@ -538,7 +571,7 @@
       "meaning": "干草",
       "example": "Make hay with sun shines|hit the hay 上床睡觉",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'hay'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】hay - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "straw",
@@ -546,7 +579,7 @@
       "meaning": "稻草；麦秆；吸管",
       "example": "This hat is made of straw",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'straw'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'straw'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "reed",
@@ -554,7 +587,7 @@
       "meaning": "芦苇",
       "example": "The roof is made of dried reed",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'reed'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】reed - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "thorn",
@@ -562,25 +595,27 @@
       "meaning": "刺；荆棘",
       "example": "She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'thorn'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'thorn'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "weed",
       "pos": "n.",
       "meaning": "杂草",
-      "tips": "【联想记忆】将'weed'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】weed - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/wiːd/"
     },
     {
       "word": "grass",
       "pos": "n.",
       "meaning": "草；草地",
-      "tips": "【联想记忆】将'grass'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'grass'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ɡrɑːs/"
     },
     {
       "word": "meadow",
       "pos": "n.",
       "meaning": "草地；牧草",
-      "tips": "【联想记忆】将'meadow'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'meadow'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "lawn",
@@ -588,7 +623,7 @@
       "meaning": "草地；草坪",
       "example": "My mother asked me to mow the lawn",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'lawn'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】lawn - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "olive",
@@ -596,31 +631,34 @@
       "meaning": "橄榄；橄榄树",
       "example": "The olive branch is the emblem of peace. 橄榄枝是和平的象征",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'olive'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'olive'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "pine",
       "pos": "n.",
       "meaning": "松树；松木",
-      "tips": "【联想记忆】将'pine'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pine - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/paɪn/"
     },
     {
       "word": "vine",
       "pos": "n.",
       "meaning": "葡萄藤",
-      "tips": "【联想记忆】将'vine'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】vine - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/vaɪn/"
     },
     {
       "word": "violet",
       "pos": "n.",
       "meaning": "紫罗兰",
-      "tips": "【联想记忆】将'violet'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'violet'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "tulip",
       "pos": "n.",
       "meaning": "郁金香",
-      "tips": "【联想记忆】将'tulip'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'tulip'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈtuːlɪp/"
     },
     {
       "word": "mint",
@@ -628,7 +666,8 @@
       "meaning": "薄荷；铸币厂/铸造（硬币）",
       "example": "We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'mint'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】mint - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/mɪnt/"
     },
     {
       "word": "reef",
@@ -636,7 +675,7 @@
       "meaning": "暗礁",
       "example": "The ship was wrecked on a reef. 这船触礁失事了",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'reef'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】reef - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "alga",
@@ -644,13 +683,14 @@
       "meaning": "海藻",
       "example": "Some of the algae are edible|algal adj. 海藻的。algae 复数形式",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'alga'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】alga - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "enzyme",
       "pos": "n.",
       "meaning": "酶",
-      "tips": "【联想记忆】将'enzyme'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【联想记忆】en(内) + zyme(酵母) = 酶，体内的生化催化剂",
+      "phonetic": "/ˈenzaɪm/"
     },
     {
       "word": "catalyst",
@@ -658,13 +698,13 @@
       "meaning": "催化剂；促进因素",
       "example": "A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'catalyst'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'catalyst'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "release",
       "pos": "v./n.",
       "meaning": "释放；发布",
-      "tips": "【联想记忆】将'release'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'release'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "emission",
@@ -672,13 +712,13 @@
       "meaning": "排放；散发；排放物",
       "example": "This conference aims to reduce carbon emissions or greenhouse gas emissions around this world",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'emission'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'emission'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "absorb",
       "pos": "v.",
       "meaning": "吸收；吸引全部注意力",
-      "tips": "【联想记忆】将'absorb'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'absorb'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "circulation",
@@ -686,7 +726,7 @@
       "meaning": "流通；循环；流传",
       "example": "Sea surface temperature and atmospheric circulation are strongly coupled",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'circulation'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】circulation - 以tion结尾的名词，表示动作或状态"
     },
     {
       "word": "exceed",
@@ -694,7 +734,7 @@
       "meaning": "超出",
       "example": "The driver exceeds the speed limit|exceed expectation 意料之外",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'exceed'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'exceed'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "uptake",
@@ -702,7 +742,7 @@
       "meaning": "摄取；领会",
       "example": "The doctor advised me to reduce the salt uptake",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'uptake'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'uptake'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "nutrient",
@@ -710,19 +750,19 @@
       "meaning": "营养物质",
       "example": "The nutrient in the soil acts as a stimulus to growth in plants|nutrition n. 营养",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'nutrient'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'nutrient'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "energy",
       "pos": "n.",
       "meaning": "能源；精力",
-      "tips": "【联想记忆】将'energy'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'energy'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "surroundings",
       "pos": "n.",
       "meaning": "环境可与environment互换",
-      "tips": "【联想记忆】将'surroundings'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'surroundings'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "mechanism",
@@ -730,25 +770,25 @@
       "meaning": "机制；构造",
       "example": "Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'mechanism'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'mechanism'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "counterbalance",
       "pos": "n./v.",
       "meaning": "其平衡作用的事物；抵消；对...起平衡作用",
-      "tips": "【联想记忆】将'counterbalance'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'counterbalance'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "protect",
       "pos": "v.",
       "meaning": "保护",
-      "tips": "【联想记忆】将'protect'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'protect'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "preserve",
       "pos": "v.",
       "meaning": "保护；维持；保存",
-      "tips": "【联想记忆】将'preserve'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'preserve'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "conservation",
@@ -763,7 +803,7 @@
       "word": "bush fire",
       "pos": "n.",
       "meaning": "林区大火",
-      "tips": "【联想记忆】将'bush fire'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'bush fire'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "extinguish",
@@ -771,19 +811,19 @@
       "meaning": "扑灭（火）；使（想法；感情等）破灭",
       "example": "They tried every means to extinguish the fire",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'extinguish'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'extinguish'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "destruct",
       "pos": "v.",
       "meaning": "（使）自毁",
-      "tips": "【联想记忆】将'destruct'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'destruct'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "ruin",
       "pos": "v./n.",
       "meaning": "毁坏；摧毁；毁灭；废墟",
-      "tips": "【联想记忆】将'ruin'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】ruin - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "perish",
@@ -791,7 +831,7 @@
       "meaning": "毁灭；消亡；腐烂",
       "example": "Flowers perish when frost comes",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'perish'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'perish'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "demolish",
@@ -799,7 +839,7 @@
       "meaning": "毁坏；拆除；推翻",
       "example": "The fire demolished the town",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'demolish'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'demolish'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "infringe",
@@ -807,13 +847,13 @@
       "meaning": "侵犯；违反",
       "example": "The press infringed a copyright agreement",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'infringe'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'infringe'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "undermine",
       "pos": "v.",
       "meaning": "破坏；逐渐削弱",
-      "tips": "【联想记忆】将'undermine'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'undermine'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "extinction",
@@ -828,7 +868,7 @@
       "word": "pattern",
       "pos": "n.",
       "meaning": "模式；样式；底样",
-      "tips": "【联想记忆】将'pattern'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'pattern'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "outcome",
@@ -836,85 +876,86 @@
       "meaning": "结果",
       "example": "We are anxiously awaiting the outcome of their discussion",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'outcome'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'outcome'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "impact",
       "pos": "n.",
       "meaning": "影响",
-      "tips": "【联想记忆】将'impact'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'impact'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "seasonal",
       "pos": "adj.",
       "meaning": "季节性的",
-      "tips": "【联想记忆】将'seasonal'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】seasonal - 以al结尾的形容词，表示'与...有关的'",
+      "phonetic": "/ˈsiːznəl/"
     },
     {
       "word": "experimental",
       "pos": "adj.",
       "meaning": "实验性的",
-      "tips": "【联想记忆】将'experimental'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】experimental - 以al结尾的形容词，表示'与...有关的'"
     },
     {
       "word": "favourable/favorable",
       "pos": "adj.",
       "meaning": "有利的；赞成的；肯定的",
-      "tips": "【联想记忆】将'favourable/favorable'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'favourable/favorable'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "productive",
       "pos": "adj.",
       "meaning": "多产的",
-      "tips": "【联想记忆】将'productive'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'productive'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "effective",
       "pos": "adj.",
       "meaning": "有效的",
-      "tips": "【联想记忆】将'effective'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'effective'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "efficient",
       "pos": "adj.",
       "meaning": "效率高的",
-      "tips": "【联想记忆】将'efficient'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'efficient'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "considerable",
       "pos": "adj.",
       "meaning": "相当多的",
-      "tips": "【联想记忆】将'considerable'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'considerable'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "massive",
       "pos": "adj.",
       "meaning": "巨大的；大规模的；庞大的",
-      "tips": "【联想记忆】将'massive'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'massive'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "immense",
       "pos": "adj.",
       "meaning": "巨大的；极好的",
-      "tips": "【联想记忆】将'immense'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'immense'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "maximal",
       "pos": "adj.",
       "meaning": "最大的",
-      "tips": "【联想记忆】将'maximal'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】maximal - 以al结尾的形容词，表示'与...有关的'"
     },
     {
       "word": "minimal",
       "pos": "adj.",
       "meaning": "最小的",
-      "tips": "【联想记忆】将'minimal'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】minimal - 以al结尾的形容词，表示'与...有关的'"
     },
     {
       "word": "optimal/optimum",
       "pos": "adj.",
       "meaning": "最佳的；最理想的",
-      "tips": "【联想记忆】将'optimal/optimum'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'optimal/optimum'按音节拆分，结合语境反复练习记忆"
     }
   ]
 }

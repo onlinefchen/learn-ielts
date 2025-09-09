@@ -8,7 +8,7 @@
       "meaning": "食物",
       "example": "I prefer vegetarian food|foodie n. 美食家；吃货",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'food'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】food - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "diet",
@@ -16,13 +16,13 @@
       "meaning": "日常饮食；（医生指定的）特别饮食；节食",
       "example": "A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'diet'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】diet - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "appetite",
       "pos": "n.",
       "meaning": "食欲；强烈欲望",
-      "tips": "【联想记忆】将'appetite'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'appetite'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "treat",
@@ -30,13 +30,13 @@
       "meaning": "请客；对待；治疗/款待",
       "example": "|treatment n. 对待；处理；治疗",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'treat'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'treat'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cater",
       "pos": "v.",
       "meaning": "为...提供饮食；满足...的需要",
-      "tips": "【联想记忆】将'cater'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cater'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "provision",
@@ -44,151 +44,153 @@
       "meaning": "供应、预备",
       "example": "|provisions 食品供应",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'provision'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'provision'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "edible",
       "pos": "adj.",
       "meaning": "可以吃的",
-      "tips": "【联想记忆】将'edible'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'edible'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈedəbl/"
     },
     {
       "word": "recipe",
       "pos": "n.",
       "meaning": "食谱；秘诀",
-      "tips": "【联想记忆】将'recipe'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'recipe'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "restaurant",
       "pos": "n.",
       "meaning": "餐馆",
-      "tips": "【联想记忆】将'restaurant'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'restaurant'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "refectory",
       "pos": "n.",
       "meaning": "（学校或其他机构）食堂、餐厅",
-      "tips": "【联想记忆】将'refectory'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'refectory'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "bar",
       "pos": "n.",
       "meaning": "酒吧、吧台",
-      "tips": "【联想记忆】将'bar'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】bar - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "cafeteria",
       "pos": "n.",
       "meaning": "自助餐厅",
-      "tips": "【联想记忆】将'cafeteria'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cafeteria'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "buffet",
       "pos": "n.",
       "meaning": "自助餐",
-      "tips": "【联想记忆】将'buffet'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'buffet'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "barbecue",
       "pos": "n./v.",
       "meaning": "烧烤野餐、烤架/烧烤",
-      "tips": "【联想记忆】将'barbecue'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'barbecue'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "supper",
       "pos": "n.",
       "meaning": "晚餐",
-      "tips": "【联想记忆】将'supper'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'supper'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "banquet",
       "pos": "n.",
       "meaning": "宴会",
-      "tips": "【联想记忆】将'banquet'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'banquet'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "refreshment",
       "pos": "n.",
       "meaning": "茶点、点心",
-      "tips": "【联想记忆】将'refreshment'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'refreshment'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "snack",
       "pos": "n.",
       "meaning": "快餐、小吃、零食",
-      "tips": "【联想记忆】将'snack'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'snack'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "appetiser/appetizer",
       "pos": "n.",
       "meaning": "开胃饮料、开胃小菜",
-      "tips": "【联想记忆】将'appetiser/appetizer'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'appetiser/appetizer'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cuisine",
       "pos": "n.",
       "meaning": "菜肴、烹饪",
-      "tips": "【联想记忆】将'cuisine'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cuisine'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "menu",
       "pos": "n.",
       "meaning": "菜单",
-      "tips": "【联想记忆】将'menu'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】menu - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "order",
       "pos": "n./v.",
       "meaning": "订单、点的餐/点（酒菜等）",
-      "tips": "【联想记忆】将'order'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'order'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈɔːdə(r)/"
     },
     {
       "word": "takeaway",
       "pos": "n.",
       "meaning": "[英]外卖餐馆、外卖食物",
-      "tips": "【联想记忆】将'takeaway'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'takeaway'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "chief",
       "pos": "n.",
       "meaning": "厨师",
-      "tips": "【联想记忆】将'chief'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'chief'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "gourmet",
       "pos": "n./adj.",
       "meaning": "美食家/美味佳肴的",
-      "tips": "【联想记忆】将'gourmet'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'gourmet'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "vegetarian",
       "pos": "n./adj.",
       "meaning": "素食者/素食的、无肉的",
-      "tips": "【联想记忆】将'vegetarian'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'vegetarian'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cutlery",
       "pos": "n.",
       "meaning": "餐具、刀具",
-      "tips": "【联想记忆】将'cutlery'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cutlery'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "silver",
       "pos": "n./adj.",
       "meaning": "银、银器/银的、银色的",
-      "tips": "【联想记忆】将'silver'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'silver'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "ceramic",
       "pos": "adj./n.",
       "meaning": "陶瓷的/陶瓷制品",
-      "tips": "【联想记忆】将'ceramic'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ceramic'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "porcelain",
       "pos": "n.",
       "meaning": "瓷器、瓷",
-      "tips": "【联想记忆】将'porcelain'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'porcelain'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "bowl",
@@ -196,97 +198,97 @@
       "meaning": "碗",
       "example": "I have a bowl of cereal every morning|cereal n. 谷类植物，谷物；（尤指早晨加牛奶食用的）谷类食物，麦片。a fish bowl 鱼缸",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'bowl'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】bowl - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "dish",
       "pos": "n.",
       "meaning": "碟、菜肴",
-      "tips": "【联想记忆】将'dish'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】dish - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "saucer",
       "pos": "n.",
       "meaning": "茶托、茶碟",
-      "tips": "【联想记忆】将'saucer'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'saucer'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "tray",
       "pos": "n.",
       "meaning": "盘、托盘",
-      "tips": "【联想记忆】将'tray'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】tray - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "fork",
       "pos": "n.",
       "meaning": "餐叉、分岔处",
-      "tips": "【联想记忆】将'fork'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】fork - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "knife",
       "pos": "n.",
       "meaning": "刀",
-      "tips": "【联想记忆】将'knife'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'knife'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "spoon",
       "pos": "n.",
       "meaning": "匙、调羹",
-      "tips": "【联想记忆】将'spoon'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'spoon'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "glass",
       "pos": "n.",
       "meaning": "玻璃、玻璃杯",
-      "tips": "【联想记忆】将'glass'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'glass'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "mug",
       "pos": "n.",
       "meaning": "大杯、马克杯",
-      "tips": "【联想记忆】将'mug'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】mug - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "kettle",
       "pos": "n.",
       "meaning": "水壶、[美]锅",
-      "tips": "【联想记忆】将'kettle'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'kettle'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "pan",
       "pos": "n.",
       "meaning": "平底锅、[美]烤盘",
-      "tips": "【联想记忆】将'pan'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pan - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "pot",
       "pos": "n.",
       "meaning": "锅、壶",
-      "tips": "【联想记忆】将'pot'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pot - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "stove",
       "pos": "n.",
       "meaning": "炉子",
-      "tips": "【联想记忆】将'stove'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'stove'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "furnace",
       "pos": "n.",
       "meaning": "熔炉；暖气炉",
-      "tips": "【联想记忆】将'furnace'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'furnace'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "oven",
       "pos": "n.",
       "meaning": "烤炉、烤箱",
-      "tips": "【联想记忆】将'oven'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】oven - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "tin",
       "pos": "n.",
       "meaning": "锡、罐头",
-      "tips": "【联想记忆】将'tin'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】tin - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "lid",
@@ -294,79 +296,80 @@
       "meaning": "盖子；眼睑，眼皮",
       "example": "He slammed the lid down|slam v. （使）重重撞上，（使）砰地关上",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'lid'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】lid - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "drink",
       "pos": "v./n.",
       "meaning": "饮、喝；喝酒/饮料",
-      "tips": "【联想记忆】将'drink'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'drink'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "beverage",
       "pos": "n.",
       "meaning": "（水以外的）饮料",
-      "tips": "【联想记忆】将'beverage'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'beverage'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "juice",
       "pos": "n.",
       "meaning": "果汁、菜汁",
-      "tips": "【联想记忆】将'juice'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'juice'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "soda",
       "pos": "n.",
       "meaning": "无碳酸钠的；苏打水；[美]汽水",
-      "tips": "【联想记忆】将'soda'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】soda - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "coffee",
       "pos": "n.",
       "meaning": "咖啡",
-      "tips": "【联想记忆】将'coffee'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'coffee'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈkɒfi/"
     },
     {
       "word": "alcohol",
       "pos": "n.",
       "meaning": "酒精、乙醇、酒",
-      "tips": "【联想记忆】将'alcohol'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'alcohol'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "liquor",
       "pos": "n.",
       "meaning": "烈性酒",
-      "tips": "【联想记忆】将'liquor'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'liquor'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "whisky/whiskey",
       "pos": "n.",
       "meaning": "威士忌酒",
-      "tips": "【联想记忆】将'whisky/whiskey'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'whisky/whiskey'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "brandy",
       "pos": "n.",
       "meaning": "白兰地酒",
-      "tips": "【联想记忆】将'brandy'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'brandy'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "drunk",
       "pos": "adj.",
       "meaning": "醉的",
-      "tips": "【联想记忆】将'drunk'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'drunk'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "tobacco",
       "pos": "n.",
       "meaning": "烟草",
-      "tips": "【联想记忆】将'tobacco'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'tobacco'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cigarette",
       "pos": "n.",
       "meaning": "香烟",
-      "tips": "【联想记忆】将'cigarette'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cigarette'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "sober",
@@ -374,25 +377,27 @@
       "meaning": "清醒的/（使）醒酒",
       "example": "|sober up （使）醒酒",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'sober'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'sober'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "vegetable",
       "pos": "n.",
       "meaning": "蔬菜",
-      "tips": "【联想记忆】将'vegetable'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'vegetable'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "tomato",
       "pos": "n.",
       "meaning": "番茄",
-      "tips": "【联想记忆】将'tomato'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'tomato'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/təˈmɑːtəʊ/"
     },
     {
       "word": "potato",
       "pos": "n.",
       "meaning": "土豆",
-      "tips": "【联想记忆】将'potato'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'potato'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/pəˈteɪtəʊ/"
     },
     {
       "word": "pea",
@@ -400,205 +405,222 @@
       "meaning": "豌豆",
       "example": "This kind of pea has a long pod（荚）",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'pea'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pea - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/piː/"
     },
     {
       "word": "bean",
       "pos": "n.",
       "meaning": "豆",
-      "tips": "【联想记忆】将'bean'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】bean - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/biːn/"
     },
     {
       "word": "cucumber",
       "pos": "n.",
       "meaning": "黄瓜",
-      "tips": "【联想记忆】将'cucumber'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cucumber'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈkjuːkʌmbə(r)/"
     },
     {
       "word": "cabbage",
       "pos": "n.",
       "meaning": "洋白菜、卷心菜、甘蓝",
-      "tips": "【联想记忆】将'cabbage'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cabbage'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈkæbɪdʒ/"
     },
     {
       "word": "onion",
       "pos": "n.",
       "meaning": "洋葱",
-      "tips": "【联想记忆】将'onion'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'onion'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈʌnjən/"
     },
     {
       "word": "mushroom",
       "pos": "n./v.",
       "meaning": "蘑菇/呈蘑菇状扩散",
-      "tips": "【联想记忆】将'mushroom'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'mushroom'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈmʌʃruːm/"
     },
     {
       "word": "eggplant",
       "pos": "n.",
       "meaning": "茄子",
-      "tips": "【联想记忆】将'eggplant'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'eggplant'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "carrot",
       "pos": "n.",
       "meaning": "胡萝卜",
-      "tips": "【联想记忆】将'carrot'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'carrot'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈkærət/"
     },
     {
       "word": "turnip",
       "pos": "n.",
       "meaning": "萝卜、芜菁",
-      "tips": "【联想记忆】将'turnip'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'turnip'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "radish",
       "pos": "n.",
       "meaning": "樱桃萝卜",
-      "tips": "【联想记忆】将'radish'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'radish'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "fruit",
       "pos": "n.",
       "meaning": "水果",
-      "tips": "【联想记忆】将'fruit'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'fruit'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/fruːt/"
     },
     {
       "word": "peel",
       "pos": "v./n.",
       "meaning": "剥（水果、蔬菜的）皮/（水果）皮",
-      "tips": "【联想记忆】将'peel'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】peel - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "strip",
       "pos": "v./n.",
       "meaning": "剥去、除去/条、带",
-      "tips": "【联想记忆】将'strip'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'strip'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "core",
       "pos": "n.",
       "meaning": "果核",
-      "tips": "【联想记忆】将'core'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】core - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "hull",
       "pos": "n./v.",
       "meaning": "（果实等的）外壳；船体/剥去（果实的）外壳",
-      "tips": "【联想记忆】将'hull'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】hull - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "cherry",
       "pos": "n.",
       "meaning": "樱桃；樱桃树",
-      "tips": "【联想记忆】将'cherry'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cherry'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈtʃeri/"
     },
     {
       "word": "berry",
       "pos": "n.",
       "meaning": "浆果",
-      "tips": "【联想记忆】将'berry'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'berry'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈberi/"
     },
     {
       "word": "grape",
       "pos": "n.",
       "meaning": "葡萄",
-      "tips": "【联想记忆】将'grape'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'grape'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ɡreɪp/"
     },
     {
       "word": "papaya",
       "pos": "n.",
       "meaning": "番木瓜",
-      "tips": "【联想记忆】将'papaya'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'papaya'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "peach",
       "pos": "n.",
       "meaning": "桃子",
-      "tips": "【联想记忆】将'peach'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'peach'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "pear",
       "pos": "n.",
       "meaning": "梨",
-      "tips": "【联想记忆】将'pear'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pear - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "plum",
       "pos": "n.",
       "meaning": "李子、梅子",
-      "tips": "【联想记忆】将'plum'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】plum - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "orange",
       "pos": "n.",
       "meaning": "橙子",
-      "tips": "【联想记忆】将'orange'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'orange'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈɒrɪndʒ/"
     },
     {
       "word": "melon",
       "pos": "n.",
       "meaning": "瓜、甜瓜",
-      "tips": "【联想记忆】将'melon'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'melon'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "lemon",
       "pos": "n.",
       "meaning": "柠檬",
-      "tips": "【联想记忆】将'lemon'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'lemon'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈlemən/"
     },
     {
       "word": "kiwi",
       "pos": "n.",
       "meaning": "猕猴桃、奇异果",
-      "tips": "【联想记忆】将'kiwi'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】kiwi - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "crop",
       "pos": "n.",
       "meaning": "庄稼、收成、产量",
-      "tips": "【联想记忆】将'crop'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】crop - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/krɒp/"
     },
     {
       "word": "corn",
       "pos": "n.",
       "meaning": "[英]谷物；[美]玉米",
-      "tips": "【联想记忆】将'corn'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】corn - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/kɔːn/"
     },
     {
       "word": "grain",
       "pos": "n.",
       "meaning": "谷物、颗粒",
-      "tips": "【联想记忆】将'grain'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'grain'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ɡreɪn/"
     },
     {
       "word": "wheat",
       "pos": "n.",
       "meaning": "小麦",
-      "tips": "【联想记忆】将'wheat'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'wheat'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/wiːt/"
     },
     {
       "word": "reap",
       "pos": "v.",
       "meaning": "收割、收获",
-      "tips": "【联想记忆】将'reap'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】reap - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "flour",
       "pos": "n.",
       "meaning": "面粉",
-      "tips": "【联想记忆】将'flour'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'flour'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "porridge",
       "pos": "n.",
       "meaning": "麦片粥",
-      "tips": "【联想记忆】将'porridge'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'porridge'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "paste",
       "pos": "n.",
       "meaning": "糨糊、面团",
-      "tips": "【联想记忆】将'paste'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'paste'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "livestock",
@@ -606,55 +628,55 @@
       "meaning": "家畜",
       "example": "He is good at breading livestock|livestock sector 畜牧业",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'livestock'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'livestock'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "chicken",
       "pos": "n.",
       "meaning": "鸡",
-      "tips": "【联想记忆】将'chicken'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'chicken'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "turkey",
       "pos": "n.",
       "meaning": "火鸡",
-      "tips": "【联想记忆】将'turkey'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'turkey'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "beef",
       "pos": "n.",
       "meaning": "牛肉",
-      "tips": "【联想记忆】将'beef'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】beef - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "pork",
       "pos": "n.",
       "meaning": "猪肉",
-      "tips": "【联想记忆】将'pork'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pork - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "mutton",
       "pos": "n.",
       "meaning": "羊肉",
-      "tips": "【联想记忆】将'mutton'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'mutton'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "sausage",
       "pos": "n.",
       "meaning": "香肠",
-      "tips": "【联想记忆】将'sausage'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'sausage'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "fish",
       "pos": "n./v.",
       "meaning": "鱼/钓鱼",
-      "tips": "【联想记忆】将'fish'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】fish - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "pond",
       "pos": "n.",
       "meaning": "池塘",
-      "tips": "【联想记忆】将'pond'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pond - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "rod",
@@ -662,7 +684,7 @@
       "meaning": "杆、竿",
       "example": "|a fishing rod",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'rod'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】rod - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "dairy",
@@ -670,25 +692,25 @@
       "meaning": "乳制品、乳品店/乳制的",
       "example": "|diary n. 日记（注意拼写）。dairy products 乳制品",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'dairy'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'dairy'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "milk",
       "pos": "n./v.",
       "meaning": "奶/挤奶",
-      "tips": "【联想记忆】将'milk'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】milk - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "yogurt",
       "pos": "n.",
       "meaning": "酸奶",
-      "tips": "【联想记忆】将'yogurt'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'yogurt'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cream",
       "pos": "n.",
       "meaning": "奶油",
-      "tips": "【联想记忆】将'cream'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cream'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cheese",
@@ -696,139 +718,144 @@
       "meaning": "起司、奶酪",
       "example": "|a big cheese 要员、大人物",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'cheese'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'cheese'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "butter",
       "pos": "n./v.",
       "meaning": "黄油/涂黄油",
-      "tips": "【联想记忆】将'butter'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'butter'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "salad",
       "pos": "n.",
       "meaning": "色拉",
-      "tips": "【联想记忆】将'salad'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'salad'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "sandwich",
       "pos": "v./n.",
       "meaning": "把...夹入/三明治",
-      "tips": "【联想记忆】将'sandwich'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'sandwich'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "hamburger",
       "pos": "n.",
       "meaning": "汉堡包",
-      "tips": "【联想记忆】将'hamburger'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'hamburger'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "loaf",
       "pos": "n./v.",
       "meaning": "一条（面包）/游荡、闲逛",
-      "tips": "【联想记忆】将'loaf'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】loaf - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "pie",
       "pos": "n.",
       "meaning": "馅饼、派",
-      "tips": "【联想记忆】将'pie'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】pie - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "pizza",
       "pos": "n.",
       "meaning": "披萨饼",
-      "tips": "【联想记忆】将'pizza'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'pizza'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "pasta",
       "pos": "n.",
       "meaning": "意大利面食",
-      "tips": "【联想记忆】将'pasta'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'pasta'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "spaghetti",
       "pos": "n.",
       "meaning": "意大利细面",
-      "tips": "【联想记忆】将'spaghetti'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'spaghetti'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "soup",
       "pos": "n.",
       "meaning": "汤",
-      "tips": "【联想记忆】将'soup'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】soup - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "pudding",
       "pos": "n.",
       "meaning": "布丁",
-      "tips": "【联想记忆】将'pudding'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】pudding - 以ing结尾，表示正在进行或状态"
     },
     {
       "word": "biscuit",
       "pos": "n.",
       "meaning": "[英]饼干，[美]烤饼、小圆面包",
-      "tips": "【联想记忆】将'biscuit'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'biscuit'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "jam",
       "pos": "n.",
       "meaning": "果酱",
-      "tips": "【联想记忆】将'jam'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】jam - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "nut",
       "pos": "n.",
       "meaning": "坚果、螺母",
-      "tips": "【联想记忆】将'nut'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】nut - 常用基础词汇，多次重复加深印象",
+      "phonetic": "/nʌt/"
     },
     {
       "word": "chocolate",
       "pos": "n.",
       "meaning": "巧克力",
-      "tips": "【联想记忆】将'chocolate'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】chocolate - 以ate结尾的动词，表示'使...'"
     },
     {
       "word": "ice cream",
       "pos": "n.",
       "meaning": "冰淇淋",
-      "tips": "【联想记忆】将'ice cream'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ice cream'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "vanilla",
       "pos": "n./adj.",
       "meaning": "香草/香草味的",
-      "tips": "【联想记忆】将'vanilla'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'vanilla'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/vəˈnɪlə/"
     },
     {
       "word": "mustard",
       "pos": "n.",
       "meaning": "芥末、芥菜",
-      "tips": "【联想记忆】将'mustard'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'mustard'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "wasabi",
       "pos": "n.",
       "meaning": "山葵、山葵根",
-      "tips": "【联想记忆】将'wasabi'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'wasabi'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "pepper",
       "pos": "n.",
       "meaning": "胡椒粉、柿子树",
-      "tips": "【联想记忆】将'pepper'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'pepper'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈpepə(r)/"
     },
     {
       "word": "ginger",
       "pos": "n.",
       "meaning": "姜",
-      "tips": "【联想记忆】将'ginger'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ginger'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈdʒɪndʒə(r)/"
     },
     {
       "word": "garlic",
       "pos": "n.",
       "meaning": "蒜",
-      "tips": "【联想记忆】将'garlic'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'garlic'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈɡɑːlɪk/"
     },
     {
       "word": "scallion",
@@ -836,229 +863,233 @@
       "meaning": "大葱",
       "example": "Kimchi is a well-known Korean side dish（配菜） make from fermented（发酵的） cabbage, radish, scallion or cucumber",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'scallion'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'scallion'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "vinegar",
       "pos": "n.",
       "meaning": "醋",
-      "tips": "【联想记忆】将'vinegar'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'vinegar'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "salt",
       "pos": "n.",
       "meaning": "盐",
-      "tips": "【联想记忆】将'salt'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】salt - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "sugar",
       "pos": "n.",
       "meaning": "糖",
-      "tips": "【联想记忆】将'sugar'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'sugar'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈʃʊɡə(r)/"
     },
     {
       "word": "candy",
       "pos": "n.",
       "meaning": "糖果",
-      "tips": "【联想记忆】将'candy'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'candy'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "honey",
       "pos": "n.",
       "meaning": "蜂蜜",
-      "tips": "【联想记忆】将'honey'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'honey'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈhʌni/"
     },
     {
       "word": "flavor/flavour",
       "pos": "n.",
       "meaning": "味道、口味、特色、风格",
-      "tips": "【联想记忆】将'flavor/flavour'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'flavor/flavour'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "sour",
       "pos": "adj.",
       "meaning": "酸的",
-      "tips": "【联想记忆】将'sour'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】sour - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "sweet",
       "pos": "adj.",
       "meaning": "甜的、愉快的",
-      "tips": "【联想记忆】将'sweet'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'sweet'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "bitter",
       "pos": "adj.",
       "meaning": "苦的；痛苦的；严寒的",
-      "tips": "【联想记忆】将'bitter'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'bitter'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "spicy",
       "pos": "adj.",
       "meaning": "辣的",
-      "tips": "【联想记忆】将'spicy'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'spicy'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "delicious",
       "pos": "adj.",
       "meaning": "美味的",
-      "tips": "【联想记忆】将'delicious'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【后缀记忆】delicious - 以ous结尾的形容词，表示'有...性质的'"
     },
     {
       "word": "yummy",
       "pos": "adj.",
       "meaning": "美味的",
-      "tips": "【联想记忆】将'yummy'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'yummy'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "tasty",
       "pos": "adj.",
       "meaning": "美味的",
-      "tips": "【联想记忆】将'tasty'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'tasty'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "hunger",
       "pos": "n.",
       "meaning": "饥饿、渴望",
-      "tips": "【联想记忆】将'hunger'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'hunger'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "thirsty",
       "pos": "n.",
       "meaning": "渴的、渴望的",
-      "tips": "【联想记忆】将'thirsty'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'thirsty'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "spice",
       "pos": "n.",
       "meaning": "香料、给生活添加情趣的事",
-      "tips": "【联想记忆】将'spice'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'spice'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/spaɪs/"
     },
     {
       "word": "sauce",
       "pos": "n.",
       "meaning": "酱汁",
-      "tips": "【联想记忆】将'sauce'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'sauce'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "ketchup",
       "pos": "n.",
       "meaning": "番茄酱",
-      "tips": "【联想记忆】将'ketchup'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ketchup'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "perfume",
       "pos": "n.",
       "meaning": "香味、芳香；香水",
-      "tips": "【联想记忆】将'perfume'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'perfume'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/ˈpɜːfjuːm/"
     },
     {
       "word": "ingredient",
       "pos": "n.",
       "meaning": "成分；（烹调的）原料、因素",
-      "tips": "【联想记忆】将'ingredient'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'ingredient'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "supplement",
       "pos": "n./v.",
       "meaning": "营养补给、补贴/增补、补充",
-      "tips": "【联想记忆】将'supplement'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'supplement'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "digest",
       "pos": "v.",
       "meaning": "消化、理解、领悟",
-      "tips": "【联想记忆】将'digest'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'digest'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "cook",
       "pos": "v./n.",
       "meaning": "烹调、烧、煮/厨师",
-      "tips": "【联想记忆】将'cook'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】cook - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "bake",
       "pos": "v.",
       "meaning": "烘烤、烤熟",
-      "tips": "【联想记忆】将'bake'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】bake - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "fry",
       "pos": "v.",
       "meaning": "油煎",
-      "tips": "【联想记忆】将'fry'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】fry - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "roast",
       "pos": "v./n.",
       "meaning": "烤/烤肉",
-      "tips": "【联想记忆】将'roast'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'roast'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "toast",
       "pos": "v./n.",
       "meaning": "向...祝酒；为...干杯；烤/烤面包片",
-      "tips": "【联想记忆】将'toast'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'toast'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "suck",
       "pos": "v.",
       "meaning": "吮吸",
-      "tips": "【联想记忆】将'suck'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】suck - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "swallow",
       "pos": "v.",
       "meaning": "咽下、吞下",
-      "tips": "【联想记忆】将'swallow'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'swallow'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "lick",
       "pos": "v.",
       "meaning": "舔",
-      "tips": "【联想记忆】将'lick'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】lick - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "chew",
       "pos": "v.",
       "meaning": "咀嚼",
-      "tips": "【联想记忆】将'chew'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】chew - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "gum",
       "pos": "n.",
       "meaning": "口香糖、树胶",
-      "tips": "【联想记忆】将'gum'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】gum - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "soak",
       "pos": "v.",
       "meaning": "浸泡、使湿透",
-      "tips": "【联想记忆】将'soak'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】soak - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "dip",
       "pos": "v.",
       "meaning": "蘸、浸",
-      "tips": "【联想记忆】将'dip'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】dip - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "squeeze",
       "pos": "v.",
       "meaning": "挤压",
-      "tips": "【联想记忆】将'squeeze'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'squeeze'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "stir",
       "pos": "v.",
       "meaning": "搅动",
-      "tips": "【联想记忆】将'stir'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【基础记忆】stir - 常用基础词汇，多次重复加深印象"
     },
     {
       "word": "grind",
       "pos": "v./n.",
       "meaning": "碾碎/枯燥乏味的事情",
-      "tips": "【联想记忆】将'grind'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'grind'按音节拆分，结合语境反复练习记忆"
     },
     {
       "word": "slice",
@@ -1066,7 +1097,7 @@
       "meaning": "切成薄片、切、划/薄片",
       "example": "I sliced the bread",
       "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】将'slice'拆分记忆，结合词根词缀理解其含义。"
+      "tips": "【拆分记忆】将'slice'按音节拆分，结合语境反复练习记忆"
     }
   ]
 }
