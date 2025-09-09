@@ -31,11 +31,19 @@
         </main>
     </div>
 
+    <script src="progress.js"></script>
     <script>
         let chapterName = '';
         let wordsData = [];
         let masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
         let showMastered = false;
+
+        // Update function for progress manager
+        window.updateUIFromProgress = function() {
+            masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+            displayWords();
+            updateStats();
+        };
 
         // 获取URL参数
         function getUrlParams() {
@@ -149,6 +157,11 @@
             // 保存到localStorage
             localStorage.setItem('masteredWords', JSON.stringify(masteredWords));
             
+            // 同步到云端
+            if (window.progressManager) {
+                progressManager.saveToGist(masteredWords);
+            }
+            
             // 更新显示
             displayWords();
             updateStats();
@@ -245,6 +258,9 @@
         if ('speechSynthesis' in window) {
             loadVoices();
         }
+        
+        // Setup sync UI after page loads
+        setTimeout(() => progressManager.setupUI(), 100);
     </script>
 </body>
 </html>

@@ -24,9 +24,17 @@
         </main>
     </div>
 
+    <script src="progress.js"></script>
     <script>
         let chaptersData = [];
         let masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+
+        // Update function for progress manager
+        window.updateUIFromProgress = function() {
+            masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+            displayChapters();
+            updateStats();
+        };
 
         async function loadChapters() {
             try {
@@ -87,6 +95,9 @@
 
         // 初始化页面
         loadChapters();
+        
+        // Setup sync UI after page loads
+        setTimeout(() => progressManager.setupUI(), 100);
     </script>
 </body>
 </html>
