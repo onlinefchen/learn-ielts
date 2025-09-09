@@ -6,391 +6,483 @@
       "word": "galaxy",
       "pos": "n.",
       "meaning": "星系",
-      "example": "The sun is only a very small start in the Galaxy|the Galaxy 银河系"
+      "example": "The sun is only a very small start in the Galaxy|the Galaxy 银河系",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'galaxy'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cosmos",
       "pos": "n.",
-      "meaning": "宇宙"
+      "meaning": "宇宙",
+      "tips": "【联想记忆】将'cosmos'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "universe",
       "pos": "n.",
-      "meaning": "宇宙；万物；世界"
+      "meaning": "宇宙；万物；世界",
+      "tips": "【联想记忆】将'universe'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "interstellar",
       "pos": "adj.",
       "meaning": "星际的",
-      "example": "These elements become part of the interstellar gas and dust"
+      "example": "These elements become part of the interstellar gas and dust",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'interstellar'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "terrestrial",
       "pos": "adj.",
-      "meaning": "地球的；陆地的"
+      "meaning": "地球的；陆地的",
+      "phonetic": "/təˈrestriəl/",
+      "tips": "【联想记忆】将'terrestrial'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "celestial",
       "pos": "adj.",
-      "meaning": "天上的"
+      "meaning": "天上的",
+      "tips": "【联想记忆】将'celestial'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "astronomy",
       "pos": "n.",
-      "meaning": "天文学"
+      "meaning": "天文学",
+      "tips": "【联想记忆】将'astronomy'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "astrology",
       "pos": "n.",
-      "meaning": "占星术；占星学"
+      "meaning": "占星术；占星学",
+      "tips": "【联想记忆】将'astrology'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "astronaut",
       "pos": "n.",
-      "meaning": "宇航员"
+      "meaning": "宇航员",
+      "tips": "【联想记忆】将'astronaut'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "comet",
       "pos": "n.",
-      "meaning": "彗星"
+      "meaning": "彗星",
+      "tips": "【联想记忆】将'comet'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "meteorite",
       "pos": "n.",
-      "meaning": "陨石"
+      "meaning": "陨石",
+      "tips": "【联想记忆】将'meteorite'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "crater",
       "pos": "n.",
       "meaning": "（撞击或爆炸形成的）坑",
-      "example": "They came to the lip of a dead volcanic crater"
+      "example": "They came to the lip of a dead volcanic crater",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'crater'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dust",
       "pos": "n.",
-      "meaning": "尘土；灰尘"
+      "meaning": "尘土；灰尘",
+      "tips": "【联想记忆】将'dust'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ash",
       "pos": "n.",
-      "meaning": "灰烬"
+      "meaning": "灰烬",
+      "tips": "【联想记忆】将'ash'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "envelope",
       "pos": "n.",
       "meaning": "外裹物；外层",
-      "example": "The surface of the sun is a glowing gas envelope"
+      "example": "The surface of the sun is a glowing gas envelope",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'envelope'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "chunk",
       "pos": "n.",
       "meaning": "厚块",
-      "example": "My mother bought a chunk of meat|a chunk of 一大块，一厚块"
+      "example": "My mother bought a chunk of meat|a chunk of 一大块，一厚块",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'chunk'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spacecraft",
       "pos": "n.",
-      "meaning": "宇宙飞船"
+      "meaning": "宇宙飞船",
+      "tips": "【联想记忆】将'spacecraft'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spaceship",
       "pos": "n.",
-      "meaning": "宇宙飞船"
+      "meaning": "宇宙飞船",
+      "tips": "【联想记忆】将'spaceship'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "probe",
       "pos": "n.",
       "meaning": "太空探测器；详尽调查",
-      "example": "Their probe into the cause of the fire proved futile"
+      "example": "Their probe into the cause of the fire proved futile",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'probe'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "module",
       "pos": "n.",
-      "meaning": "模块"
+      "meaning": "模块",
+      "tips": "【联想记忆】将'module'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "propulsion",
       "pos": "n.",
       "meaning": "推进力",
-      "example": "This aircraft works by jet propulsion"
+      "example": "This aircraft works by jet propulsion",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'propulsion'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pressure",
       "pos": "n.",
-      "meaning": "压力"
+      "meaning": "压力",
+      "tips": "【联想记忆】将'pressure'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dynamics",
       "pos": "n.",
-      "meaning": "动力学；动态"
+      "meaning": "动力学；动态",
+      "tips": "【联想记忆】将'dynamics'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "motion",
       "pos": "n.",
-      "meaning": "作物；移动"
+      "meaning": "作物；移动",
+      "tips": "【联想记忆】将'motion'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vent",
       "pos": "n./v.",
-      "meaning": "排气口；排放；发泄"
+      "meaning": "排气口；排放；发泄",
+      "tips": "【联想记忆】将'vent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tail",
       "pos": "n.",
-      "meaning": "尾部"
+      "meaning": "尾部",
+      "tips": "【联想记忆】将'tail'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "curve",
       "pos": "n.",
-      "meaning": "曲线；弧线"
+      "meaning": "曲线；弧线",
+      "tips": "【联想记忆】将'curve'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "exploration",
       "pos": "n.",
-      "meaning": "探索"
+      "meaning": "探索",
+      "tips": "【联想记忆】将'exploration'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "expedition",
       "pos": "n.",
-      "meaning": "远征；探险"
+      "meaning": "远征；探险",
+      "phonetic": "/ˌekspəˈdɪʃn/",
+      "tips": "【联想记忆】将'expedition'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "flyby",
       "pos": "n.",
-      "meaning": "（航天器对行星或卫星的）飞掠"
+      "meaning": "（航天器对行星或卫星的）飞掠",
+      "tips": "【联想记忆】将'flyby'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "observatory",
       "pos": "n.",
-      "meaning": "天文台"
+      "meaning": "天文台",
+      "tips": "【联想记忆】将'observatory'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "telescope",
       "pos": "n.",
-      "meaning": "望远镜"
+      "meaning": "望远镜",
+      "tips": "【联想记忆】将'telescope'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spectacle",
       "pos": "n.",
       "meaning": "壮观的景象；奇观",
-      "example": "The sunrise was a splendid spectacle|spectacular adj. 壮观的；壮丽的"
+      "example": "The sunrise was a splendid spectacle|spectacular adj. 壮观的；壮丽的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'spectacle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "orbit",
       "pos": "n.",
-      "meaning": "轨道"
+      "meaning": "轨道",
+      "tips": "【联想记忆】将'orbit'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ecliptic",
       "pos": "n.",
-      "meaning": "黄道"
+      "meaning": "黄道",
+      "tips": "【联想记忆】将'ecliptic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "diameter",
       "pos": "n.",
-      "meaning": "直径"
+      "meaning": "直径",
+      "tips": "【联想记忆】将'diameter'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "radius",
       "pos": "n.",
-      "meaning": "半径"
+      "meaning": "半径",
+      "tips": "【联想记忆】将'radius'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "substance",
       "pos": "n.",
-      "meaning": "物质；实质；要旨"
+      "meaning": "物质；实质；要旨",
+      "tips": "【联想记忆】将'substance'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "composition",
       "pos": "n.",
-      "meaning": "成分；构成；作品；创作"
+      "meaning": "成分；构成；作品；创作",
+      "tips": "【联想记忆】将'composition'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "compound",
       "pos": "n./adj./v.",
       "meaning": "混合物；化合物。复合的；组合的。混合",
-      "example": "English loves compound words: \"washing machine\" and that sort of thing"
+      "example": "English loves compound words: \"washing machine\" and that sort of thing",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'compound'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fossil",
       "pos": "n.",
-      "meaning": "化石"
+      "meaning": "化石",
+      "tips": "【联想记忆】将'fossil'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sample",
       "pos": "n.",
-      "meaning": "样品；样本"
+      "meaning": "样品；样本",
+      "tips": "【联想记忆】将'sample'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "specimen",
       "pos": "n.",
-      "meaning": "样品；标本"
+      "meaning": "样品；标本",
+      "tips": "【联想记忆】将'specimen'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "particle",
       "pos": "n.",
-      "meaning": "颗粒；微粒；极小量"
+      "meaning": "颗粒；微粒；极小量",
+      "tips": "【联想记忆】将'particle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "molecule",
       "pos": "n.",
-      "meaning": "分子"
+      "meaning": "分子",
+      "tips": "【联想记忆】将'molecule'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "atom",
       "pos": "n.",
-      "meaning": "原子"
+      "meaning": "原子",
+      "tips": "【联想记忆】将'atom'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ion",
       "pos": "n.",
-      "meaning": "离子"
+      "meaning": "离子",
+      "tips": "【联想记忆】将'ion'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "electron",
       "pos": "n.",
-      "meaning": "电子"
+      "meaning": "电子",
+      "tips": "【联想记忆】将'electron'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "quantum",
       "pos": "n.",
       "meaning": "量子",
-      "example": "In this example, we employed the quantum mechanics principle"
+      "example": "In this example, we employed the quantum mechanics principle",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'quantum'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "liquid",
       "pos": "n./adj.",
-      "meaning": "液体；液体的"
+      "meaning": "液体；液体的",
+      "tips": "【联想记忆】将'liquid'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fluid",
       "pos": "n./adj.",
       "meaning": "液体；流体。流动的",
-      "example": "When you are sick, you should drink plenty of fluids"
+      "example": "When you are sick, you should drink plenty of fluids",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'fluid'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "solid",
       "pos": "n./adj.",
-      "meaning": "固体。固体的；牢固的"
+      "meaning": "固体。固体的；牢固的",
+      "tips": "【联想记忆】将'solid'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "synthesise/synthesize",
       "pos": "v.",
       "meaning": "合成；综合",
-      "example": "Darwinian theory has been synthesized with modern genetics"
+      "example": "Darwinian theory has been synthesized with modern genetics",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'synthesise/synthesize'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "formation",
       "pos": "n.",
-      "meaning": "形成"
+      "meaning": "形成",
+      "tips": "【联想记忆】将'formation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "method",
       "pos": "n.",
-      "meaning": "方法"
+      "meaning": "方法",
+      "tips": "【联想记忆】将'method'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spectrum",
       "pos": "n.",
-      "meaning": "光谱；范围"
+      "meaning": "光谱；范围",
+      "tips": "【联想记忆】将'spectrum'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dimension",
       "pos": "n.",
-      "meaning": "维度"
+      "meaning": "维度",
+      "tips": "【联想记忆】将'dimension'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "frequency",
       "pos": "n.",
-      "meaning": "频率；发生次数"
+      "meaning": "频率；发生次数",
+      "tips": "【联想记忆】将'frequency'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "signal",
       "pos": "n.",
-      "meaning": "信号"
+      "meaning": "信号",
+      "tips": "【联想记忆】将'signal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "antenna",
       "pos": "n.",
-      "meaning": "天线"
+      "meaning": "天线",
+      "tips": "【联想记忆】将'antenna'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "circuit",
       "pos": "n.",
       "meaning": "线路；电路；巡回",
-      "example": "For many years, He was top banana on the circuit 许多年来，他都是巡回剧团里的主角——top banana主要人物"
+      "example": "For many years, He was top banana on the circuit 许多年来，他都是巡回剧团里的主角——top banana主要人物",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'circuit'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "refraction",
       "pos": "n.",
-      "meaning": "折射"
+      "meaning": "折射",
+      "tips": "【联想记忆】将'refraction'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ultraviolet",
       "pos": "n./adj.",
-      "meaning": "紫外辐射。紫外线的"
+      "meaning": "紫外辐射。紫外线的",
+      "tips": "【联想记忆】将'ultraviolet'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "radioactive",
       "pos": "adj.",
-      "meaning": "放射性的"
+      "meaning": "放射性的",
+      "tips": "【联想记忆】将'radioactive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "distinct",
       "pos": "adj.",
-      "meaning": "明显的；截然不同的"
+      "meaning": "明显的；截然不同的",
+      "tips": "【联想记忆】将'distinct'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "discernible",
       "pos": "adj.",
       "meaning": "可辨别的；看得清的",
-      "example": "Night fell, but the outline of the factory buildings was still discernible"
+      "example": "Night fell, but the outline of the factory buildings was still discernible",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'discernible'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "invisible",
       "pos": "adj.",
-      "meaning": "看不见的"
+      "meaning": "看不见的",
+      "tips": "【联想记忆】将'invisible'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "collision",
       "pos": "n.",
-      "meaning": "碰撞事故；冲突"
+      "meaning": "碰撞事故；冲突",
+      "tips": "【联想记忆】将'collision'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "squash",
       "pos": "v./n.",
-      "meaning": "压扁；壁球"
+      "meaning": "压扁；壁球",
+      "tips": "【联想记忆】将'squash'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fragment",
       "pos": "n./v.",
-      "meaning": "碎片；片段；（使）碎裂"
+      "meaning": "碎片；片段；（使）碎裂",
+      "tips": "【联想记忆】将'fragment'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cataclysmic",
       "pos": "adj.",
       "meaning": "剧变的；灾难的",
-      "example": "One can readily trace the disappearance of dinosaurs to a cataclysmic"
+      "example": "One can readily trace the disappearance of dinosaurs to a cataclysmic",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'cataclysmic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "overwhelming",
       "pos": "adj.",
-      "meaning": "压倒性的"
+      "meaning": "压倒性的",
+      "tips": "【联想记忆】将'overwhelming'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "despair",
       "pos": "v./n.",
-      "meaning": "绝望"
+      "meaning": "绝望",
+      "tips": "【联想记忆】将'despair'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "desperate",
       "pos": "adj.",
-      "meaning": "绝望的；急需要的"
+      "meaning": "绝望的；急需要的",
+      "tips": "【联想记忆】将'desperate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hopeless",
       "pos": "adj.",
-      "meaning": "无望的；极差的"
+      "meaning": "无望的；极差的",
+      "tips": "【联想记忆】将'hopeless'拆分记忆，结合词根词缀理解其含义。"
     }
   ]
 }

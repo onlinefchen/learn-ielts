@@ -5,717 +5,916 @@
     {
       "word": "photosynthesis",
       "pos": "n.",
-      "meaning": "光合作用"
+      "meaning": "光合作用",
+      "tips": "【联想记忆】将'photosynthesis'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "respire",
       "pos": "v.",
       "meaning": "呼吸",
-      "example": "|相比于 breathe 更正式，但是 breath 更常用"
+      "example": "|相比于 breathe 更正式，但是 breath 更常用",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'respire'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dioxide",
       "pos": "n.",
-      "meaning": "二氧化物"
+      "meaning": "二氧化物",
+      "tips": "【联想记忆】将'dioxide'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vegetation",
       "pos": "n.",
       "meaning": "植物；草木",
-      "example": "There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者"
+      "example": "There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者",
+      "phonetic": "/ˌvedʒəˈteɪʃn/",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'vegetation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "herb",
       "pos": "n.",
-      "meaning": "药草；香草"
+      "meaning": "药草；香草",
+      "tips": "【联想记忆】将'herb'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "perennial",
       "pos": "n./adj.",
       "meaning": "多年生植物；长期的；持久的",
-      "example": "These perennials should be planted where they can naturalize"
+      "example": "These perennials should be planted where they can naturalize",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'perennial'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "botany",
       "pos": "n.",
-      "meaning": "植物学"
+      "meaning": "植物学",
+      "tips": "【联想记忆】将'botany'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ecology",
       "pos": "n.",
-      "meaning": "生态学；生态"
+      "meaning": "生态学；生态",
+      "tips": "【联想记忆】将'ecology'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ecosystem",
       "pos": "n.",
-      "meaning": "生态系统"
+      "meaning": "生态系统",
+      "phonetic": "/ˈiːkəʊsɪstəm/",
+      "tips": "【联想记忆】将'ecosystem'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "eco-friendly",
       "pos": "adj.",
       "meaning": "对生态环境友好的",
-      "example": "Attention to eco-friendly packaging is increasing|user-friendly adj. 便于使用的"
+      "example": "Attention to eco-friendly packaging is increasing|user-friendly adj. 便于使用的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'eco-friendly'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "horticulture",
       "pos": "n.",
       "meaning": "园艺学；园艺",
-      "example": "Horticulture is the industry and science of plant cultivation"
+      "example": "Horticulture is the industry and science of plant cultivation",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'horticulture'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "organism",
       "pos": "n.",
       "meaning": "有机体；生物",
-      "example": "|organ n. 器官"
+      "example": "|organ n. 器官",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'organism'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "genetics",
       "pos": "n.",
       "meaning": "遗传学",
-      "example": "In genetics, genes were formerly called factors|gene n. 基因。genetic adj. 基因的"
+      "example": "In genetics, genes were formerly called factors|gene n. 基因。genetic adj. 基因的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'genetics'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mutation",
       "pos": "n.",
-      "meaning": "突变；变异"
+      "meaning": "突变；变异",
+      "tips": "【联想记忆】将'mutation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "variation",
       "pos": "n.",
       "meaning": "变种；变异",
-      "example": "|vary v. 变化"
+      "example": "|vary v. 变化",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'variation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "diversity",
       "pos": "n.",
-      "meaning": "多样性"
+      "meaning": "多样性",
+      "tips": "【联想记忆】将'diversity'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hybridisation/hybridization",
       "pos": "n.",
       "meaning": "杂交",
-      "example": "|hybrid car"
+      "example": "|hybrid car",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'hybridisation/hybridization'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "classify",
       "pos": "v.",
       "meaning": "分类",
-      "example": "Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的"
+      "example": "Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'classify'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "reproduce",
       "pos": "v.",
-      "meaning": "繁殖"
+      "meaning": "繁殖",
+      "tips": "【联想记忆】将'reproduce'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "evolve",
       "pos": "v.",
       "meaning": "进化；发展",
-      "example": "|evolve from 从...进化而来"
+      "example": "|evolve from 从...进化而来",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'evolve'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fluctuate",
       "pos": "v.",
-      "meaning": "波动；起伏"
+      "meaning": "波动；起伏",
+      "tips": "【联想记忆】将'fluctuate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "reclaim",
       "pos": "v.",
       "meaning": "开垦；利用",
-      "example": "This land was reclaimed from the sea"
+      "example": "This land was reclaimed from the sea",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'reclaim'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cultivate",
       "pos": "v.",
       "meaning": "耕作；培养",
-      "example": "The farmer is cultivating his land|cultivate the habit of 养成...的习惯"
+      "example": "The farmer is cultivating his land|cultivate the habit of 养成...的习惯",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'cultivate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sow",
       "pos": "v.",
-      "meaning": "播种"
+      "meaning": "播种",
+      "tips": "【联想记忆】将'sow'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "harvest",
       "pos": "v./n.",
       "meaning": "收割；收获；收成",
-      "example": "A good summer harvest is not easy to come by|at the harvest"
+      "example": "A good summer harvest is not easy to come by|at the harvest",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'harvest'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pluck",
       "pos": "v.",
       "meaning": "采；摘",
-      "example": "The pluck a rose for his lover"
+      "example": "The pluck a rose for his lover",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'pluck'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pick",
       "pos": "v.",
-      "meaning": "拾；摘"
+      "meaning": "拾；摘",
+      "tips": "【联想记忆】将'pick'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "yield",
       "pos": "v./n.",
       "meaning": "产出；屈服；服从；产量；投资收益",
-      "example": "This land yields well|yielding adj. 易弯曲的；顺从的。unyielding adj. 坚硬的；不屈不挠的"
+      "example": "This land yields well|yielding adj. 易弯曲的；顺从的。unyielding adj. 坚硬的；不屈不挠的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'yield'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rear",
       "pos": "v./n.",
       "meaning": "培养；抚养；饲养；后部",
-      "example": "Most farmer in this area rear sheep"
+      "example": "Most farmer in this area rear sheep",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'rear'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "arable",
       "pos": "adj.",
       "meaning": "适合耕种的",
-      "example": "This area changed quickly from arable land to desert"
+      "example": "This area changed quickly from arable land to desert",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'arable'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "plough/plow",
       "pos": "n./v.",
       "meaning": "犁；耕",
-      "example": "The ground was ploughed/plowed and planted with corn"
+      "example": "The ground was ploughed/plowed and planted with corn",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'plough/plow'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spade",
       "pos": "n.",
       "meaning": "铲；锹",
-      "example": "He bought a new spade"
+      "example": "He bought a new spade",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'spade'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rake",
       "pos": "n./v.",
       "meaning": "耙子；耙；搜索",
-      "example": "With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱"
+      "example": "With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'rake'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stack",
       "pos": "n./v.",
       "meaning": "堆；垛；堆积",
-      "example": "I have a stack of homework to do|委婉的拒绝别人：I have stack of things to do. My friend has a stack of money that his is raking it in"
+      "example": "I have a stack of homework to do|委婉的拒绝别人：I have stack of things to do. My friend has a stack of money that his is raking it in",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'stack'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "heap",
       "pos": "n.",
       "meaning": "（大而杂乱的）堆",
-      "example": "A heap of clothes was lying in the corner"
+      "example": "A heap of clothes was lying in the corner",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'heap'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bundle",
       "pos": "n.",
       "meaning": "捆；包；束",
-      "example": "He collected a bundle of sticks"
+      "example": "He collected a bundle of sticks",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'bundle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bunch",
       "pos": "n.",
       "meaning": "一束（花）；一串（钥匙）",
-      "example": "I bought a bunch of lilacs 我买了一束丁香花|I'm sorry. I have a bunch of work to do 礼貌的回绝"
+      "example": "I bought a bunch of lilacs 我买了一束丁香花|I'm sorry. I have a bunch of work to do 礼貌的回绝",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'bunch'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vase",
       "pos": "n.",
       "meaning": "瓶；花瓶",
-      "example": "This flaw makes the vase less valable"
+      "example": "This flaw makes the vase less valable",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'vase'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sunlight",
       "pos": "n.",
-      "meaning": "阳光"
+      "meaning": "阳光",
+      "tips": "【联想记忆】将'sunlight'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "short-day",
       "pos": "adj.",
       "meaning": "短日照的",
-      "example": "Soybean is a typical short-day corp 大豆是典型的短日照作物"
+      "example": "Soybean is a typical short-day corp 大豆是典型的短日照作物",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'short-day'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "shade-tolerant",
       "pos": "adj.",
-      "meaning": "耐阴的"
+      "meaning": "耐阴的",
+      "tips": "【联想记忆】将'shade-tolerant'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fungus",
       "pos": "n.",
-      "meaning": "真菌"
+      "meaning": "真菌",
+      "tips": "【联想记忆】将'fungus'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mould/mold",
       "pos": "n./v.",
       "meaning": "霉菌/发霉",
-      "example": "The walls were black with mould"
+      "example": "The walls were black with mould",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'mould/mold'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pollen",
       "pos": "n./v.",
       "meaning": "花粉；给...授粉",
-      "example": "Each spring, pollen from nearby plants is blown into the water"
+      "example": "Each spring, pollen from nearby plants is blown into the water",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'pollen'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "germinate",
       "pos": "v.",
       "meaning": "发芽",
-      "example": "Warmth is needed for the seeds to germinate"
+      "example": "Warmth is needed for the seeds to germinate",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'germinate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "seed",
       "pos": "n.",
       "meaning": "种子",
-      "example": "The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种"
+      "example": "The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'seed'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "burgeon",
       "pos": "n./v.",
-      "meaning": "嫩枝；新芽/极速生长；发芽；抽枝"
+      "meaning": "嫩枝；新芽/极速生长；发芽；抽枝",
+      "tips": "【联想记忆】将'burgeon'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bud",
       "pos": "n.",
       "meaning": "芽；苞；蓓蕾",
-      "example": "The rose are in bud|break out into bud 发芽。buddy=bud 老兄"
+      "example": "The rose are in bud|break out into bud 发芽。buddy=bud 老兄",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'bud'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "flower",
       "pos": "n./v.",
-      "meaning": "花；开花植物/成熟；繁荣；开花"
+      "meaning": "花；开花植物/成熟；繁荣；开花",
+      "tips": "【联想记忆】将'flower'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "blossom",
       "pos": "v./n.",
       "meaning": "开花；花朵",
-      "example": "The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。"
+      "example": "The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'blossom'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bloom",
       "pos": "n.",
       "meaning": "花朵",
-      "example": "The apple trees are out of bloom"
+      "example": "The apple trees are out of bloom",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'bloom'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "scent",
       "pos": "n./v.",
       "meaning": "气味；香味；使具有香味",
-      "example": "The flower scents the air"
+      "example": "The flower scents the air",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'scent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "aromatic",
       "pos": "adj.",
       "meaning": "芳香的",
-      "example": "Aromatic plants are often used in cooking"
+      "example": "Aromatic plants are often used in cooking",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'aromatic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ripen",
       "pos": "v.",
       "meaning": "使成熟",
-      "example": "The sun ripens the corn|ripe adj. 熟的。ripener n. 催熟剂。Is this fruit ripe? 这个果子熟了么？"
+      "example": "The sun ripens the corn|ripe adj. 熟的。ripener n. 催熟剂。Is this fruit ripe? 这个果子熟了么？",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'ripen'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fruit",
       "pos": "v.",
       "meaning": "结果实",
-      "example": "The apple trees fruited early this year"
+      "example": "The apple trees fruited early this year",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'fruit'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "wither",
       "pos": "v.",
       "meaning": "（使）枯萎",
-      "example": "The grapes withered on the vine|withered adj. 凋谢了的；枯萎的"
+      "example": "The grapes withered on the vine|withered adj. 凋谢了的；枯萎的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'wither'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "decompose",
       "pos": "v.",
       "meaning": "分解；腐烂",
-      "example": "You can apply heat to decompose organic compounds 你可以加热来分解有机化合物"
+      "example": "You can apply heat to decompose organic compounds 你可以加热来分解有机化合物",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'decompose'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rot",
       "pos": "v./n.",
-      "meaning": "使腐烂；使腐坏；腐烂"
+      "meaning": "使腐烂；使腐坏；腐烂",
+      "tips": "【联想记忆】将'rot'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "decay",
       "pos": "v.",
-      "meaning": "腐烂"
+      "meaning": "腐烂",
+      "tips": "【联想记忆】将'decay'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stale",
       "pos": "adj.",
-      "meaning": "不新鲜的；没有新意的；陈腐的"
+      "meaning": "不新鲜的；没有新意的；陈腐的",
+      "tips": "【联想记忆】将'stale'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rainforest",
       "pos": "n.",
-      "meaning": "雨林"
+      "meaning": "雨林",
+      "tips": "【联想记忆】将'rainforest'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "jungle",
       "pos": "n.",
-      "meaning": "丛林"
+      "meaning": "丛林",
+      "tips": "【联想记忆】将'jungle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "plantation",
       "pos": "n.",
-      "meaning": "种植园"
+      "meaning": "种植园",
+      "tips": "【联想记忆】将'plantation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "field",
       "pos": "n.",
-      "meaning": "原野；场地；野外"
+      "meaning": "原野；场地；野外",
+      "tips": "【联想记忆】将'field'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "terrace",
       "pos": "n.",
-      "meaning": "梯田"
+      "meaning": "梯田",
+      "tips": "【联想记忆】将'terrace'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "timber",
       "pos": "n.",
-      "meaning": "木材；木料；林木"
+      "meaning": "木材；木料；林木",
+      "tips": "【联想记忆】将'timber'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "charcoal",
       "pos": "n.",
-      "meaning": "木炭"
+      "meaning": "木炭",
+      "tips": "【联想记忆】将'charcoal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "log",
       "pos": "n.",
-      "meaning": "原木；日志"
+      "meaning": "原木；日志",
+      "tips": "【联想记忆】将'log'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "logo",
       "pos": "n.",
-      "meaning": "标识；徽标"
+      "meaning": "标识；徽标",
+      "tips": "【联想记忆】将'logo'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "forestry",
       "pos": "n.",
-      "meaning": "林学；林业"
+      "meaning": "林学；林业",
+      "tips": "【联想记忆】将'forestry'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "branch",
       "pos": "n.",
-      "meaning": "树枝；分支机构；分店"
+      "meaning": "树枝；分支机构；分店",
+      "tips": "【联想记忆】将'branch'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "trunk",
       "pos": "n.",
-      "meaning": "树干；躯干；大箱子"
+      "meaning": "树干；躯干；大箱子",
+      "tips": "【联想记忆】将'trunk'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bough",
       "pos": "n.",
       "meaning": "大树枝",
-      "example": "The window of his car was broken by a bough during last night's storm"
+      "example": "The window of his car was broken by a bough during last night's storm",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'bough'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "root",
       "pos": "n./v.",
       "meaning": "根；使生根",
-      "example": "|root cause 根本原因"
+      "example": "|root cause 根本原因",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'root'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hay",
       "pos": "n.",
       "meaning": "干草",
-      "example": "Make hay with sun shines|hit the hay 上床睡觉"
+      "example": "Make hay with sun shines|hit the hay 上床睡觉",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'hay'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "straw",
       "pos": "n.",
       "meaning": "稻草；麦秆；吸管",
-      "example": "This hat is made of straw"
+      "example": "This hat is made of straw",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'straw'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "reed",
       "pos": "n.",
       "meaning": "芦苇",
-      "example": "The roof is made of dried reed"
+      "example": "The roof is made of dried reed",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'reed'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "thorn",
       "pos": "n.",
       "meaning": "刺；荆棘",
-      "example": "She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺"
+      "example": "She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'thorn'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "weed",
       "pos": "n.",
-      "meaning": "杂草"
+      "meaning": "杂草",
+      "tips": "【联想记忆】将'weed'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "grass",
       "pos": "n.",
-      "meaning": "草；草地"
+      "meaning": "草；草地",
+      "tips": "【联想记忆】将'grass'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "meadow",
       "pos": "n.",
-      "meaning": "草地；牧草"
+      "meaning": "草地；牧草",
+      "tips": "【联想记忆】将'meadow'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "lawn",
       "pos": "n.",
       "meaning": "草地；草坪",
-      "example": "My mother asked me to mow the lawn"
+      "example": "My mother asked me to mow the lawn",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'lawn'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "olive",
       "pos": "n.",
       "meaning": "橄榄；橄榄树",
-      "example": "The olive branch is the emblem of peace. 橄榄枝是和平的象征"
+      "example": "The olive branch is the emblem of peace. 橄榄枝是和平的象征",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'olive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pine",
       "pos": "n.",
-      "meaning": "松树；松木"
+      "meaning": "松树；松木",
+      "tips": "【联想记忆】将'pine'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vine",
       "pos": "n.",
-      "meaning": "葡萄藤"
+      "meaning": "葡萄藤",
+      "tips": "【联想记忆】将'vine'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "violet",
       "pos": "n.",
-      "meaning": "紫罗兰"
+      "meaning": "紫罗兰",
+      "tips": "【联想记忆】将'violet'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tulip",
       "pos": "n.",
-      "meaning": "郁金香"
+      "meaning": "郁金香",
+      "tips": "【联想记忆】将'tulip'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mint",
       "pos": "n./v.",
       "meaning": "薄荷；铸币厂/铸造（硬币）",
-      "example": "We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖"
+      "example": "We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'mint'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "reef",
       "pos": "n.",
       "meaning": "暗礁",
-      "example": "The ship was wrecked on a reef. 这船触礁失事了"
+      "example": "The ship was wrecked on a reef. 这船触礁失事了",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'reef'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "alga",
       "pos": "n.",
       "meaning": "海藻",
-      "example": "Some of the algae are edible|algal adj. 海藻的。algae 复数形式"
+      "example": "Some of the algae are edible|algal adj. 海藻的。algae 复数形式",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'alga'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "enzyme",
       "pos": "n.",
-      "meaning": "酶"
+      "meaning": "酶",
+      "tips": "【联想记忆】将'enzyme'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "catalyst",
       "pos": "n.",
       "meaning": "催化剂；促进因素",
-      "example": "A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂"
+      "example": "A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'catalyst'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "release",
       "pos": "v./n.",
-      "meaning": "释放；发布"
+      "meaning": "释放；发布",
+      "tips": "【联想记忆】将'release'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "emission",
       "pos": "n.",
       "meaning": "排放；散发；排放物",
-      "example": "This conference aims to reduce carbon emissions or greenhouse gas emissions around this world"
+      "example": "This conference aims to reduce carbon emissions or greenhouse gas emissions around this world",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'emission'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "absorb",
       "pos": "v.",
-      "meaning": "吸收；吸引全部注意力"
+      "meaning": "吸收；吸引全部注意力",
+      "tips": "【联想记忆】将'absorb'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "circulation",
       "pos": "n.",
       "meaning": "流通；循环；流传",
-      "example": "Sea surface temperature and atmospheric circulation are strongly coupled"
+      "example": "Sea surface temperature and atmospheric circulation are strongly coupled",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'circulation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "exceed",
       "pos": "v.",
       "meaning": "超出",
-      "example": "The driver exceeds the speed limit|exceed expectation 意料之外"
+      "example": "The driver exceeds the speed limit|exceed expectation 意料之外",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'exceed'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "uptake",
       "pos": "n.",
       "meaning": "摄取；领会",
-      "example": "The doctor advised me to reduce the salt uptake"
+      "example": "The doctor advised me to reduce the salt uptake",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'uptake'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "nutrient",
       "pos": "n.",
       "meaning": "营养物质",
-      "example": "The nutrient in the soil acts as a stimulus to growth in plants|nutrition n. 营养"
+      "example": "The nutrient in the soil acts as a stimulus to growth in plants|nutrition n. 营养",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'nutrient'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "energy",
       "pos": "n.",
-      "meaning": "能源；精力"
+      "meaning": "能源；精力",
+      "tips": "【联想记忆】将'energy'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "surroundings",
       "pos": "n.",
-      "meaning": "环境可与environment互换"
+      "meaning": "环境可与environment互换",
+      "tips": "【联想记忆】将'surroundings'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mechanism",
       "pos": "n.",
       "meaning": "机制；构造",
-      "example": "Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分"
+      "example": "Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'mechanism'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "counterbalance",
       "pos": "n./v.",
-      "meaning": "其平衡作用的事物；抵消；对...起平衡作用"
+      "meaning": "其平衡作用的事物；抵消；对...起平衡作用",
+      "tips": "【联想记忆】将'counterbalance'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "protect",
       "pos": "v.",
-      "meaning": "保护"
+      "meaning": "保护",
+      "tips": "【联想记忆】将'protect'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "preserve",
       "pos": "v.",
-      "meaning": "保护；维持；保存"
+      "meaning": "保护；维持；保存",
+      "tips": "【联想记忆】将'preserve'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "conservation",
       "pos": "n.",
       "meaning": "（对自然环境的）保护；保存",
-      "example": "Some accommodation between conservation and tourism is essential. 对自然环境的保护和旅游业之前的相互协调是至关重要的 —— accommodation 除了有住宿还有和解协调的意思|conversation n. 交谈"
+      "example": "Wildlife conservation efforts have successfully brought several species back from the brink of extinction.",
+      "phonetic": "/ˌkɒnsəˈveɪʃn/",
+      "example_translation": "野生动物保护工作已经成功地将几个物种从灭绝边缘拯救回来。",
+      "tips": "【词根记忆】con(共同) + serv(保持) + ation → 共同保持 → 保护。联想：preserve(保存)、reserve(保留)都含有serv。"
     },
     {
       "word": "bush fire",
       "pos": "n.",
-      "meaning": "林区大火"
+      "meaning": "林区大火",
+      "tips": "【联想记忆】将'bush fire'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "extinguish",
       "pos": "v.",
       "meaning": "扑灭（火）；使（想法；感情等）破灭",
-      "example": "They tried every means to extinguish the fire"
+      "example": "They tried every means to extinguish the fire",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'extinguish'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "destruct",
       "pos": "v.",
-      "meaning": "（使）自毁"
+      "meaning": "（使）自毁",
+      "tips": "【联想记忆】将'destruct'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ruin",
       "pos": "v./n.",
-      "meaning": "毁坏；摧毁；毁灭；废墟"
+      "meaning": "毁坏；摧毁；毁灭；废墟",
+      "tips": "【联想记忆】将'ruin'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "perish",
       "pos": "v.",
       "meaning": "毁灭；消亡；腐烂",
-      "example": "Flowers perish when frost comes"
+      "example": "Flowers perish when frost comes",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'perish'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "demolish",
       "pos": "v.",
       "meaning": "毁坏；拆除；推翻",
-      "example": "The fire demolished the town"
+      "example": "The fire demolished the town",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'demolish'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "infringe",
       "pos": "v.",
       "meaning": "侵犯；违反",
-      "example": "The press infringed a copyright agreement"
+      "example": "The press infringed a copyright agreement",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'infringe'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "undermine",
       "pos": "v.",
-      "meaning": "破坏；逐渐削弱"
+      "meaning": "破坏；逐渐削弱",
+      "tips": "【联想记忆】将'undermine'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "extinction",
       "pos": "n.",
       "meaning": "灭绝",
-      "example": "|extinct adj. 已灭绝的"
+      "example": "Scientists warn that we are currently experiencing the sixth mass extinction event in Earth's history.",
+      "phonetic": "/ɪkˈstɪŋkʃn/",
+      "example_translation": "科学家警告说，我们目前正在经历地球历史上第六次大规模灭绝事件。",
+      "tips": "【词根记忆】ex(出) + tinct(刺、灭) + ion → 完全熄灭 → 灭绝。联想：extinct volcano(死火山)，都表示完全消失。"
     },
     {
       "word": "pattern",
       "pos": "n.",
-      "meaning": "模式；样式；底样"
+      "meaning": "模式；样式；底样",
+      "tips": "【联想记忆】将'pattern'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "outcome",
       "pos": "n.",
       "meaning": "结果",
-      "example": "We are anxiously awaiting the outcome of their discussion"
+      "example": "We are anxiously awaiting the outcome of their discussion",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'outcome'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "impact",
       "pos": "n.",
-      "meaning": "影响"
+      "meaning": "影响",
+      "tips": "【联想记忆】将'impact'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "seasonal",
       "pos": "adj.",
-      "meaning": "季节性的"
+      "meaning": "季节性的",
+      "tips": "【联想记忆】将'seasonal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "experimental",
       "pos": "adj.",
-      "meaning": "实验性的"
+      "meaning": "实验性的",
+      "tips": "【联想记忆】将'experimental'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "favourable/favorable",
       "pos": "adj.",
-      "meaning": "有利的；赞成的；肯定的"
+      "meaning": "有利的；赞成的；肯定的",
+      "tips": "【联想记忆】将'favourable/favorable'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "productive",
       "pos": "adj.",
-      "meaning": "多产的"
+      "meaning": "多产的",
+      "tips": "【联想记忆】将'productive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "effective",
       "pos": "adj.",
-      "meaning": "有效的"
+      "meaning": "有效的",
+      "tips": "【联想记忆】将'effective'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "efficient",
       "pos": "adj.",
-      "meaning": "效率高的"
+      "meaning": "效率高的",
+      "tips": "【联想记忆】将'efficient'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "considerable",
       "pos": "adj.",
-      "meaning": "相当多的"
+      "meaning": "相当多的",
+      "tips": "【联想记忆】将'considerable'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "massive",
       "pos": "adj.",
-      "meaning": "巨大的；大规模的；庞大的"
+      "meaning": "巨大的；大规模的；庞大的",
+      "tips": "【联想记忆】将'massive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "immense",
       "pos": "adj.",
-      "meaning": "巨大的；极好的"
+      "meaning": "巨大的；极好的",
+      "tips": "【联想记忆】将'immense'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "maximal",
       "pos": "adj.",
-      "meaning": "最大的"
+      "meaning": "最大的",
+      "tips": "【联想记忆】将'maximal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "minimal",
       "pos": "adj.",
-      "meaning": "最小的"
+      "meaning": "最小的",
+      "tips": "【联想记忆】将'minimal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "optimal/optimum",
       "pos": "adj.",
-      "meaning": "最佳的；最理想的"
+      "meaning": "最佳的；最理想的",
+      "tips": "【联想记忆】将'optimal/optimum'拆分记忆，结合词根词缀理解其含义。"
     }
   ]
 }

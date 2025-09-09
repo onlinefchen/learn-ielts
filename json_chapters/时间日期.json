@@ -5,268 +5,326 @@
     {
       "word": "daily",
       "pos": "adj./n.",
-      "meaning": "每日的/日报"
+      "meaning": "每日的/日报",
+      "tips": "【联想记忆】将'daily'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "monthly",
       "pos": "adj./adv./n.",
-      "meaning": "每月的/每月一次/月刊"
+      "meaning": "每月的/每月一次/月刊",
+      "tips": "【联想记忆】将'monthly'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "quarterly",
       "pos": "adj./adv./n.",
-      "meaning": "季度的/按季度地/季刊"
+      "meaning": "季度的/按季度地/季刊",
+      "tips": "【联想记忆】将'quarterly'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "annual",
       "pos": "adj./n.",
-      "meaning": "每年的；一年的/年报"
+      "meaning": "每年的；一年的/年报",
+      "tips": "【联想记忆】将'annual'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "yearly",
       "pos": "adj./adv.",
-      "meaning": "每年的；一年的/每年地"
+      "meaning": "每年的；一年的/每年地",
+      "tips": "【联想记忆】将'yearly'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "anniversary",
       "pos": "n.",
-      "meaning": "周年纪念日"
+      "meaning": "周年纪念日",
+      "tips": "【联想记忆】将'anniversary'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "era",
       "pos": "n.",
-      "meaning": "时代；年代；纪元"
+      "meaning": "时代；年代；纪元",
+      "tips": "【联想记忆】将'era'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "present",
       "pos": "adj./n.",
-      "meaning": "现在的/目前；礼物；赠送物"
+      "meaning": "现在的/目前；礼物；赠送物",
+      "tips": "【联想记忆】将'present'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "contemporary",
       "pos": "adj.",
       "meaning": "当代的；同时代的",
-      "example": "These clothes are more contemporary and wearable"
+      "example": "These clothes are more contemporary and wearable",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'contemporary'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "medieval",
       "pos": "adj.",
-      "meaning": "中世纪的；守旧的"
+      "meaning": "中世纪的；守旧的",
+      "tips": "【联想记忆】将'medieval'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "century",
       "pos": "n.",
-      "meaning": "世纪；百年"
+      "meaning": "世纪；百年",
+      "tips": "【联想记忆】将'century'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "millennium",
       "pos": "n.",
-      "meaning": "一千年；千年期；千禧年"
+      "meaning": "一千年；千年期；千禧年",
+      "tips": "【联想记忆】将'millennium'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "million",
       "pos": "num.",
-      "meaning": "百万；大量"
+      "meaning": "百万；大量",
+      "tips": "【联想记忆】将'million'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "billion",
       "pos": "num.",
-      "meaning": "十亿；大量"
+      "meaning": "十亿；大量",
+      "tips": "【联想记忆】将'billion'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dozen",
       "pos": "n.",
-      "meaning": "一打；十二个；十来个"
+      "meaning": "一打；十二个；十来个",
+      "tips": "【联想记忆】将'dozen'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dawn",
       "pos": "n./v.",
-      "meaning": "黎明；开端/破晓"
+      "meaning": "黎明；开端/破晓",
+      "tips": "【联想记忆】将'dawn'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "midday",
       "pos": "n.",
-      "meaning": "正午；中午"
+      "meaning": "正午；中午",
+      "tips": "【联想记忆】将'midday'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "midnight",
       "pos": "n.",
-      "meaning": "午夜；子夜；半夜"
+      "meaning": "午夜；子夜；半夜",
+      "tips": "【联想记忆】将'midnight'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "overnight",
       "pos": "adv.",
-      "meaning": "在晚上；突然；一夜之间"
+      "meaning": "在晚上；突然；一夜之间",
+      "tips": "【联想记忆】将'overnight'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "night",
       "pos": "n.",
-      "meaning": "夜；夜间；晚上；夜场"
+      "meaning": "夜；夜间；晚上；夜场",
+      "tips": "【联想记忆】将'night'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "modern",
       "pos": "adj.",
-      "meaning": "现代的；近代的"
+      "meaning": "现代的；近代的",
+      "tips": "【联想记忆】将'modern'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "recent",
       "pos": "adj.",
-      "meaning": "最近的"
+      "meaning": "最近的",
+      "tips": "【联想记忆】将'recent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "up-to-date",
       "pos": "adj.",
-      "meaning": "直到目前的；现代的"
+      "meaning": "直到目前的；现代的",
+      "tips": "【联想记忆】将'up-to-date'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "first",
       "pos": "ord./adv.",
-      "meaning": "第一/最初"
+      "meaning": "第一/最初",
+      "tips": "【联想记忆】将'first'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "secondly",
       "pos": "adv.",
-      "meaning": "第二；其次"
+      "meaning": "第二；其次",
+      "tips": "【联想记忆】将'secondly'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "finally",
       "pos": "adv.",
-      "meaning": "最后；终于；决定性地"
+      "meaning": "最后；终于；决定性地",
+      "tips": "【联想记忆】将'finally'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "finish",
       "pos": "v./n.",
-      "meaning": "完成；结束/结尾；最后部分"
+      "meaning": "完成；结束/结尾；最后部分",
+      "tips": "【联想记忆】将'finish'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "immediately",
       "pos": "adv.",
-      "meaning": "立即；直接地"
+      "meaning": "立即；直接地",
+      "tips": "【联想记忆】将'immediately'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "instant",
       "pos": "n./adj.",
-      "meaning": "瞬间；立即的"
+      "meaning": "瞬间；立即的",
+      "tips": "【联想记忆】将'instant'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "moment",
       "pos": "n.",
-      "meaning": "片刻；时刻"
+      "meaning": "片刻；时刻",
+      "tips": "【联想记忆】将'moment'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "minute",
       "pos": "n./adj.",
-      "meaning": "分；分钟；一会儿/细微的"
+      "meaning": "分；分钟；一会儿/细微的",
+      "tips": "【联想记忆】将'minute'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "prior",
       "pos": "adj.",
-      "meaning": "在先的；在前的"
+      "meaning": "在先的；在前的",
+      "tips": "【联想记忆】将'prior'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "former",
       "pos": "adj./pron.",
-      "meaning": "以前的；前者的/前者"
+      "meaning": "以前的；前者的/前者",
+      "tips": "【联想记忆】将'former'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "preceding",
       "pos": "adj.",
-      "meaning": "在前的；在先的"
+      "meaning": "在前的；在先的",
+      "tips": "【联想记忆】将'preceding'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "precedent",
       "pos": "n.",
       "meaning": "先例；常规",
-      "example": "They were determined to break with precedent|unprecedented adj. 史无前例的；绝无仅有的"
+      "example": "They were determined to break with precedent|unprecedented adj. 史无前例的；绝无仅有的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'precedent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "foremost",
       "pos": "adj.",
-      "meaning": "最前的；最重要的"
+      "meaning": "最前的；最重要的",
+      "tips": "【联想记忆】将'foremost'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "opening",
       "pos": "adj./n.",
-      "meaning": "开始的/开始；开端"
+      "meaning": "开始的/开始；开端",
+      "tips": "【联想记忆】将'opening'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "initially",
       "pos": "adv.",
-      "meaning": "最初"
+      "meaning": "最初",
+      "tips": "【联想记忆】将'initially'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "intermediate",
       "pos": "adj.",
-      "meaning": "中间的"
+      "meaning": "中间的",
+      "tips": "【联想记忆】将'intermediate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "midst",
       "pos": "n.",
-      "meaning": "中部；中间"
+      "meaning": "中部；中间",
+      "tips": "【联想记忆】将'midst'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "meantime",
       "pos": "n.",
-      "meaning": "[in the ~]其间；同时/[for the ~]眼下；暂时"
+      "meaning": "[in the ~]其间；同时/[for the ~]眼下；暂时",
+      "tips": "【联想记忆】将'meantime'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "meanwhile",
       "pos": "adv.",
-      "meaning": "同时；其间"
+      "meaning": "同时；其间",
+      "tips": "【联想记忆】将'meanwhile'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "simultaneous",
       "pos": "adj.",
-      "meaning": "同时发生（或进行）的"
+      "meaning": "同时发生（或进行）的",
+      "tips": "【联想记忆】将'simultaneous'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ongoing",
       "pos": "adj.",
-      "meaning": "进行中的；继续存在的"
+      "meaning": "进行中的；继续存在的",
+      "tips": "【联想记忆】将'ongoing'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "everlasting",
       "pos": "adj.",
       "meaning": "永恒的",
-      "example": "The man told the women that he loved her with an everlasting love"
+      "example": "The man told the women that he loved her with an everlasting love",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'everlasting'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "permanent",
       "pos": "adj.",
-      "meaning": "永久的"
+      "meaning": "永久的",
+      "tips": "【联想记忆】将'permanent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "punctual",
       "pos": "adj.",
-      "meaning": "准时的；守时的"
+      "meaning": "准时的；守时的",
+      "tips": "【联想记忆】将'punctual'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "duration",
       "pos": "n.",
-      "meaning": "持续时间；期间"
+      "meaning": "持续时间；期间",
+      "tips": "【联想记忆】将'duration'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "consecutive",
       "pos": "adj.",
-      "meaning": "连续不断的"
+      "meaning": "连续不断的",
+      "tips": "【联想记忆】将'consecutive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "periodically",
       "pos": "adv.",
       "meaning": "周期性地；定期地",
-      "example": "Sea mammals must emerge periodically to breath"
+      "example": "Sea mammals must emerge periodically to breath",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'periodically'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "imminent",
       "pos": "adj.",
       "meaning": "（尤指不愉快的事）即将发生的；逼近的",
-      "example": "They are unaware of the imminent danger."
+      "example": "They are unaware of the imminent danger.",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'imminent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "incidentally",
       "pos": "adv.",
       "meaning": "偶然地；顺便提一句",
-      "example": "Incidentally, here's good news for you"
+      "example": "Incidentally, here's good news for you",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'incidentally'拆分记忆，结合词根词缀理解其含义。"
     }
   ]
 }

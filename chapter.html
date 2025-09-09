@@ -223,6 +223,9 @@
                 
                 if (word.example) {
                     wordHtml += `<p class="word-example">例句: ${word.example}</p>`;
+                    if (word.example_translation && word.example_translation !== "[需要翻译]") {
+                        wordHtml += `<p class="word-example-translation">翻译: ${word.example_translation}</p>`;
+                    }
                 }
                 
                 if (word.note) {

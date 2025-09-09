@@ -359,6 +359,17 @@ h1 {
     line-height: 1.5;
 }
 
+.word-example-translation {
+    font-size: 13px;
+    color: #4a5568;
+    padding: 8px 10px;
+    background: #edf2f7;
+    border-left: 3px solid #a0aec0;
+    margin: 5px 0 10px 0;
+    line-height: 1.4;
+    font-style: italic;
+}
+
 .word-note {
     font-size: 14px;
     color: #975aa6;

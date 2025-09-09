@@ -5,914 +5,1126 @@
     {
       "word": "medium",
       "pos": "n./adj.",
-      "meaning": "媒介；中间的；中等的"
+      "meaning": "媒介；中间的；中等的",
+      "tips": "【联想记忆】将'medium'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "press",
       "pos": "n.",
-      "meaning": "新闻界；记者；报刊；出版社"
+      "meaning": "新闻界；记者；报刊；出版社",
+      "tips": "【联想记忆】将'press'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "journalist",
       "pos": "n.",
-      "meaning": "记者；新闻工作者"
+      "meaning": "记者；新闻工作者",
+      "tips": "【联想记忆】将'journalist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "critic",
       "pos": "n.",
       "meaning": "批评家；挑剔的人",
-      "example": "|critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人"
+      "example": "|critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'critic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "commentator",
       "pos": "n.",
-      "meaning": "评论员；实况解说员"
+      "meaning": "评论员；实况解说员",
+      "tips": "【联想记忆】将'commentator'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "exponent",
       "pos": "n.",
-      "meaning": "阐述者；倡导者；拥护者"
+      "meaning": "阐述者；倡导者；拥护者",
+      "tips": "【联想记忆】将'exponent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "announcer",
       "pos": "n.",
-      "meaning": "广播员；播音员"
+      "meaning": "广播员；播音员",
+      "tips": "【联想记忆】将'announcer'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "correspondent",
       "pos": "n.",
-      "meaning": "通信者；通讯员；记者"
+      "meaning": "通信者；通讯员；记者",
+      "tips": "【联想记忆】将'correspondent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "messenger",
       "pos": "n.",
-      "meaning": "邮递员；信使"
+      "meaning": "邮递员；信使",
+      "tips": "【联想记忆】将'messenger'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "editor",
       "pos": "n.",
-      "meaning": "编辑；校订者"
+      "meaning": "编辑；校订者",
+      "tips": "【联想记忆】将'editor'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "typist",
       "pos": "n.",
-      "meaning": "打字员"
+      "meaning": "打字员",
+      "tips": "【联想记忆】将'typist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "handout",
       "pos": "n.",
-      "meaning": "传单；讲义"
+      "meaning": "传单；讲义",
+      "tips": "【联想记忆】将'handout'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "leaflet",
       "pos": "n./v.",
-      "meaning": "传单；散发传单"
+      "meaning": "传单；散发传单",
+      "tips": "【联想记忆】将'leaflet'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "propaganda",
       "pos": "n.",
-      "meaning": "宣传；鼓吹"
+      "meaning": "宣传；鼓吹",
+      "tips": "【联想记忆】将'propaganda'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "publish",
       "pos": "v.",
-      "meaning": "公布；出版；发行"
+      "meaning": "公布；出版；发行",
+      "tips": "【联想记忆】将'publish'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "disseminate",
       "pos": "v.",
-      "meaning": "散布；传播"
+      "meaning": "散布；传播",
+      "tips": "【联想记忆】将'disseminate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "foresee",
       "pos": "v.",
-      "meaning": "预见；预知"
+      "meaning": "预见；预知",
+      "tips": "【联想记忆】将'foresee'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "anticipate",
       "pos": "v.",
       "meaning": "预期；预料",
-      "example": "|participate v. 参与"
+      "example": "|participate v. 参与",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'anticipate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "expect",
       "pos": "v.",
       "meaning": "预料；期待",
-      "example": "|expectation n. 期待；期望"
+      "example": "|expectation n. 期待；期望",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'expect'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "await",
       "pos": "v.",
-      "meaning": "等候；期待；将降临到...身上"
+      "meaning": "等候；期待；将降临到...身上",
+      "tips": "【联想记忆】将'await'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pastime",
       "pos": "n.",
-      "meaning": "娱乐；消遣"
+      "meaning": "娱乐；消遣",
+      "tips": "【联想记忆】将'pastime'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "entertain",
       "pos": "v.",
       "meaning": "娱乐；招待；心存；怀有",
-      "example": "|entertainment n. 娱乐；消遣；款待"
+      "example": "|entertainment n. 娱乐；消遣；款待",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'entertain'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "recreation",
       "pos": "n.",
       "meaning": "休闲；娱乐",
-      "example": "|a recreation ground 公共娱乐场"
+      "example": "|a recreation ground 公共娱乐场",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'recreation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "amuse",
       "pos": "v.",
       "meaning": "逗乐；给...提供娱乐",
-      "example": "|amuse oneself 自娱自乐"
+      "example": "|amuse oneself 自娱自乐",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'amuse'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "gossip",
       "pos": "n.",
-      "meaning": "闲聊；流言蜚语"
+      "meaning": "闲聊；流言蜚语",
+      "tips": "【联想记忆】将'gossip'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rumour/rumor",
       "pos": "n.",
-      "meaning": "谣言；传闻"
+      "meaning": "谣言；传闻",
+      "tips": "【联想记忆】将'rumour/rumor'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "consensus",
       "pos": "n.",
-      "meaning": "共识；一致的意见"
+      "meaning": "共识；一致的意见",
+      "tips": "【联想记忆】将'consensus'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "festival",
       "pos": "n.",
-      "meaning": "节日"
+      "meaning": "节日",
+      "tips": "【联想记忆】将'festival'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "feast",
       "pos": "n.",
-      "meaning": "盛宴；（宗教）节日"
+      "meaning": "盛宴；（宗教）节日",
+      "tips": "【联想记忆】将'feast'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "programme/program",
       "pos": "n./v.",
       "meaning": "节目；方案；程序；为系统设置程序；计划",
-      "example": "|programmer n. 程序设计员"
+      "example": "|programmer n. 程序设计员",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'programme/program'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rehearsal",
       "pos": "n.",
-      "meaning": "排练"
+      "meaning": "排练",
+      "tips": "【联想记忆】将'rehearsal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "perform",
       "pos": "v.",
-      "meaning": "表演；演出"
+      "meaning": "表演；演出",
+      "tips": "【联想记忆】将'perform'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "imitate",
       "pos": "v.",
-      "meaning": "模仿；效仿"
+      "meaning": "模仿；效仿",
+      "tips": "【联想记忆】将'imitate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mimic",
       "pos": "v.",
-      "meaning": "模仿；戏仿"
+      "meaning": "模仿；戏仿",
+      "tips": "【联想记忆】将'mimic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "simulate",
       "pos": "v.",
       "meaning": "模拟；假装；冒充",
-      "example": "|simulative adj. 模拟的；假装的"
+      "example": "|simulative adj. 模拟的；假装的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'simulate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "circus",
       "pos": "n.",
       "meaning": "马戏团；圆形广场（常用于地名）",
-      "example": "|a circus clown 马戏团小丑"
+      "example": "|a circus clown 马戏团小丑",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'circus'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "magic",
       "pos": "n.",
-      "meaning": "魔术；魔法"
+      "meaning": "魔术；魔法",
+      "tips": "【联想记忆】将'magic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "drama",
       "pos": "n.",
-      "meaning": "戏；剧；戏剧艺术"
+      "meaning": "戏；剧；戏剧艺术",
+      "tips": "【联想记忆】将'drama'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "concert",
       "pos": "n.",
       "meaning": "音乐会",
-      "example": "|musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作"
+      "example": "|musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'concert'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "symphony",
       "pos": "n.",
-      "meaning": "交响乐"
+      "meaning": "交响乐",
+      "tips": "【联想记忆】将'symphony'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "orchestra",
       "pos": "n.",
-      "meaning": "管弦乐队"
+      "meaning": "管弦乐队",
+      "tips": "【联想记忆】将'orchestra'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ballet",
       "pos": "n.",
-      "meaning": "芭蕾舞；芭蕾舞剧"
+      "meaning": "芭蕾舞；芭蕾舞剧",
+      "tips": "【联想记忆】将'ballet'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "opera",
       "pos": "n.",
-      "meaning": "歌剧"
+      "meaning": "歌剧",
+      "tips": "【联想记忆】将'opera'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "comedy",
       "pos": "n.",
-      "meaning": "喜剧"
+      "meaning": "喜剧",
+      "tips": "【联想记忆】将'comedy'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tragedy",
       "pos": "n.",
-      "meaning": "悲剧；悲惨的事"
+      "meaning": "悲剧；悲惨的事",
+      "tips": "【联想记忆】将'tragedy'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "animation",
       "pos": "n.",
-      "meaning": "动画片；动画制作"
+      "meaning": "动画片；动画制作",
+      "tips": "【联想记忆】将'animation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "film",
       "pos": "n.",
-      "meaning": "影片；胶卷"
+      "meaning": "影片；胶卷",
+      "tips": "【联想记忆】将'film'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "movie",
       "pos": "n.",
-      "meaning": "电影"
+      "meaning": "电影",
+      "tips": "【联想记忆】将'movie'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "X-rated",
       "pos": "adj.",
-      "meaning": "X级的；青少年不宜的"
+      "meaning": "X级的；青少年不宜的",
+      "tips": "【联想记忆】将'X-rated'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "artist",
       "pos": "n.",
-      "meaning": "艺术家"
+      "meaning": "艺术家",
+      "tips": "【联想记忆】将'artist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "craftsman",
       "pos": "n.",
-      "meaning": "工匠；工艺师"
+      "meaning": "工匠；工艺师",
+      "tips": "【联想记忆】将'craftsman'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "painter",
       "pos": "n.",
-      "meaning": "画家；油漆匠"
+      "meaning": "画家；油漆匠",
+      "tips": "【联想记忆】将'painter'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "role",
       "pos": "n.",
-      "meaning": "角色"
+      "meaning": "角色",
+      "tips": "【联想记忆】将'role'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "scene",
       "pos": "n.",
-      "meaning": "景色；现场；（戏剧的）场面"
+      "meaning": "景色；现场；（戏剧的）场面",
+      "tips": "【联想记忆】将'scene'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stage",
       "pos": "n.",
       "meaning": "舞台；阶段",
-      "example": "|the stage 戏剧演出"
+      "example": "|the stage 戏剧演出",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'stage'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "gallery",
       "pos": "n.",
-      "meaning": "美术馆"
+      "meaning": "美术馆",
+      "tips": "【联想记忆】将'gallery'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "exhibition",
       "pos": "n.",
-      "meaning": "展览"
+      "meaning": "展览",
+      "tips": "【联想记忆】将'exhibition'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "aesthetic/esthetic",
       "pos": "adj./n.",
-      "meaning": "审美的；审美观"
+      "meaning": "审美的；审美观",
+      "tips": "【联想记忆】将'aesthetic/esthetic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "collect",
       "pos": "v.",
-      "meaning": "收集；收藏"
+      "meaning": "收集；收藏",
+      "tips": "【联想记忆】将'collect'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "select",
       "pos": "v./adj.",
-      "meaning": "选择；挑选；精选的"
+      "meaning": "选择；挑选；精选的",
+      "tips": "【联想记忆】将'select'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "opt",
       "pos": "v.",
       "meaning": "选择",
-      "example": "|option n. 选择；选择权。 opt for sth. 选择某事物"
+      "example": "|option n. 选择；选择权。 opt for sth. 选择某事物",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'opt'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "photograph",
       "pos": "n.",
-      "meaning": "照片；相片"
+      "meaning": "照片；相片",
+      "tips": "【联想记忆】将'photograph'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "portrait",
       "pos": "n.",
-      "meaning": "肖像；半身画像"
+      "meaning": "肖像；半身画像",
+      "tips": "【联想记忆】将'portrait'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "painting",
       "pos": "n.",
-      "meaning": "油画；会话；画作；涂漆"
+      "meaning": "油画；会话；画作；涂漆",
+      "tips": "【联想记忆】将'painting'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sculpture",
       "pos": "n.",
-      "meaning": "雕塑"
+      "meaning": "雕塑",
+      "tips": "【联想记忆】将'sculpture'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "draw",
       "pos": "v.",
-      "meaning": "画；拉；拔出"
+      "meaning": "画；拉；拔出",
+      "tips": "【联想记忆】将'draw'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sketch",
       "pos": "n./v.",
-      "meaning": "素描；草图；速写；画素描；画速写"
+      "meaning": "素描；草图；速写；画素描；画速写",
+      "tips": "【联想记忆】将'sketch'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "depict",
       "pos": "v.",
-      "meaning": "描述；描写；描绘"
+      "meaning": "描述；描写；描绘",
+      "tips": "【联想记忆】将'depict'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "describe",
       "pos": "v.",
-      "meaning": "描述；形容"
+      "meaning": "描述；形容",
+      "tips": "【联想记忆】将'describe'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "carve",
       "pos": "v.",
-      "meaning": "雕刻；切下"
+      "meaning": "雕刻；切下",
+      "tips": "【联想记忆】将'carve'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "improvise",
       "pos": "v.",
       "meaning": "临时做；即兴创作",
-      "example": "|improvisation n. 即兴创作"
+      "example": "|improvisation n. 即兴创作",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'improvise'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "musical",
       "pos": "adj.",
-      "meaning": "音乐的；悦耳的"
+      "meaning": "音乐的；悦耳的",
+      "tips": "【联想记忆】将'musical'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "classical",
       "pos": "adj.",
-      "meaning": "古典的；传统的"
+      "meaning": "古典的；传统的",
+      "tips": "【联想记忆】将'classical'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "jazz",
       "pos": "n.",
-      "meaning": "爵士乐"
+      "meaning": "爵士乐",
+      "tips": "【联想记忆】将'jazz'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rock",
       "pos": "n.",
-      "meaning": "摇滚乐；岩石"
+      "meaning": "摇滚乐；岩石",
+      "tips": "【联想记忆】将'rock'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hip-hop",
       "pos": "n.",
-      "meaning": "嘻哈文化"
+      "meaning": "嘻哈文化",
+      "tips": "【联想记忆】将'hip-hop'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pop",
       "pos": "n.",
-      "meaning": "流行音乐；流行乐曲"
+      "meaning": "流行音乐；流行乐曲",
+      "tips": "【联想记忆】将'pop'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "lyric",
       "pos": "n./adj.",
-      "meaning": "抒情诗；抒情的"
+      "meaning": "抒情诗；抒情的",
+      "tips": "【联想记忆】将'lyric'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "band",
       "pos": "n.",
-      "meaning": "乐队；带；波段"
+      "meaning": "乐队；带；波段",
+      "tips": "【联想记忆】将'band'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "solo",
       "pos": "n./adj.",
-      "meaning": "独奏；独唱；独奏的；独唱的"
+      "meaning": "独奏；独唱；独奏的；独唱的",
+      "tips": "【联想记忆】将'solo'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "melody",
       "pos": "n.",
-      "meaning": "乐曲；旋律"
+      "meaning": "乐曲；旋律",
+      "tips": "【联想记忆】将'melody'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rhythm",
       "pos": "n.",
       "meaning": "节奏；韵律",
-      "example": "I can't dance to music without good rhythm"
+      "example": "I can't dance to music without good rhythm",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'rhythm'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tone",
       "pos": "n.",
-      "meaning": "音色；声调；腔调"
+      "meaning": "音色；声调；腔调",
+      "tips": "【联想记忆】将'tone'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tune",
       "pos": "n./v.",
-      "meaning": "曲调；短乐曲；调试"
+      "meaning": "曲调；短乐曲；调试",
+      "tips": "【联想记忆】将'tune'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "disc/disk",
       "pos": "n.",
-      "meaning": "光碟；唱片；磁盘"
+      "meaning": "光碟；唱片；磁盘",
+      "tips": "【联想记忆】将'disc/disk'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "piano",
       "pos": "n.",
-      "meaning": "钢琴"
+      "meaning": "钢琴",
+      "tips": "【联想记忆】将'piano'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "violin",
       "pos": "n.",
-      "meaning": "小提琴"
+      "meaning": "小提琴",
+      "tips": "【联想记忆】将'violin'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cello",
       "pos": "n.",
-      "meaning": "大提琴"
+      "meaning": "大提琴",
+      "tips": "【联想记忆】将'cello'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "guitar",
       "pos": "n.",
-      "meaning": "吉他"
+      "meaning": "吉他",
+      "tips": "【联想记忆】将'guitar'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "harmonica",
       "pos": "n.",
-      "meaning": "口琴"
+      "meaning": "口琴",
+      "tips": "【联想记忆】将'harmonica'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "trumpet",
       "pos": "n.",
-      "meaning": "喇叭；小号"
+      "meaning": "喇叭；小号",
+      "tips": "【联想记忆】将'trumpet'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "drum",
       "pos": "n.",
-      "meaning": "鼓；鼓状物；大桶"
+      "meaning": "鼓；鼓状物；大桶",
+      "tips": "【联想记忆】将'drum'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "flute",
       "pos": "n.",
-      "meaning": "长笛"
+      "meaning": "长笛",
+      "tips": "【联想记忆】将'flute'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "competition",
       "pos": "n.",
       "meaning": "竞争；比赛",
-      "example": "|compete v. 竞争。competitor n. 竞争者"
+      "example": "|compete v. 竞争。competitor n. 竞争者",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'competition'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tournament",
       "pos": "n.",
-      "meaning": "锦标赛；联赛"
+      "meaning": "锦标赛；联赛",
+      "tips": "【联想记忆】将'tournament'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "Olympic",
       "pos": "adj./n.",
-      "meaning": "奥林匹克运动会"
+      "meaning": "奥林匹克运动会",
+      "tips": "【联想记忆】将'Olympic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sponsor",
       "pos": "n./v.",
-      "meaning": "发起人；主办人；赞助人。发起；主办；赞助"
+      "meaning": "发起人；主办人；赞助人。发起；主办；赞助",
+      "tips": "【联想记忆】将'sponsor'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "patron",
       "pos": "n.",
-      "meaning": "赞助人；顾客；老主顾"
+      "meaning": "赞助人；顾客；老主顾",
+      "tips": "【联想记忆】将'patron'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "athlete",
       "pos": "n.",
-      "meaning": "运动员"
+      "meaning": "运动员",
+      "tips": "【联想记忆】将'athlete'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "champion",
       "pos": "n./v.",
-      "meaning": "冠军；第一名；拥护；支持"
+      "meaning": "冠军；第一名；拥护；支持",
+      "tips": "【联想记忆】将'champion'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spectator",
       "pos": "n.",
-      "meaning": "观众"
+      "meaning": "观众",
+      "tips": "【联想记忆】将'spectator'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "volunteer",
       "pos": "n./v.",
-      "meaning": "志愿者；自愿做"
+      "meaning": "志愿者；自愿做",
+      "tips": "【联想记忆】将'volunteer'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "famous",
       "pos": "adj.",
       "meaning": "著名的；出名的",
-      "example": "|fame n. 名声。be famous for 以...闻名"
+      "example": "|fame n. 名声。be famous for 以...闻名",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'famous'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "well-known",
       "pos": "adj.",
-      "meaning": "众所周知的；出名的"
+      "meaning": "众所周知的；出名的",
+      "tips": "【联想记忆】将'well-known'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "energetic",
       "pos": "adj.",
-      "meaning": "充满活力的；精力充沛的"
+      "meaning": "充满活力的；精力充沛的",
+      "tips": "【联想记忆】将'energetic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vigorous",
       "pos": "adj.",
-      "meaning": "充满活力的；活跃的；积极的"
+      "meaning": "充满活力的；活跃的；积极的",
+      "tips": "【联想记忆】将'vigorous'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stadium",
       "pos": "n.",
-      "meaning": "体育场；运动场"
+      "meaning": "体育场；运动场",
+      "tips": "【联想记忆】将'stadium'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "gym",
       "pos": "n.",
-      "meaning": "体育馆；运动场"
+      "meaning": "体育馆；运动场",
+      "tips": "【联想记忆】将'gym'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "training",
       "pos": "n.",
-      "meaning": "训练；锻炼；培训"
+      "meaning": "训练；锻炼；培训",
+      "tips": "【联想记忆】将'training'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "exercise",
       "pos": "n./v.",
-      "meaning": "锻炼；运动；习题；练习。锻炼"
+      "meaning": "锻炼；运动；习题；练习。锻炼",
+      "tips": "【联想记忆】将'exercise'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "indoor",
       "pos": "adj.",
       "meaning": "室内的",
-      "example": "|indoors adv. 在室内"
+      "example": "|indoors adv. 在室内",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'indoor'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "outdoor",
       "pos": "adj.",
-      "meaning": "户外的；室外的"
+      "meaning": "户外的；室外的",
+      "tips": "【联想记忆】将'outdoor'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "motion",
       "pos": "v.",
-      "meaning": "做动作；示意"
+      "meaning": "做动作；示意",
+      "tips": "【联想记忆】将'motion'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mobile",
       "pos": "adj.",
-      "meaning": "可移动的；流动的"
+      "meaning": "可移动的；流动的",
+      "tips": "【联想记忆】将'mobile'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "movement",
       "pos": "n.",
-      "meaning": "活动；运动；移动"
+      "meaning": "活动；运动；移动",
+      "tips": "【联想记忆】将'movement'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "yoga",
       "pos": "n.",
-      "meaning": "瑜伽"
+      "meaning": "瑜伽",
+      "tips": "【联想记忆】将'yoga'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sprawl",
       "pos": "n./v.",
-      "meaning": "延伸；蔓延。（城市）杂乱无序扩张的地区"
+      "meaning": "延伸；蔓延。（城市）杂乱无序扩张的地区",
+      "tips": "【联想记忆】将'sprawl'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stretch",
       "pos": "v.",
-      "meaning": "延伸；伸长"
+      "meaning": "延伸；伸长",
+      "tips": "【联想记忆】将'stretch'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "strain",
       "pos": "v./n.",
-      "meaning": "拉紧；拉伤；扭伤。张力；拉力；（精神上）紧张"
+      "meaning": "拉紧；拉伤；扭伤。张力；拉力；（精神上）紧张",
+      "tips": "【联想记忆】将'strain'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "chess",
       "pos": "n.",
-      "meaning": "国际象棋"
+      "meaning": "国际象棋",
+      "tips": "【联想记忆】将'chess'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "badminton",
       "pos": "n.",
-      "meaning": "羽毛球"
+      "meaning": "羽毛球",
+      "tips": "【联想记忆】将'badminton'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "golf",
       "pos": "n.",
-      "meaning": "高尔夫球"
+      "meaning": "高尔夫球",
+      "tips": "【联想记忆】将'golf'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "billiards",
       "pos": "n.",
-      "meaning": "台球"
+      "meaning": "台球",
+      "tips": "【联想记忆】将'billiards'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "soccer",
       "pos": "n.",
-      "meaning": "（英式）足球"
+      "meaning": "（英式）足球",
+      "tips": "【联想记忆】将'soccer'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tennis",
       "pos": "n.",
-      "meaning": "网球"
+      "meaning": "网球",
+      "tips": "【联想记忆】将'tennis'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "volleyball",
       "pos": "n.",
-      "meaning": "排球"
+      "meaning": "排球",
+      "tips": "【联想记忆】将'volleyball'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hockey",
       "pos": "n.",
-      "meaning": "曲棍球；冰球"
+      "meaning": "曲棍球；冰球",
+      "tips": "【联想记忆】将'hockey'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cricket",
       "pos": "n.",
-      "meaning": "板球"
+      "meaning": "板球",
+      "tips": "【联想记忆】将'cricket'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "goal",
       "pos": "n.",
-      "meaning": "球门；进球得分；目的"
+      "meaning": "球门；进球得分；目的",
+      "tips": "【联想记忆】将'goal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bat",
       "pos": "n.",
-      "meaning": "球拍；球棒；球板"
+      "meaning": "球拍；球棒；球板",
+      "tips": "【联想记忆】将'bat'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "racket",
       "pos": "n.",
-      "meaning": "（网球、羽毛球）球拍"
+      "meaning": "（网球、羽毛球）球拍",
+      "tips": "【联想记忆】将'racket'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "kick",
       "pos": "n./v.",
-      "meaning": "踢"
+      "meaning": "踢",
+      "tips": "【联想记忆】将'kick'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "knock",
       "pos": "v.",
-      "meaning": "敲；击；撞"
+      "meaning": "敲；击；撞",
+      "tips": "【联想记忆】将'knock'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "flip",
       "pos": "v./n.",
-      "meaning": "掷；快速翻转。随便的；宽泛的"
+      "meaning": "掷；快速翻转。随便的；宽泛的",
+      "tips": "【联想记忆】将'flip'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pitch",
       "pos": "v./n.",
       "meaning": "投；掷；球场；（棒球中的）投球",
-      "example": "She pitched the ball as far as she could|invade the pitch 涌进球场。throw a pitch 投球"
+      "example": "She pitched the ball as far as she could|invade the pitch 涌进球场。throw a pitch 投球",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'pitch'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "throw",
       "pos": "v.",
-      "meaning": "投；掷；抛；扔"
+      "meaning": "投；掷；抛；扔",
+      "tips": "【联想记忆】将'throw'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "toss",
       "pos": "v.",
-      "meaning": "扔；抛；掷；（使）颠簸"
+      "meaning": "扔；抛；掷；（使）颠簸",
+      "tips": "【联想记忆】将'toss'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "slide",
       "pos": "v./n.",
-      "meaning": "滑动；逐渐降低；滑行；下跌"
+      "meaning": "滑动；逐渐降低；滑行；下跌",
+      "tips": "【联想记忆】将'slide'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "slip",
       "pos": "v./n.",
       "meaning": "滑跤；滑落；溜；滑到",
-      "example": "She slipped and fell down the stairs|a slip of the tongue 口误；失言"
+      "example": "She slipped and fell down the stairs|a slip of the tongue 口误；失言",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'slip'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "glide",
       "pos": "v./n.",
-      "meaning": "滑动；掠过；滑行"
+      "meaning": "滑动；掠过；滑行",
+      "tips": "【联想记忆】将'glide'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tumble",
       "pos": "v.",
-      "meaning": "摔倒；滚下"
+      "meaning": "摔倒；滚下",
+      "tips": "【联想记忆】将'tumble'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ski",
       "pos": "v./n.",
-      "meaning": "滑雪；滑雪板"
+      "meaning": "滑雪；滑雪板",
+      "tips": "【联想记忆】将'ski'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "skate",
       "pos": "v.",
-      "meaning": "滑冰"
+      "meaning": "滑冰",
+      "tips": "【联想记忆】将'skate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cycling",
       "pos": "n.",
-      "meaning": "骑自行车运动"
+      "meaning": "骑自行车运动",
+      "tips": "【联想记忆】将'cycling'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dive",
       "pos": "v.",
-      "meaning": "跳水；潜水；俯冲"
+      "meaning": "跳水；潜水；俯冲",
+      "tips": "【联想记忆】将'dive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "drift",
       "pos": "v.",
       "meaning": "飘逸；漂流；流浪；漂泊",
-      "example": "|drift from one country to another 从一国流浪到另一国"
+      "example": "|drift from one country to another 从一国流浪到另一国",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'drift'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "jump",
       "pos": "v.",
       "meaning": "跳；暴涨；跳过",
-      "example": "|from the jump 从一开始"
+      "example": "|from the jump 从一开始",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'jump'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "leap",
       "pos": "v./n.",
-      "meaning": "跳；跃；跳跃"
+      "meaning": "跳；跃；跳跃",
+      "tips": "【联想记忆】将'leap'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "plunge",
       "pos": "v./n.",
       "meaning": "纵身投入；猛跌；（使）投身。跳水；猛跌",
-      "example": "|plunge whole-heartedly 全心全意的投入"
+      "example": "|plunge whole-heartedly 全心全意的投入",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'plunge'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spring",
       "pos": "v./n.",
-      "meaning": "跳；跃"
+      "meaning": "跳；跃",
+      "tips": "【联想记忆】将'spring'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hop",
       "pos": "v.",
-      "meaning": "跳上/下；单脚跳行；齐足跳行"
+      "meaning": "跳上/下；单脚跳行；齐足跳行",
+      "tips": "【联想记忆】将'hop'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bounce",
       "pos": "v.",
-      "meaning": "（使）反弹/弹起/跳动"
+      "meaning": "（使）反弹/弹起/跳动",
+      "tips": "【联想记忆】将'bounce'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tent",
       "pos": "n.",
-      "meaning": "帐篷"
+      "meaning": "帐篷",
+      "tips": "【联想记忆】将'tent'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "camp",
       "pos": "n.",
-      "meaning": "营地；阵营"
+      "meaning": "营地；阵营",
+      "tips": "【联想记忆】将'camp'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "picnic",
       "pos": "n./v.",
       "meaning": "野餐；野餐食物",
-      "example": "|go for a picnic"
+      "example": "|go for a picnic",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'picnic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hunt",
       "pos": "v./n.",
       "meaning": "打猎；搜寻；猎取",
-      "example": "|hunter n. 猎人。hunt for 寻找"
+      "example": "|hunter n. 猎人。hunt for 寻找",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'hunt'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "race",
       "pos": "n.",
-      "meaning": "赛跑；速度竞赛；人种；种族"
+      "meaning": "赛跑；速度竞赛；人种；种族",
+      "tips": "【联想记忆】将'race'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "marathon",
       "pos": "n.",
-      "meaning": "马拉松"
+      "meaning": "马拉松",
+      "tips": "【联想记忆】将'marathon'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pedestrian",
       "pos": "n.",
       "meaning": "步行者；行人",
-      "example": "In the accident a pedestrian and a cyclist were injured|a pedestrian crossing 人形横道"
+      "example": "In the accident a pedestrian and a cyclist were injured|a pedestrian crossing 人形横道",
+      "phonetic": "/pəˈdestriən/",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'pedestrian'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pace",
       "pos": "n./v.",
-      "meaning": "步速；速度；步调；节奏；来回踱步"
+      "meaning": "步速；速度；步调；节奏；来回踱步",
+      "tips": "【联想记忆】将'pace'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "step",
       "pos": "n.",
       "meaning": "步伐；步骤",
-      "example": "|footstep n. 脚步声；足迹。step by step 一步一步；逐步"
+      "example": "|footstep n. 脚步声；足迹。step by step 一步一步；逐步",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'step'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "excursion",
       "pos": "n.",
-      "meaning": "远足；短程旅行"
+      "meaning": "远足；短程旅行",
+      "phonetic": "/ɪkˈskɜːʃn/",
+      "tips": "【联想记忆】将'excursion'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cruise",
       "pos": "v.",
       "meaning": "乘船游览；以平稳的速度行驶",
-      "example": "|cruiser n. 巡洋舰；舱式游艇；巡逻警车"
+      "example": "|cruiser n. 巡洋舰；舱式游艇；巡逻警车",
+      "phonetic": "/kruːz/",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'cruise'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "trip",
       "pos": "v./n.",
-      "meaning": "绊倒；旅行"
+      "meaning": "绊倒；旅行",
+      "phonetic": "/trɪp/",
+      "tips": "【联想记忆】将'trip'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vacation",
       "pos": "v./n.",
-      "meaning": "休假；假期"
+      "meaning": "休假；假期",
+      "tips": "【联想记忆】将'vacation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hike",
       "pos": "n./v.",
-      "meaning": "徒步旅行；远足"
+      "meaning": "徒步旅行；远足",
+      "tips": "【联想记忆】将'hike'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "jog",
       "pos": "v.",
       "meaning": "慢跑",
-      "example": "|jogger n. 慢跑锻炼的人。jogging n. 慢跑"
+      "example": "|jogger n. 慢跑锻炼的人。jogging n. 慢跑",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'jog'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stride",
       "pos": "v.",
       "meaning": "大步走；阔步行走",
-      "example": "They are strading forward both in English and in Mathematics"
+      "example": "They are strading forward both in English and in Mathematics",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'stride'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "wander",
       "pos": "v.",
-      "meaning": "闲逛；漫步；走神；开小差"
+      "meaning": "闲逛；漫步；走神；开小差",
+      "tips": "【联想记忆】将'wander'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "linger",
       "pos": "v.",
       "meaning": "逗留；流连；继续存留",
-      "example": "We linger at the beach whole summer"
+      "example": "We linger at the beach whole summer",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'linger'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "lag",
       "pos": "v./n.",
       "meaning": "落后；间隔；时间差",
-      "example": "|lag behind sb./sth. 落后于某人/某物"
+      "example": "|lag behind sb./sth. 落后于某人/某物",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'lag'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "climb",
       "pos": "v.",
-      "meaning": "攀登；爬"
+      "meaning": "攀登；爬",
+      "tips": "【联想记忆】将'climb'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pull",
       "pos": "v.",
-      "meaning": "拉；拖；扯；划（小船）"
+      "meaning": "拉；拖；扯；划（小船）",
+      "tips": "【联想记忆】将'pull'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "drag",
       "pos": "v.",
-      "meaning": "拖；拉；拽"
+      "meaning": "拖；拉；拽",
+      "tips": "【联想记忆】将'drag'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bend",
       "pos": "v.",
-      "meaning": "俯身；弯腰；使弯曲"
+      "meaning": "俯身；弯腰；使弯曲",
+      "tips": "【联想记忆】将'bend'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bow",
       "pos": "v./n.",
       "meaning": "鞠躬",
-      "example": "|take a bow"
+      "example": "|take a bow",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'bow'拆分记忆，结合词根词缀理解其含义。"
     }
   ]
 }

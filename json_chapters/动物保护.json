@@ -5,885 +5,1116 @@
     {
       "word": "biologist",
       "pos": "n.",
-      "meaning": "生物学家"
+      "meaning": "生物学家",
+      "tips": "【联想记忆】将'biologist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "zoologist",
       "pos": "n.",
-      "meaning": "动物学家"
+      "meaning": "动物学家",
+      "tips": "【联想记忆】将'zoologist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ecologist",
       "pos": "n.",
-      "meaning": "生态学家"
+      "meaning": "生态学家",
+      "tips": "【联想记忆】将'ecologist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "botanist",
       "pos": "n.",
-      "meaning": "植物学家"
+      "meaning": "植物学家",
+      "tips": "【联想记忆】将'botanist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mammal",
       "pos": "n.",
-      "meaning": "哺乳动物"
+      "meaning": "哺乳动物",
+      "phonetic": "/ˈmæml/",
+      "tips": "【联想记忆】将'mammal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "primate",
       "pos": "n.",
-      "meaning": "灵长动物"
+      "meaning": "灵长动物",
+      "tips": "【联想记忆】将'primate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vertebrate",
       "pos": "n.",
-      "meaning": "脊椎动物"
+      "meaning": "脊椎动物",
+      "tips": "【联想记忆】将'vertebrate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "reptile",
       "pos": "n.",
-      "meaning": "爬行动物"
+      "meaning": "爬行动物",
+      "phonetic": "/ˈreptaɪl/",
+      "tips": "【联想记忆】将'reptile'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "amphibian",
       "pos": "n./adj.",
-      "meaning": "两栖动物/两栖的"
+      "meaning": "两栖动物/两栖的",
+      "phonetic": "/æmˈfɪbiən/",
+      "tips": "【联想记忆】将'amphibian'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "carnivore",
       "pos": "n.",
-      "meaning": "肉食动物"
+      "meaning": "肉食动物",
+      "phonetic": "/ˈkɑːnɪvɔː(r)/",
+      "tips": "【联想记忆】将'carnivore'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "herbivore",
       "pos": "n.",
-      "meaning": "食草动物"
+      "meaning": "食草动物",
+      "phonetic": "/ˈhɜːbɪvɔː(r)/",
+      "tips": "【联想记忆】将'herbivore'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "creature",
       "pos": "n.",
-      "meaning": "生物；动物"
+      "meaning": "生物；动物",
+      "phonetic": "/ˈkriːtʃə(r)/",
+      "tips": "【联想记忆】将'creature'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "wildlife",
       "pos": "n.",
-      "meaning": "野生动我"
+      "meaning": "野生动我",
+      "phonetic": "/ˈwaɪldlaɪf/",
+      "tips": "【联想记忆】将'wildlife'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fauna",
       "pos": "n.",
       "meaning": "（尤指某一地区的）动物群",
-      "example": "The park is also home to grizzly bears, and other Rocky Mountain faunas"
+      "example": "The park is also home to grizzly bears, and other Rocky Mountain faunas",
+      "phonetic": "/ˈfɔːnə/",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'fauna'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "flora",
       "pos": "n.",
-      "meaning": "（尤指某一地区的）植物群"
+      "meaning": "（尤指某一地区的）植物群",
+      "phonetic": "/ˈflɔːrə/",
+      "tips": "【联想记忆】将'flora'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "species",
       "pos": "n.",
-      "meaning": "物种"
+      "meaning": "物种",
+      "phonetic": "/ˈspiːʃiːz/",
+      "tips": "【联想记忆】将'species'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "flock",
       "pos": "n./v.",
       "meaning": "（羊或鸟）群/聚集",
-      "example": "Sheep usually flock together"
+      "example": "Sheep usually flock together",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'flock'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "herd",
       "pos": "n.",
       "meaning": "兽群；畜群",
-      "example": "The herdsman looks after a herd of animals"
+      "example": "The herdsman looks after a herd of animals",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'herd'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "swarm",
       "pos": "n.",
-      "meaning": "（蜜蜂昆虫的）一大群；（快速移动的）人群"
+      "meaning": "（蜜蜂昆虫的）一大群；（快速移动的）人群",
+      "tips": "【联想记忆】将'swarm'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "throng",
       "pos": "n./v.",
-      "meaning": "人群/群集"
+      "meaning": "人群/群集",
+      "tips": "【联想记忆】将'throng'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "crowd",
       "pos": "n.",
-      "meaning": "人群；观众；一群人"
+      "meaning": "人群；观众；一群人",
+      "tips": "【联想记忆】将'crowd'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "beast",
       "pos": "n.",
-      "meaning": "野兽；凶残的人；畜生"
+      "meaning": "野兽；凶残的人；畜生",
+      "tips": "【联想记忆】将'beast'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "brute",
       "pos": "n.",
       "meaning": "粗野的人；残忍的人",
-      "example": "We all want punish the brute"
+      "example": "We all want punish the brute",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'brute'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cruel",
       "pos": "adj.",
-      "meaning": "残忍的；残暴的"
+      "meaning": "残忍的；残暴的",
+      "tips": "【联想记忆】将'cruel'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "originate",
       "pos": "v.",
-      "meaning": "发源；来自；创始"
+      "meaning": "发源；来自；创始",
+      "tips": "【联想记忆】将'originate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "derive",
       "pos": "v.",
       "meaning": "得到；（使）源自",
-      "example": "I derived a lot of pleasure from meeting new people at college|derive from/be derived from 源自；来自"
+      "example": "I derived a lot of pleasure from meeting new people at college|derive from/be derived from 源自；来自",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'derive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stem",
       "pos": "v./n.",
       "meaning": "起源于；来自/茎；梗",
-      "example": "Correct decisions stem from correct judgments|stem from 源自；起源于"
+      "example": "Correct decisions stem from correct judgments|stem from 源自；起源于",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'stem'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ancestor",
       "pos": "n.",
-      "meaning": "祖宗；祖先"
+      "meaning": "祖宗；祖先",
+      "tips": "【联想记忆】将'ancestor'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "descendant",
       "pos": "n./adj.",
-      "meaning": "后裔；后代/下降的"
+      "meaning": "后裔；后代/下降的",
+      "tips": "【联想记忆】将'descendant'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "offspring",
       "pos": "n.",
-      "meaning": "后代；子孙；产物"
+      "meaning": "后代；子孙；产物",
+      "phonetic": "/ˈɒfsprɪŋ/",
+      "tips": "【联想记忆】将'offspring'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "subgroup",
       "pos": "n.",
       "meaning": "子群",
-      "example": "According to a subgroup analysis, violence produce more violence"
+      "example": "According to a subgroup analysis, violence produce more violence",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'subgroup'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "feed",
       "pos": "v.",
-      "meaning": "供养；喂养；进食"
+      "meaning": "供养；喂养；进食",
+      "tips": "【联想记忆】将'feed'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "breed",
       "pos": "v./n.",
-      "meaning": "饲养；繁殖/品种"
+      "meaning": "饲养；繁殖/品种",
+      "tips": "【联想记忆】将'breed'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "interbreed",
       "pos": "v.",
-      "meaning": "（使）品种杂交"
+      "meaning": "（使）品种杂交",
+      "tips": "【联想记忆】将'interbreed'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hybridize/hybridise",
       "pos": "v.",
-      "meaning": "（使）杂交"
+      "meaning": "（使）杂交",
+      "tips": "【联想记忆】将'hybridize/hybridise'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "proliferate",
       "pos": "v.",
-      "meaning": "迅速增殖；剧增"
+      "meaning": "迅速增殖；剧增",
+      "tips": "【联想记忆】将'proliferate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sterility",
       "pos": "n.",
       "meaning": "不生育",
-      "example": "This disease causes sterility in both males and females"
+      "example": "This disease causes sterility in both males and females",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'sterility'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mate",
       "pos": "v./n.",
-      "meaning": "交配/配偶"
+      "meaning": "交配/配偶",
+      "tips": "【联想记忆】将'mate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "courtship",
       "pos": "n.",
-      "meaning": "求偶"
+      "meaning": "求偶",
+      "tips": "【联想记忆】将'courtship'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "lay",
       "pos": "v.",
       "meaning": "产；放置；铺设",
-      "example": "They lay eggs from the July to the middle of August"
+      "example": "They lay eggs from the July to the middle of August",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'lay'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hatch",
       "pos": "v./n.",
-      "meaning": "孵化"
+      "meaning": "孵化",
+      "tips": "【联想记忆】将'hatch'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "brood",
       "pos": "n./v.",
       "meaning": "一窝幼鸟；孵（蛋）",
-      "example": "The bird was trying to find food for its brood"
+      "example": "The bird was trying to find food for its brood",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'brood'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spawn",
       "pos": "n./v.",
-      "meaning": "（鱼、蛙的）卵；产卵；引起"
+      "meaning": "（鱼、蛙的）卵；产卵；引起",
+      "tips": "【联想记忆】将'spawn'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mature",
       "pos": "adj./v.",
       "meaning": "成熟的；成熟",
-      "example": "You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的"
+      "example": "You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'mature'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "skin",
       "pos": "n.",
-      "meaning": "皮肤"
+      "meaning": "皮肤",
+      "tips": "【联想记忆】将'skin'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "claw",
       "pos": "n./v.",
-      "meaning": "爪；钳；鳌；爪状物/抓；挠；撕"
+      "meaning": "爪；钳；鳌；爪状物/抓；挠；撕",
+      "tips": "【联想记忆】将'claw'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "paw",
       "pos": "n.",
-      "meaning": "（动物的）脚掌；爪子"
+      "meaning": "（动物的）脚掌；爪子",
+      "tips": "【联想记忆】将'paw'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "beak",
       "pos": "n.",
-      "meaning": "鸟嘴；喙"
+      "meaning": "鸟嘴；喙",
+      "tips": "【联想记忆】将'beak'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fin",
       "pos": "n.",
-      "meaning": "鳍"
+      "meaning": "鳍",
+      "tips": "【联想记忆】将'fin'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "wing",
       "pos": "n.",
-      "meaning": "翅膀"
+      "meaning": "翅膀",
+      "tips": "【联想记忆】将'wing'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "plume",
       "pos": "n.",
-      "meaning": "羽毛"
+      "meaning": "羽毛",
+      "tips": "【联想记忆】将'plume'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "feather",
       "pos": "n.",
       "meaning": "羽毛",
-      "example": "|\"plume\" 更强调装饰性和华丽，而 \"feather\" 则更通用，用于描述鸟类的普通羽毛"
+      "example": "|\"plume\" 更强调装饰性和华丽，而 \"feather\" 则更通用，用于描述鸟类的普通羽毛",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'feather'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fur",
       "pos": "n.",
-      "meaning": "软毛；毛皮"
+      "meaning": "软毛；毛皮",
+      "tips": "【联想记忆】将'fur'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bristle",
       "pos": "n.",
-      "meaning": "鬃毛；短而硬的毛，刚毛"
+      "meaning": "鬃毛；短而硬的毛，刚毛",
+      "tips": "【联想记忆】将'bristle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "curl",
       "pos": "n./v.",
       "meaning": "卷曲；螺旋状物/（使）卷曲",
-      "example": "|\"curl\" 更强调弯曲或卷曲的动作或形状，而 \"curve\" 更倾向于描述曲线的形状或者趋势。"
+      "example": "|\"curl\" 更强调弯曲或卷曲的动作或形状，而 \"curve\" 更倾向于描述曲线的形状或者趋势。",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'curl'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "insect",
       "pos": "n.",
-      "meaning": "昆虫"
+      "meaning": "昆虫",
+      "tips": "【联想记忆】将'insect'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "worm",
       "pos": "n.",
-      "meaning": "蠕虫"
+      "meaning": "蠕虫",
+      "tips": "【联想记忆】将'worm'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pest",
       "pos": "n.",
-      "meaning": "害虫；有害动物"
+      "meaning": "害虫；有害动物",
+      "tips": "【联想记忆】将'pest'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "parasite",
       "pos": "n.",
       "meaning": "寄生虫",
-      "example": "The life of the parasite is maintained by new blood-sucking mosquitoes"
+      "example": "The life of the parasite is maintained by new blood-sucking mosquitoes",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'parasite'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "spider",
       "pos": "n.",
-      "meaning": "蜘蛛"
+      "meaning": "蜘蛛",
+      "tips": "【联想记忆】将'spider'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "butterfly",
       "pos": "n.",
-      "meaning": "蝴蝶"
+      "meaning": "蝴蝶",
+      "tips": "【联想记忆】将'butterfly'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mosquito",
       "pos": "n.",
-      "meaning": "蚊子"
+      "meaning": "蚊子",
+      "tips": "【联想记忆】将'mosquito'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cricket",
       "pos": "n.",
-      "meaning": "蟋蟀"
+      "meaning": "蟋蟀",
+      "tips": "【联想记忆】将'cricket'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "penguin",
       "pos": "n.",
-      "meaning": "企鹅"
+      "meaning": "企鹅",
+      "tips": "【联想记忆】将'penguin'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "seal",
       "pos": "n./v.",
       "meaning": "海豹；封条；图章；密封",
-      "example": "Polar bears set off in search of their favorite meal-seals"
+      "example": "Polar bears set off in search of their favorite meal-seals",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'seal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tortoise",
       "pos": "n.",
-      "meaning": "龟；陆龟"
+      "meaning": "龟；陆龟",
+      "tips": "【联想记忆】将'tortoise'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "turtle",
       "pos": "n.",
-      "meaning": "海龟"
+      "meaning": "海龟",
+      "tips": "【联想记忆】将'turtle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "whale",
       "pos": "n./v.",
-      "meaning": "鲸；捕鲸"
+      "meaning": "鲸；捕鲸",
+      "tips": "【联想记忆】将'whale'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "kangaroo",
       "pos": "n.",
-      "meaning": "袋鼠"
+      "meaning": "袋鼠",
+      "tips": "【联想记忆】将'kangaroo'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "camel",
       "pos": "n.",
-      "meaning": "骆驼"
+      "meaning": "骆驼",
+      "tips": "【联想记忆】将'camel'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "panda",
       "pos": "n.",
-      "meaning": "熊猫"
+      "meaning": "熊猫",
+      "tips": "【联想记忆】将'panda'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "elephant",
       "pos": "n.",
-      "meaning": "大象"
+      "meaning": "大象",
+      "tips": "【联想记忆】将'elephant'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "trunk",
       "pos": "n.",
       "meaning": "象鼻",
-      "example": "|这个词和植物研究那个树干是一个词"
+      "example": "|这个词和植物研究那个树干是一个词",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'trunk'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ivory",
       "pos": "n.",
       "meaning": "象牙",
-      "example": "The professor lived in an ivory tower"
+      "example": "The professor lived in an ivory tower",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'ivory'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "horn",
       "pos": "n.",
-      "meaning": "（牛羊等动物的）角；（乐器的）号"
+      "meaning": "（牛羊等动物的）角；（乐器的）号",
+      "tips": "【联想记忆】将'horn'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bear",
       "pos": "n.",
-      "meaning": "熊"
+      "meaning": "熊",
+      "tips": "【联想记忆】将'bear'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "wolf",
       "pos": "n.",
-      "meaning": "狼"
+      "meaning": "狼",
+      "tips": "【联想记忆】将'wolf'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dragon",
       "pos": "n.",
       "meaning": "龙；悍妇",
-      "example": "Dragons are describes as monsters in most western countries"
+      "example": "Dragons are describes as monsters in most western countries",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'dragon'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "fox",
       "pos": "n.",
-      "meaning": "狐狸🦊；狡猾的人"
+      "meaning": "狐狸🦊；狡猾的人",
+      "tips": "【联想记忆】将'fox'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cub",
       "pos": "n.",
       "meaning": "幼兽",
-      "example": "The cub licked the milk from its mother's breast"
+      "example": "The cub licked the milk from its mother's breast",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'cub'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "calf",
       "pos": "n.",
       "meaning": "幼兽；小牛🐂",
-      "example": "Did you see the cow with her calf"
+      "example": "Did you see the cow with her calf",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'calf'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pup",
       "pos": "n.",
       "meaning": "幼小动物",
-      "example": "I'll get you an Alsatian pup for Christmas|puppy n. 幼犬。Alsatian n. 阿尔萨斯狼狗，德国牧羊犬（同 German shepherd）"
+      "example": "I'll get you an Alsatian pup for Christmas|puppy n. 幼犬。Alsatian n. 阿尔萨斯狼狗，德国牧羊犬（同 German shepherd）",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'pup'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "lamb",
       "pos": "n.",
       "meaning": "羔羊",
-      "example": "The little lamb was caught by the wolf|a lost lamb 迷途的羔羊"
+      "example": "The little lamb was caught by the wolf|a lost lamb 迷途的羔羊",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'lamb'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cattle",
       "pos": "n.",
-      "meaning": "牛"
+      "meaning": "牛",
+      "tips": "【联想记忆】将'cattle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "ox",
       "pos": "n.",
       "meaning": "（阉割的）公牛",
-      "example": "|复数形式 oxen"
+      "example": "|复数形式 oxen",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'ox'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bull",
       "pos": "n.",
       "meaning": "公牛",
-      "example": "He was a great bull of a man"
+      "example": "He was a great bull of a man",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'bull'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "buffalo",
       "pos": "n.",
-      "meaning": "水牛；野牛"
+      "meaning": "水牛；野牛",
+      "tips": "【联想记忆】将'buffalo'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "horse",
       "pos": "n.",
-      "meaning": "马🐴"
+      "meaning": "马🐴",
+      "tips": "【联想记忆】将'horse'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "zebra",
       "pos": "n.",
-      "meaning": "斑马🦓"
+      "meaning": "斑马🦓",
+      "tips": "【联想记忆】将'zebra'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "donkey",
       "pos": "n.",
-      "meaning": "驴子"
+      "meaning": "驴子",
+      "tips": "【联想记忆】将'donkey'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "saddle",
       "pos": "n.",
       "meaning": "鞍；马鞍；车座",
-      "example": "He was putting a saddle on the horse|get into the saddle 上马"
+      "example": "He was putting a saddle on the horse|get into the saddle 上马",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'saddle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "harness",
       "pos": "n.",
       "meaning": "马具；挽具",
-      "example": "You cannot judge a horse by harness|in harness 通力合作；相互配合"
+      "example": "You cannot judge a horse by harness|in harness 通力合作；相互配合",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'harness'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "falcon",
       "pos": "n.",
-      "meaning": "隼；猎鹰"
+      "meaning": "隼；猎鹰",
+      "tips": "【联想记忆】将'falcon'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hawk",
       "pos": "n.",
-      "meaning": "鹰；隼"
+      "meaning": "鹰；隼",
+      "tips": "【联想记忆】将'hawk'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "eagle",
       "pos": "n.",
-      "meaning": "雕"
+      "meaning": "雕",
+      "tips": "【联想记忆】将'eagle'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "owl",
       "pos": "n.",
-      "meaning": "猫头鹰"
+      "meaning": "猫头鹰",
+      "tips": "【联想记忆】将'owl'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "swallow",
       "pos": "n.",
       "meaning": "燕子",
-      "example": "|和吞咽是一个词"
+      "example": "|和吞咽是一个词",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'swallow'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sparrow",
       "pos": "n.",
-      "meaning": "麻雀"
+      "meaning": "麻雀",
+      "tips": "【联想记忆】将'sparrow'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "pigeon",
       "pos": "n.",
-      "meaning": "鸽子"
+      "meaning": "鸽子",
+      "tips": "【联想记忆】将'pigeon'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "crow",
       "pos": "n.",
-      "meaning": "乌鸦"
+      "meaning": "乌鸦",
+      "tips": "【联想记忆】将'crow'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "swan",
       "pos": "n.",
-      "meaning": "天鹅"
+      "meaning": "天鹅",
+      "tips": "【联想记忆】将'swan'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "goose",
       "pos": "n.",
-      "meaning": "鹅；鹅肉"
+      "meaning": "鹅；鹅肉",
+      "tips": "【联想记忆】将'goose'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cock",
       "pos": "n.",
-      "meaning": "公鸡；雄禽"
+      "meaning": "公鸡；雄禽",
+      "tips": "【联想记忆】将'cock'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "mouse",
       "pos": "n.",
-      "meaning": "老鼠；鼠标"
+      "meaning": "老鼠；鼠标",
+      "tips": "【联想记忆】将'mouse'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rat",
       "pos": "n.",
-      "meaning": "老鼠；卑鄙的人"
+      "meaning": "老鼠；卑鄙的人",
+      "tips": "【联想记忆】将'rat'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "squirrel",
       "pos": "n.",
-      "meaning": "松鼠"
+      "meaning": "松鼠",
+      "tips": "【联想记忆】将'squirrel'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hare",
       "pos": "n.",
-      "meaning": "野兔"
+      "meaning": "野兔",
+      "tips": "【联想记忆】将'hare'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "frog",
       "pos": "n.",
-      "meaning": "青蛙"
+      "meaning": "青蛙",
+      "tips": "【联想记忆】将'frog'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "behaviour/behavior",
       "pos": "n.",
-      "meaning": "行为；活动方式"
+      "meaning": "行为；活动方式",
+      "tips": "【联想记忆】将'behaviour/behavior'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bite",
       "pos": "v./n.",
-      "meaning": "咬；（昆虫）叮；吞饵"
+      "meaning": "咬；（昆虫）叮；吞饵",
+      "tips": "【联想记忆】将'bite'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sting",
       "pos": "v./n.",
       "meaning": "刺；叮；（使）感觉刺痛；鳌针；蜇痛",
-      "example": "It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事"
+      "example": "It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'sting'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bark",
       "pos": "v./n.",
-      "meaning": "吠；大声嚷；树皮"
+      "meaning": "吠；大声嚷；树皮",
+      "tips": "【联想记忆】将'bark'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "roar",
       "pos": "n./v.",
-      "meaning": "吼叫；咆哮"
+      "meaning": "吼叫；咆哮",
+      "tips": "【联想记忆】将'roar'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "rub",
       "pos": "v./n.",
       "meaning": "擦；摩擦/困难；障碍",
-      "example": "|the ~ 问题，困难，障碍"
+      "example": "|the ~ 问题，困难，障碍",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'rub'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "creep",
       "pos": "v.",
       "meaning": "爬行；悄悄地爬行",
-      "example": "We take off our shoes and creep cautiously along the passage|creep along 沿着...爬行"
+      "example": "We take off our shoes and creep cautiously along the passage|creep along 沿着...爬行",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'creep'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "crawl",
       "pos": "v.",
-      "meaning": "爬；爬行；卑躬屈膝；巴结"
+      "meaning": "爬；爬行；卑躬屈膝；巴结",
+      "tips": "【联想记忆】将'crawl'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "habitat",
       "pos": "n.",
-      "meaning": "栖息地"
+      "meaning": "栖息地",
+      "phonetic": "/ˈhæbɪtæt/",
+      "example": "Climate change poses a significant threat to polar bears' natural habitat, as Arctic ice continues to melt at an alarming rate.",
+      "example_translation": "气候变化对北极熊的自然栖息地构成了重大威胁，因为北极冰层正以惊人的速度持续融化。",
+      "tips": "【词根记忆】habit(习惯) + at → 习惯居住的地方 → 栖息地。联想：inhabit(居住)、inhabitant(居民)都是同源词。"
     },
     {
       "word": "nest",
       "pos": "n.",
-      "meaning": "巢；窝；穴"
+      "meaning": "巢；窝；穴",
+      "tips": "【联想记忆】将'nest'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hive",
       "pos": "n./v.",
-      "meaning": "蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居"
+      "meaning": "蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居",
+      "tips": "【联想记忆】将'hive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cell",
       "pos": "n.",
-      "meaning": "蜂房巢室；细胞；单人牢房"
+      "meaning": "蜂房巢室；细胞；单人牢房",
+      "tips": "【联想记忆】将'cell'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "cage",
       "pos": "n.",
-      "meaning": "笼子"
+      "meaning": "笼子",
+      "tips": "【联想记忆】将'cage'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "stable",
       "pos": "n./adj.",
-      "meaning": "马厩；牛棚；稳定的"
+      "meaning": "马厩；牛棚；稳定的",
+      "tips": "【联想记忆】将'stable'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "barn",
       "pos": "n.",
-      "meaning": "谷仓；牲口棚"
+      "meaning": "谷仓；牲口棚",
+      "tips": "【联想记忆】将'barn'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hedge",
       "pos": "n.",
       "meaning": "树篱；障碍物",
-      "example": "There is a opening in the hedge|on the hedge 抱骑墙态度的"
+      "example": "There is a opening in the hedge|on the hedge 抱骑墙态度的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'hedge'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "barrier",
       "pos": "n.",
-      "meaning": "障碍"
+      "meaning": "障碍",
+      "tips": "【联想记忆】将'barrier'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bar",
       "pos": "n.",
-      "meaning": "栅；栏杆；条；长块"
+      "meaning": "栅；栏杆；条；长块",
+      "tips": "【联想记忆】将'bar'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "anatomy",
       "pos": "n.",
-      "meaning": "解剖学"
+      "meaning": "解剖学",
+      "tips": "【联想记忆】将'anatomy'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "epidemic",
       "pos": "n./adj.",
-      "meaning": "流行病；（坏事的）盛行；流行性的；极为盛行的"
+      "meaning": "流行病；（坏事的）盛行；流行性的；极为盛行的",
+      "tips": "【联想记忆】将'epidemic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "gene",
       "pos": "n.",
-      "meaning": "基因"
+      "meaning": "基因",
+      "tips": "【联想记忆】将'gene'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "germ",
       "pos": "n.",
-      "meaning": "微生物；细菌"
+      "meaning": "微生物；细菌",
+      "tips": "【联想记忆】将'germ'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "bacteria",
       "pos": "n.",
-      "meaning": "细菌；bacterium 的复数形式"
+      "meaning": "细菌；bacterium 的复数形式",
+      "tips": "【联想记忆】将'bacteria'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "virus",
       "pos": "n.",
-      "meaning": "病毒"
+      "meaning": "病毒",
+      "tips": "【联想记忆】将'virus'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "microbe",
       "pos": "n.",
-      "meaning": "微生物"
+      "meaning": "微生物",
+      "tips": "【联想记忆】将'microbe'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "metabolism",
       "pos": "n.",
-      "meaning": "新陈代谢"
+      "meaning": "新陈代谢",
+      "tips": "【联想记忆】将'metabolism'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "protein",
       "pos": "n.",
       "meaning": "蛋白质",
-      "example": "You need more protein to build you up"
+      "example": "You need more protein to build you up",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'protein'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vitamin",
       "pos": "n.",
-      "meaning": "维生素"
+      "meaning": "维生素",
+      "tips": "【联想记忆】将'vitamin'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "secrete",
       "pos": "v.",
       "meaning": "分泌",
-      "example": "The kidneys secrete urine|secret n. 秘密"
+      "example": "The kidneys secrete urine|secret n. 秘密",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'secrete'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "excrete",
       "pos": "v.",
       "meaning": "排泄；分泌",
-      "example": "The function of kidneys are excrete waste products"
+      "example": "The function of kidneys are excrete waste products",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'excrete'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "devour",
       "pos": "v.",
-      "meaning": "吞食；狼吞虎咽的吃"
+      "meaning": "吞食；狼吞虎咽的吃",
+      "tips": "【联想记忆】将'devour'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "instinct",
       "pos": "n.",
-      "meaning": "本能；天性；直觉"
+      "meaning": "本能；天性；直觉",
+      "phonetic": "/ˈɪnstɪŋkt/",
+      "tips": "【联想记忆】将'instinct'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "intuitive",
       "pos": "adj.",
-      "meaning": "直觉的"
+      "meaning": "直觉的",
+      "tips": "【联想记忆】将'intuitive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "potential",
       "pos": "n./adj.",
-      "meaning": "潜力/潜在的"
+      "meaning": "潜力/潜在的",
+      "tips": "【联想记忆】将'potential'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "intelligence",
       "pos": "n.",
       "meaning": "智慧；智力；情报；谍报",
-      "example": "Use your intelligence, and you're succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能"
+      "example": "Use your intelligence, and you're succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'intelligence'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "functional",
       "pos": "adj.",
-      "meaning": "功能的；起作用的"
+      "meaning": "功能的；起作用的",
+      "tips": "【联想记忆】将'functional'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "sensitive",
       "pos": "adj.",
-      "meaning": "灵敏的；易担忧的；需谨慎对待的"
+      "meaning": "灵敏的；易担忧的；需谨慎对待的",
+      "tips": "【联想记忆】将'sensitive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "flexible",
       "pos": "adj.",
-      "meaning": "灵活的；弹性的"
+      "meaning": "灵活的；弹性的",
+      "tips": "【联想记忆】将'flexible'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "acoustic",
       "pos": "adj.",
-      "meaning": "听觉的；声音的"
+      "meaning": "听觉的；声音的",
+      "tips": "【联想记忆】将'acoustic'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "optical",
       "pos": "adj.",
-      "meaning": "视觉的；光学的"
+      "meaning": "视觉的；光学的",
+      "tips": "【联想记忆】将'optical'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "nocturnal",
       "pos": "adj.",
       "meaning": "夜间活动的",
-      "example": "Hamsters are nocturnal creatures|hamster n. 仓鼠"
+      "example": "Hamsters are nocturnal creatures|hamster n. 仓鼠",
+      "phonetic": "/nɒkˈtɜːnl/",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'nocturnal'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "dormant",
       "pos": "adj.",
-      "meaning": "睡着的；休眠的；（动物等）冬眠的"
+      "meaning": "睡着的；休眠的；（动物等）冬眠的",
+      "tips": "【联想记忆】将'dormant'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "hibernation",
       "pos": "n.",
-      "meaning": "冬眠"
+      "meaning": "冬眠",
+      "phonetic": "/ˌhaɪbəˈneɪʃn/",
+      "tips": "【联想记忆】将'hibernation'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "track",
       "pos": "v./n.",
-      "meaning": "追踪；足迹；踪迹；轨道"
+      "meaning": "追踪；足迹；踪迹；轨道",
+      "tips": "【联想记忆】将'track'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "trace",
       "pos": "v./n.",
       "meaning": "追踪；查出；追溯；痕迹；少许",
-      "example": "They traced the criminal to a house in the city|a trace of 少许；一丝。track back to 追溯到"
+      "example": "They traced the criminal to a house in the city|a trace of 少许；一丝。track back to 追溯到",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'trace'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "alternate",
       "pos": "v.",
       "meaning": "（使）交替；（使）轮流",
-      "example": "Sunny weather alternated with rain|alternative adj. 可供选择的 n. 可供选择的事物"
+      "example": "Sunny weather alternated with rain|alternative adj. 可供选择的 n. 可供选择的事物",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'alternate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "prey",
       "pos": "n./v.",
-      "meaning": "猎物；捕食"
+      "meaning": "猎物；捕食",
+      "phonetic": "/preɪ/",
+      "tips": "【联想记忆】将'prey'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "predator",
       "pos": "n.",
-      "meaning": "掠夺者；捕食性动物"
+      "meaning": "掠夺者；捕食性动物",
+      "phonetic": "/ˈpredətə(r)/",
+      "tips": "【联想记忆】将'predator'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "victim",
       "pos": "n.",
-      "meaning": "受害者"
+      "meaning": "受害者",
+      "tips": "【联想记忆】将'victim'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "captive",
       "pos": "n./adj.",
-      "meaning": "俘虏；被关押的；收控制的"
+      "meaning": "俘虏；被关押的；收控制的",
+      "tips": "【联想记忆】将'captive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "defensive",
       "pos": "adj.",
       "meaning": "防御性的",
-      "example": "we took a defensive attitude in the negotiation|defend v. 防卫。self-defensive adj. 自卫的"
+      "example": "we took a defensive attitude in the negotiation|defend v. 防卫。self-defensive adj. 自卫的",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'defensive'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "undergo",
       "pos": "v.",
-      "meaning": "经历；经受"
+      "meaning": "经历；经受",
+      "tips": "【联想记忆】将'undergo'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "suffer",
       "pos": "v.",
-      "meaning": "遭受；受折磨；变糟"
+      "meaning": "遭受；受折磨；变糟",
+      "tips": "【联想记忆】将'suffer'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "vulnerable",
       "pos": "adj.",
-      "meaning": "易受伤的；脆弱的"
+      "meaning": "易受伤的；脆弱的",
+      "phonetic": "/ˈvʌlnərəbl/",
+      "tips": "【联想记忆】将'vulnerable'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "subsistence",
       "pos": "n.",
       "meaning": "勉强维持生活",
-      "example": "The standard of living at that time was on the edge of subsistence 当时的生活水平出于勉强维生边缘"
+      "example": "The standard of living at that time was on the edge of subsistence 当时的生活水平出于勉强维生边缘",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'subsistence'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "exist",
       "pos": "v.",
-      "meaning": "存在；生存"
+      "meaning": "存在；生存",
+      "tips": "【联想记忆】将'exist'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "exterminate",
       "pos": "v.",
       "meaning": "消灭；根除",
-      "example": "We've made great efforts to exterminate mosquitoes and flies"
+      "example": "We've made great efforts to exterminate mosquitoes and flies",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'exterminate'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "tame",
       "pos": "v./adj.",
       "meaning": "驯养；制服/驯服的；乏味的",
-      "example": "The tame lions can communicate and dance together with the actors|tame nature 征服大自然"
+      "example": "The tame lions can communicate and dance together with the actors|tame nature 征服大自然",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'tame'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "keeper",
       "pos": "n.",
-      "meaning": "看守人；饲养员"
+      "meaning": "看守人；饲养员",
+      "tips": "【联想记忆】将'keeper'拆分记忆，结合词根词缀理解其含义。"
     },
     {
       "word": "shepherd",
       "pos": "n.",
       "meaning": "牧羊人，羊倌",
-      "example": "The shepherd set out to look for sheep that had wandered away|sheepdog n. 牧羊犬"
+      "example": "The shepherd set out to look for sheep that had wandered away|sheepdog n. 牧羊犬",
+      "example_translation": "[需要翻译]",
+      "tips": "【联想记忆】将'shepherd'拆分记忆，结合词根词缀理解其含义。"
     }
   ]
 }
