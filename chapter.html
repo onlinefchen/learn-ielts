@@ -10,7 +10,10 @@
     <div class="container">
         <header>
             <div class="header-nav">
-                <button onclick="window.location.href='index.html'" class="back-btn">← 返回章节列表</button>
+                <button onclick="window.location.href='index.html'" class="back-btn">← 返回</button>
+                <select id="chapter-selector" class="chapter-select">
+                    <option value="">选择章节...</option>
+                </select>
                 <h1 id="chapter-title">加载中...</h1>
             </div>
             <div class="controls">
@@ -21,7 +24,7 @@
                 </select>
                 <select id="sort-mode" class="filter-select">
                     <option value="default">默认排序</option>
-                    <option value="anki">ANKI排序</option>
+                    <option value="anki" selected>ANKI排序</option>
                 </select>
                 <button id="reset-chapter" class="reset-btn">重置本章进度</button>
                 <div class="stats">
@@ -46,7 +49,8 @@
         let wordsData = [];
         let learningProgress = JSON.parse(localStorage.getItem('learningProgress') || '{}');
         let displayMode = 'learning'; // 'learning', 'mastered', 'all'
-        let sortMode = 'default'; // 'default', 'anki'
+        let sortMode = 'anki'; // 'default', 'anki' - ANKI as default
+        let allChapters = []; // Store all chapters info
 
         // Update function for progress manager
         window.updateUIFromProgress = function() {
@@ -67,6 +71,55 @@
             };
         }
 
+        // 加载所有章节列表
+        async function loadChaptersList() {
+            try {
+                const response = await fetch('json_chapters/index.json');
+                const data = await response.json();
+                allChapters = data.chapters;
+                
+                // 填充章节选择器
+                const selector = document.getElementById('chapter-selector');
+                selector.innerHTML = '<option value="">选择章节...</option>';
+                
+                allChapters.forEach(chapter => {
+                    const option = document.createElement('option');
+                    option.value = JSON.stringify({name: chapter.name, file: chapter.file});
+                    option.textContent = chapter.name;
+                    if (chapter.name === chapterName) {
+                        option.selected = true;
+                    }
+                    selector.appendChild(option);
+                });
+            } catch (error) {
+                console.error('Error loading chapters list:', error);
+            }
+        }
+
+        // 切换章节
+        async function switchChapter(chapterInfo) {
+            if (!chapterInfo) return;
+            
+            const info = JSON.parse(chapterInfo);
+            chapterName = info.name;
+            
+            // 更新URL但不刷新页面
+            const newUrl = `${window.location.pathname}?chapter=${encodeURIComponent(info.name)}&file=${info.file}`;
+            window.history.pushState({}, '', newUrl);
+            
+            try {
+                const response = await fetch(`json_chapters/${info.file}`);
+                const data = await response.json();
+                wordsData = data.words;
+                
+                document.getElementById('chapter-title').textContent = data.chapter;
+                displayWords();
+                updateStats();
+            } catch (error) {
+                console.error('Error loading chapter data:', error);
+            }
+        }
+
         // 加载章节数据
         async function loadChapterData() {
             const params = getUrlParams();
@@ -80,6 +133,9 @@
                 document.getElementById('chapter-title').textContent = data.chapter;
                 displayWords();
                 updateStats();
+                
+                // 加载章节列表
+                await loadChaptersList();
             } catch (error) {
                 console.error('Error loading chapter data:', error);
             }
@@ -314,6 +370,13 @@
         document.getElementById('sort-mode').addEventListener('change', function() {
             sortMode = this.value;
             displayWords();
+        });
+
+        // 章节切换
+        document.getElementById('chapter-selector').addEventListener('change', function() {
+            if (this.value) {
+                switchChapter(this.value);
+            }
         });
 
         // 重置本章进度
