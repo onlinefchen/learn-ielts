@@ -3,8 +3,39 @@ class ProgressManager {
     constructor() {
         this.gistId = null;
         this.token = null;
-        this.localProgress = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+        this.localProgress = this.loadLocalProgress();
         this.init();
+    }
+
+    loadLocalProgress() {
+        // Migrate old format to new format if needed
+        const oldFormat = localStorage.getItem('masteredWords');
+        const newFormat = localStorage.getItem('learningProgress');
+        
+        if (newFormat) {
+            return JSON.parse(newFormat);
+        } else if (oldFormat) {
+            // Migrate from old format
+            const oldData = JSON.parse(oldFormat);
+            const newData = {};
+            
+            for (const chapter in oldData) {
+                newData[chapter] = {};
+                oldData[chapter].forEach(word => {
+                    newData[chapter][word] = {
+                        mastered: true,
+                        reviewCount: 0,
+                        lastReview: new Date().toISOString(),
+                        nextReview: null
+                    };
+                });
+            }
+            
+            localStorage.setItem('learningProgress', JSON.stringify(newData));
+            return newData;
+        }
+        
+        return {};
     }
 
     init() {
@@ -38,9 +69,9 @@ class ProgressManager {
                     files: {
                         'progress.json': {
                             content: JSON.stringify({
-                                masteredWords: this.localProgress,
+                                learningProgress: this.localProgress,
                                 lastUpdated: new Date().toISOString(),
-                                version: '1.0.0'
+                                version: '2.0.0'
                             }, null, 2)
                         }
                     }
@@ -81,8 +112,16 @@ class ProgressManager {
             if (response.ok) {
                 const data = await response.json();
                 const content = JSON.parse(data.files['progress.json'].content);
-                this.localProgress = content.masteredWords || {};
-                localStorage.setItem('masteredWords', JSON.stringify(this.localProgress));
+                
+                // Handle different versions
+                if (content.version === '2.0.0') {
+                    this.localProgress = content.learningProgress || {};
+                } else if (content.masteredWords) {
+                    // Migrate from v1.0.0
+                    this.localProgress = this.migrateFromV1(content.masteredWords);
+                }
+                
+                localStorage.setItem('learningProgress', JSON.stringify(this.localProgress));
                 this.showSyncStatus('✅ 已从云端同步');
                 
                 // Trigger UI update
@@ -98,9 +137,25 @@ class ProgressManager {
         }
     }
 
-    async saveToGist(masteredWords) {
-        this.localProgress = masteredWords;
-        localStorage.setItem('masteredWords', JSON.stringify(masteredWords));
+    migrateFromV1(oldData) {
+        const newData = {};
+        for (const chapter in oldData) {
+            newData[chapter] = {};
+            oldData[chapter].forEach(word => {
+                newData[chapter][word] = {
+                    mastered: true,
+                    reviewCount: 0,
+                    lastReview: new Date().toISOString(),
+                    nextReview: null
+                };
+            });
+        }
+        return newData;
+    }
+
+    async saveToGist(learningProgress) {
+        this.localProgress = learningProgress;
+        localStorage.setItem('learningProgress', JSON.stringify(learningProgress));
 
         if (!this.gistId || !this.token) {
             return;
@@ -118,9 +173,9 @@ class ProgressManager {
                     files: {
                         'progress.json': {
                             content: JSON.stringify({
-                                masteredWords: masteredWords,
+                                learningProgress: learningProgress,
                                 lastUpdated: new Date().toISOString(),
-                                version: '1.0.0'
+                                version: '2.0.0'
                             }, null, 2)
                         }
                     }
@@ -200,7 +255,7 @@ class ProgressManager {
                 <h4 style="margin: 0 0 10px 0;">云端同步</h4>
                 <p style="margin: 5px 0; font-size: 14px;">✅ 已启用</p>
                 <button onclick="progressManager.loadFromGist()" style="padding: 5px 10px; margin-right: 5px;">同步下载</button>
-                <button onclick="progressManager.saveToGist(masteredWords)" style="padding: 5px 10px;">同步上传</button>
+                <button onclick="progressManager.saveToGist(window.learningProgress || {})" style="padding: 5px 10px;">同步上传</button>
                 <br>
                 <button onclick="progressManager.disableSync()" style="padding: 5px 10px; margin-top: 5px; font-size: 12px;">停用</button>
             `;

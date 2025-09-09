@@ -144,27 +144,29 @@ h1 {
     gap: 15px;
 }
 
-.toggle-btn, .reset-btn {
+.filter-select {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 14px;
+    background: white;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.filter-select:hover {
+    border-color: #4299e1;
+}
+
+.reset-btn {
     padding: 8px 16px;
+    background: #f56565;
+    color: white;
     border: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 14px;
     transition: all 0.3s;
-}
-
-.toggle-btn {
-    background: #4299e1;
-    color: white;
-}
-
-.toggle-btn:hover {
-    background: #3182ce;
-}
-
-.reset-btn {
-    background: #f56565;
-    color: white;
 }
 
 .reset-btn:hover {
@@ -199,6 +201,12 @@ h1 {
     justify-content: space-between;
     align-items: flex-start;
     margin-bottom: 15px;
+}
+
+.word-actions {
+    display: flex;
+    gap: 8px;
+    align-items: center;
 }
 
 .word-title-group {
@@ -263,15 +271,19 @@ h1 {
     font-weight: normal;
 }
 
-.master-btn {
+.master-btn, .review-btn, .relearn-btn {
     padding: 6px 12px;
-    border: 2px solid #48bb78;
+    border: 2px solid;
     background: white;
-    color: #48bb78;
     border-radius: 6px;
     cursor: pointer;
     font-size: 14px;
     transition: all 0.3s;
+}
+
+.master-btn {
+    border-color: #48bb78;
+    color: #48bb78;
 }
 
 .master-btn:hover {
@@ -282,6 +294,44 @@ h1 {
 .master-btn.is-mastered {
     background: #48bb78;
     color: white;
+}
+
+.review-btn {
+    border-color: #4299e1;
+    color: #4299e1;
+}
+
+.review-btn:hover {
+    background: #4299e1;
+    color: white;
+}
+
+.relearn-btn {
+    border-color: #f59e0b;
+    color: #f59e0b;
+}
+
+.relearn-btn:hover {
+    background: #f59e0b;
+    color: white;
+}
+
+.review-badge {
+    background: #e0e7ff;
+    color: #4c51bf;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.needs-review-badge {
+    background: #fed7aa;
+    color: #c05621;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: normal;
 }
 
 .word-content {

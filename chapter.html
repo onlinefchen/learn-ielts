@@ -14,7 +14,15 @@
                 <h1 id="chapter-title">加载中...</h1>
             </div>
             <div class="controls">
-                <button id="toggle-mastered" class="toggle-btn">显示已掌握单词</button>
+                <select id="display-mode" class="filter-select">
+                    <option value="learning">学习中</option>
+                    <option value="mastered">已掌握</option>
+                    <option value="all">全部</option>
+                </select>
+                <select id="sort-mode" class="filter-select">
+                    <option value="default">默认排序</option>
+                    <option value="anki">ANKI排序</option>
+                </select>
                 <button id="reset-chapter" class="reset-btn">重置本章进度</button>
                 <div class="stats">
                     <span>总计: <strong id="total-count">0</strong></span>
@@ -32,18 +40,23 @@
     </div>
 
     <script src="progress.js"></script>
+    <script src="anki.js"></script>
     <script>
         let chapterName = '';
         let wordsData = [];
-        let masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
-        let showMastered = false;
+        let learningProgress = JSON.parse(localStorage.getItem('learningProgress') || '{}');
+        let displayMode = 'learning'; // 'learning', 'mastered', 'all'
+        let sortMode = 'default'; // 'default', 'anki'
 
         // Update function for progress manager
         window.updateUIFromProgress = function() {
-            masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+            learningProgress = JSON.parse(localStorage.getItem('learningProgress') || '{}');
             displayWords();
             updateStats();
         };
+        
+        // Make progress globally accessible
+        window.learningProgress = learningProgress;
 
         // 获取URL参数
         function getUrlParams() {
@@ -77,19 +90,42 @@
             const container = document.getElementById('words-container');
             container.innerHTML = '';
             
-            const chapterMastered = masteredWords[chapterName] || [];
+            const chapterProgress = learningProgress[chapterName] || {};
             
-            wordsData.forEach((word, index) => {
-                const isMastered = chapterMastered.includes(word.word);
-                
-                // 根据显示设置决定是否显示已掌握单词
-                if (isMastered && !showMastered) {
-                    return;
-                }
+            // Prepare words with their progress data
+            let wordsToDisplay = wordsData.map((word, index) => ({
+                word: word,
+                index: index,
+                progress: chapterProgress[word.word] || null
+            }));
+            
+            // Filter by display mode
+            wordsToDisplay = wordsToDisplay.filter(item => {
+                const progress = item.progress;
+                if (displayMode === 'all') return true;
+                if (displayMode === 'mastered') return progress && progress.mastered;
+                if (displayMode === 'learning') return !progress || !progress.mastered;
+                return true;
+            });
+            
+            // Sort by selected mode
+            if (sortMode === 'anki') {
+                wordsToDisplay = ankiAlgorithm.sortByAnki(wordsToDisplay);
+            }
+            
+            // Display filtered and sorted words
+            wordsToDisplay.forEach(item => {
+                const word = item.word;
+                const index = item.index;
+                const progress = item.progress;
+                const isMastered = progress && progress.mastered;
                 
                 const wordCard = document.createElement('div');
                 wordCard.className = `word-card ${isMastered ? 'mastered' : ''}`;
                 wordCard.id = `word-${index}`;
+                
+                const reviewCount = progress ? progress.reviewCount || 0 : 0;
+                const needsReview = progress && ankiAlgorithm.needsReview(progress);
                 
                 let wordHtml = `
                     <div class="word-header">
@@ -97,6 +133,8 @@
                             <h3 class="word-title">
                                 ${word.word}
                                 <span class="word-pos">${word.pos}</span>
+                                ${reviewCount > 0 ? `<span class="review-badge">复习${reviewCount}次</span>` : ''}
+                                ${needsReview ? `<span class="needs-review-badge">需复习</span>` : ''}
                             </h3>
                             ${word.phonetic ? `
                             <div class="word-phonetic">
@@ -106,10 +144,22 @@
                                 </button>
                             </div>` : ''}
                         </div>
-                        <button class="master-btn ${isMastered ? 'is-mastered' : ''}" 
-                                onclick="toggleMastered('${word.word}', ${index})">
-                            ${isMastered ? '已掌握 ✓' : '标记掌握'}
-                        </button>
+                        <div class="word-actions">
+                            ${!isMastered ? `
+                                <button class="review-btn" onclick="addReview('${word.word}', ${index})">
+                                    复习 +1
+                                </button>
+                            ` : ''}
+                            <button class="master-btn ${isMastered ? 'is-mastered' : ''}" 
+                                    onclick="toggleMastered('${word.word}', ${index})">
+                                ${isMastered ? '已掌握 ✓' : '标记掌握'}
+                            </button>
+                            ${isMastered ? `
+                                <button class="relearn-btn" onclick="relearnWord('${word.word}', ${index})">
+                                    重新学习
+                                </button>
+                            ` : ''}
+                        </div>
                     </div>
                     <div class="word-content">
                         <p class="word-meaning">${word.meaning}</p>
@@ -133,33 +183,110 @@
             });
             
             if (container.innerHTML === '') {
-                container.innerHTML = '<p class="empty-message">所有单词都已掌握！点击"显示已掌握单词"查看全部。</p>';
+                let message = '';
+                if (displayMode === 'learning') {
+                    message = '所有单词都已掌握！切换到"全部"或"已掌握"查看。';
+                } else if (displayMode === 'mastered') {
+                    message = '还没有掌握任何单词。';
+                } else {
+                    message = '本章节暂无单词。';
+                }
+                container.innerHTML = `<p class="empty-message">${message}</p>`;
             }
+        }
+
+        // 添加复习次数
+        function addReview(word, index) {
+            if (!learningProgress[chapterName]) {
+                learningProgress[chapterName] = {};
+            }
+            
+            if (!learningProgress[chapterName][word]) {
+                learningProgress[chapterName][word] = {
+                    mastered: false,
+                    reviewCount: 0,
+                    lastReview: null,
+                    nextReview: null
+                };
+            }
+            
+            const wordProgress = learningProgress[chapterName][word];
+            wordProgress.reviewCount++;
+            wordProgress.lastReview = new Date().toISOString();
+            wordProgress.nextReview = ankiAlgorithm.getNextReviewTime(wordProgress.reviewCount);
+            
+            // 保存到localStorage
+            localStorage.setItem('learningProgress', JSON.stringify(learningProgress));
+            window.learningProgress = learningProgress;
+            
+            // 同步到云端
+            if (window.progressManager) {
+                progressManager.saveToGist(learningProgress);
+            }
+            
+            // 更新显示
+            displayWords();
+            updateStats();
         }
 
         // 切换单词掌握状态
         function toggleMastered(word, index) {
-            if (!masteredWords[chapterName]) {
-                masteredWords[chapterName] = [];
+            if (!learningProgress[chapterName]) {
+                learningProgress[chapterName] = {};
             }
             
-            const chapterMastered = masteredWords[chapterName];
-            const wordIndex = chapterMastered.indexOf(word);
+            if (!learningProgress[chapterName][word]) {
+                learningProgress[chapterName][word] = {
+                    mastered: false,
+                    reviewCount: 0,
+                    lastReview: null,
+                    nextReview: null
+                };
+            }
             
-            if (wordIndex > -1) {
-                // 取消掌握
-                chapterMastered.splice(wordIndex, 1);
+            const wordProgress = learningProgress[chapterName][word];
+            wordProgress.mastered = !wordProgress.mastered;
+            wordProgress.lastReview = new Date().toISOString();
+            
+            if (wordProgress.mastered) {
+                wordProgress.nextReview = null; // 掌握后不需要复习
             } else {
-                // 标记为掌握
-                chapterMastered.push(word);
+                wordProgress.nextReview = ankiAlgorithm.getNextReviewTime(wordProgress.reviewCount);
             }
             
             // 保存到localStorage
-            localStorage.setItem('masteredWords', JSON.stringify(masteredWords));
+            localStorage.setItem('learningProgress', JSON.stringify(learningProgress));
+            window.learningProgress = learningProgress;
             
             // 同步到云端
             if (window.progressManager) {
-                progressManager.saveToGist(masteredWords);
+                progressManager.saveToGist(learningProgress);
+            }
+            
+            // 更新显示
+            displayWords();
+            updateStats();
+        }
+
+        // 重新学习单词
+        function relearnWord(word, index) {
+            if (!learningProgress[chapterName] || !learningProgress[chapterName][word]) {
+                return;
+            }
+            
+            const wordProgress = learningProgress[chapterName][word];
+            wordProgress.mastered = false;
+            wordProgress.reviewCount = 0;
+            wordProgress.lastReview = new Date().toISOString();
+            wordProgress.nextReview = ankiAlgorithm.getNextReviewTime(0);
+            
+            // 保存到localStorage
+            localStorage.setItem('learningProgress', JSON.stringify(learningProgress));
+            window.learningProgress = learningProgress;
+            
+            // 同步到云端
+            if (window.progressManager) {
+                progressManager.saveToGist(learningProgress);
             }
             
             // 更新显示
@@ -169,28 +296,38 @@
 
         // 更新统计信息
         function updateStats() {
-            const chapterMastered = masteredWords[chapterName] || [];
-            const totalCount = wordsData.length;
-            const masteredCount = chapterMastered.length;
-            const learningCount = totalCount - masteredCount;
+            const chapterProgress = learningProgress[chapterName] || {};
+            const stats = ankiAlgorithm.getChapterStats(chapterProgress, wordsData.length);
             
-            document.getElementById('total-count').textContent = totalCount;
-            document.getElementById('mastered-count').textContent = masteredCount;
-            document.getElementById('learning-count').textContent = learningCount;
+            document.getElementById('total-count').textContent = wordsData.length;
+            document.getElementById('mastered-count').textContent = stats.mastered;
+            document.getElementById('learning-count').textContent = stats.learning + stats.needReview + stats.new;
         }
 
-        // 切换显示已掌握单词
-        document.getElementById('toggle-mastered').addEventListener('click', function() {
-            showMastered = !showMastered;
-            this.textContent = showMastered ? '隐藏已掌握单词' : '显示已掌握单词';
+        // 显示模式切换
+        document.getElementById('display-mode').addEventListener('change', function() {
+            displayMode = this.value;
+            displayWords();
+        });
+
+        // 排序模式切换
+        document.getElementById('sort-mode').addEventListener('change', function() {
+            sortMode = this.value;
             displayWords();
         });
 
         // 重置本章进度
         document.getElementById('reset-chapter').addEventListener('click', function() {
             if (confirm(`确定要重置"${chapterName}"章节的所有进度吗？`)) {
-                masteredWords[chapterName] = [];
-                localStorage.setItem('masteredWords', JSON.stringify(masteredWords));
+                delete learningProgress[chapterName];
+                localStorage.setItem('learningProgress', JSON.stringify(learningProgress));
+                window.learningProgress = learningProgress;
+                
+                // 同步到云端
+                if (window.progressManager) {
+                    progressManager.saveToGist(learningProgress);
+                }
+                
                 displayWords();
                 updateStats();
             }

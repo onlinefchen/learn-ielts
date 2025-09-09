@@ -27,14 +27,17 @@
     <script src="progress.js"></script>
     <script>
         let chaptersData = [];
-        let masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+        let learningProgress = JSON.parse(localStorage.getItem('learningProgress') || '{}');
 
         // Update function for progress manager
         window.updateUIFromProgress = function() {
-            masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+            learningProgress = JSON.parse(localStorage.getItem('learningProgress') || '{}');
             displayChapters();
             updateStats();
         };
+        
+        // Make progress globally accessible
+        window.learningProgress = learningProgress;
 
         async function loadChapters() {
             try {
@@ -53,7 +56,18 @@
             container.innerHTML = '';
 
             chaptersData.forEach((chapter, index) => {
-                const masteredCount = getMasteredCount(chapter.name);
+                const chapterProgress = learningProgress[chapter.name] || {};
+                let masteredCount = 0;
+                let learningCount = 0;
+                
+                for (const word in chapterProgress) {
+                    if (chapterProgress[word].mastered) {
+                        masteredCount++;
+                    } else {
+                        learningCount++;
+                    }
+                }
+                
                 const progress = (masteredCount / chapter.word_count * 100).toFixed(1);
                 
                 const card = document.createElement('div');
@@ -61,8 +75,9 @@
                 card.innerHTML = `
                     <h3>${chapter.name}</h3>
                     <div class="chapter-info">
-                        <p>单词数: ${chapter.word_count}</p>
+                        <p>总单词: ${chapter.word_count}</p>
                         <p>已掌握: ${masteredCount}</p>
+                        <p>学习中: ${learningCount}</p>
                         <div class="progress-bar">
                             <div class="progress-fill" style="width: ${progress}%"></div>
                         </div>
@@ -76,14 +91,17 @@
             });
         }
 
-        function getMasteredCount(chapterName) {
-            const chapterMastered = masteredWords[chapterName] || [];
-            return chapterMastered.length;
-        }
-
         function updateStats() {
             const totalWords = chaptersData.reduce((sum, ch) => sum + ch.word_count, 0);
-            const totalMastered = Object.values(masteredWords).reduce((sum, arr) => sum + arr.length, 0);
+            let totalMastered = 0;
+            
+            for (const chapter in learningProgress) {
+                for (const word in learningProgress[chapter]) {
+                    if (learningProgress[chapter][word].mastered) {
+                        totalMastered++;
+                    }
+                }
+            }
             
             document.getElementById('total-words').textContent = totalWords;
             document.getElementById('mastered-words').textContent = totalMastered;
