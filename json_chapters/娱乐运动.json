@@ -1,0 +1,918 @@
+{
+  "chapter": "娱乐运动",
+  "word_count": 176,
+  "words": [
+    {
+      "word": "medium",
+      "pos": "n./adj.",
+      "meaning": "媒介；中间的；中等的"
+    },
+    {
+      "word": "press",
+      "pos": "n.",
+      "meaning": "新闻界；记者；报刊；出版社"
+    },
+    {
+      "word": "journalist",
+      "pos": "n.",
+      "meaning": "记者；新闻工作者"
+    },
+    {
+      "word": "critic",
+      "pos": "n.",
+      "meaning": "批评家；挑剔的人",
+      "example": "|critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人"
+    },
+    {
+      "word": "commentator",
+      "pos": "n.",
+      "meaning": "评论员；实况解说员"
+    },
+    {
+      "word": "exponent",
+      "pos": "n.",
+      "meaning": "阐述者；倡导者；拥护者"
+    },
+    {
+      "word": "announcer",
+      "pos": "n.",
+      "meaning": "广播员；播音员"
+    },
+    {
+      "word": "correspondent",
+      "pos": "n.",
+      "meaning": "通信者；通讯员；记者"
+    },
+    {
+      "word": "messenger",
+      "pos": "n.",
+      "meaning": "邮递员；信使"
+    },
+    {
+      "word": "editor",
+      "pos": "n.",
+      "meaning": "编辑；校订者"
+    },
+    {
+      "word": "typist",
+      "pos": "n.",
+      "meaning": "打字员"
+    },
+    {
+      "word": "handout",
+      "pos": "n.",
+      "meaning": "传单；讲义"
+    },
+    {
+      "word": "leaflet",
+      "pos": "n./v.",
+      "meaning": "传单；散发传单"
+    },
+    {
+      "word": "propaganda",
+      "pos": "n.",
+      "meaning": "宣传；鼓吹"
+    },
+    {
+      "word": "publish",
+      "pos": "v.",
+      "meaning": "公布；出版；发行"
+    },
+    {
+      "word": "disseminate",
+      "pos": "v.",
+      "meaning": "散布；传播"
+    },
+    {
+      "word": "foresee",
+      "pos": "v.",
+      "meaning": "预见；预知"
+    },
+    {
+      "word": "anticipate",
+      "pos": "v.",
+      "meaning": "预期；预料",
+      "example": "|participate v. 参与"
+    },
+    {
+      "word": "expect",
+      "pos": "v.",
+      "meaning": "预料；期待",
+      "example": "|expectation n. 期待；期望"
+    },
+    {
+      "word": "await",
+      "pos": "v.",
+      "meaning": "等候；期待；将降临到...身上"
+    },
+    {
+      "word": "pastime",
+      "pos": "n.",
+      "meaning": "娱乐；消遣"
+    },
+    {
+      "word": "entertain",
+      "pos": "v.",
+      "meaning": "娱乐；招待；心存；怀有",
+      "example": "|entertainment n. 娱乐；消遣；款待"
+    },
+    {
+      "word": "recreation",
+      "pos": "n.",
+      "meaning": "休闲；娱乐",
+      "example": "|a recreation ground 公共娱乐场"
+    },
+    {
+      "word": "amuse",
+      "pos": "v.",
+      "meaning": "逗乐；给...提供娱乐",
+      "example": "|amuse oneself 自娱自乐"
+    },
+    {
+      "word": "gossip",
+      "pos": "n.",
+      "meaning": "闲聊；流言蜚语"
+    },
+    {
+      "word": "rumour/rumor",
+      "pos": "n.",
+      "meaning": "谣言；传闻"
+    },
+    {
+      "word": "consensus",
+      "pos": "n.",
+      "meaning": "共识；一致的意见"
+    },
+    {
+      "word": "festival",
+      "pos": "n.",
+      "meaning": "节日"
+    },
+    {
+      "word": "feast",
+      "pos": "n.",
+      "meaning": "盛宴；（宗教）节日"
+    },
+    {
+      "word": "programme/program",
+      "pos": "n./v.",
+      "meaning": "节目；方案；程序；为系统设置程序；计划",
+      "example": "|programmer n. 程序设计员"
+    },
+    {
+      "word": "rehearsal",
+      "pos": "n.",
+      "meaning": "排练"
+    },
+    {
+      "word": "perform",
+      "pos": "v.",
+      "meaning": "表演；演出"
+    },
+    {
+      "word": "imitate",
+      "pos": "v.",
+      "meaning": "模仿；效仿"
+    },
+    {
+      "word": "mimic",
+      "pos": "v.",
+      "meaning": "模仿；戏仿"
+    },
+    {
+      "word": "simulate",
+      "pos": "v.",
+      "meaning": "模拟；假装；冒充",
+      "example": "|simulative adj. 模拟的；假装的"
+    },
+    {
+      "word": "circus",
+      "pos": "n.",
+      "meaning": "马戏团；圆形广场（常用于地名）",
+      "example": "|a circus clown 马戏团小丑"
+    },
+    {
+      "word": "magic",
+      "pos": "n.",
+      "meaning": "魔术；魔法"
+    },
+    {
+      "word": "drama",
+      "pos": "n.",
+      "meaning": "戏；剧；戏剧艺术"
+    },
+    {
+      "word": "concert",
+      "pos": "n.",
+      "meaning": "音乐会",
+      "example": "|musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作"
+    },
+    {
+      "word": "symphony",
+      "pos": "n.",
+      "meaning": "交响乐"
+    },
+    {
+      "word": "orchestra",
+      "pos": "n.",
+      "meaning": "管弦乐队"
+    },
+    {
+      "word": "ballet",
+      "pos": "n.",
+      "meaning": "芭蕾舞；芭蕾舞剧"
+    },
+    {
+      "word": "opera",
+      "pos": "n.",
+      "meaning": "歌剧"
+    },
+    {
+      "word": "comedy",
+      "pos": "n.",
+      "meaning": "喜剧"
+    },
+    {
+      "word": "tragedy",
+      "pos": "n.",
+      "meaning": "悲剧；悲惨的事"
+    },
+    {
+      "word": "animation",
+      "pos": "n.",
+      "meaning": "动画片；动画制作"
+    },
+    {
+      "word": "film",
+      "pos": "n.",
+      "meaning": "影片；胶卷"
+    },
+    {
+      "word": "movie",
+      "pos": "n.",
+      "meaning": "电影"
+    },
+    {
+      "word": "X-rated",
+      "pos": "adj.",
+      "meaning": "X级的；青少年不宜的"
+    },
+    {
+      "word": "artist",
+      "pos": "n.",
+      "meaning": "艺术家"
+    },
+    {
+      "word": "craftsman",
+      "pos": "n.",
+      "meaning": "工匠；工艺师"
+    },
+    {
+      "word": "painter",
+      "pos": "n.",
+      "meaning": "画家；油漆匠"
+    },
+    {
+      "word": "role",
+      "pos": "n.",
+      "meaning": "角色"
+    },
+    {
+      "word": "scene",
+      "pos": "n.",
+      "meaning": "景色；现场；（戏剧的）场面"
+    },
+    {
+      "word": "stage",
+      "pos": "n.",
+      "meaning": "舞台；阶段",
+      "example": "|the stage 戏剧演出"
+    },
+    {
+      "word": "gallery",
+      "pos": "n.",
+      "meaning": "美术馆"
+    },
+    {
+      "word": "exhibition",
+      "pos": "n.",
+      "meaning": "展览"
+    },
+    {
+      "word": "aesthetic/esthetic",
+      "pos": "adj./n.",
+      "meaning": "审美的；审美观"
+    },
+    {
+      "word": "collect",
+      "pos": "v.",
+      "meaning": "收集；收藏"
+    },
+    {
+      "word": "select",
+      "pos": "v./adj.",
+      "meaning": "选择；挑选；精选的"
+    },
+    {
+      "word": "opt",
+      "pos": "v.",
+      "meaning": "选择",
+      "example": "|option n. 选择；选择权。 opt for sth. 选择某事物"
+    },
+    {
+      "word": "photograph",
+      "pos": "n.",
+      "meaning": "照片；相片"
+    },
+    {
+      "word": "portrait",
+      "pos": "n.",
+      "meaning": "肖像；半身画像"
+    },
+    {
+      "word": "painting",
+      "pos": "n.",
+      "meaning": "油画；会话；画作；涂漆"
+    },
+    {
+      "word": "sculpture",
+      "pos": "n.",
+      "meaning": "雕塑"
+    },
+    {
+      "word": "draw",
+      "pos": "v.",
+      "meaning": "画；拉；拔出"
+    },
+    {
+      "word": "sketch",
+      "pos": "n./v.",
+      "meaning": "素描；草图；速写；画素描；画速写"
+    },
+    {
+      "word": "depict",
+      "pos": "v.",
+      "meaning": "描述；描写；描绘"
+    },
+    {
+      "word": "describe",
+      "pos": "v.",
+      "meaning": "描述；形容"
+    },
+    {
+      "word": "carve",
+      "pos": "v.",
+      "meaning": "雕刻；切下"
+    },
+    {
+      "word": "improvise",
+      "pos": "v.",
+      "meaning": "临时做；即兴创作",
+      "example": "|improvisation n. 即兴创作"
+    },
+    {
+      "word": "musical",
+      "pos": "adj.",
+      "meaning": "音乐的；悦耳的"
+    },
+    {
+      "word": "classical",
+      "pos": "adj.",
+      "meaning": "古典的；传统的"
+    },
+    {
+      "word": "jazz",
+      "pos": "n.",
+      "meaning": "爵士乐"
+    },
+    {
+      "word": "rock",
+      "pos": "n.",
+      "meaning": "摇滚乐；岩石"
+    },
+    {
+      "word": "hip-hop",
+      "pos": "n.",
+      "meaning": "嘻哈文化"
+    },
+    {
+      "word": "pop",
+      "pos": "n.",
+      "meaning": "流行音乐；流行乐曲"
+    },
+    {
+      "word": "lyric",
+      "pos": "n./adj.",
+      "meaning": "抒情诗；抒情的"
+    },
+    {
+      "word": "band",
+      "pos": "n.",
+      "meaning": "乐队；带；波段"
+    },
+    {
+      "word": "solo",
+      "pos": "n./adj.",
+      "meaning": "独奏；独唱；独奏的；独唱的"
+    },
+    {
+      "word": "melody",
+      "pos": "n.",
+      "meaning": "乐曲；旋律"
+    },
+    {
+      "word": "rhythm",
+      "pos": "n.",
+      "meaning": "节奏；韵律",
+      "example": "I can't dance to music without good rhythm"
+    },
+    {
+      "word": "tone",
+      "pos": "n.",
+      "meaning": "音色；声调；腔调"
+    },
+    {
+      "word": "tune",
+      "pos": "n./v.",
+      "meaning": "曲调；短乐曲；调试"
+    },
+    {
+      "word": "disc/disk",
+      "pos": "n.",
+      "meaning": "光碟；唱片；磁盘"
+    },
+    {
+      "word": "piano",
+      "pos": "n.",
+      "meaning": "钢琴"
+    },
+    {
+      "word": "violin",
+      "pos": "n.",
+      "meaning": "小提琴"
+    },
+    {
+      "word": "cello",
+      "pos": "n.",
+      "meaning": "大提琴"
+    },
+    {
+      "word": "guitar",
+      "pos": "n.",
+      "meaning": "吉他"
+    },
+    {
+      "word": "harmonica",
+      "pos": "n.",
+      "meaning": "口琴"
+    },
+    {
+      "word": "trumpet",
+      "pos": "n.",
+      "meaning": "喇叭；小号"
+    },
+    {
+      "word": "drum",
+      "pos": "n.",
+      "meaning": "鼓；鼓状物；大桶"
+    },
+    {
+      "word": "flute",
+      "pos": "n.",
+      "meaning": "长笛"
+    },
+    {
+      "word": "competition",
+      "pos": "n.",
+      "meaning": "竞争；比赛",
+      "example": "|compete v. 竞争。competitor n. 竞争者"
+    },
+    {
+      "word": "tournament",
+      "pos": "n.",
+      "meaning": "锦标赛；联赛"
+    },
+    {
+      "word": "Olympic",
+      "pos": "adj./n.",
+      "meaning": "奥林匹克运动会"
+    },
+    {
+      "word": "sponsor",
+      "pos": "n./v.",
+      "meaning": "发起人；主办人；赞助人。发起；主办；赞助"
+    },
+    {
+      "word": "patron",
+      "pos": "n.",
+      "meaning": "赞助人；顾客；老主顾"
+    },
+    {
+      "word": "athlete",
+      "pos": "n.",
+      "meaning": "运动员"
+    },
+    {
+      "word": "champion",
+      "pos": "n./v.",
+      "meaning": "冠军；第一名；拥护；支持"
+    },
+    {
+      "word": "spectator",
+      "pos": "n.",
+      "meaning": "观众"
+    },
+    {
+      "word": "volunteer",
+      "pos": "n./v.",
+      "meaning": "志愿者；自愿做"
+    },
+    {
+      "word": "famous",
+      "pos": "adj.",
+      "meaning": "著名的；出名的",
+      "example": "|fame n. 名声。be famous for 以...闻名"
+    },
+    {
+      "word": "well-known",
+      "pos": "adj.",
+      "meaning": "众所周知的；出名的"
+    },
+    {
+      "word": "energetic",
+      "pos": "adj.",
+      "meaning": "充满活力的；精力充沛的"
+    },
+    {
+      "word": "vigorous",
+      "pos": "adj.",
+      "meaning": "充满活力的；活跃的；积极的"
+    },
+    {
+      "word": "stadium",
+      "pos": "n.",
+      "meaning": "体育场；运动场"
+    },
+    {
+      "word": "gym",
+      "pos": "n.",
+      "meaning": "体育馆；运动场"
+    },
+    {
+      "word": "training",
+      "pos": "n.",
+      "meaning": "训练；锻炼；培训"
+    },
+    {
+      "word": "exercise",
+      "pos": "n./v.",
+      "meaning": "锻炼；运动；习题；练习。锻炼"
+    },
+    {
+      "word": "indoor",
+      "pos": "adj.",
+      "meaning": "室内的",
+      "example": "|indoors adv. 在室内"
+    },
+    {
+      "word": "outdoor",
+      "pos": "adj.",
+      "meaning": "户外的；室外的"
+    },
+    {
+      "word": "motion",
+      "pos": "v.",
+      "meaning": "做动作；示意"
+    },
+    {
+      "word": "mobile",
+      "pos": "adj.",
+      "meaning": "可移动的；流动的"
+    },
+    {
+      "word": "movement",
+      "pos": "n.",
+      "meaning": "活动；运动；移动"
+    },
+    {
+      "word": "yoga",
+      "pos": "n.",
+      "meaning": "瑜伽"
+    },
+    {
+      "word": "sprawl",
+      "pos": "n./v.",
+      "meaning": "延伸；蔓延。（城市）杂乱无序扩张的地区"
+    },
+    {
+      "word": "stretch",
+      "pos": "v.",
+      "meaning": "延伸；伸长"
+    },
+    {
+      "word": "strain",
+      "pos": "v./n.",
+      "meaning": "拉紧；拉伤；扭伤。张力；拉力；（精神上）紧张"
+    },
+    {
+      "word": "chess",
+      "pos": "n.",
+      "meaning": "国际象棋"
+    },
+    {
+      "word": "badminton",
+      "pos": "n.",
+      "meaning": "羽毛球"
+    },
+    {
+      "word": "golf",
+      "pos": "n.",
+      "meaning": "高尔夫球"
+    },
+    {
+      "word": "billiards",
+      "pos": "n.",
+      "meaning": "台球"
+    },
+    {
+      "word": "soccer",
+      "pos": "n.",
+      "meaning": "（英式）足球"
+    },
+    {
+      "word": "tennis",
+      "pos": "n.",
+      "meaning": "网球"
+    },
+    {
+      "word": "volleyball",
+      "pos": "n.",
+      "meaning": "排球"
+    },
+    {
+      "word": "hockey",
+      "pos": "n.",
+      "meaning": "曲棍球；冰球"
+    },
+    {
+      "word": "cricket",
+      "pos": "n.",
+      "meaning": "板球"
+    },
+    {
+      "word": "goal",
+      "pos": "n.",
+      "meaning": "球门；进球得分；目的"
+    },
+    {
+      "word": "bat",
+      "pos": "n.",
+      "meaning": "球拍；球棒；球板"
+    },
+    {
+      "word": "racket",
+      "pos": "n.",
+      "meaning": "（网球、羽毛球）球拍"
+    },
+    {
+      "word": "kick",
+      "pos": "n./v.",
+      "meaning": "踢"
+    },
+    {
+      "word": "knock",
+      "pos": "v.",
+      "meaning": "敲；击；撞"
+    },
+    {
+      "word": "flip",
+      "pos": "v./n.",
+      "meaning": "掷；快速翻转。随便的；宽泛的"
+    },
+    {
+      "word": "pitch",
+      "pos": "v./n.",
+      "meaning": "投；掷；球场；（棒球中的）投球",
+      "example": "She pitched the ball as far as she could|invade the pitch 涌进球场。throw a pitch 投球"
+    },
+    {
+      "word": "throw",
+      "pos": "v.",
+      "meaning": "投；掷；抛；扔"
+    },
+    {
+      "word": "toss",
+      "pos": "v.",
+      "meaning": "扔；抛；掷；（使）颠簸"
+    },
+    {
+      "word": "slide",
+      "pos": "v./n.",
+      "meaning": "滑动；逐渐降低；滑行；下跌"
+    },
+    {
+      "word": "slip",
+      "pos": "v./n.",
+      "meaning": "滑跤；滑落；溜；滑到",
+      "example": "She slipped and fell down the stairs|a slip of the tongue 口误；失言"
+    },
+    {
+      "word": "glide",
+      "pos": "v./n.",
+      "meaning": "滑动；掠过；滑行"
+    },
+    {
+      "word": "tumble",
+      "pos": "v.",
+      "meaning": "摔倒；滚下"
+    },
+    {
+      "word": "ski",
+      "pos": "v./n.",
+      "meaning": "滑雪；滑雪板"
+    },
+    {
+      "word": "skate",
+      "pos": "v.",
+      "meaning": "滑冰"
+    },
+    {
+      "word": "cycling",
+      "pos": "n.",
+      "meaning": "骑自行车运动"
+    },
+    {
+      "word": "dive",
+      "pos": "v.",
+      "meaning": "跳水；潜水；俯冲"
+    },
+    {
+      "word": "drift",
+      "pos": "v.",
+      "meaning": "飘逸；漂流；流浪；漂泊",
+      "example": "|drift from one country to another 从一国流浪到另一国"
+    },
+    {
+      "word": "jump",
+      "pos": "v.",
+      "meaning": "跳；暴涨；跳过",
+      "example": "|from the jump 从一开始"
+    },
+    {
+      "word": "leap",
+      "pos": "v./n.",
+      "meaning": "跳；跃；跳跃"
+    },
+    {
+      "word": "plunge",
+      "pos": "v./n.",
+      "meaning": "纵身投入；猛跌；（使）投身。跳水；猛跌",
+      "example": "|plunge whole-heartedly 全心全意的投入"
+    },
+    {
+      "word": "spring",
+      "pos": "v./n.",
+      "meaning": "跳；跃"
+    },
+    {
+      "word": "hop",
+      "pos": "v.",
+      "meaning": "跳上/下；单脚跳行；齐足跳行"
+    },
+    {
+      "word": "bounce",
+      "pos": "v.",
+      "meaning": "（使）反弹/弹起/跳动"
+    },
+    {
+      "word": "tent",
+      "pos": "n.",
+      "meaning": "帐篷"
+    },
+    {
+      "word": "camp",
+      "pos": "n.",
+      "meaning": "营地；阵营"
+    },
+    {
+      "word": "picnic",
+      "pos": "n./v.",
+      "meaning": "野餐；野餐食物",
+      "example": "|go for a picnic"
+    },
+    {
+      "word": "hunt",
+      "pos": "v./n.",
+      "meaning": "打猎；搜寻；猎取",
+      "example": "|hunter n. 猎人。hunt for 寻找"
+    },
+    {
+      "word": "race",
+      "pos": "n.",
+      "meaning": "赛跑；速度竞赛；人种；种族"
+    },
+    {
+      "word": "marathon",
+      "pos": "n.",
+      "meaning": "马拉松"
+    },
+    {
+      "word": "pedestrian",
+      "pos": "n.",
+      "meaning": "步行者；行人",
+      "example": "In the accident a pedestrian and a cyclist were injured|a pedestrian crossing 人形横道"
+    },
+    {
+      "word": "pace",
+      "pos": "n./v.",
+      "meaning": "步速；速度；步调；节奏；来回踱步"
+    },
+    {
+      "word": "step",
+      "pos": "n.",
+      "meaning": "步伐；步骤",
+      "example": "|footstep n. 脚步声；足迹。step by step 一步一步；逐步"
+    },
+    {
+      "word": "excursion",
+      "pos": "n.",
+      "meaning": "远足；短程旅行"
+    },
+    {
+      "word": "cruise",
+      "pos": "v.",
+      "meaning": "乘船游览；以平稳的速度行驶",
+      "example": "|cruiser n. 巡洋舰；舱式游艇；巡逻警车"
+    },
+    {
+      "word": "trip",
+      "pos": "v./n.",
+      "meaning": "绊倒；旅行"
+    },
+    {
+      "word": "vacation",
+      "pos": "v./n.",
+      "meaning": "休假；假期"
+    },
+    {
+      "word": "hike",
+      "pos": "n./v.",
+      "meaning": "徒步旅行；远足"
+    },
+    {
+      "word": "jog",
+      "pos": "v.",
+      "meaning": "慢跑",
+      "example": "|jogger n. 慢跑锻炼的人。jogging n. 慢跑"
+    },
+    {
+      "word": "stride",
+      "pos": "v.",
+      "meaning": "大步走；阔步行走",
+      "example": "They are strading forward both in English and in Mathematics"
+    },
+    {
+      "word": "wander",
+      "pos": "v.",
+      "meaning": "闲逛；漫步；走神；开小差"
+    },
+    {
+      "word": "linger",
+      "pos": "v.",
+      "meaning": "逗留；流连；继续存留",
+      "example": "We linger at the beach whole summer"
+    },
+    {
+      "word": "lag",
+      "pos": "v./n.",
+      "meaning": "落后；间隔；时间差",
+      "example": "|lag behind sb./sth. 落后于某人/某物"
+    },
+    {
+      "word": "climb",
+      "pos": "v.",
+      "meaning": "攀登；爬"
+    },
+    {
+      "word": "pull",
+      "pos": "v.",
+      "meaning": "拉；拖；扯；划（小船）"
+    },
+    {
+      "word": "drag",
+      "pos": "v.",
+      "meaning": "拖；拉；拽"
+    },
+    {
+      "word": "bend",
+      "pos": "v.",
+      "meaning": "俯身；弯腰；使弯曲"
+    },
+    {
+      "word": "bow",
+      "pos": "v./n.",
+      "meaning": "鞠躬",
+      "example": "|take a bow"
+    }
+  ]
+}

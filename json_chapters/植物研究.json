@@ -1,0 +1,721 @@
+{
+  "chapter": "植物研究",
+  "word_count": 130,
+  "words": [
+    {
+      "word": "photosynthesis",
+      "pos": "n.",
+      "meaning": "光合作用"
+    },
+    {
+      "word": "respire",
+      "pos": "v.",
+      "meaning": "呼吸",
+      "example": "|相比于 breathe 更正式，但是 breath 更常用"
+    },
+    {
+      "word": "dioxide",
+      "pos": "n.",
+      "meaning": "二氧化物"
+    },
+    {
+      "word": "vegetation",
+      "pos": "n.",
+      "meaning": "植物；草木",
+      "example": "There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者"
+    },
+    {
+      "word": "herb",
+      "pos": "n.",
+      "meaning": "药草；香草"
+    },
+    {
+      "word": "perennial",
+      "pos": "n./adj.",
+      "meaning": "多年生植物；长期的；持久的",
+      "example": "These perennials should be planted where they can naturalize"
+    },
+    {
+      "word": "botany",
+      "pos": "n.",
+      "meaning": "植物学"
+    },
+    {
+      "word": "ecology",
+      "pos": "n.",
+      "meaning": "生态学；生态"
+    },
+    {
+      "word": "ecosystem",
+      "pos": "n.",
+      "meaning": "生态系统"
+    },
+    {
+      "word": "eco-friendly",
+      "pos": "adj.",
+      "meaning": "对生态环境友好的",
+      "example": "Attention to eco-friendly packaging is increasing|user-friendly adj. 便于使用的"
+    },
+    {
+      "word": "horticulture",
+      "pos": "n.",
+      "meaning": "园艺学；园艺",
+      "example": "Horticulture is the industry and science of plant cultivation"
+    },
+    {
+      "word": "organism",
+      "pos": "n.",
+      "meaning": "有机体；生物",
+      "example": "|organ n. 器官"
+    },
+    {
+      "word": "genetics",
+      "pos": "n.",
+      "meaning": "遗传学",
+      "example": "In genetics, genes were formerly called factors|gene n. 基因。genetic adj. 基因的"
+    },
+    {
+      "word": "mutation",
+      "pos": "n.",
+      "meaning": "突变；变异"
+    },
+    {
+      "word": "variation",
+      "pos": "n.",
+      "meaning": "变种；变异",
+      "example": "|vary v. 变化"
+    },
+    {
+      "word": "diversity",
+      "pos": "n.",
+      "meaning": "多样性"
+    },
+    {
+      "word": "hybridisation/hybridization",
+      "pos": "n.",
+      "meaning": "杂交",
+      "example": "|hybrid car"
+    },
+    {
+      "word": "classify",
+      "pos": "v.",
+      "meaning": "分类",
+      "example": "Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的"
+    },
+    {
+      "word": "reproduce",
+      "pos": "v.",
+      "meaning": "繁殖"
+    },
+    {
+      "word": "evolve",
+      "pos": "v.",
+      "meaning": "进化；发展",
+      "example": "|evolve from 从...进化而来"
+    },
+    {
+      "word": "fluctuate",
+      "pos": "v.",
+      "meaning": "波动；起伏"
+    },
+    {
+      "word": "reclaim",
+      "pos": "v.",
+      "meaning": "开垦；利用",
+      "example": "This land was reclaimed from the sea"
+    },
+    {
+      "word": "cultivate",
+      "pos": "v.",
+      "meaning": "耕作；培养",
+      "example": "The farmer is cultivating his land|cultivate the habit of 养成...的习惯"
+    },
+    {
+      "word": "sow",
+      "pos": "v.",
+      "meaning": "播种"
+    },
+    {
+      "word": "harvest",
+      "pos": "v./n.",
+      "meaning": "收割；收获；收成",
+      "example": "A good summer harvest is not easy to come by|at the harvest"
+    },
+    {
+      "word": "pluck",
+      "pos": "v.",
+      "meaning": "采；摘",
+      "example": "The pluck a rose for his lover"
+    },
+    {
+      "word": "pick",
+      "pos": "v.",
+      "meaning": "拾；摘"
+    },
+    {
+      "word": "yield",
+      "pos": "v./n.",
+      "meaning": "产出；屈服；服从；产量；投资收益",
+      "example": "This land yields well|yielding adj. 易弯曲的；顺从的。unyielding adj. 坚硬的；不屈不挠的"
+    },
+    {
+      "word": "rear",
+      "pos": "v./n.",
+      "meaning": "培养；抚养；饲养；后部",
+      "example": "Most farmer in this area rear sheep"
+    },
+    {
+      "word": "arable",
+      "pos": "adj.",
+      "meaning": "适合耕种的",
+      "example": "This area changed quickly from arable land to desert"
+    },
+    {
+      "word": "plough/plow",
+      "pos": "n./v.",
+      "meaning": "犁；耕",
+      "example": "The ground was ploughed/plowed and planted with corn"
+    },
+    {
+      "word": "spade",
+      "pos": "n.",
+      "meaning": "铲；锹",
+      "example": "He bought a new spade"
+    },
+    {
+      "word": "rake",
+      "pos": "n./v.",
+      "meaning": "耙子；耙；搜索",
+      "example": "With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱"
+    },
+    {
+      "word": "stack",
+      "pos": "n./v.",
+      "meaning": "堆；垛；堆积",
+      "example": "I have a stack of homework to do|委婉的拒绝别人：I have stack of things to do. My friend has a stack of money that his is raking it in"
+    },
+    {
+      "word": "heap",
+      "pos": "n.",
+      "meaning": "（大而杂乱的）堆",
+      "example": "A heap of clothes was lying in the corner"
+    },
+    {
+      "word": "bundle",
+      "pos": "n.",
+      "meaning": "捆；包；束",
+      "example": "He collected a bundle of sticks"
+    },
+    {
+      "word": "bunch",
+      "pos": "n.",
+      "meaning": "一束（花）；一串（钥匙）",
+      "example": "I bought a bunch of lilacs 我买了一束丁香花|I'm sorry. I have a bunch of work to do 礼貌的回绝"
+    },
+    {
+      "word": "vase",
+      "pos": "n.",
+      "meaning": "瓶；花瓶",
+      "example": "This flaw makes the vase less valable"
+    },
+    {
+      "word": "sunlight",
+      "pos": "n.",
+      "meaning": "阳光"
+    },
+    {
+      "word": "short-day",
+      "pos": "adj.",
+      "meaning": "短日照的",
+      "example": "Soybean is a typical short-day corp 大豆是典型的短日照作物"
+    },
+    {
+      "word": "shade-tolerant",
+      "pos": "adj.",
+      "meaning": "耐阴的"
+    },
+    {
+      "word": "fungus",
+      "pos": "n.",
+      "meaning": "真菌"
+    },
+    {
+      "word": "mould/mold",
+      "pos": "n./v.",
+      "meaning": "霉菌/发霉",
+      "example": "The walls were black with mould"
+    },
+    {
+      "word": "pollen",
+      "pos": "n./v.",
+      "meaning": "花粉；给...授粉",
+      "example": "Each spring, pollen from nearby plants is blown into the water"
+    },
+    {
+      "word": "germinate",
+      "pos": "v.",
+      "meaning": "发芽",
+      "example": "Warmth is needed for the seeds to germinate"
+    },
+    {
+      "word": "seed",
+      "pos": "n.",
+      "meaning": "种子",
+      "example": "The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种"
+    },
+    {
+      "word": "burgeon",
+      "pos": "n./v.",
+      "meaning": "嫩枝；新芽/极速生长；发芽；抽枝"
+    },
+    {
+      "word": "bud",
+      "pos": "n.",
+      "meaning": "芽；苞；蓓蕾",
+      "example": "The rose are in bud|break out into bud 发芽。buddy=bud 老兄"
+    },
+    {
+      "word": "flower",
+      "pos": "n./v.",
+      "meaning": "花；开花植物/成熟；繁荣；开花"
+    },
+    {
+      "word": "blossom",
+      "pos": "v./n.",
+      "meaning": "开花；花朵",
+      "example": "The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。"
+    },
+    {
+      "word": "bloom",
+      "pos": "n.",
+      "meaning": "花朵",
+      "example": "The apple trees are out of bloom"
+    },
+    {
+      "word": "scent",
+      "pos": "n./v.",
+      "meaning": "气味；香味；使具有香味",
+      "example": "The flower scents the air"
+    },
+    {
+      "word": "aromatic",
+      "pos": "adj.",
+      "meaning": "芳香的",
+      "example": "Aromatic plants are often used in cooking"
+    },
+    {
+      "word": "ripen",
+      "pos": "v.",
+      "meaning": "使成熟",
+      "example": "The sun ripens the corn|ripe adj. 熟的。ripener n. 催熟剂。Is this fruit ripe? 这个果子熟了么？"
+    },
+    {
+      "word": "fruit",
+      "pos": "v.",
+      "meaning": "结果实",
+      "example": "The apple trees fruited early this year"
+    },
+    {
+      "word": "wither",
+      "pos": "v.",
+      "meaning": "（使）枯萎",
+      "example": "The grapes withered on the vine|withered adj. 凋谢了的；枯萎的"
+    },
+    {
+      "word": "decompose",
+      "pos": "v.",
+      "meaning": "分解；腐烂",
+      "example": "You can apply heat to decompose organic compounds 你可以加热来分解有机化合物"
+    },
+    {
+      "word": "rot",
+      "pos": "v./n.",
+      "meaning": "使腐烂；使腐坏；腐烂"
+    },
+    {
+      "word": "decay",
+      "pos": "v.",
+      "meaning": "腐烂"
+    },
+    {
+      "word": "stale",
+      "pos": "adj.",
+      "meaning": "不新鲜的；没有新意的；陈腐的"
+    },
+    {
+      "word": "rainforest",
+      "pos": "n.",
+      "meaning": "雨林"
+    },
+    {
+      "word": "jungle",
+      "pos": "n.",
+      "meaning": "丛林"
+    },
+    {
+      "word": "plantation",
+      "pos": "n.",
+      "meaning": "种植园"
+    },
+    {
+      "word": "field",
+      "pos": "n.",
+      "meaning": "原野；场地；野外"
+    },
+    {
+      "word": "terrace",
+      "pos": "n.",
+      "meaning": "梯田"
+    },
+    {
+      "word": "timber",
+      "pos": "n.",
+      "meaning": "木材；木料；林木"
+    },
+    {
+      "word": "charcoal",
+      "pos": "n.",
+      "meaning": "木炭"
+    },
+    {
+      "word": "log",
+      "pos": "n.",
+      "meaning": "原木；日志"
+    },
+    {
+      "word": "logo",
+      "pos": "n.",
+      "meaning": "标识；徽标"
+    },
+    {
+      "word": "forestry",
+      "pos": "n.",
+      "meaning": "林学；林业"
+    },
+    {
+      "word": "branch",
+      "pos": "n.",
+      "meaning": "树枝；分支机构；分店"
+    },
+    {
+      "word": "trunk",
+      "pos": "n.",
+      "meaning": "树干；躯干；大箱子"
+    },
+    {
+      "word": "bough",
+      "pos": "n.",
+      "meaning": "大树枝",
+      "example": "The window of his car was broken by a bough during last night's storm"
+    },
+    {
+      "word": "root",
+      "pos": "n./v.",
+      "meaning": "根；使生根",
+      "example": "|root cause 根本原因"
+    },
+    {
+      "word": "hay",
+      "pos": "n.",
+      "meaning": "干草",
+      "example": "Make hay with sun shines|hit the hay 上床睡觉"
+    },
+    {
+      "word": "straw",
+      "pos": "n.",
+      "meaning": "稻草；麦秆；吸管",
+      "example": "This hat is made of straw"
+    },
+    {
+      "word": "reed",
+      "pos": "n.",
+      "meaning": "芦苇",
+      "example": "The roof is made of dried reed"
+    },
+    {
+      "word": "thorn",
+      "pos": "n.",
+      "meaning": "刺；荆棘",
+      "example": "She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺"
+    },
+    {
+      "word": "weed",
+      "pos": "n.",
+      "meaning": "杂草"
+    },
+    {
+      "word": "grass",
+      "pos": "n.",
+      "meaning": "草；草地"
+    },
+    {
+      "word": "meadow",
+      "pos": "n.",
+      "meaning": "草地；牧草"
+    },
+    {
+      "word": "lawn",
+      "pos": "n.",
+      "meaning": "草地；草坪",
+      "example": "My mother asked me to mow the lawn"
+    },
+    {
+      "word": "olive",
+      "pos": "n.",
+      "meaning": "橄榄；橄榄树",
+      "example": "The olive branch is the emblem of peace. 橄榄枝是和平的象征"
+    },
+    {
+      "word": "pine",
+      "pos": "n.",
+      "meaning": "松树；松木"
+    },
+    {
+      "word": "vine",
+      "pos": "n.",
+      "meaning": "葡萄藤"
+    },
+    {
+      "word": "violet",
+      "pos": "n.",
+      "meaning": "紫罗兰"
+    },
+    {
+      "word": "tulip",
+      "pos": "n.",
+      "meaning": "郁金香"
+    },
+    {
+      "word": "mint",
+      "pos": "n./v.",
+      "meaning": "薄荷；铸币厂/铸造（硬币）",
+      "example": "We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖"
+    },
+    {
+      "word": "reef",
+      "pos": "n.",
+      "meaning": "暗礁",
+      "example": "The ship was wrecked on a reef. 这船触礁失事了"
+    },
+    {
+      "word": "alga",
+      "pos": "n.",
+      "meaning": "海藻",
+      "example": "Some of the algae are edible|algal adj. 海藻的。algae 复数形式"
+    },
+    {
+      "word": "enzyme",
+      "pos": "n.",
+      "meaning": "酶"
+    },
+    {
+      "word": "catalyst",
+      "pos": "n.",
+      "meaning": "催化剂；促进因素",
+      "example": "A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂"
+    },
+    {
+      "word": "release",
+      "pos": "v./n.",
+      "meaning": "释放；发布"
+    },
+    {
+      "word": "emission",
+      "pos": "n.",
+      "meaning": "排放；散发；排放物",
+      "example": "This conference aims to reduce carbon emissions or greenhouse gas emissions around this world"
+    },
+    {
+      "word": "absorb",
+      "pos": "v.",
+      "meaning": "吸收；吸引全部注意力"
+    },
+    {
+      "word": "circulation",
+      "pos": "n.",
+      "meaning": "流通；循环；流传",
+      "example": "Sea surface temperature and atmospheric circulation are strongly coupled"
+    },
+    {
+      "word": "exceed",
+      "pos": "v.",
+      "meaning": "超出",
+      "example": "The driver exceeds the speed limit|exceed expectation 意料之外"
+    },
+    {
+      "word": "uptake",
+      "pos": "n.",
+      "meaning": "摄取；领会",
+      "example": "The doctor advised me to reduce the salt uptake"
+    },
+    {
+      "word": "nutrient",
+      "pos": "n.",
+      "meaning": "营养物质",
+      "example": "The nutrient in the soil acts as a stimulus to growth in plants|nutrition n. 营养"
+    },
+    {
+      "word": "energy",
+      "pos": "n.",
+      "meaning": "能源；精力"
+    },
+    {
+      "word": "surroundings",
+      "pos": "n.",
+      "meaning": "环境可与environment互换"
+    },
+    {
+      "word": "mechanism",
+      "pos": "n.",
+      "meaning": "机制；构造",
+      "example": "Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分"
+    },
+    {
+      "word": "counterbalance",
+      "pos": "n./v.",
+      "meaning": "其平衡作用的事物；抵消；对...起平衡作用"
+    },
+    {
+      "word": "protect",
+      "pos": "v.",
+      "meaning": "保护"
+    },
+    {
+      "word": "preserve",
+      "pos": "v.",
+      "meaning": "保护；维持；保存"
+    },
+    {
+      "word": "conservation",
+      "pos": "n.",
+      "meaning": "（对自然环境的）保护；保存",
+      "example": "Some accommodation between conservation and tourism is essential. 对自然环境的保护和旅游业之前的相互协调是至关重要的 —— accommodation 除了有住宿还有和解协调的意思|conversation n. 交谈"
+    },
+    {
+      "word": "bush fire",
+      "pos": "n.",
+      "meaning": "林区大火"
+    },
+    {
+      "word": "extinguish",
+      "pos": "v.",
+      "meaning": "扑灭（火）；使（想法；感情等）破灭",
+      "example": "They tried every means to extinguish the fire"
+    },
+    {
+      "word": "destruct",
+      "pos": "v.",
+      "meaning": "（使）自毁"
+    },
+    {
+      "word": "ruin",
+      "pos": "v./n.",
+      "meaning": "毁坏；摧毁；毁灭；废墟"
+    },
+    {
+      "word": "perish",
+      "pos": "v.",
+      "meaning": "毁灭；消亡；腐烂",
+      "example": "Flowers perish when frost comes"
+    },
+    {
+      "word": "demolish",
+      "pos": "v.",
+      "meaning": "毁坏；拆除；推翻",
+      "example": "The fire demolished the town"
+    },
+    {
+      "word": "infringe",
+      "pos": "v.",
+      "meaning": "侵犯；违反",
+      "example": "The press infringed a copyright agreement"
+    },
+    {
+      "word": "undermine",
+      "pos": "v.",
+      "meaning": "破坏；逐渐削弱"
+    },
+    {
+      "word": "extinction",
+      "pos": "n.",
+      "meaning": "灭绝",
+      "example": "|extinct adj. 已灭绝的"
+    },
+    {
+      "word": "pattern",
+      "pos": "n.",
+      "meaning": "模式；样式；底样"
+    },
+    {
+      "word": "outcome",
+      "pos": "n.",
+      "meaning": "结果",
+      "example": "We are anxiously awaiting the outcome of their discussion"
+    },
+    {
+      "word": "impact",
+      "pos": "n.",
+      "meaning": "影响"
+    },
+    {
+      "word": "seasonal",
+      "pos": "adj.",
+      "meaning": "季节性的"
+    },
+    {
+      "word": "experimental",
+      "pos": "adj.",
+      "meaning": "实验性的"
+    },
+    {
+      "word": "favourable/favorable",
+      "pos": "adj.",
+      "meaning": "有利的；赞成的；肯定的"
+    },
+    {
+      "word": "productive",
+      "pos": "adj.",
+      "meaning": "多产的"
+    },
+    {
+      "word": "effective",
+      "pos": "adj.",
+      "meaning": "有效的"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的"
+    },
+    {
+      "word": "considerable",
+      "pos": "adj.",
+      "meaning": "相当多的"
+    },
+    {
+      "word": "massive",
+      "pos": "adj.",
+      "meaning": "巨大的；大规模的；庞大的"
+    },
+    {
+      "word": "immense",
+      "pos": "adj.",
+      "meaning": "巨大的；极好的"
+    },
+    {
+      "word": "maximal",
+      "pos": "adj.",
+      "meaning": "最大的"
+    },
+    {
+      "word": "minimal",
+      "pos": "adj.",
+      "meaning": "最小的"
+    },
+    {
+      "word": "optimal/optimum",
+      "pos": "adj.",
+      "meaning": "最佳的；最理想的"
+    }
+  ]
+}

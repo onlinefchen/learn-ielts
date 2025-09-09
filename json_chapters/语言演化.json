@@ -1,0 +1,367 @@
+{
+  "chapter": "语言演化",
+  "word_count": 68,
+  "words": [
+    {
+      "word": "language",
+      "pos": "n.",
+      "meaning": "语言"
+    },
+    {
+      "word": "symbol",
+      "pos": "n.",
+      "meaning": "象征；符号；记号",
+      "example": "|symbolise=symbolize v. 象征"
+    },
+    {
+      "word": "sign",
+      "pos": "n./v.",
+      "meaning": "符号；征兆；迹象；手势；签（名）"
+    },
+    {
+      "word": "gesture",
+      "pos": "n.",
+      "meaning": "手势；姿势"
+    },
+    {
+      "word": "handwriting",
+      "pos": "n.",
+      "meaning": "笔记；书写"
+    },
+    {
+      "word": "pictograph",
+      "pos": "n.",
+      "meaning": "象形文字"
+    },
+    {
+      "word": "wedge",
+      "pos": "n.",
+      "meaning": "楔子；楔形物；楔形文字"
+    },
+    {
+      "word": "knot",
+      "pos": "n.",
+      "meaning": "（绳、线的）结；（树枝上的）节子"
+    },
+    {
+      "word": "linguistics",
+      "pos": "n.",
+      "meaning": "语言学"
+    },
+    {
+      "word": "semantic",
+      "pos": "adj.",
+      "meaning": "语义的",
+      "example": "There are two kinds of puns, phonetic pun and semantic pun. 双关语分为谐音双关语和语义双关语"
+    },
+    {
+      "word": "syntax",
+      "pos": "n.",
+      "meaning": "句法"
+    },
+    {
+      "word": "grammar",
+      "pos": "n.",
+      "meaning": "语法；语法书"
+    },
+    {
+      "word": "phonetics",
+      "pos": "n.",
+      "meaning": "语音学",
+      "example": "|phonetic adj. 语音的"
+    },
+    {
+      "word": "pronounce",
+      "pos": "v.",
+      "meaning": "发...的音；宣布",
+      "example": "|pronunciation n. 发音 pronounced adj. 显著的；表达明确的"
+    },
+    {
+      "word": "intonation",
+      "pos": "n.",
+      "meaning": "语调",
+      "example": "Some question are spoken with a rising intonation"
+    },
+    {
+      "word": "inflection",
+      "pos": "n.",
+      "meaning": "语调的抑扬变化",
+      "example": "She spoken in a low voice, always without inflection"
+    },
+    {
+      "word": "dialect",
+      "pos": "n.",
+      "meaning": "方言；地方话"
+    },
+    {
+      "word": "accent",
+      "pos": "n.",
+      "meaning": "重音；口音；读音符号"
+    },
+    {
+      "word": "utterance",
+      "pos": "n.",
+      "meaning": "说话；言论",
+      "example": "His every utterance will be scrutinized 他说的每句话都会被仔细审查|scrutinize=scrutinise v. 仔细查看、审查。scrutiny n. 仔细观察、审查"
+    },
+    {
+      "word": "oral",
+      "pos": "adj.",
+      "meaning": "口头的",
+      "example": "Students of English should have a lot of oral drills|drill n. 钻头，（尤指军事）练习 a spelling/pronunciation drill 拼写／发音练习"
+    },
+    {
+      "word": "verbal",
+      "pos": "adj.",
+      "meaning": "口头的；言语的",
+      "example": "Don't be afraid of verbal abuse or criticism.|nonverbal adj. 不用语言的"
+    },
+    {
+      "word": "syllable",
+      "pos": "n.",
+      "meaning": "音节",
+      "example": "The stress is on the last syllable."
+    },
+    {
+      "word": "phoneme",
+      "pos": "n.",
+      "meaning": "音位",
+      "example": "In actual speech, a phoneme is realized phonetically as a certain phone"
+    },
+    {
+      "word": "vowel",
+      "pos": "n.",
+      "meaning": "元音",
+      "example": "Each language has a different vowel system"
+    },
+    {
+      "word": "consonant",
+      "pos": "n.",
+      "meaning": "辅音",
+      "example": "These are common consonant clusters at the beginning of words"
+    },
+    {
+      "word": "alphabet",
+      "pos": "n.",
+      "meaning": "字母表；（一种语言的）全部字母"
+    },
+    {
+      "word": "logogram",
+      "pos": "n.",
+      "meaning": "语标，缩记符（如& 、@等） ;非字母语言的字符",
+      "example": "ACP is the logogram of English of the African, Caribbean and Pacific states"
+    },
+    {
+      "word": "vocabulary",
+      "pos": "n.",
+      "meaning": "词汇"
+    },
+    {
+      "word": "dictionary",
+      "pos": "n.",
+      "meaning": "词典；字典"
+    },
+    {
+      "word": "idiom",
+      "pos": "n.",
+      "meaning": "习语"
+    },
+    {
+      "word": "phrase",
+      "pos": "n.",
+      "meaning": "短语；习语"
+    },
+    {
+      "word": "clause",
+      "pos": "n.",
+      "meaning": "从句；分句；条款"
+    },
+    {
+      "word": "expression",
+      "pos": "n.",
+      "meaning": "词语；表达；表情"
+    },
+    {
+      "word": "tense",
+      "pos": "n./adj.",
+      "meaning": "时态；紧张的"
+    },
+    {
+      "word": "root",
+      "pos": "n.",
+      "meaning": "根；词根"
+    },
+    {
+      "word": "prefix",
+      "pos": "n.",
+      "meaning": "前置代号；词首；前缀"
+    },
+    {
+      "word": "suffix",
+      "pos": "n.",
+      "meaning": "后缀"
+    },
+    {
+      "word": "abbreviation",
+      "pos": "n.",
+      "meaning": "缩写形式"
+    },
+    {
+      "word": "synonym",
+      "pos": "n.",
+      "meaning": "同义词"
+    },
+    {
+      "word": "antonym",
+      "pos": "n.",
+      "meaning": "反义词"
+    },
+    {
+      "word": "noun",
+      "pos": "n.",
+      "meaning": "名词"
+    },
+    {
+      "word": "singular",
+      "pos": "n./adj.",
+      "meaning": "单数；非凡的；单数的"
+    },
+    {
+      "word": "plural",
+      "pos": "n./adj.",
+      "meaning": "复数；复数的；多元的"
+    },
+    {
+      "word": "pronoun",
+      "pos": "n.",
+      "meaning": "代词"
+    },
+    {
+      "word": "verb",
+      "pos": "n.",
+      "meaning": "动词"
+    },
+    {
+      "word": "adjective",
+      "pos": "n.",
+      "meaning": "形容词"
+    },
+    {
+      "word": "adverb",
+      "pos": "n.",
+      "meaning": "副词"
+    },
+    {
+      "word": "preposition",
+      "pos": "n.",
+      "meaning": "介词"
+    },
+    {
+      "word": "conjunction",
+      "pos": "n.",
+      "meaning": "连词"
+    },
+    {
+      "word": "consistent",
+      "pos": "adj.",
+      "meaning": "一致的；（观点或看法）连贯的",
+      "example": "|inconsistent adj. 不一致的。consist v. 由...组成。be consistent with 与...一致"
+    },
+    {
+      "word": "complicated",
+      "pos": "adj.",
+      "meaning": "复杂的",
+      "example": "|complicate v. 使复杂化"
+    },
+    {
+      "word": "complex",
+      "pos": "adj.",
+      "meaning": "复杂的"
+    },
+    {
+      "word": "compile",
+      "pos": "v.",
+      "meaning": "编撰"
+    },
+    {
+      "word": "version",
+      "pos": "n.",
+      "meaning": "版本"
+    },
+    {
+      "word": "translate",
+      "pos": "v.",
+      "meaning": "翻译；（使）转变"
+    },
+    {
+      "word": "paraphrase",
+      "pos": "v./n.",
+      "meaning": "意译；改述"
+    },
+    {
+      "word": "interpret",
+      "pos": "v.",
+      "meaning": "口译；解释；说明；领会；理解",
+      "example": "|interpretation n. 口译；解释。interpreter n. 口译员"
+    },
+    {
+      "word": "narrate",
+      "pos": "v.",
+      "meaning": "讲（故事）；叙述"
+    },
+    {
+      "word": "illuminate",
+      "pos": "v.",
+      "meaning": "阐释；说明；照亮"
+    },
+    {
+      "word": "decipher",
+      "pos": "v.",
+      "meaning": "译解；辨认"
+    },
+    {
+      "word": "eloquence",
+      "pos": "n.",
+      "meaning": "雄辩；流利的口才",
+      "example": "The audience are struck by her simple, spellbinding eloquence|be struck by 被...所触动、打动。spellbinding adj. 引人入胜的。eloquent adj. 雄辩的；有口才的"
+    },
+    {
+      "word": "communicate",
+      "pos": "v.",
+      "meaning": "沟通；交流；传达"
+    },
+    {
+      "word": "discussion",
+      "pos": "n.",
+      "meaning": "讨论；谈论"
+    },
+    {
+      "word": "brainstorm",
+      "pos": "n./v.",
+      "meaning": "集体自由讨论；头脑风暴；集思广益；进行头脑风暴"
+    },
+    {
+      "word": "debate",
+      "pos": "v./n.",
+      "meaning": "辩论；争论；讨论",
+      "example": "|debatable adj. 有争议的。debate about/on/upon sth. 就某事进行讨论。have a debate with sb. 与某人进行辩论"
+    },
+    {
+      "word": "commentary",
+      "pos": "n.",
+      "meaning": "评论；批评；实况报道"
+    },
+    {
+      "word": "negotiate",
+      "pos": "v.",
+      "meaning": "协商；谈判",
+      "example": "We are not about to negotiate with terrorists.|negotiation n. 协商；谈判。negotiate about 就...进行协商"
+    },
+    {
+      "word": "contention",
+      "pos": "n.",
+      "meaning": "争论；争辩；观点",
+      "example": "My contention is that the scheme will never work|content n. 内容"
+    }
+  ]
+}

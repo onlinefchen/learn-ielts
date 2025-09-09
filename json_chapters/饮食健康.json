@@ -1,0 +1,885 @@
+{
+  "chapter": "饮食健康",
+  "word_count": 173,
+  "words": [
+    {
+      "word": "food",
+      "pos": "n.",
+      "meaning": "食物",
+      "example": "I prefer vegetarian food|foodie n. 美食家；吃货"
+    },
+    {
+      "word": "diet",
+      "pos": "n.",
+      "meaning": "日常饮食；（医生指定的）特别饮食；节食",
+      "example": "A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食"
+    },
+    {
+      "word": "appetite",
+      "pos": "n.",
+      "meaning": "食欲；强烈欲望"
+    },
+    {
+      "word": "treat",
+      "pos": "v./n.",
+      "meaning": "请客；对待；治疗/款待",
+      "example": "|treatment n. 对待；处理；治疗"
+    },
+    {
+      "word": "cater",
+      "pos": "v.",
+      "meaning": "为...提供饮食；满足...的需要"
+    },
+    {
+      "word": "provision",
+      "pos": "n.",
+      "meaning": "供应、预备",
+      "example": "|provisions 食品供应"
+    },
+    {
+      "word": "edible",
+      "pos": "adj.",
+      "meaning": "可以吃的"
+    },
+    {
+      "word": "recipe",
+      "pos": "n.",
+      "meaning": "食谱；秘诀"
+    },
+    {
+      "word": "restaurant",
+      "pos": "n.",
+      "meaning": "餐馆"
+    },
+    {
+      "word": "refectory",
+      "pos": "n.",
+      "meaning": "（学校或其他机构）食堂、餐厅"
+    },
+    {
+      "word": "bar",
+      "pos": "n.",
+      "meaning": "酒吧、吧台"
+    },
+    {
+      "word": "cafeteria",
+      "pos": "n.",
+      "meaning": "自助餐厅"
+    },
+    {
+      "word": "buffet",
+      "pos": "n.",
+      "meaning": "自助餐"
+    },
+    {
+      "word": "barbecue",
+      "pos": "n./v.",
+      "meaning": "烧烤野餐、烤架/烧烤"
+    },
+    {
+      "word": "supper",
+      "pos": "n.",
+      "meaning": "晚餐"
+    },
+    {
+      "word": "banquet",
+      "pos": "n.",
+      "meaning": "宴会"
+    },
+    {
+      "word": "refreshment",
+      "pos": "n.",
+      "meaning": "茶点、点心"
+    },
+    {
+      "word": "snack",
+      "pos": "n.",
+      "meaning": "快餐、小吃、零食"
+    },
+    {
+      "word": "appetiser/appetizer",
+      "pos": "n.",
+      "meaning": "开胃饮料、开胃小菜"
+    },
+    {
+      "word": "cuisine",
+      "pos": "n.",
+      "meaning": "菜肴、烹饪"
+    },
+    {
+      "word": "menu",
+      "pos": "n.",
+      "meaning": "菜单"
+    },
+    {
+      "word": "order",
+      "pos": "n./v.",
+      "meaning": "订单、点的餐/点（酒菜等）"
+    },
+    {
+      "word": "takeaway",
+      "pos": "n.",
+      "meaning": "[英]外卖餐馆、外卖食物"
+    },
+    {
+      "word": "chief",
+      "pos": "n.",
+      "meaning": "厨师"
+    },
+    {
+      "word": "gourmet",
+      "pos": "n./adj.",
+      "meaning": "美食家/美味佳肴的"
+    },
+    {
+      "word": "vegetarian",
+      "pos": "n./adj.",
+      "meaning": "素食者/素食的、无肉的"
+    },
+    {
+      "word": "cutlery",
+      "pos": "n.",
+      "meaning": "餐具、刀具"
+    },
+    {
+      "word": "silver",
+      "pos": "n./adj.",
+      "meaning": "银、银器/银的、银色的"
+    },
+    {
+      "word": "ceramic",
+      "pos": "adj./n.",
+      "meaning": "陶瓷的/陶瓷制品"
+    },
+    {
+      "word": "porcelain",
+      "pos": "n.",
+      "meaning": "瓷器、瓷"
+    },
+    {
+      "word": "bowl",
+      "pos": "n.",
+      "meaning": "碗",
+      "example": "I have a bowl of cereal every morning|cereal n. 谷类植物，谷物；（尤指早晨加牛奶食用的）谷类食物，麦片。a fish bowl 鱼缸"
+    },
+    {
+      "word": "dish",
+      "pos": "n.",
+      "meaning": "碟、菜肴"
+    },
+    {
+      "word": "saucer",
+      "pos": "n.",
+      "meaning": "茶托、茶碟"
+    },
+    {
+      "word": "tray",
+      "pos": "n.",
+      "meaning": "盘、托盘"
+    },
+    {
+      "word": "fork",
+      "pos": "n.",
+      "meaning": "餐叉、分岔处"
+    },
+    {
+      "word": "knife",
+      "pos": "n.",
+      "meaning": "刀"
+    },
+    {
+      "word": "spoon",
+      "pos": "n.",
+      "meaning": "匙、调羹"
+    },
+    {
+      "word": "glass",
+      "pos": "n.",
+      "meaning": "玻璃、玻璃杯"
+    },
+    {
+      "word": "mug",
+      "pos": "n.",
+      "meaning": "大杯、马克杯"
+    },
+    {
+      "word": "kettle",
+      "pos": "n.",
+      "meaning": "水壶、[美]锅"
+    },
+    {
+      "word": "pan",
+      "pos": "n.",
+      "meaning": "平底锅、[美]烤盘"
+    },
+    {
+      "word": "pot",
+      "pos": "n.",
+      "meaning": "锅、壶"
+    },
+    {
+      "word": "stove",
+      "pos": "n.",
+      "meaning": "炉子"
+    },
+    {
+      "word": "furnace",
+      "pos": "n.",
+      "meaning": "熔炉；暖气炉"
+    },
+    {
+      "word": "oven",
+      "pos": "n.",
+      "meaning": "烤炉、烤箱"
+    },
+    {
+      "word": "tin",
+      "pos": "n.",
+      "meaning": "锡、罐头"
+    },
+    {
+      "word": "lid",
+      "pos": "n.",
+      "meaning": "盖子；眼睑，眼皮",
+      "example": "He slammed the lid down|slam v. （使）重重撞上，（使）砰地关上"
+    },
+    {
+      "word": "drink",
+      "pos": "v./n.",
+      "meaning": "饮、喝；喝酒/饮料"
+    },
+    {
+      "word": "beverage",
+      "pos": "n.",
+      "meaning": "（水以外的）饮料"
+    },
+    {
+      "word": "juice",
+      "pos": "n.",
+      "meaning": "果汁、菜汁"
+    },
+    {
+      "word": "soda",
+      "pos": "n.",
+      "meaning": "无碳酸钠的；苏打水；[美]汽水"
+    },
+    {
+      "word": "coffee",
+      "pos": "n.",
+      "meaning": "咖啡"
+    },
+    {
+      "word": "alcohol",
+      "pos": "n.",
+      "meaning": "酒精、乙醇、酒"
+    },
+    {
+      "word": "liquor",
+      "pos": "n.",
+      "meaning": "烈性酒"
+    },
+    {
+      "word": "whisky/whiskey",
+      "pos": "n.",
+      "meaning": "威士忌酒"
+    },
+    {
+      "word": "brandy",
+      "pos": "n.",
+      "meaning": "白兰地酒"
+    },
+    {
+      "word": "drunk",
+      "pos": "adj.",
+      "meaning": "醉的"
+    },
+    {
+      "word": "tobacco",
+      "pos": "n.",
+      "meaning": "烟草"
+    },
+    {
+      "word": "cigarette",
+      "pos": "n.",
+      "meaning": "香烟"
+    },
+    {
+      "word": "sober",
+      "pos": "adj./v.",
+      "meaning": "清醒的/（使）醒酒",
+      "example": "|sober up （使）醒酒"
+    },
+    {
+      "word": "vegetable",
+      "pos": "n.",
+      "meaning": "蔬菜"
+    },
+    {
+      "word": "tomato",
+      "pos": "n.",
+      "meaning": "番茄"
+    },
+    {
+      "word": "potato",
+      "pos": "n.",
+      "meaning": "土豆"
+    },
+    {
+      "word": "pea",
+      "pos": "n.",
+      "meaning": "豌豆",
+      "example": "This kind of pea has a long pod（荚）"
+    },
+    {
+      "word": "bean",
+      "pos": "n.",
+      "meaning": "豆"
+    },
+    {
+      "word": "cucumber",
+      "pos": "n.",
+      "meaning": "黄瓜"
+    },
+    {
+      "word": "cabbage",
+      "pos": "n.",
+      "meaning": "洋白菜、卷心菜、甘蓝"
+    },
+    {
+      "word": "onion",
+      "pos": "n.",
+      "meaning": "洋葱"
+    },
+    {
+      "word": "mushroom",
+      "pos": "n./v.",
+      "meaning": "蘑菇/呈蘑菇状扩散"
+    },
+    {
+      "word": "eggplant",
+      "pos": "n.",
+      "meaning": "茄子"
+    },
+    {
+      "word": "carrot",
+      "pos": "n.",
+      "meaning": "胡萝卜"
+    },
+    {
+      "word": "turnip",
+      "pos": "n.",
+      "meaning": "萝卜、芜菁"
+    },
+    {
+      "word": "radish",
+      "pos": "n.",
+      "meaning": "樱桃萝卜"
+    },
+    {
+      "word": "fruit",
+      "pos": "n.",
+      "meaning": "水果"
+    },
+    {
+      "word": "peel",
+      "pos": "v./n.",
+      "meaning": "剥（水果、蔬菜的）皮/（水果）皮"
+    },
+    {
+      "word": "strip",
+      "pos": "v./n.",
+      "meaning": "剥去、除去/条、带"
+    },
+    {
+      "word": "core",
+      "pos": "n.",
+      "meaning": "果核"
+    },
+    {
+      "word": "hull",
+      "pos": "n./v.",
+      "meaning": "（果实等的）外壳；船体/剥去（果实的）外壳"
+    },
+    {
+      "word": "cherry",
+      "pos": "n.",
+      "meaning": "樱桃；樱桃树"
+    },
+    {
+      "word": "berry",
+      "pos": "n.",
+      "meaning": "浆果"
+    },
+    {
+      "word": "grape",
+      "pos": "n.",
+      "meaning": "葡萄"
+    },
+    {
+      "word": "papaya",
+      "pos": "n.",
+      "meaning": "番木瓜"
+    },
+    {
+      "word": "peach",
+      "pos": "n.",
+      "meaning": "桃子"
+    },
+    {
+      "word": "pear",
+      "pos": "n.",
+      "meaning": "梨"
+    },
+    {
+      "word": "plum",
+      "pos": "n.",
+      "meaning": "李子、梅子"
+    },
+    {
+      "word": "orange",
+      "pos": "n.",
+      "meaning": "橙子"
+    },
+    {
+      "word": "melon",
+      "pos": "n.",
+      "meaning": "瓜、甜瓜"
+    },
+    {
+      "word": "lemon",
+      "pos": "n.",
+      "meaning": "柠檬"
+    },
+    {
+      "word": "kiwi",
+      "pos": "n.",
+      "meaning": "猕猴桃、奇异果"
+    },
+    {
+      "word": "crop",
+      "pos": "n.",
+      "meaning": "庄稼、收成、产量"
+    },
+    {
+      "word": "corn",
+      "pos": "n.",
+      "meaning": "[英]谷物；[美]玉米"
+    },
+    {
+      "word": "grain",
+      "pos": "n.",
+      "meaning": "谷物、颗粒"
+    },
+    {
+      "word": "wheat",
+      "pos": "n.",
+      "meaning": "小麦"
+    },
+    {
+      "word": "reap",
+      "pos": "v.",
+      "meaning": "收割、收获"
+    },
+    {
+      "word": "flour",
+      "pos": "n.",
+      "meaning": "面粉"
+    },
+    {
+      "word": "porridge",
+      "pos": "n.",
+      "meaning": "麦片粥"
+    },
+    {
+      "word": "paste",
+      "pos": "n.",
+      "meaning": "糨糊、面团"
+    },
+    {
+      "word": "livestock",
+      "pos": "n.",
+      "meaning": "家畜",
+      "example": "He is good at breading livestock|livestock sector 畜牧业"
+    },
+    {
+      "word": "chicken",
+      "pos": "n.",
+      "meaning": "鸡"
+    },
+    {
+      "word": "turkey",
+      "pos": "n.",
+      "meaning": "火鸡"
+    },
+    {
+      "word": "beef",
+      "pos": "n.",
+      "meaning": "牛肉"
+    },
+    {
+      "word": "pork",
+      "pos": "n.",
+      "meaning": "猪肉"
+    },
+    {
+      "word": "mutton",
+      "pos": "n.",
+      "meaning": "羊肉"
+    },
+    {
+      "word": "sausage",
+      "pos": "n.",
+      "meaning": "香肠"
+    },
+    {
+      "word": "fish",
+      "pos": "n./v.",
+      "meaning": "鱼/钓鱼"
+    },
+    {
+      "word": "pond",
+      "pos": "n.",
+      "meaning": "池塘"
+    },
+    {
+      "word": "rod",
+      "pos": "n.",
+      "meaning": "杆、竿",
+      "example": "|a fishing rod"
+    },
+    {
+      "word": "dairy",
+      "pos": "n./adj.",
+      "meaning": "乳制品、乳品店/乳制的",
+      "example": "|diary n. 日记（注意拼写）。dairy products 乳制品"
+    },
+    {
+      "word": "milk",
+      "pos": "n./v.",
+      "meaning": "奶/挤奶"
+    },
+    {
+      "word": "yogurt",
+      "pos": "n.",
+      "meaning": "酸奶"
+    },
+    {
+      "word": "cream",
+      "pos": "n.",
+      "meaning": "奶油"
+    },
+    {
+      "word": "cheese",
+      "pos": "n.",
+      "meaning": "起司、奶酪",
+      "example": "|a big cheese 要员、大人物"
+    },
+    {
+      "word": "butter",
+      "pos": "n./v.",
+      "meaning": "黄油/涂黄油"
+    },
+    {
+      "word": "salad",
+      "pos": "n.",
+      "meaning": "色拉"
+    },
+    {
+      "word": "sandwich",
+      "pos": "v./n.",
+      "meaning": "把...夹入/三明治"
+    },
+    {
+      "word": "hamburger",
+      "pos": "n.",
+      "meaning": "汉堡包"
+    },
+    {
+      "word": "loaf",
+      "pos": "n./v.",
+      "meaning": "一条（面包）/游荡、闲逛"
+    },
+    {
+      "word": "pie",
+      "pos": "n.",
+      "meaning": "馅饼、派"
+    },
+    {
+      "word": "pizza",
+      "pos": "n.",
+      "meaning": "披萨饼"
+    },
+    {
+      "word": "pasta",
+      "pos": "n.",
+      "meaning": "意大利面食"
+    },
+    {
+      "word": "spaghetti",
+      "pos": "n.",
+      "meaning": "意大利细面"
+    },
+    {
+      "word": "soup",
+      "pos": "n.",
+      "meaning": "汤"
+    },
+    {
+      "word": "pudding",
+      "pos": "n.",
+      "meaning": "布丁"
+    },
+    {
+      "word": "biscuit",
+      "pos": "n.",
+      "meaning": "[英]饼干，[美]烤饼、小圆面包"
+    },
+    {
+      "word": "jam",
+      "pos": "n.",
+      "meaning": "果酱"
+    },
+    {
+      "word": "nut",
+      "pos": "n.",
+      "meaning": "坚果、螺母"
+    },
+    {
+      "word": "chocolate",
+      "pos": "n.",
+      "meaning": "巧克力"
+    },
+    {
+      "word": "ice cream",
+      "pos": "n.",
+      "meaning": "冰淇淋"
+    },
+    {
+      "word": "vanilla",
+      "pos": "n./adj.",
+      "meaning": "香草/香草味的"
+    },
+    {
+      "word": "mustard",
+      "pos": "n.",
+      "meaning": "芥末、芥菜"
+    },
+    {
+      "word": "wasabi",
+      "pos": "n.",
+      "meaning": "山葵、山葵根"
+    },
+    {
+      "word": "pepper",
+      "pos": "n.",
+      "meaning": "胡椒粉、柿子树"
+    },
+    {
+      "word": "ginger",
+      "pos": "n.",
+      "meaning": "姜"
+    },
+    {
+      "word": "garlic",
+      "pos": "n.",
+      "meaning": "蒜"
+    },
+    {
+      "word": "scallion",
+      "pos": "n.",
+      "meaning": "大葱",
+      "example": "Kimchi is a well-known Korean side dish（配菜） make from fermented（发酵的） cabbage, radish, scallion or cucumber"
+    },
+    {
+      "word": "vinegar",
+      "pos": "n.",
+      "meaning": "醋"
+    },
+    {
+      "word": "salt",
+      "pos": "n.",
+      "meaning": "盐"
+    },
+    {
+      "word": "sugar",
+      "pos": "n.",
+      "meaning": "糖"
+    },
+    {
+      "word": "candy",
+      "pos": "n.",
+      "meaning": "糖果"
+    },
+    {
+      "word": "honey",
+      "pos": "n.",
+      "meaning": "蜂蜜"
+    },
+    {
+      "word": "flavor/flavour",
+      "pos": "n.",
+      "meaning": "味道、口味、特色、风格"
+    },
+    {
+      "word": "sour",
+      "pos": "adj.",
+      "meaning": "酸的"
+    },
+    {
+      "word": "sweet",
+      "pos": "adj.",
+      "meaning": "甜的、愉快的"
+    },
+    {
+      "word": "bitter",
+      "pos": "adj.",
+      "meaning": "苦的；痛苦的；严寒的"
+    },
+    {
+      "word": "spicy",
+      "pos": "adj.",
+      "meaning": "辣的"
+    },
+    {
+      "word": "delicious",
+      "pos": "adj.",
+      "meaning": "美味的"
+    },
+    {
+      "word": "yummy",
+      "pos": "adj.",
+      "meaning": "美味的"
+    },
+    {
+      "word": "tasty",
+      "pos": "adj.",
+      "meaning": "美味的"
+    },
+    {
+      "word": "hunger",
+      "pos": "n.",
+      "meaning": "饥饿、渴望"
+    },
+    {
+      "word": "thirsty",
+      "pos": "n.",
+      "meaning": "渴的、渴望的"
+    },
+    {
+      "word": "spice",
+      "pos": "n.",
+      "meaning": "香料、给生活添加情趣的事"
+    },
+    {
+      "word": "sauce",
+      "pos": "n.",
+      "meaning": "酱汁"
+    },
+    {
+      "word": "ketchup",
+      "pos": "n.",
+      "meaning": "番茄酱"
+    },
+    {
+      "word": "perfume",
+      "pos": "n.",
+      "meaning": "香味、芳香；香水"
+    },
+    {
+      "word": "ingredient",
+      "pos": "n.",
+      "meaning": "成分；（烹调的）原料、因素"
+    },
+    {
+      "word": "supplement",
+      "pos": "n./v.",
+      "meaning": "营养补给、补贴/增补、补充"
+    },
+    {
+      "word": "digest",
+      "pos": "v.",
+      "meaning": "消化、理解、领悟"
+    },
+    {
+      "word": "cook",
+      "pos": "v./n.",
+      "meaning": "烹调、烧、煮/厨师"
+    },
+    {
+      "word": "bake",
+      "pos": "v.",
+      "meaning": "烘烤、烤熟"
+    },
+    {
+      "word": "fry",
+      "pos": "v.",
+      "meaning": "油煎"
+    },
+    {
+      "word": "roast",
+      "pos": "v./n.",
+      "meaning": "烤/烤肉"
+    },
+    {
+      "word": "toast",
+      "pos": "v./n.",
+      "meaning": "向...祝酒；为...干杯；烤/烤面包片"
+    },
+    {
+      "word": "suck",
+      "pos": "v.",
+      "meaning": "吮吸"
+    },
+    {
+      "word": "swallow",
+      "pos": "v.",
+      "meaning": "咽下、吞下"
+    },
+    {
+      "word": "lick",
+      "pos": "v.",
+      "meaning": "舔"
+    },
+    {
+      "word": "chew",
+      "pos": "v.",
+      "meaning": "咀嚼"
+    },
+    {
+      "word": "gum",
+      "pos": "n.",
+      "meaning": "口香糖、树胶"
+    },
+    {
+      "word": "soak",
+      "pos": "v.",
+      "meaning": "浸泡、使湿透"
+    },
+    {
+      "word": "dip",
+      "pos": "v.",
+      "meaning": "蘸、浸"
+    },
+    {
+      "word": "squeeze",
+      "pos": "v.",
+      "meaning": "挤压"
+    },
+    {
+      "word": "stir",
+      "pos": "v.",
+      "meaning": "搅动"
+    },
+    {
+      "word": "grind",
+      "pos": "v./n.",
+      "meaning": "碾碎/枯燥乏味的事情"
+    },
+    {
+      "word": "slice",
+      "pos": "v./n.",
+      "meaning": "切成薄片、切、划/薄片",
+      "example": "I sliced the bread"
+    }
+  ]
+}

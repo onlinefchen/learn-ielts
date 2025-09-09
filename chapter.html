@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>章节学习 - IELTS词汇</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-nav">
+                <button onclick="window.location.href='index.html'" class="back-btn">← 返回章节列表</button>
+                <h1 id="chapter-title">加载中...</h1>
+            </div>
+            <div class="controls">
+                <button id="toggle-mastered" class="toggle-btn">显示已掌握单词</button>
+                <button id="reset-chapter" class="reset-btn">重置本章进度</button>
+                <div class="stats">
+                    <span>总计: <strong id="total-count">0</strong></span>
+                    <span>已掌握: <strong id="mastered-count">0</strong></span>
+                    <span>学习中: <strong id="learning-count">0</strong></span>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="words-container" id="words-container">
+                <!-- 单词卡片将通过JavaScript动态加载 -->
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let chapterName = '';
+        let wordsData = [];
+        let masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+        let showMastered = false;
+
+        // 获取URL参数
+        function getUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                chapter: params.get('chapter'),
+                file: params.get('file')
+            };
+        }
+
+        // 加载章节数据
+        async function loadChapterData() {
+            const params = getUrlParams();
+            chapterName = params.chapter;
+            
+            try {
+                const response = await fetch(`json_chapters/${params.file}`);
+                const data = await response.json();
+                wordsData = data.words;
+                
+                document.getElementById('chapter-title').textContent = data.chapter;
+                displayWords();
+                updateStats();
+            } catch (error) {
+                console.error('Error loading chapter data:', error);
+            }
+        }
+
+        // 显示单词列表
+        function displayWords() {
+            const container = document.getElementById('words-container');
+            container.innerHTML = '';
+            
+            const chapterMastered = masteredWords[chapterName] || [];
+            
+            wordsData.forEach((word, index) => {
+                const isMastered = chapterMastered.includes(word.word);
+                
+                // 根据显示设置决定是否显示已掌握单词
+                if (isMastered && !showMastered) {
+                    return;
+                }
+                
+                const wordCard = document.createElement('div');
+                wordCard.className = `word-card ${isMastered ? 'mastered' : ''}`;
+                wordCard.id = `word-${index}`;
+                
+                let wordHtml = `
+                    <div class="word-header">
+                        <div class="word-title-group">
+                            <h3 class="word-title">
+                                ${word.word}
+                                <span class="word-pos">${word.pos}</span>
+                            </h3>
+                            ${word.phonetic ? `
+                            <div class="word-phonetic">
+                                <span>${word.phonetic}</span>
+                                <button class="speak-btn" onclick="speakWord('${word.word.replace(/'/g, "\\'")}')">
+                                    🔊
+                                </button>
+                            </div>` : ''}
+                        </div>
+                        <button class="master-btn ${isMastered ? 'is-mastered' : ''}" 
+                                onclick="toggleMastered('${word.word}', ${index})">
+                            ${isMastered ? '已掌握 ✓' : '标记掌握'}
+                        </button>
+                    </div>
+                    <div class="word-content">
+                        <p class="word-meaning">${word.meaning}</p>
+                `;
+                
+                if (word.example) {
+                    wordHtml += `<p class="word-example">例句: ${word.example}</p>`;
+                }
+                
+                if (word.note) {
+                    wordHtml += `<p class="word-note">笔记: ${word.note}</p>`;
+                }
+                
+                if (word.tips) {
+                    wordHtml += `<p class="word-tips">💡 记忆技巧: ${word.tips}</p>`;
+                }
+                
+                wordHtml += '</div>';
+                wordCard.innerHTML = wordHtml;
+                container.appendChild(wordCard);
+            });
+            
+            if (container.innerHTML === '') {
+                container.innerHTML = '<p class="empty-message">所有单词都已掌握！点击"显示已掌握单词"查看全部。</p>';
+            }
+        }
+
+        // 切换单词掌握状态
+        function toggleMastered(word, index) {
+            if (!masteredWords[chapterName]) {
+                masteredWords[chapterName] = [];
+            }
+            
+            const chapterMastered = masteredWords[chapterName];
+            const wordIndex = chapterMastered.indexOf(word);
+            
+            if (wordIndex > -1) {
+                // 取消掌握
+                chapterMastered.splice(wordIndex, 1);
+            } else {
+                // 标记为掌握
+                chapterMastered.push(word);
+            }
+            
+            // 保存到localStorage
+            localStorage.setItem('masteredWords', JSON.stringify(masteredWords));
+            
+            // 更新显示
+            displayWords();
+            updateStats();
+        }
+
+        // 更新统计信息
+        function updateStats() {
+            const chapterMastered = masteredWords[chapterName] || [];
+            const totalCount = wordsData.length;
+            const masteredCount = chapterMastered.length;
+            const learningCount = totalCount - masteredCount;
+            
+            document.getElementById('total-count').textContent = totalCount;
+            document.getElementById('mastered-count').textContent = masteredCount;
+            document.getElementById('learning-count').textContent = learningCount;
+        }
+
+        // 切换显示已掌握单词
+        document.getElementById('toggle-mastered').addEventListener('click', function() {
+            showMastered = !showMastered;
+            this.textContent = showMastered ? '隐藏已掌握单词' : '显示已掌握单词';
+            displayWords();
+        });
+
+        // 重置本章进度
+        document.getElementById('reset-chapter').addEventListener('click', function() {
+            if (confirm(`确定要重置"${chapterName}"章节的所有进度吗？`)) {
+                masteredWords[chapterName] = [];
+                localStorage.setItem('masteredWords', JSON.stringify(masteredWords));
+                displayWords();
+                updateStats();
+            }
+        });
+
+        // TTS 发音功能
+        function speakWord(word) {
+            // 检查浏览器是否支持语音合成
+            if ('speechSynthesis' in window) {
+                // 停止当前播放的语音
+                speechSynthesis.cancel();
+                
+                // 创建新的语音实例
+                const utterance = new SpeechSynthesisUtterance(word);
+                
+                // 设置语音参数
+                utterance.lang = 'en-US'; // 英语美音
+                utterance.rate = 0.8; // 语速稍慢，便于学习
+                utterance.pitch = 1; // 正常音调
+                utterance.volume = 1; // 最大音量
+                
+                // 获取可用的语音列表
+                const voices = speechSynthesis.getVoices();
+                
+                // 优先选择英语母语者的声音
+                const englishVoice = voices.find(voice => 
+                    voice.lang.startsWith('en') && voice.localService
+                ) || voices.find(voice => voice.lang.startsWith('en'));
+                
+                if (englishVoice) {
+                    utterance.voice = englishVoice;
+                }
+                
+                // 播放语音
+                speechSynthesis.speak(utterance);
+                
+                // 错误处理
+                utterance.onerror = function(event) {
+                    console.error('Speech synthesis error:', event.error);
+                };
+            } else {
+                alert('你的浏览器不支持语音合成功能');
+            }
+        }
+
+        // 确保语音列表已加载
+        function loadVoices() {
+            return new Promise((resolve) => {
+                let voices = speechSynthesis.getVoices();
+                if (voices.length > 0) {
+                    resolve(voices);
+                } else {
+                    speechSynthesis.onvoiceschanged = () => {
+                        voices = speechSynthesis.getVoices();
+                        resolve(voices);
+                    };
+                }
+            });
+        }
+
+        // 初始化页面
+        loadChapterData();
+        
+        // 预加载语音列表
+        if ('speechSynthesis' in window) {
+            loadVoices();
+        }
+    </script>
+</body>
+</html>

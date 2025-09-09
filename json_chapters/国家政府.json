@@ -1,0 +1,762 @@
+{
+  "chapter": "国家政府",
+  "word_count": 149,
+  "words": [
+    {
+      "word": "republic",
+      "pos": "n.",
+      "meaning": "共和国；共和政体"
+    },
+    {
+      "word": "Marxism",
+      "pos": "n.",
+      "meaning": "马克思主义"
+    },
+    {
+      "word": "socialism",
+      "pos": "n.",
+      "meaning": "社会主义"
+    },
+    {
+      "word": "communism",
+      "pos": "n.",
+      "meaning": "共产主义"
+    },
+    {
+      "word": "regime",
+      "pos": "n.",
+      "meaning": "统治制度；政权、政体"
+    },
+    {
+      "word": "government",
+      "pos": "n.",
+      "meaning": "政府、政体、统治"
+    },
+    {
+      "word": "authority",
+      "pos": "n.",
+      "meaning": "权力；权威人士",
+      "example": "|the authorities 当局"
+    },
+    {
+      "word": "political",
+      "pos": "adj.",
+      "meaning": "政治的；政党的"
+    },
+    {
+      "word": "hierarchy",
+      "pos": "n.",
+      "meaning": "等级制度；统治集团"
+    },
+    {
+      "word": "democracy",
+      "pos": "n.",
+      "meaning": "民主、民主制度；民主国家"
+    },
+    {
+      "word": "bureaucracy",
+      "pos": "n.",
+      "meaning": "官僚主义；官僚作风"
+    },
+    {
+      "word": "egalitarian",
+      "pos": "adj./n.",
+      "meaning": "平等主义的/平等主义者"
+    },
+    {
+      "word": "materialism",
+      "pos": "n.",
+      "meaning": "唯物主义；唯物论"
+    },
+    {
+      "word": "revolution",
+      "pos": "n.",
+      "meaning": "革命；巨大变化"
+    },
+    {
+      "word": "reform",
+      "pos": "v./n.",
+      "meaning": "改革、改良；改过自新/改革、改良"
+    },
+    {
+      "word": "process",
+      "pos": "n./v.",
+      "meaning": "过程；进程/处理；加工；列队前进"
+    },
+    {
+      "word": "conservative",
+      "pos": "adj./n.",
+      "meaning": "保守的/保守党员"
+    },
+    {
+      "word": "meltdown",
+      "pos": "n.",
+      "meaning": "堆芯熔毁；崩溃"
+    },
+    {
+      "word": "municipal",
+      "pos": "adj.",
+      "meaning": "市政的，地方政府的"
+    },
+    {
+      "word": "neutral",
+      "pos": "adj.",
+      "meaning": "中立的；中立国的"
+    },
+    {
+      "word": "bilateral",
+      "pos": "adj.",
+      "meaning": "双边的"
+    },
+    {
+      "word": "arena",
+      "pos": "n.",
+      "meaning": "竞技场、运动场；舞台、活动领域"
+    },
+    {
+      "word": "flag",
+      "pos": "n.",
+      "meaning": "旗"
+    },
+    {
+      "word": "banner",
+      "pos": "n.",
+      "meaning": "横幅、标语"
+    },
+    {
+      "word": "president",
+      "pos": "n.",
+      "meaning": "总统；校长；董事长"
+    },
+    {
+      "word": "premier",
+      "pos": "n./adj.",
+      "meaning": "总理、首相/首要的，第一的"
+    },
+    {
+      "word": "minister",
+      "pos": "n.",
+      "meaning": "部长；大臣；公使"
+    },
+    {
+      "word": "secretary",
+      "pos": "n.",
+      "meaning": "秘书、书记员、大臣"
+    },
+    {
+      "word": "parliament",
+      "pos": "n.",
+      "meaning": "议会、国会"
+    },
+    {
+      "word": "senate",
+      "pos": "n.",
+      "meaning": "大学理事会",
+      "example": "|the Senate 参议院"
+    },
+    {
+      "word": "conference",
+      "pos": "n.",
+      "meaning": "（常持续数日的大型正式）会议；正式商谈"
+    },
+    {
+      "word": "meeting",
+      "pos": "n.",
+      "meaning": "会议；会面"
+    },
+    {
+      "word": "headquarters",
+      "pos": "n.",
+      "meaning": "总部，总公司；司令部"
+    },
+    {
+      "word": "delegation",
+      "pos": "n.",
+      "meaning": "代表团；委派"
+    },
+    {
+      "word": "behalf",
+      "pos": "n.",
+      "meaning": "[on ~ of sb.]代表某人"
+    },
+    {
+      "word": "police",
+      "pos": "n.",
+      "meaning": "警察",
+      "example": "|the police 警方"
+    },
+    {
+      "word": "statesman",
+      "pos": "n.",
+      "meaning": "政治家"
+    },
+    {
+      "word": "mayor",
+      "pos": "n.",
+      "meaning": "市长"
+    },
+    {
+      "word": "service",
+      "pos": "n.",
+      "meaning": "服务"
+    },
+    {
+      "word": "office",
+      "pos": "n.",
+      "meaning": "办公室；要职；官职；[Office]部、局、厅"
+    },
+    {
+      "word": "bureau",
+      "pos": "n.",
+      "meaning": "局、处、科；办事处"
+    },
+    {
+      "word": "department",
+      "pos": "n.",
+      "meaning": "（政府的）部门；（大学的）系、所"
+    },
+    {
+      "word": "harness",
+      "pos": "v.",
+      "meaning": "利用；控制"
+    },
+    {
+      "word": "administration",
+      "pos": "n.",
+      "meaning": "管理；行政"
+    },
+    {
+      "word": "dominate",
+      "pos": "v.",
+      "meaning": "支配；控制；占优势"
+    },
+    {
+      "word": "power",
+      "pos": "n.",
+      "meaning": "能源；权力；政权；能力"
+    },
+    {
+      "word": "influence",
+      "pos": "n./v.",
+      "meaning": "影响；作用/影响"
+    },
+    {
+      "word": "affect",
+      "pos": "v.",
+      "meaning": "影响；打动；使悲伤"
+    },
+    {
+      "word": "importance",
+      "pos": "n.",
+      "meaning": "重要，重要性",
+      "example": "The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性"
+    },
+    {
+      "word": "significance",
+      "pos": "n.",
+      "meaning": "重要性；意义"
+    },
+    {
+      "word": "organization/organisation",
+      "pos": "n.",
+      "meaning": "组织；团体；机构"
+    },
+    {
+      "word": "association",
+      "pos": "n.",
+      "meaning": "协会；团体；关联"
+    },
+    {
+      "word": "union",
+      "pos": "n.",
+      "meaning": "联合；联盟；工会"
+    },
+    {
+      "word": "community",
+      "pos": "n.",
+      "meaning": "社区；群体；（生物的）群落"
+    },
+    {
+      "word": "consortium",
+      "pos": "n.",
+      "meaning": "财团；联营企业"
+    },
+    {
+      "word": "league",
+      "pos": "n.",
+      "meaning": "联赛；联盟；同盟"
+    },
+    {
+      "word": "institution",
+      "pos": "n.",
+      "meaning": "机构"
+    },
+    {
+      "word": "unite",
+      "pos": "v.",
+      "meaning": "联合；团结"
+    },
+    {
+      "word": "unique",
+      "pos": "adj.",
+      "meaning": "独一无二的；唯一的；独特的"
+    },
+    {
+      "word": "nation",
+      "pos": "n.",
+      "meaning": "国家；民族；国民"
+    },
+    {
+      "word": "global",
+      "pos": "adj.",
+      "meaning": "全球的；全世界的"
+    },
+    {
+      "word": "worldwide",
+      "pos": "adj.",
+      "meaning": "世界范围的；遍及全球的"
+    },
+    {
+      "word": "federal",
+      "pos": "adj.",
+      "meaning": "联邦的；联合的"
+    },
+    {
+      "word": "foreign",
+      "pos": "adj.",
+      "meaning": "外国的；外来的；外交的"
+    },
+    {
+      "word": "overseas",
+      "pos": "adj./adv.",
+      "meaning": "海外的；外国的/向海外；在海外"
+    },
+    {
+      "word": "abroad",
+      "pos": "adv.",
+      "meaning": "到国外；在国外；广为流传"
+    },
+    {
+      "word": "civil",
+      "pos": "adj.",
+      "meaning": "公民的；国内的；民用的；斯文的"
+    },
+    {
+      "word": "emigrate",
+      "pos": "v.",
+      "meaning": "移居国外"
+    },
+    {
+      "word": "immigrate",
+      "pos": "v.",
+      "meaning": "（从外地）移居；移入"
+    },
+    {
+      "word": "reign",
+      "pos": "n./v.",
+      "meaning": "君主统治的时期/统治"
+    },
+    {
+      "word": "puppet",
+      "pos": "n.",
+      "meaning": "玩偶；傀儡"
+    },
+    {
+      "word": "throne",
+      "pos": "n.",
+      "meaning": "王位；宝座"
+    },
+    {
+      "word": "crown",
+      "pos": "n./v.",
+      "meaning": "王冠/为...加冕"
+    },
+    {
+      "word": "wreath",
+      "pos": "n.",
+      "meaning": "花环；花冠；花圈"
+    },
+    {
+      "word": "colony",
+      "pos": "n.",
+      "meaning": "殖民地"
+    },
+    {
+      "word": "liberty",
+      "pos": "n.",
+      "meaning": "自由"
+    },
+    {
+      "word": "independence",
+      "pos": "n.",
+      "meaning": "独立；自立"
+    },
+    {
+      "word": "slum",
+      "pos": "n.",
+      "meaning": "贫民窟"
+    },
+    {
+      "word": "refuge",
+      "pos": "n.",
+      "meaning": "避难；庇护；避难所"
+    },
+    {
+      "word": "asylum",
+      "pos": "n.",
+      "meaning": "庇护；精神病院"
+    },
+    {
+      "word": "population",
+      "pos": "n.",
+      "meaning": "人口；人口数量"
+    },
+    {
+      "word": "demographic",
+      "pos": "adj.",
+      "meaning": "人口的，人口统计的"
+    },
+    {
+      "word": "citizen",
+      "pos": "n.",
+      "meaning": "公民；市民"
+    },
+    {
+      "word": "resident",
+      "pos": "n./adj.",
+      "meaning": "居民；居住的"
+    },
+    {
+      "word": "ethnic",
+      "pos": "adj.",
+      "meaning": "民族的；种族的",
+      "example": "She is keen on ethnic dance|an ethnic minority 少数民族"
+    },
+    {
+      "word": "racial",
+      "pos": "adj.",
+      "meaning": "种族的；人种的"
+    },
+    {
+      "word": "clan",
+      "pos": "n.",
+      "meaning": "宗族；家族；帮派"
+    },
+    {
+      "word": "franchise",
+      "pos": "v./n.",
+      "meaning": "向…授予（或出售）特许经销权/特许权",
+      "example": "|the franchise 选举权"
+    },
+    {
+      "word": "entitle",
+      "pos": "v.",
+      "meaning": "给...权力（或资格）；给...题名",
+      "example": "|be entitled to/do sth. 有获得某物/做某事的权利"
+    },
+    {
+      "word": "preference",
+      "pos": "n.",
+      "meaning": "偏爱；优先权"
+    },
+    {
+      "word": "vote",
+      "pos": "n./v.",
+      "meaning": "选举权；投票/表决、投票",
+      "example": "The vote will be held next month|vote against 投票反对"
+    },
+    {
+      "word": "elect",
+      "pos": "v.",
+      "meaning": "选举；选择"
+    },
+    {
+      "word": "respondent",
+      "pos": "n.",
+      "meaning": "（民意测验的）调查对象"
+    },
+    {
+      "word": "poll",
+      "pos": "n.",
+      "meaning": "民意调查；选举投票；投票数"
+    },
+    {
+      "word": "ambition",
+      "pos": "n.",
+      "meaning": "雄心；抱负"
+    },
+    {
+      "word": "nominate",
+      "pos": "v.",
+      "meaning": "报名；任命"
+    },
+    {
+      "word": "checklist",
+      "pos": "n.",
+      "meaning": "清单；选民花名册"
+    },
+    {
+      "word": "succession",
+      "pos": "n.",
+      "meaning": "连续；继承权；继位"
+    },
+    {
+      "word": "safety",
+      "pos": "n.",
+      "meaning": "安全；安全场所"
+    },
+    {
+      "word": "welfare",
+      "pos": "n.",
+      "meaning": "健康；幸福"
+    },
+    {
+      "word": "well-being",
+      "pos": "n.",
+      "meaning": "康乐；安宁"
+    },
+    {
+      "word": "harmony",
+      "pos": "n.",
+      "meaning": "协调；和谐；融洽；和声"
+    },
+    {
+      "word": "steady",
+      "pos": "adj.",
+      "meaning": "稳定的；不摇晃的"
+    },
+    {
+      "word": "flourish",
+      "pos": "v.",
+      "meaning": "繁荣；兴旺；茁壮成长"
+    },
+    {
+      "word": "succeed",
+      "pos": "v.",
+      "meaning": "成功"
+    },
+    {
+      "word": "prospect",
+      "pos": "n.",
+      "meaning": "希望；可能性；风景",
+      "example": "There is not much prospect of his being elected as a congressman"
+    },
+    {
+      "word": "perspective",
+      "pos": "n.",
+      "meaning": "景观；观点",
+      "example": "We all have confidence in this new technology from a developmental perspective"
+    },
+    {
+      "word": "viewpoint",
+      "pos": "n.",
+      "meaning": "观点；看法；视角"
+    },
+    {
+      "word": "standpoint",
+      "pos": "n.",
+      "meaning": "立场；立足点"
+    },
+    {
+      "word": "outlook",
+      "pos": "n.",
+      "meaning": "观点；展望；前景"
+    },
+    {
+      "word": "guideline",
+      "pos": "n.",
+      "meaning": "指导方针"
+    },
+    {
+      "word": "ethic",
+      "pos": "n.",
+      "meaning": "行为准则；ethics 道德规范，伦理标准",
+      "example": "Merchants must observe their code of ethics|ethical adj. 道德的；伦理的。a work ~ 职业道德观"
+    },
+    {
+      "word": "suggest",
+      "pos": "v.",
+      "meaning": "建议；暗示"
+    },
+    {
+      "word": "advise",
+      "pos": "v.",
+      "meaning": "劝告；建议；通知"
+    },
+    {
+      "word": "proposal",
+      "pos": "n.",
+      "meaning": "提议；建议"
+    },
+    {
+      "word": "hint",
+      "pos": "v./n.",
+      "meaning": "暗示，提示"
+    },
+    {
+      "word": "declare",
+      "pos": "v.",
+      "meaning": "宣布，宣告，宣称，声称"
+    },
+    {
+      "word": "affirm",
+      "pos": "v.",
+      "meaning": "断言，坚持声称，证实"
+    },
+    {
+      "word": "claim",
+      "pos": "n./v.",
+      "meaning": "声称；主张；索赔/声称；要求（拥有）"
+    },
+    {
+      "word": "proclaim",
+      "pos": "v.",
+      "meaning": "声明；清楚的表明"
+    },
+    {
+      "word": "state",
+      "pos": "v./n.",
+      "meaning": "陈述；说明/国家，州，状况"
+    },
+    {
+      "word": "announce",
+      "pos": "v.",
+      "meaning": "宣布，通知"
+    },
+    {
+      "word": "clarify",
+      "pos": "v.",
+      "meaning": "澄清，阐明"
+    },
+    {
+      "word": "assist",
+      "pos": "v.",
+      "meaning": "帮助；协助"
+    },
+    {
+      "word": "aid",
+      "pos": "n.",
+      "meaning": "救助；救援物资；辅助物"
+    },
+    {
+      "word": "encourage",
+      "pos": "v.",
+      "meaning": "鼓励，激励，怂恿"
+    },
+    {
+      "word": "implement",
+      "pos": "v./n.",
+      "meaning": "实施；执行/工具；器具"
+    },
+    {
+      "word": "monitor",
+      "pos": "v./n.",
+      "meaning": "监视；监听/监控器，监视器，班长"
+    },
+    {
+      "word": "admit",
+      "pos": "v.",
+      "meaning": "供认，承认"
+    },
+    {
+      "word": "African",
+      "pos": "adj./n.",
+      "meaning": "非洲的/非洲人"
+    },
+    {
+      "word": "European",
+      "pos": "adj./n.",
+      "meaning": "欧洲的/欧洲人"
+    },
+    {
+      "word": "Latin",
+      "pos": "adj./n.",
+      "meaning": "拉丁语的，拉丁人的/拉丁人，拉丁语"
+    },
+    {
+      "word": "Jewish",
+      "pos": "adj.",
+      "meaning": "犹太教的，犹太人的"
+    },
+    {
+      "word": "Arabian",
+      "pos": "adj.",
+      "meaning": "阿拉伯的"
+    },
+    {
+      "word": "Portuguese",
+      "pos": "adj./n.",
+      "meaning": "葡萄牙的/葡萄牙人，葡萄牙语"
+    },
+    {
+      "word": "Roman",
+      "pos": "adj./n.",
+      "meaning": "罗马的/罗马人"
+    },
+    {
+      "word": "Russian",
+      "pos": "adj./n.",
+      "meaning": ""
+    },
+    {
+      "word": "Spanish",
+      "pos": "adj./n.",
+      "meaning": ""
+    },
+    {
+      "word": "Swiss",
+      "pos": "adj./n.",
+      "meaning": "瑞士的/瑞士人"
+    },
+    {
+      "word": "Greek",
+      "pos": "adj./n.",
+      "meaning": ""
+    },
+    {
+      "word": "Italian",
+      "pos": "adj./n.",
+      "meaning": ""
+    },
+    {
+      "word": "soviet",
+      "pos": "adj./n.",
+      "meaning": "苏联的/苏维埃"
+    },
+    {
+      "word": "Indian",
+      "pos": "adj./n.",
+      "meaning": ""
+    },
+    {
+      "word": "Australia",
+      "pos": "n.",
+      "meaning": "澳大利亚"
+    },
+    {
+      "word": "New Zealand",
+      "pos": "n.",
+      "meaning": ""
+    },
+    {
+      "word": "Canada",
+      "pos": "n.",
+      "meaning": ""
+    },
+    {
+      "word": "Britain",
+      "pos": "n.",
+      "meaning": ""
+    },
+    {
+      "word": "France",
+      "pos": "n.",
+      "meaning": ""
+    },
+    {
+      "word": "Germany",
+      "pos": "n.",
+      "meaning": ""
+    }
+  ]
+}

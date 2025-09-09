@@ -1,0 +1,652 @@
+{
+  "chapter": "科技发明",
+  "word_count": 122,
+  "words": [
+    {
+      "word": "technology",
+      "pos": "n.",
+      "meaning": "技术",
+      "example": "|technological adj. 技术上的；advanced technology 先进的技术"
+    },
+    {
+      "word": "technique",
+      "pos": "n.",
+      "meaning": "技巧；技术",
+      "example": "|technical adj. 技术的；技能的；工艺的。technician n. 技术员；技师"
+    },
+    {
+      "word": "polytechnic",
+      "pos": "adj./n.",
+      "meaning": "有关多种工艺的；理工学院"
+    },
+    {
+      "word": "engineer",
+      "pos": "n.",
+      "meaning": "工程师；技师"
+    },
+    {
+      "word": "mechanic",
+      "pos": "n.",
+      "meaning": "技工；机械师；机修工"
+    },
+    {
+      "word": "advance",
+      "pos": "n./v.",
+      "meaning": "发展；前进"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "创新；改革"
+    },
+    {
+      "word": "breakthrough",
+      "pos": "n.",
+      "meaning": "突破"
+    },
+    {
+      "word": "gizmo",
+      "pos": "n.",
+      "meaning": "小装置"
+    },
+    {
+      "word": "patent",
+      "pos": "n./v.",
+      "meaning": "专利；专利权；得到...的专利权；给...专利证"
+    },
+    {
+      "word": "devise",
+      "pos": "v.",
+      "meaning": "设计；发明",
+      "example": "|device n. 装置；设备"
+    },
+    {
+      "word": "invent",
+      "pos": "v.",
+      "meaning": "发明，创造",
+      "example": "Do you who invented the magnetic needle?|invention n. 发明，创造。inventor n. 发明者，创造者"
+    },
+    {
+      "word": "discover",
+      "pos": "v.",
+      "meaning": "发现"
+    },
+    {
+      "word": "disclose",
+      "pos": "v.",
+      "meaning": "揭露；透露"
+    },
+    {
+      "word": "reveal",
+      "pos": "v.",
+      "meaning": "展现；显示；透露"
+    },
+    {
+      "word": "uncover",
+      "pos": "v.",
+      "meaning": "揭露；发现"
+    },
+    {
+      "word": "expose",
+      "pos": "v.",
+      "meaning": "使暴露；揭发；使曝光"
+    },
+    {
+      "word": "domain",
+      "pos": "n.",
+      "meaning": "（活动、学问等的）领域；领土；领地"
+    },
+    {
+      "word": "field",
+      "pos": "n.",
+      "meaning": "领域"
+    },
+    {
+      "word": "realm",
+      "pos": "n.",
+      "meaning": "领域"
+    },
+    {
+      "word": "foundation",
+      "pos": "n.",
+      "meaning": "基础；地基；基金会"
+    },
+    {
+      "word": "specialise/specialize",
+      "pos": "v.",
+      "meaning": "专攻",
+      "example": "|specialize in 专攻；专门研究；专门经营"
+    },
+    {
+      "word": "absorb",
+      "pos": "v.",
+      "meaning": "理解；掌握"
+    },
+    {
+      "word": "concentrate",
+      "pos": "v.",
+      "meaning": "（集中）心思；（使）浓缩",
+      "example": "|concentration n. 专心；浓度。concentrate on 专心于"
+    },
+    {
+      "word": "focus",
+      "pos": "v./n.",
+      "meaning": "集中于；焦点"
+    },
+    {
+      "word": "utilise/utilize",
+      "pos": "v.",
+      "meaning": "利用",
+      "example": "|utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用"
+    },
+    {
+      "word": "usage",
+      "pos": "n.",
+      "meaning": "使用；用法"
+    },
+    {
+      "word": "tester",
+      "pos": "n.",
+      "meaning": "测试员；测试仪"
+    },
+    {
+      "word": "apply",
+      "pos": "v.",
+      "meaning": "应用；适用",
+      "example": "|apply to 适用于。apply A to B 把 A 应用于 B"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "装置；设备；手段；策略"
+    },
+    {
+      "word": "appliance",
+      "pos": "n.",
+      "meaning": "应用；（家用）器具"
+    },
+    {
+      "word": "facility",
+      "pos": "n.",
+      "meaning": "设备；便利"
+    },
+    {
+      "word": "equipment",
+      "pos": "n.",
+      "meaning": "设备"
+    },
+    {
+      "word": "instrument",
+      "pos": "n.",
+      "meaning": "仪器；工具；乐器"
+    },
+    {
+      "word": "tool",
+      "pos": "n.",
+      "meaning": "工具"
+    },
+    {
+      "word": "gauge",
+      "pos": "n./v.",
+      "meaning": "测量仪器；测量；判断"
+    },
+    {
+      "word": "measure",
+      "pos": "v./n.",
+      "meaning": "测量；衡量；措施",
+      "example": "|measurable adj. 可测量的。measurement n. 测量；衡量；尺寸。take measures 采取措施"
+    },
+    {
+      "word": "calculate",
+      "pos": "v.",
+      "meaning": "计算；考虑；打算",
+      "example": "|calculation n. 计算。calculator n. 计算器"
+    },
+    {
+      "word": "compute",
+      "pos": "n.",
+      "meaning": "计算；估计"
+    },
+    {
+      "word": "count",
+      "pos": "v.",
+      "meaning": "计算",
+      "example": "|counter n. 柜台；计数器"
+    },
+    {
+      "word": "estimate",
+      "pos": "n./v.",
+      "meaning": "估计；估价；评价"
+    },
+    {
+      "word": "assess",
+      "pos": "v.",
+      "meaning": "评估；估算"
+    },
+    {
+      "word": "evaluate",
+      "pos": "v.",
+      "meaning": "评价；评估"
+    },
+    {
+      "word": "accessory",
+      "pos": "n.",
+      "meaning": "附件；配件"
+    },
+    {
+      "word": "byproduct",
+      "pos": "n.",
+      "meaning": "副产品",
+      "example": "|bypass n. 旁路。bypath n. 旁道；小路。bywork n. 业余活计。byname n. 绰号"
+    },
+    {
+      "word": "auxiliary",
+      "pos": "adj.",
+      "meaning": "辅助的；协助的；备用的"
+    },
+    {
+      "word": "versatile",
+      "pos": "adj.",
+      "meaning": "多功能的；多用途的"
+    },
+    {
+      "word": "add",
+      "pos": "v.",
+      "meaning": "添加；附加"
+    },
+    {
+      "word": "accumulate",
+      "pos": "v.",
+      "meaning": "累积；（数额）不断增加"
+    },
+    {
+      "word": "assemble",
+      "pos": "v.",
+      "meaning": "集合；聚集"
+    },
+    {
+      "word": "gather",
+      "pos": "v.",
+      "meaning": "收集；采集"
+    },
+    {
+      "word": "attach",
+      "pos": "v.",
+      "meaning": "使依附；附加；缚；系；贴",
+      "example": "|attachment n. 附件；附属物。attach importance to 重视"
+    },
+    {
+      "word": "belong",
+      "pos": "v.",
+      "meaning": "应在（某处）；适合（某种情形）",
+      "example": "|belong to 属于"
+    },
+    {
+      "word": "optics",
+      "pos": "n.",
+      "meaning": "光学"
+    },
+    {
+      "word": "microscope",
+      "pos": "n.",
+      "meaning": "显微镜",
+      "example": "|microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物"
+    },
+    {
+      "word": "lens",
+      "pos": "n.",
+      "meaning": "镜头；透镜"
+    },
+    {
+      "word": "radar",
+      "pos": "n.",
+      "meaning": "雷达"
+    },
+    {
+      "word": "echo",
+      "pos": "n./v.",
+      "meaning": "回声；发回声；模仿；重复"
+    },
+    {
+      "word": "sensor",
+      "pos": "n.",
+      "meaning": "传感器"
+    },
+    {
+      "word": "multimedia",
+      "pos": "n.",
+      "meaning": "多媒体"
+    },
+    {
+      "word": "network",
+      "pos": "n.",
+      "meaning": "网络"
+    },
+    {
+      "word": "browser",
+      "pos": "n.",
+      "meaning": "浏览器"
+    },
+    {
+      "word": "dial",
+      "pos": "v.",
+      "meaning": "拨（电话号码）"
+    },
+    {
+      "word": "microcomputer",
+      "pos": "n.",
+      "meaning": "微型计算机"
+    },
+    {
+      "word": "laptop",
+      "pos": "n.",
+      "meaning": "笔记本电脑"
+    },
+    {
+      "word": "software",
+      "pos": "n.",
+      "meaning": "软件"
+    },
+    {
+      "word": "keyboard",
+      "pos": "n.",
+      "meaning": "键盘"
+    },
+    {
+      "word": "screen",
+      "pos": "n.",
+      "meaning": "屏幕"
+    },
+    {
+      "word": "loudspeaker",
+      "pos": "n.",
+      "meaning": "扬声器；喇叭"
+    },
+    {
+      "word": "microphone",
+      "pos": "n.",
+      "meaning": "麦克风；话筒"
+    },
+    {
+      "word": "cassette",
+      "pos": "n.",
+      "meaning": "盒式磁带；底片盒"
+    },
+    {
+      "word": "tape",
+      "pos": "n.",
+      "meaning": "磁带；录音带；胶带"
+    },
+    {
+      "word": "binary",
+      "pos": "adj.",
+      "meaning": "二进制的；二元的"
+    },
+    {
+      "word": "digital",
+      "pos": "adj.",
+      "meaning": "数字的"
+    },
+    {
+      "word": "wireless",
+      "pos": "adj.",
+      "meaning": "无线的"
+    },
+    {
+      "word": "high-definition",
+      "pos": "adj.",
+      "meaning": "高分辨率的"
+    },
+    {
+      "word": "audio",
+      "pos": "adj.",
+      "meaning": "声音的"
+    },
+    {
+      "word": "vision",
+      "pos": "n.",
+      "meaning": "视觉；视力"
+    },
+    {
+      "word": "fantasy",
+      "pos": "n.",
+      "meaning": "幻想",
+      "example": "He is unable to divorce fantasy from reality|fantastic adj. 奇异的；奇妙的"
+    },
+    {
+      "word": "science fiction/sci-fi",
+      "pos": "n.",
+      "meaning": "科幻作品"
+    },
+    {
+      "word": "pump",
+      "pos": "n./v.",
+      "meaning": "泵；（用泵）抽"
+    },
+    {
+      "word": "generator",
+      "pos": "n.",
+      "meaning": "发电机"
+    },
+    {
+      "word": "gear",
+      "pos": "n./v.",
+      "meaning": "齿轮；传动装置；使适合",
+      "example": "Education should be geared to children's needs|in high gear 以高速档；高速地。gear up 换高速档；促进"
+    },
+    {
+      "word": "pivot",
+      "pos": "n.",
+      "meaning": "枢轴；支点；中心；重点",
+      "example": "The mother is often the pivot of family life"
+    },
+    {
+      "word": "hydraulic",
+      "pos": "adj.",
+      "meaning": "水力的；液压的"
+    },
+    {
+      "word": "drainage",
+      "pos": "n.",
+      "meaning": "排水系统；排水"
+    },
+    {
+      "word": "sewage",
+      "pos": "n.",
+      "meaning": "（下水道的）污水"
+    },
+    {
+      "word": "ventilation",
+      "pos": "n.",
+      "meaning": "通风设备；通风"
+    },
+    {
+      "word": "compress",
+      "pos": "v.",
+      "meaning": "压缩；压紧"
+    },
+    {
+      "word": "condense",
+      "pos": "v.",
+      "meaning": "减缩；精简；（使气体）凝结",
+      "example": "A long story may be condensed into a few sentences"
+    },
+    {
+      "word": "refine",
+      "pos": "v.",
+      "meaning": "精炼；提纯"
+    },
+    {
+      "word": "simplify",
+      "pos": "v.",
+      "meaning": "简化；精简",
+      "example": "|simplicity n. 简单；质朴。simple adj. 简单的。simply adv. 简单地；仅仅"
+    },
+    {
+      "word": "purify",
+      "pos": "v.",
+      "meaning": "净化；使纯净"
+    },
+    {
+      "word": "filter",
+      "pos": "v./n.",
+      "meaning": "过滤；（光或声音）透过；过滤器",
+      "example": "|filter through （消息等）慢慢传开；走漏"
+    },
+    {
+      "word": "distil/distill",
+      "pos": "v.",
+      "meaning": "蒸馏；提取...的精华"
+    },
+    {
+      "word": "mode",
+      "pos": "n.",
+      "meaning": "模式；方式"
+    },
+    {
+      "word": "mould/mold",
+      "pos": "v./n.",
+      "meaning": "浇铸；塑造/模子",
+      "example": "|和霉菌是一个词"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；雏形"
+    },
+    {
+      "word": "framework",
+      "pos": "n.",
+      "meaning": "框架；体系；结构"
+    },
+    {
+      "word": "aspect",
+      "pos": "n.",
+      "meaning": "（问题、事务的）方面"
+    },
+    {
+      "word": "phase",
+      "pos": "n.",
+      "meaning": "阶段；时期",
+      "example": "The first phase of the project has been completed"
+    },
+    {
+      "word": "operate",
+      "pos": "v.",
+      "meaning": "操作；运营；做手术",
+      "example": "|operation n. 操作；企业；手术"
+    },
+    {
+      "word": "facilitate",
+      "pos": "v.",
+      "meaning": "使便利；促进",
+      "example": "Many modern inventions facilitate housework"
+    },
+    {
+      "word": "transform",
+      "pos": "v.",
+      "meaning": "使改变形态；使改观",
+      "example": "|transformation n. 变化；转变"
+    },
+    {
+      "word": "convert",
+      "pos": "v./n.",
+      "meaning": "（使）转变、改变（信仰、观点等）/皈依者",
+      "example": "|conversion n. 转变；换算。convert defeat into victory 转败为胜"
+    },
+    {
+      "word": "alter",
+      "pos": "v.",
+      "meaning": "变更；改变",
+      "example": "|alternative adj. 可供选择的。an alter ego 知己；个性的另一面"
+    },
+    {
+      "word": "shift",
+      "pos": "v./n.",
+      "meaning": "转移；变换/轮班",
+      "example": "The wind shifted to the north|the day shift 白班。the night shift 晚班"
+    },
+    {
+      "word": "turn",
+      "pos": "v./n.",
+      "meaning": "转移；转变/（一次轮到的）机会",
+      "example": "|turning n. 旋转；转弯处"
+    },
+    {
+      "word": "adapt",
+      "pos": "v.",
+      "meaning": "适应；改编",
+      "example": "|adaptation n. 适应。adapt to sth. 适应某事"
+    },
+    {
+      "word": "adjust",
+      "pos": "v.",
+      "meaning": "调节；改变（行为或观点）以适应",
+      "example": "|adjustment n. 调整；适应。 adjust to 适应"
+    },
+    {
+      "word": "pinpoint",
+      "pos": "v./n.",
+      "meaning": "精确指明...位置/针尖；极小的事物"
+    },
+    {
+      "word": "accurate",
+      "pos": "adj.",
+      "meaning": "准确的；正确无误的"
+    },
+    {
+      "word": "precise",
+      "pos": "adj.",
+      "meaning": "精确的；准确的；一丝不苟的",
+      "example": "precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻"
+    },
+    {
+      "word": "correct",
+      "pos": "adj.",
+      "meaning": "正确的",
+      "example": "|correction n. 改正。incorrect adj. 不正确的；错误的"
+    },
+    {
+      "word": "error",
+      "pos": "n.",
+      "meaning": "错误；过失"
+    },
+    {
+      "word": "mistake",
+      "pos": "n./v.",
+      "meaning": "错误/误解"
+    },
+    {
+      "word": "flaw",
+      "pos": "n.",
+      "meaning": "缺陷；错误"
+    },
+    {
+      "word": "wrong",
+      "pos": "adj./adv.",
+      "meaning": "错误的；错误地",
+      "example": "|go wrong 出现问题；出差错"
+    },
+    {
+      "word": "fault",
+      "pos": "n./v.",
+      "meaning": "缺点；故障/找出缺点",
+      "example": "|faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨"
+    },
+    {
+      "word": "stumble",
+      "pos": "v.",
+      "meaning": "犯错误；绊脚；跌跌撞撞的走"
+    },
+    {
+      "word": "contingency",
+      "pos": "n.",
+      "meaning": "意外事件；可能发生的事"
+    },
+    {
+      "word": "circumstance",
+      "pos": "n.",
+      "meaning": "情况；条件；环境；境遇"
+    }
+  ]
+}

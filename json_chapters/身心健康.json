@@ -1,0 +1,2107 @@
+{
+  "chapter": "身心健康",
+  "word_count": 417,
+  "words": [
+    {
+      "word": "feel",
+      "pos": "v.",
+      "meaning": "感觉到，感知；触碰",
+      "example": "Can you feel the tension in this room?|feeling n. 感情；感觉"
+    },
+    {
+      "word": "mood",
+      "pos": "n.",
+      "meaning": "心情，情绪；气氛"
+    },
+    {
+      "word": "emotion",
+      "pos": "n.",
+      "meaning": "情绪，情感，感情"
+    },
+    {
+      "word": "temper",
+      "pos": "n./v.",
+      "meaning": "坏脾气；情绪；心情/是缓和"
+    },
+    {
+      "word": "manner",
+      "pos": "n.",
+      "meaning": "举止；礼貌；风俗；方式"
+    },
+    {
+      "word": "attitude",
+      "pos": "n.",
+      "meaning": "态度；看法"
+    },
+    {
+      "word": "character",
+      "pos": "n.",
+      "meaning": "性格；特征；人物；角色"
+    },
+    {
+      "word": "personality",
+      "pos": "n.",
+      "meaning": "个性；人格"
+    },
+    {
+      "word": "trait",
+      "pos": "n.",
+      "meaning": "特点；特性"
+    },
+    {
+      "word": "virtue",
+      "pos": "n.",
+      "meaning": "美德；德行；优点"
+    },
+    {
+      "word": "feature",
+      "pos": "n./v.",
+      "meaning": "特征；面容的一部分/以...为特色"
+    },
+    {
+      "word": "stature",
+      "pos": "n.",
+      "meaning": "身高；身材；（精神、道德等的）高度"
+    },
+    {
+      "word": "flesh",
+      "pos": "n.",
+      "meaning": "肉；人类"
+    },
+    {
+      "word": "mankind",
+      "pos": "n.",
+      "meaning": "人类；男人"
+    },
+    {
+      "word": "human",
+      "pos": "adj./n.",
+      "meaning": "人类的；有人性的/人类"
+    },
+    {
+      "word": "bone",
+      "pos": "n.",
+      "meaning": "骨；骨骼"
+    },
+    {
+      "word": "backbone",
+      "pos": "n.",
+      "meaning": "脊柱；骨干；中坚；骨气"
+    },
+    {
+      "word": "skeleton",
+      "pos": "n.",
+      "meaning": "骨骼；骨架；框架；梗概"
+    },
+    {
+      "word": "skull",
+      "pos": "n.",
+      "meaning": "头脑；头骨"
+    },
+    {
+      "word": "brain",
+      "pos": "n.",
+      "meaning": "脑；[~s]智力；智慧"
+    },
+    {
+      "word": "mind",
+      "pos": "n.",
+      "meaning": "头脑；思维；思考能力；意见；记忆力"
+    },
+    {
+      "word": "physical",
+      "pos": "adj.",
+      "meaning": "身体的；物质的；物理的"
+    },
+    {
+      "word": "mental",
+      "pos": "adj.",
+      "meaning": "精神的；思想上的；智力的"
+    },
+    {
+      "word": "cheek",
+      "pos": "n.",
+      "meaning": "面颊"
+    },
+    {
+      "word": "forehead",
+      "pos": "n.",
+      "meaning": "额"
+    },
+    {
+      "word": "brow",
+      "pos": "n.",
+      "meaning": "额；眉毛"
+    },
+    {
+      "word": "eyelash",
+      "pos": "n.",
+      "meaning": "眼睫毛"
+    },
+    {
+      "word": "lip",
+      "pos": "n.",
+      "meaning": "嘴唇；（洞口、伤口等的）边缘",
+      "example": "|lipstick n. 口红；唇膏"
+    },
+    {
+      "word": "mouth",
+      "pos": "n.",
+      "meaning": "口；嘴；河口"
+    },
+    {
+      "word": "tongue",
+      "pos": "n.",
+      "meaning": "舌头；语言"
+    },
+    {
+      "word": "throat",
+      "pos": "n.",
+      "meaning": "喉咙；窄路；嗓子；嗓音"
+    },
+    {
+      "word": "gorge",
+      "pos": "n./v.",
+      "meaning": "咽喉；暴食；山峡；峡谷/狼吞虎咽"
+    },
+    {
+      "word": "chin",
+      "pos": "n.",
+      "meaning": "下巴"
+    },
+    {
+      "word": "jaw",
+      "pos": "n.",
+      "meaning": "颌；下巴；狭窄入口；唠叨"
+    },
+    {
+      "word": "neck",
+      "pos": "n.",
+      "meaning": "脖子；已领；海峡"
+    },
+    {
+      "word": "beard",
+      "pos": "n.",
+      "meaning": "胡须"
+    },
+    {
+      "word": "shoulder",
+      "pos": "n.",
+      "meaning": "肩膀"
+    },
+    {
+      "word": "limb",
+      "pos": "n.",
+      "meaning": "肢；树枝"
+    },
+    {
+      "word": "elbow",
+      "pos": "n./v.",
+      "meaning": "肘部；弯头；扶手/用肘挤"
+    },
+    {
+      "word": "wrist",
+      "pos": "n.",
+      "meaning": "腕；腕关节"
+    },
+    {
+      "word": "thumb",
+      "pos": "n.",
+      "meaning": "拇指"
+    },
+    {
+      "word": "palm",
+      "pos": "n./v.",
+      "meaning": "棕榈树；手掌/把...藏在手中"
+    },
+    {
+      "word": "finger",
+      "pos": "n.",
+      "meaning": "手指"
+    },
+    {
+      "word": "fist",
+      "pos": "n.",
+      "meaning": "拳头"
+    },
+    {
+      "word": "chest",
+      "pos": "n.",
+      "meaning": "胸；胸部"
+    },
+    {
+      "word": "abdomen",
+      "pos": "n.",
+      "meaning": "腹；腹部"
+    },
+    {
+      "word": "rib",
+      "pos": "n.",
+      "meaning": "肋骨；排骨"
+    },
+    {
+      "word": "waist",
+      "pos": "n.",
+      "meaning": "腰；腰部"
+    },
+    {
+      "word": "organ",
+      "pos": "n.",
+      "meaning": "器官；手风琴；机构"
+    },
+    {
+      "word": "liver",
+      "pos": "n.",
+      "meaning": "肝脏"
+    },
+    {
+      "word": "stomach",
+      "pos": "n.",
+      "meaning": "胃口；胃；腹部"
+    },
+    {
+      "word": "womb",
+      "pos": "n.",
+      "meaning": "子宫；发源地"
+    },
+    {
+      "word": "kidney",
+      "pos": "n.",
+      "meaning": "肾脏"
+    },
+    {
+      "word": "lung",
+      "pos": "n.",
+      "meaning": "肺"
+    },
+    {
+      "word": "gland",
+      "pos": "n.",
+      "meaning": "腺"
+    },
+    {
+      "word": "chamber",
+      "pos": "n.",
+      "meaning": "室；腔；议院"
+    },
+    {
+      "word": "intestine",
+      "pos": "n.",
+      "meaning": "肠"
+    },
+    {
+      "word": "thigh",
+      "pos": "n.",
+      "meaning": "大腿；股"
+    },
+    {
+      "word": "joint",
+      "pos": "n./adj.",
+      "meaning": "结合处；关节/共同的；联合的"
+    },
+    {
+      "word": "knee",
+      "pos": "n.",
+      "meaning": "膝盖"
+    },
+    {
+      "word": "lap",
+      "pos": "n.",
+      "meaning": "大腿部；下摆；环节；一圈"
+    },
+    {
+      "word": "ankle",
+      "pos": "n.",
+      "meaning": "踝关节"
+    },
+    {
+      "word": "heel",
+      "pos": "n.",
+      "meaning": "足跟",
+      "example": "|high-heel n. 高跟鞋"
+    },
+    {
+      "word": "toe",
+      "pos": "n.",
+      "meaning": "脚趾；足尖"
+    },
+    {
+      "word": "muscle",
+      "pos": "n.",
+      "meaning": "肌肉"
+    },
+    {
+      "word": "pore",
+      "pos": "n./v.",
+      "meaning": "毛孔；小孔；气孔/凝视；沉思"
+    },
+    {
+      "word": "pulse",
+      "pos": "n.",
+      "meaning": "脉搏；脉冲"
+    },
+    {
+      "word": "artery",
+      "pos": "n.",
+      "meaning": "动脉；干线"
+    },
+    {
+      "word": "nerve",
+      "pos": "n.",
+      "meaning": "神经；紧张；焦虑"
+    },
+    {
+      "word": "hormone",
+      "pos": "n.",
+      "meaning": "荷尔蒙；激素"
+    },
+    {
+      "word": "immune",
+      "pos": "adj.",
+      "meaning": "免疫的；不受影响的；免除的"
+    },
+    {
+      "word": "stimulus",
+      "pos": "n.",
+      "meaning": "刺激物；促进因素",
+      "example": "|复数形式：stimuli"
+    },
+    {
+      "word": "biorhythm",
+      "pos": "n.",
+      "meaning": "生物节律",
+      "example": "|rhythm n. 韵律；节律。biorhythm upset 生物节律失调"
+    },
+    {
+      "word": "lifestyle",
+      "pos": "n.",
+      "meaning": "生活方式"
+    },
+    {
+      "word": "habit",
+      "pos": "n.",
+      "meaning": "习惯"
+    },
+    {
+      "word": "sense",
+      "pos": "n.",
+      "meaning": "感官；感觉"
+    },
+    {
+      "word": "sight",
+      "pos": "n.",
+      "meaning": "视力；看见；景物"
+    },
+    {
+      "word": "eyesight",
+      "pos": "n.",
+      "meaning": "视力"
+    },
+    {
+      "word": "view",
+      "pos": "n.",
+      "meaning": "视野；见解；风景；察看"
+    },
+    {
+      "word": "visual",
+      "pos": "adj.",
+      "meaning": "视力的；视觉的"
+    },
+    {
+      "word": "visible",
+      "pos": "adj.",
+      "meaning": "看得见的，可见的"
+    },
+    {
+      "word": "vague",
+      "pos": "adj.",
+      "meaning": "含糊的；不清楚的；模糊的"
+    },
+    {
+      "word": "blind",
+      "pos": "adj.",
+      "meaning": "盲目的；瞎的；未察觉的"
+    },
+    {
+      "word": "dumb",
+      "pos": "adj.",
+      "meaning": "哑的；不肯开口的",
+      "example": "|dumb-bell 哑铃"
+    },
+    {
+      "word": "aural",
+      "pos": "adj.",
+      "meaning": "耳的；听觉的；气味的；先兆的"
+    },
+    {
+      "word": "dental",
+      "pos": "adj.",
+      "meaning": "牙的；牙科的"
+    },
+    {
+      "word": "awake",
+      "pos": "adj.",
+      "meaning": "醒着的；警觉的；"
+    },
+    {
+      "word": "yawn",
+      "pos": "v./n.",
+      "meaning": "打哈欠；裂开/呵欠"
+    },
+    {
+      "word": "nap",
+      "pos": "n.",
+      "meaning": "小睡；绒毛"
+    },
+    {
+      "word": "doze",
+      "pos": "v.",
+      "meaning": "小睡；打盹儿",
+      "example": "|dose n. (药物的)一剂"
+    },
+    {
+      "word": "quiet",
+      "pos": "adj.",
+      "meaning": "安静的；寂静的；平静的"
+    },
+    {
+      "word": "asleep",
+      "pos": "adj.",
+      "meaning": "睡着的；不活跃的；麻木的"
+    },
+    {
+      "word": "cripple",
+      "pos": "n./v.",
+      "meaning": "跛子；残疾人/使跛"
+    },
+    {
+      "word": "lame",
+      "pos": "adj.",
+      "meaning": "跛的；瘸的；（解释或接口）无说服力的"
+    },
+    {
+      "word": "dwarf",
+      "pos": "n./adj.",
+      "meaning": "（童话中的）小矮人；侏儒/矮小的"
+    },
+    {
+      "word": "pregnancy",
+      "pos": "n.",
+      "meaning": "怀孕；妊娠"
+    },
+    {
+      "word": "born",
+      "pos": "adj./v.",
+      "meaning": "天生的；与生俱来的/[be ~]出生",
+      "example": "|be born of 出生于...家庭"
+    },
+    {
+      "word": "condom",
+      "pos": "n.",
+      "meaning": "避孕套"
+    },
+    {
+      "word": "clone",
+      "pos": "v./n.",
+      "meaning": "克隆/克隆的动植物"
+    },
+    {
+      "word": "symptom",
+      "pos": "n.",
+      "meaning": "征兆；症状"
+    },
+    {
+      "word": "disease",
+      "pos": "n.",
+      "meaning": "疾病"
+    },
+    {
+      "word": "illness",
+      "pos": "n.",
+      "meaning": "疾；疾病"
+    },
+    {
+      "word": "moan",
+      "pos": "n./v.",
+      "meaning": "呻吟；哀悼"
+    },
+    {
+      "word": "infection",
+      "pos": "n.",
+      "meaning": "传染；传染病；影响"
+    },
+    {
+      "word": "detriment",
+      "pos": "n.",
+      "meaning": "损害；损害物"
+    },
+    {
+      "word": "broken",
+      "pos": "adj.",
+      "meaning": "弄坏的；破碎的"
+    },
+    {
+      "word": "disable",
+      "pos": "v.",
+      "meaning": "使丧失能力，使伤残"
+    },
+    {
+      "word": "invalid",
+      "pos": "n./adj.",
+      "meaning": "病弱者；伤残者/病弱的；伤残的"
+    },
+    {
+      "word": "patient",
+      "pos": "n./adj.",
+      "meaning": "病人/有耐心的；能忍耐的"
+    },
+    {
+      "word": "dysfunction",
+      "pos": "n.",
+      "meaning": "（身体）功能障碍"
+    },
+    {
+      "word": "diabetes",
+      "pos": "n.",
+      "meaning": "糖尿病"
+    },
+    {
+      "word": "obesity",
+      "pos": "n.",
+      "meaning": "（过度）肥胖；肥胖症"
+    },
+    {
+      "word": "overweight",
+      "pos": "adj./n./v.",
+      "meaning": "超重的；过胖的/超重/使超重；过于重视"
+    },
+    {
+      "word": "hypertension",
+      "pos": "n.",
+      "meaning": "高血压"
+    },
+    {
+      "word": "paralyse/paralyze",
+      "pos": "v.",
+      "meaning": "使麻痹；使瘫痪；使无助"
+    },
+    {
+      "word": "dizzy",
+      "pos": "adj./v.",
+      "meaning": "头晕目眩的；眩晕的/使眩晕"
+    },
+    {
+      "word": "insane",
+      "pos": "adj.",
+      "meaning": "患精神病的；疯狂的",
+      "example": "His must insane to drive his car so fast|an insane asylum 精神病院"
+    },
+    {
+      "word": "insomnia",
+      "pos": "n.",
+      "meaning": "失眠；失眠症"
+    },
+    {
+      "word": "allergy",
+      "pos": "n.",
+      "meaning": "敏感症；过敏性"
+    },
+    {
+      "word": "heart attack",
+      "pos": "n.",
+      "meaning": "心脏病发作"
+    },
+    {
+      "word": "cancer",
+      "pos": "n.",
+      "meaning": "癌"
+    },
+    {
+      "word": "arthritis",
+      "pos": "n.",
+      "meaning": "关节炎"
+    },
+    {
+      "word": "pimple",
+      "pos": "n.",
+      "meaning": "粉刺；丘疹"
+    },
+    {
+      "word": "stroke",
+      "pos": "n.",
+      "meaning": "中风；打击；一笔（画）"
+    },
+    {
+      "word": "plague",
+      "pos": "n.",
+      "meaning": "瘟疫",
+      "example": "Plague came in the wake of earthquake"
+    },
+    {
+      "word": "flu/influenze",
+      "pos": "n.",
+      "meaning": "流行性感冒"
+    },
+    {
+      "word": "fever",
+      "pos": "n./v.",
+      "meaning": "狂热；发烧；发热/（使）发烧；（使）狂热"
+    },
+    {
+      "word": "headache",
+      "pos": "n.",
+      "meaning": "头痛"
+    },
+    {
+      "word": "swell",
+      "pos": "v.",
+      "meaning": "肿胀；膨胀；（使）增加"
+    },
+    {
+      "word": "choke",
+      "pos": "v.",
+      "meaning": "（使）窒息；阻塞；说不出话"
+    },
+    {
+      "word": "injure",
+      "pos": "v.",
+      "meaning": "伤害；使遭受损伤；损害"
+    },
+    {
+      "word": "injury",
+      "pos": "n.",
+      "meaning": "伤害；损害"
+    },
+    {
+      "word": "hurt",
+      "pos": "v.",
+      "meaning": "损害；伤害；（使）疼痛"
+    },
+    {
+      "word": "bleed",
+      "pos": "v.",
+      "meaning": "流血；榨取；给...放血；放掉（水或气体）"
+    },
+    {
+      "word": "bruise",
+      "pos": "n./v.",
+      "meaning": "瘀伤；伤痕/擦伤"
+    },
+    {
+      "word": "scar",
+      "pos": "n.",
+      "meaning": "疤痕；伤疤"
+    },
+    {
+      "word": "wound",
+      "pos": "n.",
+      "meaning": "创伤；伤害；伤口"
+    },
+    {
+      "word": "trauma",
+      "pos": "n.",
+      "meaning": "外伤；身体上的伤；精神创伤；痛苦经历"
+    },
+    {
+      "word": "lump",
+      "pos": "n./v.",
+      "meaning": "块；肿块/使成块状"
+    },
+    {
+      "word": "pain",
+      "pos": "n./v.",
+      "meaning": "痛苦；疼痛/使痛苦"
+    },
+    {
+      "word": "death",
+      "pos": "n.",
+      "meaning": "死；死亡；毁灭"
+    },
+    {
+      "word": "mortal",
+      "pos": "adj./n.",
+      "meaning": "必死的；致命的/凡人；人类"
+    },
+    {
+      "word": "demise",
+      "pos": "n./v.",
+      "meaning": "死亡；君权的转移或授予；禅让/遗赠；转让"
+    },
+    {
+      "word": "doom",
+      "pos": "n./v.",
+      "meaning": "厄运；毁灭/使注定失败（或死亡等）"
+    },
+    {
+      "word": "fatal",
+      "pos": "adj.",
+      "meaning": "致命的；毁灭性的；决定性的"
+    },
+    {
+      "word": "lethal",
+      "pos": "adj.",
+      "meaning": "致命的"
+    },
+    {
+      "word": "corpus",
+      "pos": "n.",
+      "meaning": "尸体；文集；本金"
+    },
+    {
+      "word": "overwork",
+      "pos": "n./v.",
+      "meaning": "过度操劳；过度工作/（使）过度工作"
+    },
+    {
+      "word": "tire",
+      "pos": "v.",
+      "meaning": "（使）感到疲劳；厌烦"
+    },
+    {
+      "word": "exhaust",
+      "pos": "v.",
+      "meaning": "使精疲力竭；用完；耗尽"
+    },
+    {
+      "word": "fatigue",
+      "pos": "n./v.",
+      "meaning": "疲劳/（使）疲劳"
+    },
+    {
+      "word": "faint",
+      "pos": "adj./v.",
+      "meaning": "模糊的；微弱的；虚弱的/晕倒"
+    },
+    {
+      "word": "feeble",
+      "pos": "adj.",
+      "meaning": "虚弱的；无力的；微弱的"
+    },
+    {
+      "word": "weary",
+      "pos": "adj.",
+      "meaning": "疲倦的；厌烦的"
+    },
+    {
+      "word": "weaken",
+      "pos": "v.",
+      "meaning": "减弱；削弱；变软弱"
+    },
+    {
+      "word": "uncomfortable",
+      "pos": "adj.",
+      "meaning": "不舒服的；不自在的"
+    },
+    {
+      "word": "unconscious",
+      "pos": "adj.",
+      "meaning": "无意识的；失去知觉的"
+    },
+    {
+      "word": "chronic",
+      "pos": "adj.",
+      "meaning": "慢性的；长期的"
+    },
+    {
+      "word": "acute",
+      "pos": "adj.",
+      "meaning": "（疾病）急性的；敏锐的；深刻的"
+    },
+    {
+      "word": "sore",
+      "pos": "adj.",
+      "meaning": "疼痛的；恼火的；严重的"
+    },
+    {
+      "word": "sorrow",
+      "pos": "n.",
+      "meaning": "悲伤；悲痛"
+    },
+    {
+      "word": "suffering",
+      "pos": "n.",
+      "meaning": "苦难；折磨"
+    },
+    {
+      "word": "lament",
+      "pos": "n../v.",
+      "meaning": "悲伤；哀悼/哀悼；对...感到悔恨"
+    },
+    {
+      "word": "hospital",
+      "pos": "n.",
+      "meaning": "医院"
+    },
+    {
+      "word": "therapy",
+      "pos": "n.",
+      "meaning": "治疗"
+    },
+    {
+      "word": "health care",
+      "pos": "n.",
+      "meaning": "医疗保健"
+    },
+    {
+      "word": "sanitary",
+      "pos": "adj.",
+      "meaning": "卫生的；清洁的"
+    },
+    {
+      "word": "medical",
+      "pos": "adj.",
+      "meaning": "医学的；医疗的"
+    },
+    {
+      "word": "curative",
+      "pos": "adj./n.",
+      "meaning": "治疗的/药品"
+    },
+    {
+      "word": "hygiene",
+      "pos": "n.",
+      "meaning": "卫生（学）；保健（学）"
+    },
+    {
+      "word": "fitness",
+      "pos": "n.",
+      "meaning": "健康；合适"
+    },
+    {
+      "word": "clinic",
+      "pos": "n.",
+      "meaning": "诊所；门诊部"
+    },
+    {
+      "word": "physician",
+      "pos": "n.",
+      "meaning": "内科医生"
+    },
+    {
+      "word": "surgeon",
+      "pos": "n.",
+      "meaning": "外科医生"
+    },
+    {
+      "word": "operation",
+      "pos": "n.",
+      "meaning": "手术；操作；经营；运转"
+    },
+    {
+      "word": "cure",
+      "pos": "v./n.",
+      "meaning": "治好；治愈/疗法；治疗"
+    },
+    {
+      "word": "heal",
+      "pos": "v.",
+      "meaning": "治愈；愈合"
+    },
+    {
+      "word": "treatment",
+      "pos": "n.",
+      "meaning": "治疗；疗法；待遇"
+    },
+    {
+      "word": "check",
+      "pos": "v./n.",
+      "meaning": "检查；核对/[美]账单"
+    },
+    {
+      "word": "prescription",
+      "pos": "n.",
+      "meaning": "处方；药方；秘诀"
+    },
+    {
+      "word": "transplant",
+      "pos": "v.",
+      "meaning": "移植"
+    },
+    {
+      "word": "X-ray",
+      "pos": "n./v.",
+      "meaning": "X射线/用 X 射线检查"
+    },
+    {
+      "word": "injection",
+      "pos": "n.",
+      "meaning": "注射；注射物；单射（函数）"
+    },
+    {
+      "word": "precaution",
+      "pos": "n.",
+      "meaning": "预防；警惕；预防措施"
+    },
+    {
+      "word": "vaccinate",
+      "pos": "v.",
+      "meaning": "给...接种疫苗；预防接种"
+    },
+    {
+      "word": "quarantine",
+      "pos": "v./n.",
+      "meaning": "对...进行隔离检疫/检疫；隔离检查期"
+    },
+    {
+      "word": "segregate",
+      "pos": "v.",
+      "meaning": "隔离"
+    },
+    {
+      "word": "isolate",
+      "pos": "v.",
+      "meaning": "使隔离；使孤立；使脱离"
+    },
+    {
+      "word": "pharmacy",
+      "pos": "n.",
+      "meaning": "药店；药剂学"
+    },
+    {
+      "word": "medicine",
+      "pos": "n.",
+      "meaning": "药；医学"
+    },
+    {
+      "word": "remedy",
+      "pos": "n.",
+      "meaning": "药物；治疗法；解决方法"
+    },
+    {
+      "word": "drug",
+      "pos": "n.",
+      "meaning": "毒品；药"
+    },
+    {
+      "word": "pill",
+      "pos": "n.",
+      "meaning": "药丸"
+    },
+    {
+      "word": "antibiotic",
+      "pos": "n.",
+      "meaning": "抗生素"
+    },
+    {
+      "word": "acupuncture",
+      "pos": "n.",
+      "meaning": "针灸"
+    },
+    {
+      "word": "penicillin",
+      "pos": "n.",
+      "meaning": "青霉素"
+    },
+    {
+      "word": "morphine",
+      "pos": "n.",
+      "meaning": "吗啡"
+    },
+    {
+      "word": "dose",
+      "pos": "n./v.",
+      "meaning": "一剂/给...服药"
+    },
+    {
+      "word": "recovery",
+      "pos": "n.",
+      "meaning": "恢复；痊愈"
+    },
+    {
+      "word": "refresh",
+      "pos": "v.",
+      "meaning": "使恢复精神"
+    },
+    {
+      "word": "relief",
+      "pos": "n.",
+      "meaning": "宽恕；轻松；减轻；缓解"
+    },
+    {
+      "word": "relieve",
+      "pos": "v.",
+      "meaning": "救济；减轻；解除（痛苦、不快等）"
+    },
+    {
+      "word": "alleviate",
+      "pos": "n.",
+      "meaning": "减轻（痛苦等）；缓解"
+    },
+    {
+      "word": "resume",
+      "pos": "v.",
+      "meaning": "重新开始；（中断后的）继续"
+    },
+    {
+      "word": "ease",
+      "pos": "v./n.",
+      "meaning": "减轻；返送；缓和/容易；悠闲"
+    },
+    {
+      "word": "relax",
+      "pos": "v.",
+      "meaning": "放松"
+    },
+    {
+      "word": "normal",
+      "pos": "adj.",
+      "meaning": "正常的；正规的；规范的"
+    },
+    {
+      "word": "common",
+      "pos": "adj.",
+      "meaning": "共同的；普通的；平常的"
+    },
+    {
+      "word": "usual",
+      "pos": "adj.",
+      "meaning": "通常的；惯常的"
+    },
+    {
+      "word": "optimistic",
+      "pos": "adj.",
+      "meaning": "乐观主义的；乐观的"
+    },
+    {
+      "word": "pessimistic",
+      "pos": "adj.",
+      "meaning": "悲观的；悲观主义的"
+    },
+    {
+      "word": "positive",
+      "pos": "adj.",
+      "meaning": "肯定的；值得的；绝对的"
+    },
+    {
+      "word": "negative",
+      "pos": "adj.",
+      "meaning": "怀疑的，消极的"
+    },
+    {
+      "word": "passive",
+      "pos": "adj.",
+      "meaning": "被动的，消极的"
+    },
+    {
+      "word": "enthusiastic",
+      "pos": "adj.",
+      "meaning": "热心的；热情的"
+    },
+    {
+      "word": "indifferent",
+      "pos": "adj.",
+      "meaning": "漠不关心的；无关紧要的；平庸的；中立的"
+    },
+    {
+      "word": "apathetic",
+      "pos": "adj.",
+      "meaning": "无动于衷的；漠不关心的"
+    },
+    {
+      "word": "negligible",
+      "pos": "adj.",
+      "meaning": "可以忽略的；微不足道的"
+    },
+    {
+      "word": "happiness",
+      "pos": "n.",
+      "meaning": "幸福；快乐；适当"
+    },
+    {
+      "word": "delight",
+      "pos": "v./n.",
+      "meaning": "（使）高兴；爱好/乐趣"
+    },
+    {
+      "word": "merry",
+      "pos": "adj.",
+      "meaning": "愉快的；欢乐的；微醉的"
+    },
+    {
+      "word": "fun",
+      "pos": "n./adj.",
+      "meaning": "乐趣；玩笑/有趣的"
+    },
+    {
+      "word": "joke",
+      "pos": "n./v.",
+      "meaning": "笑话；玩笑/说笑话；开玩笑"
+    },
+    {
+      "word": "laughter",
+      "pos": "n.",
+      "meaning": "笑；笑声"
+    },
+    {
+      "word": "joy",
+      "pos": "n.",
+      "meaning": "欢乐，喜悦；乐趣"
+    },
+    {
+      "word": "please",
+      "pos": "v./adv.",
+      "meaning": "使高兴；取悦/请"
+    },
+    {
+      "word": "rejoice",
+      "pos": "v.",
+      "meaning": "（使）高兴、欢喜"
+    },
+    {
+      "word": "thrill",
+      "pos": "n./v.",
+      "meaning": "（使）激动；感到紧张"
+    },
+    {
+      "word": "cheer",
+      "pos": "v.",
+      "meaning": "使振作；（向...）欢呼"
+    },
+    {
+      "word": "pleasure",
+      "pos": "n.",
+      "meaning": "愉快；高兴；荣幸"
+    },
+    {
+      "word": "agreeable",
+      "pos": "adj.",
+      "meaning": "使人愉快的；（欣然）同意的"
+    },
+    {
+      "word": "exhilarate",
+      "pos": "v.",
+      "meaning": "使高兴；使兴奋"
+    },
+    {
+      "word": "satisfactory",
+      "pos": "adj.",
+      "meaning": "令人满意的"
+    },
+    {
+      "word": "desirable",
+      "pos": "adj.",
+      "meaning": "可取的；值得拥有的；合意的"
+    },
+    {
+      "word": "exciting",
+      "pos": "adj.",
+      "meaning": "令人兴奋的；使人激动的"
+    },
+    {
+      "word": "keen",
+      "pos": "adj.",
+      "meaning": "强烈的；敏锐的；渴望的；有强烈兴趣的"
+    },
+    {
+      "word": "zeal",
+      "pos": "n.",
+      "meaning": "热心；热情；热忱"
+    },
+    {
+      "word": "lively",
+      "pos": "adj.",
+      "meaning": "活泼的；活跃的；栩栩如生的"
+    },
+    {
+      "word": "lovely",
+      "pos": "adj.",
+      "meaning": "可爱的；令人愉快的"
+    },
+    {
+      "word": "fond",
+      "pos": "adj.",
+      "meaning": "喜爱的；溺爱的"
+    },
+    {
+      "word": "favor/favour",
+      "pos": "n.",
+      "meaning": "偏爱；赞同；恩惠；帮助"
+    },
+    {
+      "word": "surprising",
+      "pos": "adj.",
+      "meaning": "令人惊讶的；出人意料的"
+    },
+    {
+      "word": "startle",
+      "pos": "v./n.",
+      "meaning": "使大吃一惊/吃惊"
+    },
+    {
+      "word": "amazing",
+      "pos": "adj.",
+      "meaning": "令人惊叹的；惊人的"
+    },
+    {
+      "word": "astound",
+      "pos": "v.",
+      "meaning": "使大吃一惊；使惊骇"
+    },
+    {
+      "word": "hectic",
+      "pos": "adj.",
+      "meaning": "兴奋活跃的；忙乱的；繁忙的"
+    },
+    {
+      "word": "liberal",
+      "pos": "adj.",
+      "meaning": "慷慨的；大方的；自由主义的"
+    },
+    {
+      "word": "generous",
+      "pos": "adj.",
+      "meaning": "慷慨的；宽厚的"
+    },
+    {
+      "word": "gentle",
+      "pos": "adj.",
+      "meaning": "温和的；文雅的；出身名门的"
+    },
+    {
+      "word": "humble",
+      "pos": "adj.",
+      "meaning": "谦虚的；卑微的"
+    },
+    {
+      "word": "modest",
+      "pos": "adj.",
+      "meaning": "谦虚的；谦逊的"
+    },
+    {
+      "word": "humorous",
+      "pos": "adj.",
+      "meaning": "幽默的；诙谐的"
+    },
+    {
+      "word": "polite",
+      "pos": "adj.",
+      "meaning": "有礼貌的；客气的"
+    },
+    {
+      "word": "frank",
+      "pos": "adj.",
+      "meaning": "坦白的；直率的"
+    },
+    {
+      "word": "mysterious",
+      "pos": "adj.",
+      "meaning": "神秘的；不可思议的"
+    },
+    {
+      "word": "curious",
+      "pos": "adj.",
+      "meaning": "好奇的；好求知的"
+    },
+    {
+      "word": "daring",
+      "pos": "adj.",
+      "meaning": "勇敢的；大胆的"
+    },
+    {
+      "word": "manly",
+      "pos": "adj.",
+      "meaning": "有男子气概的；果断的"
+    },
+    {
+      "word": "direct",
+      "pos": "adj.",
+      "meaning": "直接的；直率的"
+    },
+    {
+      "word": "earnest",
+      "pos": "adj.",
+      "meaning": "认真的；诚恳的"
+    },
+    {
+      "word": "honesty",
+      "pos": "n.",
+      "meaning": "诚实；正直"
+    },
+    {
+      "word": "proud",
+      "pos": "adj.",
+      "meaning": "骄傲的；自豪的；令人自豪的"
+    },
+    {
+      "word": "rational",
+      "pos": "adj.",
+      "meaning": "理性的；合理的"
+    },
+    {
+      "word": "seriously",
+      "pos": "adv.",
+      "meaning": "严肃得；认真地；严重地"
+    },
+    {
+      "word": "stern",
+      "pos": "adj.",
+      "meaning": "严厉的；坚定的"
+    },
+    {
+      "word": "friendly",
+      "pos": "adj.",
+      "meaning": "友好的；友善的"
+    },
+    {
+      "word": "hospitable",
+      "pos": "adj.",
+      "meaning": "好客的；热情友好的"
+    },
+    {
+      "word": "romantic",
+      "pos": "adj.",
+      "meaning": "浪漫的；充满传奇色彩的"
+    },
+    {
+      "word": "freedom",
+      "pos": "n.",
+      "meaning": "自由；独立自主"
+    },
+    {
+      "word": "careful",
+      "pos": "adj.",
+      "meaning": "仔细地；细致的；小心的；谨慎的"
+    },
+    {
+      "word": "concern",
+      "pos": "n./v.",
+      "meaning": "关心；忧虑/涉及；使担忧；关心"
+    },
+    {
+      "word": "confidence",
+      "pos": "n.",
+      "meaning": "自信；信任"
+    },
+    {
+      "word": "considerate",
+      "pos": "adj.",
+      "meaning": "考虑周到的；体谅的"
+    },
+    {
+      "word": "thoughtful",
+      "pos": "adj.",
+      "meaning": "认真思考的；考虑周到的；体贴的"
+    },
+    {
+      "word": "sympathetic",
+      "pos": "adj.",
+      "meaning": "同情的；和谐的"
+    },
+    {
+      "word": "ready",
+      "pos": "adj.",
+      "meaning": "准备好的；愿意的"
+    },
+    {
+      "word": "apologize/apologise",
+      "pos": "v.",
+      "meaning": "道歉；赔罪"
+    },
+    {
+      "word": "apology",
+      "pos": "n.",
+      "meaning": "道歉；辩解"
+    },
+    {
+      "word": "mercy",
+      "pos": "n.",
+      "meaning": "仁慈；宽容；怜悯"
+    },
+    {
+      "word": "admire",
+      "pos": "v.",
+      "meaning": "赞美；钦佩；仰慕"
+    },
+    {
+      "word": "remarkable",
+      "pos": "adj.",
+      "meaning": "值得注意的；非凡的；卓越的"
+    },
+    {
+      "word": "grateful",
+      "pos": "adj.",
+      "meaning": "感激的；表示感谢的"
+    },
+    {
+      "word": "gratitude",
+      "pos": "n.",
+      "meaning": "感谢；感激；感恩"
+    },
+    {
+      "word": "eager",
+      "pos": "adj.",
+      "meaning": "渴望的；热切的"
+    },
+    {
+      "word": "sound",
+      "pos": "adj./n./v.",
+      "meaning": "健全的；（睡眠）酣畅的；合理地/声音/发出声音；听起来"
+    },
+    {
+      "word": "picturesque",
+      "pos": "adj.",
+      "meaning": "如画的；独特的"
+    },
+    {
+      "word": "promising",
+      "pos": "adj.",
+      "meaning": "大有希望的；有前途的"
+    },
+    {
+      "word": "prominent",
+      "pos": "adj.",
+      "meaning": "突出的；显著的；重要的；杰出的"
+    },
+    {
+      "word": "awesome",
+      "pos": "adj.",
+      "meaning": "卓越的；引起敬畏的"
+    },
+    {
+      "word": "arduous",
+      "pos": "adj.",
+      "meaning": "辛勤的；费力的；陡峭的"
+    },
+    {
+      "word": "tough",
+      "pos": "adj.",
+      "meaning": "艰难的；坚强的；强硬的"
+    },
+    {
+      "word": "robust",
+      "pos": "adj.",
+      "meaning": "强壮的；强健的"
+    },
+    {
+      "word": "sturdy",
+      "pos": "adj.",
+      "meaning": "强健的；坚定的"
+    },
+    {
+      "word": "steadfast",
+      "pos": "adj.",
+      "meaning": "坚定的"
+    },
+    {
+      "word": "tender",
+      "pos": "adj./v.",
+      "meaning": "脆弱的；温柔的；软弱的；疼痛的/（正式）提出；投标"
+    },
+    {
+      "word": "temperate",
+      "pos": "adj.",
+      "meaning": "（气候）温和的；温带的；有节制的；心平气和的"
+    },
+    {
+      "word": "delicate",
+      "pos": "adj.",
+      "meaning": "精致的；微妙的；脆弱的",
+      "example": "Delicate plants must be protected from cold wind and frost"
+    },
+    {
+      "word": "mundane",
+      "pos": "adj.",
+      "meaning": "平凡的；世俗的；世界的"
+    },
+    {
+      "word": "naive",
+      "pos": "adj.",
+      "meaning": "天真的；幼稚的"
+    },
+    {
+      "word": "childish",
+      "pos": "adj.",
+      "meaning": "孩子般的；幼稚的"
+    },
+    {
+      "word": "sincere",
+      "pos": "adj.",
+      "meaning": "真诚的；诚挚的"
+    },
+    {
+      "word": "liable",
+      "pos": "adj.",
+      "meaning": "有责任的；有...倾向的，可能的"
+    },
+    {
+      "word": "trustworthy",
+      "pos": "adj.",
+      "meaning": "值得信赖的，可靠的"
+    },
+    {
+      "word": "enterprising",
+      "pos": "adj.",
+      "meaning": "有事业心的；有进取心的；有魄力的"
+    },
+    {
+      "word": "sane",
+      "pos": "adj.",
+      "meaning": "心智健全的；理智的"
+    },
+    {
+      "word": "strenuous",
+      "pos": "adj.",
+      "meaning": "发奋的；繁重的；艰苦的"
+    },
+    {
+      "word": "rigorous",
+      "pos": "adj.",
+      "meaning": "严格的；严厉的；一丝不苟的"
+    },
+    {
+      "word": "strict",
+      "pos": "adj.",
+      "meaning": "严格的；严厉的"
+    },
+    {
+      "word": "severe",
+      "pos": "adj.",
+      "meaning": "严厉的；十分严重的；艰巨的"
+    },
+    {
+      "word": "mutual",
+      "pos": "adj.",
+      "meaning": "相互的；彼此的；共同的"
+    },
+    {
+      "word": "resemble",
+      "pos": "v.",
+      "meaning": "与...相像；类似"
+    },
+    {
+      "word": "similar",
+      "pos": "adj.",
+      "meaning": "相似的；类似的"
+    },
+    {
+      "word": "familiar",
+      "pos": "adj.",
+      "meaning": "熟悉的"
+    },
+    {
+      "word": "naked",
+      "pos": "adj.",
+      "meaning": "裸体的；赤条条的"
+    },
+    {
+      "word": "bare",
+      "pos": "adj.",
+      "meaning": "赤裸的，无遮蔽的"
+    },
+    {
+      "word": "private",
+      "pos": "adj.",
+      "meaning": "私人的；个人的；私下的"
+    },
+    {
+      "word": "intuition",
+      "pos": "n.",
+      "meaning": "直觉"
+    },
+    {
+      "word": "spontaneous",
+      "pos": "adj.",
+      "meaning": "自发的；自然的；本能的；自然产生的"
+    },
+    {
+      "word": "implicit",
+      "pos": "adj.",
+      "meaning": "暗示的；含蓄的；不怀疑的；无保留的"
+    },
+    {
+      "word": "illusion",
+      "pos": "n.",
+      "meaning": "错觉；幻想"
+    },
+    {
+      "word": "imaginary",
+      "pos": "adj.",
+      "meaning": "想像的；虚构的"
+    },
+    {
+      "word": "fancy",
+      "pos": "n./v.",
+      "meaning": "想象（力）；爱好/认为；想象",
+      "example": "|fantasy n. 幻想"
+    },
+    {
+      "word": "fate",
+      "pos": "n.",
+      "meaning": "命运；宿命"
+    },
+    {
+      "word": "fortune",
+      "pos": "n.",
+      "meaning": "命运；运气；财产"
+    },
+    {
+      "word": "agony",
+      "pos": "n.",
+      "meaning": "极度的痛苦；挣扎"
+    },
+    {
+      "word": "grief",
+      "pos": "n.",
+      "meaning": "极度悲伤"
+    },
+    {
+      "word": "grieve",
+      "pos": "v.",
+      "meaning": "（使）悲痛"
+    },
+    {
+      "word": "miserable",
+      "pos": "adj.",
+      "meaning": "极不愉快的；痛苦的"
+    },
+    {
+      "word": "distress",
+      "pos": "n./v.",
+      "meaning": "悲痛；穷困；不幸/使伤心；使忧虑"
+    },
+    {
+      "word": "sadness",
+      "pos": "n.",
+      "meaning": "悲痛；悲哀"
+    },
+    {
+      "word": "gloomy",
+      "pos": "adj.",
+      "meaning": "幽暗的；令人沮丧的"
+    },
+    {
+      "word": "disappoint",
+      "pos": "v.",
+      "meaning": "使失望；使受挫折"
+    },
+    {
+      "word": "discourage",
+      "pos": "v.",
+      "meaning": "使灰心；使气馁；劝阻"
+    },
+    {
+      "word": "wretched",
+      "pos": "adj.",
+      "meaning": "不幸的；可怜的；悲惨的；恶劣的"
+    },
+    {
+      "word": "frustrating",
+      "pos": "adj.",
+      "meaning": "令人灰心的；是人沮丧的"
+    },
+    {
+      "word": "mourn",
+      "pos": "v.",
+      "meaning": "（因失去...而）哀痛；哀悼"
+    },
+    {
+      "word": "anger",
+      "pos": "n./v.",
+      "meaning": "怒；怒气/使发怒"
+    },
+    {
+      "word": "furious",
+      "pos": "adj.",
+      "meaning": "狂怒的；暴怒的"
+    },
+    {
+      "word": "frown",
+      "pos": "n./v.",
+      "meaning": "皱眉；不悦/皱眉；表示不悦"
+    },
+    {
+      "word": "rage",
+      "pos": "n.",
+      "meaning": "盛怒；狂怒",
+      "example": "My father was in a rage last night|be all the rage 非常流行；风靡一时。in a rage 怒气冲冲。road rage 路怒"
+    },
+    {
+      "word": "irritate",
+      "pos": "v.",
+      "meaning": "激怒；使急躁；刺激"
+    },
+    {
+      "word": "hate",
+      "pos": "v.",
+      "meaning": "恨；憎恨；不喜欢"
+    },
+    {
+      "word": "hatred",
+      "pos": "n.",
+      "meaning": "憎恶；憎恨；仇恨",
+      "example": "His words stirred up my hatred. 他的话激起了我的仇恨"
+    },
+    {
+      "word": "nuisance",
+      "pos": "n.",
+      "meaning": "讨厌或麻烦的人或物",
+      "example": "|Commit No Nuisance 禁止随地小便"
+    },
+    {
+      "word": "disgust",
+      "pos": "v./n.",
+      "meaning": "使厌恶；使作呕/厌恶"
+    },
+    {
+      "word": "vex",
+      "pos": "v.",
+      "meaning": "使烦恼；使恼火",
+      "example": "She was vexed at her failure. 她因失败而恼火"
+    },
+    {
+      "word": "harass",
+      "pos": "v.",
+      "meaning": "烦扰"
+    },
+    {
+      "word": "bore",
+      "pos": "v./n.",
+      "meaning": "烦扰；钻孔/讨厌的人；令人生厌的事"
+    },
+    {
+      "word": "bother",
+      "pos": "v./n.",
+      "meaning": "花费时间精力（做某事）；（使）苦恼/麻烦，困难"
+    },
+    {
+      "word": "troublesome",
+      "pos": "adj.",
+      "meaning": "令人烦恼的；麻烦的"
+    },
+    {
+      "word": "awful",
+      "pos": "adj.",
+      "meaning": "令人不愉快的；极讨厌的"
+    },
+    {
+      "word": "unpleasant",
+      "pos": "adj.",
+      "meaning": "令人不愉快的；讨厌的"
+    },
+    {
+      "word": "adverse",
+      "pos": "adj.",
+      "meaning": "敌对的；不友好的；不利的"
+    },
+    {
+      "word": "hostile",
+      "pos": "adj.",
+      "meaning": "怀有敌意的；不友善的；敌对的"
+    },
+    {
+      "word": "indignant",
+      "pos": "adj.",
+      "meaning": "愤慨的"
+    },
+    {
+      "word": "radical",
+      "pos": "adj.",
+      "meaning": "激进的；根本的"
+    },
+    {
+      "word": "mad",
+      "pos": "adj.",
+      "meaning": "发疯的；恼火的"
+    },
+    {
+      "word": "crazy",
+      "pos": "adj.",
+      "meaning": "疯狂的；荒唐的"
+    },
+    {
+      "word": "wicked",
+      "pos": "adj.",
+      "meaning": "邪恶的；缺德的"
+    },
+    {
+      "word": "vicious",
+      "pos": "adj.",
+      "meaning": "邪恶的；不道德的"
+    },
+    {
+      "word": "vulgar",
+      "pos": "adj.",
+      "meaning": "粗俗的；庸俗的"
+    },
+    {
+      "word": "mean",
+      "pos": "adj./v.",
+      "meaning": "卑鄙的；吝啬的/意思是"
+    },
+    {
+      "word": "ego",
+      "pos": "n.",
+      "meaning": "自我；自尊；自负"
+    },
+    {
+      "word": "selfish",
+      "pos": "adj.",
+      "meaning": "自私的；利己主义的"
+    },
+    {
+      "word": "nasty",
+      "pos": "adj.",
+      "meaning": "下流的；肮脏的；险恶的"
+    },
+    {
+      "word": "rash",
+      "pos": "adj.",
+      "meaning": "草率的；鲁莽的"
+    },
+    {
+      "word": "volatile",
+      "pos": "adj.",
+      "meaning": "容变的；反复无常的；易挥发的"
+    },
+    {
+      "word": "weird",
+      "pos": "adj.",
+      "meaning": "怪诞的；古怪的"
+    },
+    {
+      "word": "excessive",
+      "pos": "adj.",
+      "meaning": "过分的；过多的"
+    },
+    {
+      "word": "anxiety",
+      "pos": "n.",
+      "meaning": "焦虑；担心；渴望"
+    },
+    {
+      "word": "restless",
+      "pos": "adj.",
+      "meaning": "不安定的；焦躁不安的；不耐烦的"
+    },
+    {
+      "word": "uneasy",
+      "pos": "adj.",
+      "meaning": "心神不安的；忧虑的"
+    },
+    {
+      "word": "fear",
+      "pos": "n./v.",
+      "meaning": "害怕；担心"
+    },
+    {
+      "word": "timid",
+      "pos": "adj.",
+      "meaning": "胆小的；羞怯的"
+    },
+    {
+      "word": "fuss",
+      "pos": "n.",
+      "meaning": "大惊小怪；无所谓的纷扰"
+    },
+    {
+      "word": "insult",
+      "pos": "v./n.",
+      "meaning": "侮辱；凌辱/侮辱，凌辱"
+    },
+    {
+      "word": "unkind",
+      "pos": "adj.",
+      "meaning": "不和善的；不仁慈的；刻薄的"
+    },
+    {
+      "word": "envy",
+      "pos": "n./v.",
+      "meaning": "羡慕；嫉妒"
+    },
+    {
+      "word": "jealous",
+      "pos": "adj.",
+      "meaning": "嫉妒的；妒忌的"
+    },
+    {
+      "word": "doubt",
+      "pos": "n./v.",
+      "meaning": "怀疑，疑问/怀疑；不信"
+    },
+    {
+      "word": "suspicion",
+      "pos": "n.",
+      "meaning": "怀疑，嫌疑"
+    },
+    {
+      "word": "skeptical/sceptical",
+      "pos": "adj.",
+      "meaning": "怀疑的"
+    },
+    {
+      "word": "unsatisfactory",
+      "pos": "adj.",
+      "meaning": "不能令人满意的；不符合要求的；不足的"
+    },
+    {
+      "word": "unstable",
+      "pos": "adj.",
+      "meaning": "不稳定的；易变的；不牢固的"
+    },
+    {
+      "word": "unsuitable",
+      "pos": "adj.",
+      "meaning": "不合适的；不适宜的"
+    },
+    {
+      "word": "unwilling",
+      "pos": "adj.",
+      "meaning": "不愿意的；不情愿的；勉强的"
+    },
+    {
+      "word": "reluctant",
+      "pos": "adj.",
+      "meaning": "不情愿的；勉强的"
+    },
+    {
+      "word": "hesitate",
+      "pos": "v.",
+      "meaning": "犹豫不决；顾虑"
+    },
+    {
+      "word": "confuse",
+      "pos": "v.",
+      "meaning": "使困惑；把（某人）弄糊涂；混淆"
+    },
+    {
+      "word": "guilty",
+      "pos": "adj.",
+      "meaning": "有罪的；内疚的"
+    },
+    {
+      "word": "embarrass",
+      "pos": "v.",
+      "meaning": "使尴尬，使窘迫，使局促不安"
+    },
+    {
+      "word": "regret",
+      "pos": "n./v.",
+      "meaning": "遗憾；抱歉；悲叹/后悔；痛惜；惋惜"
+    },
+    {
+      "word": "repent",
+      "pos": "v.",
+      "meaning": "忏悔；后悔"
+    },
+    {
+      "word": "ashamed",
+      "pos": "adj.",
+      "meaning": "惭愧的；感到难为情的"
+    },
+    {
+      "word": "sigh",
+      "pos": "n./v.",
+      "meaning": "叹息；叹气"
+    },
+    {
+      "word": "weep",
+      "pos": "v./n.",
+      "meaning": "哭泣；流泪；哀悼/哭泣"
+    },
+    {
+      "word": "tolerance",
+      "pos": "n.",
+      "meaning": "忍受；容忍；宽容"
+    },
+    {
+      "word": "ignorant",
+      "pos": "adj.",
+      "meaning": "无知的；没有学识的；愚昧的"
+    },
+    {
+      "word": "endure",
+      "pos": "v.",
+      "meaning": "忍耐；忍受；持久"
+    },
+    {
+      "word": "sly",
+      "pos": "adj.",
+      "meaning": "狡猾的；狡诈的"
+    },
+    {
+      "word": "cunning",
+      "pos": "adj.",
+      "meaning": "狡猾的；巧妙的"
+    },
+    {
+      "word": "arbitrary",
+      "pos": "adj.",
+      "meaning": "武断的；专断的；任意的"
+    },
+    {
+      "word": "ridiculous",
+      "pos": "adj.",
+      "meaning": "荒谬的；可笑的"
+    },
+    {
+      "word": "stupid",
+      "pos": "adj.",
+      "meaning": "愚蠢的；麻木的；乏味的/傻瓜；笨蛋"
+    },
+    {
+      "word": "awkward",
+      "pos": "adj.",
+      "meaning": "笨拙的；尴尬的；棘手的；不合适的"
+    },
+    {
+      "word": "clumsy",
+      "pos": "adj.",
+      "meaning": "笨拙的"
+    },
+    {
+      "word": "careless",
+      "pos": "adj.",
+      "meaning": "粗心的；无忧无虑的；淡漠的"
+    },
+    {
+      "word": "oblivious",
+      "pos": "adj.",
+      "meaning": "不知道的；未注意的"
+    },
+    {
+      "word": "naughty",
+      "pos": "adj.",
+      "meaning": "淘气的；顽皮的"
+    },
+    {
+      "word": "greedy",
+      "pos": "adj.",
+      "meaning": "贪吃的；贪婪的"
+    },
+    {
+      "word": "obtrusive",
+      "pos": "adj.",
+      "meaning": "过分炫耀的；过分突出的；眨眼的"
+    },
+    {
+      "word": "slothful",
+      "pos": "adj.",
+      "meaning": "偷懒的；懒散的"
+    },
+    {
+      "word": "sluggish",
+      "pos": "adj.",
+      "meaning": "行动迟缓的"
+    },
+    {
+      "word": "impulse",
+      "pos": "n.",
+      "meaning": "冲动；心血来潮"
+    },
+    {
+      "word": "rigid",
+      "pos": "adj.",
+      "meaning": "固执的；严格的；刚硬的"
+    },
+    {
+      "word": "stubborn",
+      "pos": "adj.",
+      "meaning": "顽固的；固执的"
+    },
+    {
+      "word": "stereotype",
+      "pos": "n.",
+      "meaning": "老一套；模式化观念；刻板印象"
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "chapter": "动物保护",
+  "word_count": 168,
+  "words": [
+    {
+      "word": "biologist",
+      "pos": "n.",
+      "meaning": "生物学家"
+    },
+    {
+      "word": "zoologist",
+      "pos": "n.",
+      "meaning": "动物学家"
+    },
+    {
+      "word": "ecologist",
+      "pos": "n.",
+      "meaning": "生态学家"
+    },
+    {
+      "word": "botanist",
+      "pos": "n.",
+      "meaning": "植物学家"
+    },
+    {
+      "word": "mammal",
+      "pos": "n.",
+      "meaning": "哺乳动物"
+    },
+    {
+      "word": "primate",
+      "pos": "n.",
+      "meaning": "灵长动物"
+    },
+    {
+      "word": "vertebrate",
+      "pos": "n.",
+      "meaning": "脊椎动物"
+    },
+    {
+      "word": "reptile",
+      "pos": "n.",
+      "meaning": "爬行动物"
+    },
+    {
+      "word": "amphibian",
+      "pos": "n./adj.",
+      "meaning": "两栖动物/两栖的"
+    },
+    {
+      "word": "carnivore",
+      "pos": "n.",
+      "meaning": "肉食动物"
+    },
+    {
+      "word": "herbivore",
+      "pos": "n.",
+      "meaning": "食草动物"
+    },
+    {
+      "word": "creature",
+      "pos": "n.",
+      "meaning": "生物；动物"
+    },
+    {
+      "word": "wildlife",
+      "pos": "n.",
+      "meaning": "野生动我"
+    },
+    {
+      "word": "fauna",
+      "pos": "n.",
+      "meaning": "（尤指某一地区的）动物群",
+      "example": "The park is also home to grizzly bears, and other Rocky Mountain faunas"
+    },
+    {
+      "word": "flora",
+      "pos": "n.",
+      "meaning": "（尤指某一地区的）植物群"
+    },
+    {
+      "word": "species",
+      "pos": "n.",
+      "meaning": "物种"
+    },
+    {
+      "word": "flock",
+      "pos": "n./v.",
+      "meaning": "（羊或鸟）群/聚集",
+      "example": "Sheep usually flock together"
+    },
+    {
+      "word": "herd",
+      "pos": "n.",
+      "meaning": "兽群；畜群",
+      "example": "The herdsman looks after a herd of animals"
+    },
+    {
+      "word": "swarm",
+      "pos": "n.",
+      "meaning": "（蜜蜂昆虫的）一大群；（快速移动的）人群"
+    },
+    {
+      "word": "throng",
+      "pos": "n./v.",
+      "meaning": "人群/群集"
+    },
+    {
+      "word": "crowd",
+      "pos": "n.",
+      "meaning": "人群；观众；一群人"
+    },
+    {
+      "word": "beast",
+      "pos": "n.",
+      "meaning": "野兽；凶残的人；畜生"
+    },
+    {
+      "word": "brute",
+      "pos": "n.",
+      "meaning": "粗野的人；残忍的人",
+      "example": "We all want punish the brute"
+    },
+    {
+      "word": "cruel",
+      "pos": "adj.",
+      "meaning": "残忍的；残暴的"
+    },
+    {
+      "word": "originate",
+      "pos": "v.",
+      "meaning": "发源；来自；创始"
+    },
+    {
+      "word": "derive",
+      "pos": "v.",
+      "meaning": "得到；（使）源自",
+      "example": "I derived a lot of pleasure from meeting new people at college|derive from/be derived from 源自；来自"
+    },
+    {
+      "word": "stem",
+      "pos": "v./n.",
+      "meaning": "起源于；来自/茎；梗",
+      "example": "Correct decisions stem from correct judgments|stem from 源自；起源于"
+    },
+    {
+      "word": "ancestor",
+      "pos": "n.",
+      "meaning": "祖宗；祖先"
+    },
+    {
+      "word": "descendant",
+      "pos": "n./adj.",
+      "meaning": "后裔；后代/下降的"
+    },
+    {
+      "word": "offspring",
+      "pos": "n.",
+      "meaning": "后代；子孙；产物"
+    },
+    {
+      "word": "subgroup",
+      "pos": "n.",
+      "meaning": "子群",
+      "example": "According to a subgroup analysis, violence produce more violence"
+    },
+    {
+      "word": "feed",
+      "pos": "v.",
+      "meaning": "供养；喂养；进食"
+    },
+    {
+      "word": "breed",
+      "pos": "v./n.",
+      "meaning": "饲养；繁殖/品种"
+    },
+    {
+      "word": "interbreed",
+      "pos": "v.",
+      "meaning": "（使）品种杂交"
+    },
+    {
+      "word": "hybridize/hybridise",
+      "pos": "v.",
+      "meaning": "（使）杂交"
+    },
+    {
+      "word": "proliferate",
+      "pos": "v.",
+      "meaning": "迅速增殖；剧增"
+    },
+    {
+      "word": "sterility",
+      "pos": "n.",
+      "meaning": "不生育",
+      "example": "This disease causes sterility in both males and females"
+    },
+    {
+      "word": "mate",
+      "pos": "v./n.",
+      "meaning": "交配/配偶"
+    },
+    {
+      "word": "courtship",
+      "pos": "n.",
+      "meaning": "求偶"
+    },
+    {
+      "word": "lay",
+      "pos": "v.",
+      "meaning": "产；放置；铺设",
+      "example": "They lay eggs from the July to the middle of August"
+    },
+    {
+      "word": "hatch",
+      "pos": "v./n.",
+      "meaning": "孵化"
+    },
+    {
+      "word": "brood",
+      "pos": "n./v.",
+      "meaning": "一窝幼鸟；孵（蛋）",
+      "example": "The bird was trying to find food for its brood"
+    },
+    {
+      "word": "spawn",
+      "pos": "n./v.",
+      "meaning": "（鱼、蛙的）卵；产卵；引起"
+    },
+    {
+      "word": "mature",
+      "pos": "adj./v.",
+      "meaning": "成熟的；成熟",
+      "example": "You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的"
+    },
+    {
+      "word": "skin",
+      "pos": "n.",
+      "meaning": "皮肤"
+    },
+    {
+      "word": "claw",
+      "pos": "n./v.",
+      "meaning": "爪；钳；鳌；爪状物/抓；挠；撕"
+    },
+    {
+      "word": "paw",
+      "pos": "n.",
+      "meaning": "（动物的）脚掌；爪子"
+    },
+    {
+      "word": "beak",
+      "pos": "n.",
+      "meaning": "鸟嘴；喙"
+    },
+    {
+      "word": "fin",
+      "pos": "n.",
+      "meaning": "鳍"
+    },
+    {
+      "word": "wing",
+      "pos": "n.",
+      "meaning": "翅膀"
+    },
+    {
+      "word": "plume",
+      "pos": "n.",
+      "meaning": "羽毛"
+    },
+    {
+      "word": "feather",
+      "pos": "n.",
+      "meaning": "羽毛",
+      "example": "|\"plume\" 更强调装饰性和华丽，而 \"feather\" 则更通用，用于描述鸟类的普通羽毛"
+    },
+    {
+      "word": "fur",
+      "pos": "n.",
+      "meaning": "软毛；毛皮"
+    },
+    {
+      "word": "bristle",
+      "pos": "n.",
+      "meaning": "鬃毛；短而硬的毛，刚毛"
+    },
+    {
+      "word": "curl",
+      "pos": "n./v.",
+      "meaning": "卷曲；螺旋状物/（使）卷曲",
+      "example": "|\"curl\" 更强调弯曲或卷曲的动作或形状，而 \"curve\" 更倾向于描述曲线的形状或者趋势。"
+    },
+    {
+      "word": "insect",
+      "pos": "n.",
+      "meaning": "昆虫"
+    },
+    {
+      "word": "worm",
+      "pos": "n.",
+      "meaning": "蠕虫"
+    },
+    {
+      "word": "pest",
+      "pos": "n.",
+      "meaning": "害虫；有害动物"
+    },
+    {
+      "word": "parasite",
+      "pos": "n.",
+      "meaning": "寄生虫",
+      "example": "The life of the parasite is maintained by new blood-sucking mosquitoes"
+    },
+    {
+      "word": "spider",
+      "pos": "n.",
+      "meaning": "蜘蛛"
+    },
+    {
+      "word": "butterfly",
+      "pos": "n.",
+      "meaning": "蝴蝶"
+    },
+    {
+      "word": "mosquito",
+      "pos": "n.",
+      "meaning": "蚊子"
+    },
+    {
+      "word": "cricket",
+      "pos": "n.",
+      "meaning": "蟋蟀"
+    },
+    {
+      "word": "penguin",
+      "pos": "n.",
+      "meaning": "企鹅"
+    },
+    {
+      "word": "seal",
+      "pos": "n./v.",
+      "meaning": "海豹；封条；图章；密封",
+      "example": "Polar bears set off in search of their favorite meal-seals"
+    },
+    {
+      "word": "tortoise",
+      "pos": "n.",
+      "meaning": "龟；陆龟"
+    },
+    {
+      "word": "turtle",
+      "pos": "n.",
+      "meaning": "海龟"
+    },
+    {
+      "word": "whale",
+      "pos": "n./v.",
+      "meaning": "鲸；捕鲸"
+    },
+    {
+      "word": "kangaroo",
+      "pos": "n.",
+      "meaning": "袋鼠"
+    },
+    {
+      "word": "camel",
+      "pos": "n.",
+      "meaning": "骆驼"
+    },
+    {
+      "word": "panda",
+      "pos": "n.",
+      "meaning": "熊猫"
+    },
+    {
+      "word": "elephant",
+      "pos": "n.",
+      "meaning": "大象"
+    },
+    {
+      "word": "trunk",
+      "pos": "n.",
+      "meaning": "象鼻",
+      "example": "|这个词和植物研究那个树干是一个词"
+    },
+    {
+      "word": "ivory",
+      "pos": "n.",
+      "meaning": "象牙",
+      "example": "The professor lived in an ivory tower"
+    },
+    {
+      "word": "horn",
+      "pos": "n.",
+      "meaning": "（牛羊等动物的）角；（乐器的）号"
+    },
+    {
+      "word": "bear",
+      "pos": "n.",
+      "meaning": "熊"
+    },
+    {
+      "word": "wolf",
+      "pos": "n.",
+      "meaning": "狼"
+    },
+    {
+      "word": "dragon",
+      "pos": "n.",
+      "meaning": "龙；悍妇",
+      "example": "Dragons are describes as monsters in most western countries"
+    },
+    {
+      "word": "fox",
+      "pos": "n.",
+      "meaning": "狐狸🦊；狡猾的人"
+    },
+    {
+      "word": "cub",
+      "pos": "n.",
+      "meaning": "幼兽",
+      "example": "The cub licked the milk from its mother's breast"
+    },
+    {
+      "word": "calf",
+      "pos": "n.",
+      "meaning": "幼兽；小牛🐂",
+      "example": "Did you see the cow with her calf"
+    },
+    {
+      "word": "pup",
+      "pos": "n.",
+      "meaning": "幼小动物",
+      "example": "I'll get you an Alsatian pup for Christmas|puppy n. 幼犬。Alsatian n. 阿尔萨斯狼狗，德国牧羊犬（同 German shepherd）"
+    },
+    {
+      "word": "lamb",
+      "pos": "n.",
+      "meaning": "羔羊",
+      "example": "The little lamb was caught by the wolf|a lost lamb 迷途的羔羊"
+    },
+    {
+      "word": "cattle",
+      "pos": "n.",
+      "meaning": "牛"
+    },
+    {
+      "word": "ox",
+      "pos": "n.",
+      "meaning": "（阉割的）公牛",
+      "example": "|复数形式 oxen"
+    },
+    {
+      "word": "bull",
+      "pos": "n.",
+      "meaning": "公牛",
+      "example": "He was a great bull of a man"
+    },
+    {
+      "word": "buffalo",
+      "pos": "n.",
+      "meaning": "水牛；野牛"
+    },
+    {
+      "word": "horse",
+      "pos": "n.",
+      "meaning": "马🐴"
+    },
+    {
+      "word": "zebra",
+      "pos": "n.",
+      "meaning": "斑马🦓"
+    },
+    {
+      "word": "donkey",
+      "pos": "n.",
+      "meaning": "驴子"
+    },
+    {
+      "word": "saddle",
+      "pos": "n.",
+      "meaning": "鞍；马鞍；车座",
+      "example": "He was putting a saddle on the horse|get into the saddle 上马"
+    },
+    {
+      "word": "harness",
+      "pos": "n.",
+      "meaning": "马具；挽具",
+      "example": "You cannot judge a horse by harness|in harness 通力合作；相互配合"
+    },
+    {
+      "word": "falcon",
+      "pos": "n.",
+      "meaning": "隼；猎鹰"
+    },
+    {
+      "word": "hawk",
+      "pos": "n.",
+      "meaning": "鹰；隼"
+    },
+    {
+      "word": "eagle",
+      "pos": "n.",
+      "meaning": "雕"
+    },
+    {
+      "word": "owl",
+      "pos": "n.",
+      "meaning": "猫头鹰"
+    },
+    {
+      "word": "swallow",
+      "pos": "n.",
+      "meaning": "燕子",
+      "example": "|和吞咽是一个词"
+    },
+    {
+      "word": "sparrow",
+      "pos": "n.",
+      "meaning": "麻雀"
+    },
+    {
+      "word": "pigeon",
+      "pos": "n.",
+      "meaning": "鸽子"
+    },
+    {
+      "word": "crow",
+      "pos": "n.",
+      "meaning": "乌鸦"
+    },
+    {
+      "word": "swan",
+      "pos": "n.",
+      "meaning": "天鹅"
+    },
+    {
+      "word": "goose",
+      "pos": "n.",
+      "meaning": "鹅；鹅肉"
+    },
+    {
+      "word": "cock",
+      "pos": "n.",
+      "meaning": "公鸡；雄禽"
+    },
+    {
+      "word": "mouse",
+      "pos": "n.",
+      "meaning": "老鼠；鼠标"
+    },
+    {
+      "word": "rat",
+      "pos": "n.",
+      "meaning": "老鼠；卑鄙的人"
+    },
+    {
+      "word": "squirrel",
+      "pos": "n.",
+      "meaning": "松鼠"
+    },
+    {
+      "word": "hare",
+      "pos": "n.",
+      "meaning": "野兔"
+    },
+    {
+      "word": "frog",
+      "pos": "n.",
+      "meaning": "青蛙"
+    },
+    {
+      "word": "behaviour/behavior",
+      "pos": "n.",
+      "meaning": "行为；活动方式"
+    },
+    {
+      "word": "bite",
+      "pos": "v./n.",
+      "meaning": "咬；（昆虫）叮；吞饵"
+    },
+    {
+      "word": "sting",
+      "pos": "v./n.",
+      "meaning": "刺；叮；（使）感觉刺痛；鳌针；蜇痛",
+      "example": "It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事"
+    },
+    {
+      "word": "bark",
+      "pos": "v./n.",
+      "meaning": "吠；大声嚷；树皮"
+    },
+    {
+      "word": "roar",
+      "pos": "n./v.",
+      "meaning": "吼叫；咆哮"
+    },
+    {
+      "word": "rub",
+      "pos": "v./n.",
+      "meaning": "擦；摩擦/困难；障碍",
+      "example": "|the ~ 问题，困难，障碍"
+    },
+    {
+      "word": "creep",
+      "pos": "v.",
+      "meaning": "爬行；悄悄地爬行",
+      "example": "We take off our shoes and creep cautiously along the passage|creep along 沿着...爬行"
+    },
+    {
+      "word": "crawl",
+      "pos": "v.",
+      "meaning": "爬；爬行；卑躬屈膝；巴结"
+    },
+    {
+      "word": "habitat",
+      "pos": "n.",
+      "meaning": "栖息地"
+    },
+    {
+      "word": "nest",
+      "pos": "n.",
+      "meaning": "巢；窝；穴"
+    },
+    {
+      "word": "hive",
+      "pos": "n./v.",
+      "meaning": "蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居"
+    },
+    {
+      "word": "cell",
+      "pos": "n.",
+      "meaning": "蜂房巢室；细胞；单人牢房"
+    },
+    {
+      "word": "cage",
+      "pos": "n.",
+      "meaning": "笼子"
+    },
+    {
+      "word": "stable",
+      "pos": "n./adj.",
+      "meaning": "马厩；牛棚；稳定的"
+    },
+    {
+      "word": "barn",
+      "pos": "n.",
+      "meaning": "谷仓；牲口棚"
+    },
+    {
+      "word": "hedge",
+      "pos": "n.",
+      "meaning": "树篱；障碍物",
+      "example": "There is a opening in the hedge|on the hedge 抱骑墙态度的"
+    },
+    {
+      "word": "barrier",
+      "pos": "n.",
+      "meaning": "障碍"
+    },
+    {
+      "word": "bar",
+      "pos": "n.",
+      "meaning": "栅；栏杆；条；长块"
+    },
+    {
+      "word": "anatomy",
+      "pos": "n.",
+      "meaning": "解剖学"
+    },
+    {
+      "word": "epidemic",
+      "pos": "n./adj.",
+      "meaning": "流行病；（坏事的）盛行；流行性的；极为盛行的"
+    },
+    {
+      "word": "gene",
+      "pos": "n.",
+      "meaning": "基因"
+    },
+    {
+      "word": "germ",
+      "pos": "n.",
+      "meaning": "微生物；细菌"
+    },
+    {
+      "word": "bacteria",
+      "pos": "n.",
+      "meaning": "细菌；bacterium 的复数形式"
+    },
+    {
+      "word": "virus",
+      "pos": "n.",
+      "meaning": "病毒"
+    },
+    {
+      "word": "microbe",
+      "pos": "n.",
+      "meaning": "微生物"
+    },
+    {
+      "word": "metabolism",
+      "pos": "n.",
+      "meaning": "新陈代谢"
+    },
+    {
+      "word": "protein",
+      "pos": "n.",
+      "meaning": "蛋白质",
+      "example": "You need more protein to build you up"
+    },
+    {
+      "word": "vitamin",
+      "pos": "n.",
+      "meaning": "维生素"
+    },
+    {
+      "word": "secrete",
+      "pos": "v.",
+      "meaning": "分泌",
+      "example": "The kidneys secrete urine|secret n. 秘密"
+    },
+    {
+      "word": "excrete",
+      "pos": "v.",
+      "meaning": "排泄；分泌",
+      "example": "The function of kidneys are excrete waste products"
+    },
+    {
+      "word": "devour",
+      "pos": "v.",
+      "meaning": "吞食；狼吞虎咽的吃"
+    },
+    {
+      "word": "instinct",
+      "pos": "n.",
+      "meaning": "本能；天性；直觉"
+    },
+    {
+      "word": "intuitive",
+      "pos": "adj.",
+      "meaning": "直觉的"
+    },
+    {
+      "word": "potential",
+      "pos": "n./adj.",
+      "meaning": "潜力/潜在的"
+    },
+    {
+      "word": "intelligence",
+      "pos": "n.",
+      "meaning": "智慧；智力；情报；谍报",
+      "example": "Use your intelligence, and you're succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能"
+    },
+    {
+      "word": "functional",
+      "pos": "adj.",
+      "meaning": "功能的；起作用的"
+    },
+    {
+      "word": "sensitive",
+      "pos": "adj.",
+      "meaning": "灵敏的；易担忧的；需谨慎对待的"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "灵活的；弹性的"
+    },
+    {
+      "word": "acoustic",
+      "pos": "adj.",
+      "meaning": "听觉的；声音的"
+    },
+    {
+      "word": "optical",
+      "pos": "adj.",
+      "meaning": "视觉的；光学的"
+    },
+    {
+      "word": "nocturnal",
+      "pos": "adj.",
+      "meaning": "夜间活动的",
+      "example": "Hamsters are nocturnal creatures|hamster n. 仓鼠"
+    },
+    {
+      "word": "dormant",
+      "pos": "adj.",
+      "meaning": "睡着的；休眠的；（动物等）冬眠的"
+    },
+    {
+      "word": "hibernation",
+      "pos": "n.",
+      "meaning": "冬眠"
+    },
+    {
+      "word": "track",
+      "pos": "v./n.",
+      "meaning": "追踪；足迹；踪迹；轨道"
+    },
+    {
+      "word": "trace",
+      "pos": "v./n.",
+      "meaning": "追踪；查出；追溯；痕迹；少许",
+      "example": "They traced the criminal to a house in the city|a trace of 少许；一丝。track back to 追溯到"
+    },
+    {
+      "word": "alternate",
+      "pos": "v.",
+      "meaning": "（使）交替；（使）轮流",
+      "example": "Sunny weather alternated with rain|alternative adj. 可供选择的 n. 可供选择的事物"
+    },
+    {
+      "word": "prey",
+      "pos": "n./v.",
+      "meaning": "猎物；捕食"
+    },
+    {
+      "word": "predator",
+      "pos": "n.",
+      "meaning": "掠夺者；捕食性动物"
+    },
+    {
+      "word": "victim",
+      "pos": "n.",
+      "meaning": "受害者"
+    },
+    {
+      "word": "captive",
+      "pos": "n./adj.",
+      "meaning": "俘虏；被关押的；收控制的"
+    },
+    {
+      "word": "defensive",
+      "pos": "adj.",
+      "meaning": "防御性的",
+      "example": "we took a defensive attitude in the negotiation|defend v. 防卫。self-defensive adj. 自卫的"
+    },
+    {
+      "word": "undergo",
+      "pos": "v.",
+      "meaning": "经历；经受"
+    },
+    {
+      "word": "suffer",
+      "pos": "v.",
+      "meaning": "遭受；受折磨；变糟"
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adj.",
+      "meaning": "易受伤的；脆弱的"
+    },
+    {
+      "word": "subsistence",
+      "pos": "n.",
+      "meaning": "勉强维持生活",
+      "example": "The standard of living at that time was on the edge of subsistence 当时的生活水平出于勉强维生边缘"
+    },
+    {
+      "word": "exist",
+      "pos": "v.",
+      "meaning": "存在；生存"
+    },
+    {
+      "word": "exterminate",
+      "pos": "v.",
+      "meaning": "消灭；根除",
+      "example": "We've made great efforts to exterminate mosquitoes and flies"
+    },
+    {
+      "word": "tame",
+      "pos": "v./adj.",
+      "meaning": "驯养；制服/驯服的；乏味的",
+      "example": "The tame lions can communicate and dance together with the actors|tame nature 征服大自然"
+    },
+    {
+      "word": "keeper",
+      "pos": "n.",
+      "meaning": "看守人；饲养员"
+    },
+    {
+      "word": "shepherd",
+      "pos": "n.",
+      "meaning": "牧羊人，羊倌",
+      "example": "The shepherd set out to look for sheep that had wandered away|sheepdog n. 牧羊犬"
+    }
+  ]
+}

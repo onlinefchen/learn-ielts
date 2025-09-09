@@ -1,0 +1,700 @@
+{
+  "chapter": "建筑场所",
+  "word_count": 134,
+  "words": [
+    {
+      "word": "architecture",
+      "pos": "n.",
+      "meaning": "建筑风格、建筑学"
+    },
+    {
+      "word": "erection",
+      "pos": "n.",
+      "meaning": "建筑、建造",
+      "example": "The erection of the building took several years"
+    },
+    {
+      "word": "structure",
+      "pos": "n.",
+      "meaning": "建筑物；结构"
+    },
+    {
+      "word": "construct",
+      "pos": "v.",
+      "meaning": "建造"
+    },
+    {
+      "word": "obstruct",
+      "pos": "v.",
+      "meaning": "阻塞、妨碍"
+    },
+    {
+      "word": "establish",
+      "pos": "v.",
+      "meaning": "建立；设立"
+    },
+    {
+      "word": "build",
+      "pos": "v.",
+      "meaning": "建造、开发"
+    },
+    {
+      "word": "found",
+      "pos": "v.",
+      "meaning": "创建、创办"
+    },
+    {
+      "word": "concrete",
+      "pos": "n./adj.",
+      "meaning": "混泥土/具体的、混凝土制的"
+    },
+    {
+      "word": "steel",
+      "pos": "n.",
+      "meaning": "钢铁"
+    },
+    {
+      "word": "stability",
+      "pos": "n.",
+      "meaning": "稳定（性）"
+    },
+    {
+      "word": "site",
+      "pos": "n.",
+      "meaning": "地点"
+    },
+    {
+      "word": "venue",
+      "pos": "n.",
+      "meaning": "发生地点、举行场所",
+      "example": "They have already told us the venue for tomorrow's match"
+    },
+    {
+      "word": "landmark",
+      "pos": "n.",
+      "meaning": "地标"
+    },
+    {
+      "word": "situated",
+      "pos": "adj.",
+      "meaning": "位于...的",
+      "example": "The zoo is situated in the suburbs"
+    },
+    {
+      "word": "locate",
+      "pos": "v.",
+      "meaning": "放置；建立；找到"
+    },
+    {
+      "word": "reside",
+      "pos": "v.",
+      "meaning": "居住",
+      "example": "The city in which I reside is very beautiful"
+    },
+    {
+      "word": "inhabit",
+      "pos": "v.",
+      "meaning": "居住于",
+      "example": "Thoughts inhabit my mind"
+    },
+    {
+      "word": "migrate",
+      "pos": "v.",
+      "meaning": "迁徙；移居"
+    },
+    {
+      "word": "settle",
+      "pos": "v.",
+      "meaning": "解决；在...定居；使定居"
+    },
+    {
+      "word": "dwelling",
+      "pos": "n.",
+      "meaning": "住所"
+    },
+    {
+      "word": "skyscraper",
+      "pos": "n.",
+      "meaning": "摩天大楼"
+    },
+    {
+      "word": "villa",
+      "pos": "n.",
+      "meaning": "乡间别墅；[英]度假别墅"
+    },
+    {
+      "word": "mansion",
+      "pos": "n.",
+      "meaning": "宅第；公馆"
+    },
+    {
+      "word": "apartment",
+      "pos": "n.",
+      "meaning": "公寓"
+    },
+    {
+      "word": "flat",
+      "pos": "n.",
+      "meaning": "[尤英]单元房；公寓"
+    },
+    {
+      "word": "hostel",
+      "pos": "n.",
+      "meaning": "廉价招待所"
+    },
+    {
+      "word": "lodge",
+      "pos": "v./n.",
+      "meaning": "租住/小屋；度假屋",
+      "example": "Where we lodge is the problem"
+    },
+    {
+      "word": "hut",
+      "pos": "n.",
+      "meaning": "小屋、棚屋"
+    },
+    {
+      "word": "cabin",
+      "pos": "n.",
+      "meaning": "小木屋、（船上的）小舱"
+    },
+    {
+      "word": "cellar",
+      "pos": "n.",
+      "meaning": "地窖、地下室"
+    },
+    {
+      "word": "shed",
+      "pos": "n./v.",
+      "meaning": "简易房、棚/流、洒、摆脱",
+      "example": "He built a bicycle shed"
+    },
+    {
+      "word": "cottage",
+      "pos": "n.",
+      "meaning": "村舍、小屋"
+    },
+    {
+      "word": "nursery",
+      "pos": "n./adj.",
+      "meaning": "托儿所、托儿所的"
+    },
+    {
+      "word": "cradle",
+      "pos": "n.",
+      "meaning": "摇篮、发源地",
+      "example": "Ancient Greece was the cradle of western civilization|from the cradle to the grave 从生到死、一生"
+    },
+    {
+      "word": "shelter",
+      "pos": "n./v.",
+      "meaning": "庇护所；掩蔽/庇护；遮蔽"
+    },
+    {
+      "word": "block",
+      "pos": "n.",
+      "meaning": "街区、障碍、一块"
+    },
+    {
+      "word": "grid",
+      "pos": "n.",
+      "meaning": "栅栏、网格、输电网"
+    },
+    {
+      "word": "aisle",
+      "pos": "n.",
+      "meaning": "走廊、过道",
+      "example": "Don't stand in the aisle"
+    },
+    {
+      "word": "porch",
+      "pos": "n.",
+      "meaning": "门廊"
+    },
+    {
+      "word": "corridor",
+      "pos": "n.",
+      "meaning": "走廊、通道"
+    },
+    {
+      "word": "stair",
+      "pos": "n.",
+      "meaning": "楼梯"
+    },
+    {
+      "word": "staircase",
+      "pos": "n.",
+      "meaning": "（建筑内的）楼梯"
+    },
+    {
+      "word": "storey/story",
+      "pos": "n.",
+      "meaning": "楼层"
+    },
+    {
+      "word": "layer",
+      "pos": "n.",
+      "meaning": "层",
+      "example": "There is a layer of dust on the table. Clean it before the guests arrive"
+    },
+    {
+      "word": "elevator",
+      "pos": "n.",
+      "meaning": "[美]电梯",
+      "example": "Her job is to operate an elevator|lift n. [英]电梯。a freight elevator 货梯"
+    },
+    {
+      "word": "escalator",
+      "pos": "n.",
+      "meaning": "自动扶梯、滚梯"
+    },
+    {
+      "word": "handrail",
+      "pos": "n.",
+      "meaning": "扶手、栏杆"
+    },
+    {
+      "word": "pillar",
+      "pos": "n.",
+      "meaning": "柱子、中坚、栋梁",
+      "example": "The robber tied him to a pillar|a pillar of society 社会栋梁"
+    },
+    {
+      "word": "column",
+      "pos": "n.",
+      "meaning": "柱；（书、报纸的）栏；专栏"
+    },
+    {
+      "word": "beam",
+      "pos": "n.",
+      "meaning": "（能量、放射线或粒子的）束；柱",
+      "example": "The beam of the searchlights flooded the sky over the airport|a laser beam 激光束"
+    },
+    {
+      "word": "vault",
+      "pos": "n.",
+      "meaning": "拱顶；金库；保险库"
+    },
+    {
+      "word": "arch",
+      "pos": "n./v.",
+      "meaning": "拱门/（使）弯成弓形"
+    },
+    {
+      "word": "ceiling",
+      "pos": "n.",
+      "meaning": "天花板、顶棚"
+    },
+    {
+      "word": "eaves",
+      "pos": "n.",
+      "meaning": "屋檐"
+    },
+    {
+      "word": "chimney",
+      "pos": "n.",
+      "meaning": "烟囱"
+    },
+    {
+      "word": "reception",
+      "pos": "n.",
+      "meaning": "接待处"
+    },
+    {
+      "word": "lobby",
+      "pos": "n./v.",
+      "meaning": "大厅；前厅；游说/游说",
+      "example": "|lobbyist n. 说客"
+    },
+    {
+      "word": "bench",
+      "pos": "n.",
+      "meaning": "长凳",
+      "example": "|the bench 法官职位"
+    },
+    {
+      "word": "parlour/parlor",
+      "pos": "n.",
+      "meaning": "客厅"
+    },
+    {
+      "word": "fireplace",
+      "pos": "n.",
+      "meaning": "壁炉"
+    },
+    {
+      "word": "radiator",
+      "pos": "n.",
+      "meaning": "暖气设备"
+    },
+    {
+      "word": "living room",
+      "pos": "n.",
+      "meaning": "客厅、起居室"
+    },
+    {
+      "word": "cabinet",
+      "pos": "n.",
+      "meaning": "储藏柜、内阁",
+      "example": "|a cabinet meeting 内阁会议"
+    },
+    {
+      "word": "balcony",
+      "pos": "n.",
+      "meaning": "阳台；（剧院的）楼座"
+    },
+    {
+      "word": "terrace",
+      "pos": "n.",
+      "meaning": "露天平台、大阳台"
+    },
+    {
+      "word": "kitchen",
+      "pos": "n.",
+      "meaning": "厨房"
+    },
+    {
+      "word": "lavatory",
+      "pos": "n.",
+      "meaning": "盥洗室、厕所"
+    },
+    {
+      "word": "toilet",
+      "pos": "n.",
+      "meaning": "抽水马桶；[英]厕所"
+    },
+    {
+      "word": "bath",
+      "pos": "n.",
+      "meaning": "洗澡；[英]浴缸",
+      "example": "|bathe v. 用水清洗"
+    },
+    {
+      "word": "basin",
+      "pos": "n.",
+      "meaning": "盆；盆地"
+    },
+    {
+      "word": "reserve",
+      "pos": "n./v.",
+      "meaning": "储备；自然保护区/预订",
+      "example": "|reservoir n. 水库"
+    },
+    {
+      "word": "store",
+      "pos": "n./v.",
+      "meaning": "商店；贮存物/贮存"
+    },
+    {
+      "word": "mall",
+      "pos": "n.",
+      "meaning": "购物中心"
+    },
+    {
+      "word": "complex",
+      "pos": "n.",
+      "meaning": "综合建筑群"
+    },
+    {
+      "word": "supermarket",
+      "pos": "n.",
+      "meaning": "超市"
+    },
+    {
+      "word": "booth",
+      "pos": "n.",
+      "meaning": "售货摊；电话亭；小隔间",
+      "example": "Would you please watch over my booth?请照料一下我的摊位号码？|a telephone booth 电话亭。a photo booth 自助快照亭"
+    },
+    {
+      "word": "casino",
+      "pos": "n.",
+      "meaning": "赌场"
+    },
+    {
+      "word": "studio",
+      "pos": "n.",
+      "meaning": "演播室；工作室；单间公寓"
+    },
+    {
+      "word": "downtown",
+      "pos": "n./adj.",
+      "meaning": "市中心/市中心的"
+    },
+    {
+      "word": "urban",
+      "pos": "adj.",
+      "meaning": "城市的"
+    },
+    {
+      "word": "peripheral",
+      "pos": "adj./n.",
+      "meaning": "外围的/外围设备",
+      "example": "|periphery n. 外围；边缘"
+    },
+    {
+      "word": "vicinity",
+      "pos": "n.",
+      "meaning": "附近；附近地区"
+    },
+    {
+      "word": "room",
+      "pos": "n.",
+      "meaning": "房间；空间"
+    },
+    {
+      "word": "void",
+      "pos": "n./adj.",
+      "meaning": "空间；空白；空虚/空的"
+    },
+    {
+      "word": "spacious",
+      "pos": "adj.",
+      "meaning": "宽敞的"
+    },
+    {
+      "word": "airtight",
+      "pos": "adj.",
+      "meaning": "密封的；不透气的"
+    },
+    {
+      "word": "expanse",
+      "pos": "n.",
+      "meaning": "广阔；辽阔"
+    },
+    {
+      "word": "plaza",
+      "pos": "n.",
+      "meaning": "广场；购物中心"
+    },
+    {
+      "word": "castle",
+      "pos": "n.",
+      "meaning": "城堡"
+    },
+    {
+      "word": "carpenter",
+      "pos": "n.",
+      "meaning": "木匠"
+    },
+    {
+      "word": "mason",
+      "pos": "n.",
+      "meaning": "石匠；泥瓦匠"
+    },
+    {
+      "word": "tile",
+      "pos": "n.",
+      "meaning": "瓦；瓷砖"
+    },
+    {
+      "word": "brickwork",
+      "pos": "n.",
+      "meaning": "砖结构"
+    },
+    {
+      "word": "suspension",
+      "pos": "n.",
+      "meaning": "暂缓；暂令停职、停赛"
+    },
+    {
+      "word": "hook",
+      "pos": "n.",
+      "meaning": "钩；钩状物；勾拳"
+    },
+    {
+      "word": "lever",
+      "pos": "n.",
+      "meaning": "杠杆；操纵杆"
+    },
+    {
+      "word": "pole",
+      "pos": "n.",
+      "meaning": "竿；杆"
+    },
+    {
+      "word": "scaffold",
+      "pos": "n.",
+      "meaning": "脚手架；绞刑架"
+    },
+    {
+      "word": "infrastructure",
+      "pos": "n.",
+      "meaning": "基础设施"
+    },
+    {
+      "word": "apparatus",
+      "pos": "n.",
+      "meaning": "机械；装置"
+    },
+    {
+      "word": "crane",
+      "pos": "n.",
+      "meaning": "起重机；鹤"
+    },
+    {
+      "word": "malfunction",
+      "pos": "v.",
+      "meaning": "发生故障"
+    },
+    {
+      "word": "maintain",
+      "pos": "v.",
+      "meaning": "维持；维修；坚称"
+    },
+    {
+      "word": "fix",
+      "pos": "v.",
+      "meaning": "修理；使固定"
+    },
+    {
+      "word": "mend",
+      "pos": "v.",
+      "meaning": "修理；（使）康复"
+    },
+    {
+      "word": "modify",
+      "pos": "v.",
+      "meaning": "稍作修改"
+    },
+    {
+      "word": "trim",
+      "pos": "v./adj.",
+      "meaning": "修剪；装饰/整齐的、整洁的"
+    },
+    {
+      "word": "weld",
+      "pos": "v.",
+      "meaning": "焊接；使紧密结合"
+    },
+    {
+      "word": "saw",
+      "pos": "n.",
+      "meaning": "锯"
+    },
+    {
+      "word": "screw",
+      "pos": "n.",
+      "meaning": "螺丝钉；螺旋架"
+    },
+    {
+      "word": "drill",
+      "pos": "n./v.",
+      "meaning": "钻机；反复练习/钻孔；训练"
+    },
+    {
+      "word": "plumb",
+      "pos": "n./v.",
+      "meaning": "（表示垂直度的）铅锤/用铅锤线校正",
+      "example": "We need to plumb the line"
+    },
+    {
+      "word": "viaduct",
+      "pos": "n.",
+      "meaning": "高架桥"
+    },
+    {
+      "word": "span",
+      "pos": "n.",
+      "meaning": "跨距；跨度；持续时间",
+      "example": "|span of life 寿命"
+    },
+    {
+      "word": "dam",
+      "pos": "n./v.",
+      "meaning": "水坝/控制、抑制"
+    },
+    {
+      "word": "assemble",
+      "pos": "v.",
+      "meaning": "组装；装配"
+    },
+    {
+      "word": "install",
+      "pos": "v.",
+      "meaning": "安装"
+    },
+    {
+      "word": "furnish",
+      "pos": "v.",
+      "meaning": "为...配备家具陈设",
+      "example": "The house is well furnished"
+    },
+    {
+      "word": "placement",
+      "pos": "n.",
+      "meaning": "放置、布置"
+    },
+    {
+      "word": "layout",
+      "pos": "n.",
+      "meaning": "设计；布局"
+    },
+    {
+      "word": "design",
+      "pos": "v./n.",
+      "meaning": "设计；计划/设计"
+    },
+    {
+      "word": "entrance",
+      "pos": "n.",
+      "meaning": "入口；进入权"
+    },
+    {
+      "word": "entry",
+      "pos": "n.",
+      "meaning": "进入；进入权"
+    },
+    {
+      "word": "enter",
+      "pos": "v.",
+      "meaning": "进入"
+    },
+    {
+      "word": "exit",
+      "pos": "n./v.",
+      "meaning": "出口；退场；离去/离去"
+    },
+    {
+      "word": "outside",
+      "pos": "adj./n.",
+      "meaning": "外部的/外表"
+    },
+    {
+      "word": "outward",
+      "pos": "adj./adv.",
+      "meaning": "向外的/向外"
+    },
+    {
+      "word": "exterior",
+      "pos": "n./adj.",
+      "meaning": "外部；外观/外部的"
+    },
+    {
+      "word": "external",
+      "pos": "adj.",
+      "meaning": "外来的；外面的；对外的"
+    },
+    {
+      "word": "inner",
+      "pos": "adj.",
+      "meaning": "内部的；内心的"
+    },
+    {
+      "word": "interior",
+      "pos": "n./adj.",
+      "meaning": "内部/内部的",
+      "example": "|interior design 室内设计"
+    },
+    {
+      "word": "inward",
+      "pos": "adj./adv.",
+      "meaning": "向内的；内心的/向内"
+    },
+    {
+      "word": "internal",
+      "pos": "adj.",
+      "meaning": "内部的；自身的；国内的"
+    }
+  ]
+}

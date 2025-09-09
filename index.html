@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS 词汇学习系统</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>IELTS 词汇学习系统</h1>
+            <div class="stats">
+                <span>总章节: <strong id="total-chapters">22</strong></span>
+                <span>总单词: <strong id="total-words">0</strong></span>
+                <span>已掌握: <strong id="mastered-words">0</strong></span>
+            </div>
+        </header>
+
+        <main>
+            <div class="chapters-grid" id="chapters-container">
+                <!-- 章节卡片将通过JavaScript动态加载 -->
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let chaptersData = [];
+        let masteredWords = JSON.parse(localStorage.getItem('masteredWords') || '{}');
+
+        async function loadChapters() {
+            try {
+                const response = await fetch('json_chapters/index.json');
+                const data = await response.json();
+                chaptersData = data.chapters;
+                displayChapters();
+                updateStats();
+            } catch (error) {
+                console.error('Error loading chapters:', error);
+            }
+        }
+
+        function displayChapters() {
+            const container = document.getElementById('chapters-container');
+            container.innerHTML = '';
+
+            chaptersData.forEach((chapter, index) => {
+                const masteredCount = getMasteredCount(chapter.name);
+                const progress = (masteredCount / chapter.word_count * 100).toFixed(1);
+                
+                const card = document.createElement('div');
+                card.className = 'chapter-card';
+                card.innerHTML = `
+                    <h3>${chapter.name}</h3>
+                    <div class="chapter-info">
+                        <p>单词数: ${chapter.word_count}</p>
+                        <p>已掌握: ${masteredCount}</p>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: ${progress}%"></div>
+                        </div>
+                        <p class="progress-text">${progress}%</p>
+                    </div>
+                    <button onclick="openChapter('${chapter.name}', '${chapter.file}')">
+                        开始学习
+                    </button>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function getMasteredCount(chapterName) {
+            const chapterMastered = masteredWords[chapterName] || [];
+            return chapterMastered.length;
+        }
+
+        function updateStats() {
+            const totalWords = chaptersData.reduce((sum, ch) => sum + ch.word_count, 0);
+            const totalMastered = Object.values(masteredWords).reduce((sum, arr) => sum + arr.length, 0);
+            
+            document.getElementById('total-words').textContent = totalWords;
+            document.getElementById('mastered-words').textContent = totalMastered;
+        }
+
+        function openChapter(chapterName, fileName) {
+            window.location.href = `chapter.html?chapter=${encodeURIComponent(chapterName)}&file=${fileName}`;
+        }
+
+        // 初始化页面
+        loadChapters();
+    </script>
+</body>
+</html>

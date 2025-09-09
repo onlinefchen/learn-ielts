@@ -1,0 +1,115 @@
+{
+  "total_chapters": 22,
+  "chapters": [
+    {
+      "name": "自然地理",
+      "word_count": 227,
+      "file": "自然地理.json"
+    },
+    {
+      "name": "植物研究",
+      "word_count": 130,
+      "file": "植物研究.json"
+    },
+    {
+      "name": "动物保护",
+      "word_count": 168,
+      "file": "动物保护.json"
+    },
+    {
+      "name": "太空探索",
+      "word_count": 75,
+      "file": "太空探索.json"
+    },
+    {
+      "name": "学校教育",
+      "word_count": 398,
+      "file": "学校教育.json"
+    },
+    {
+      "name": "科技发明",
+      "word_count": 122,
+      "file": "科技发明.json"
+    },
+    {
+      "name": "文化历史",
+      "word_count": 79,
+      "file": "文化历史.json"
+    },
+    {
+      "name": "语言演化",
+      "word_count": 68,
+      "file": "语言演化.json"
+    },
+    {
+      "name": "娱乐运动",
+      "word_count": 176,
+      "file": "娱乐运动.json"
+    },
+    {
+      "name": "物品材料",
+      "word_count": 152,
+      "file": "物品材料.json"
+    },
+    {
+      "name": "时尚潮流",
+      "word_count": 113,
+      "file": "时尚潮流.json"
+    },
+    {
+      "name": "饮食健康",
+      "word_count": 173,
+      "file": "饮食健康.json"
+    },
+    {
+      "name": "建筑场所",
+      "word_count": 134,
+      "file": "建筑场所.json"
+    },
+    {
+      "name": "交通旅行",
+      "word_count": 134,
+      "file": "交通旅行.json"
+    },
+    {
+      "name": "国家政府",
+      "word_count": 149,
+      "file": "国家政府.json"
+    },
+    {
+      "name": "社会经济",
+      "word_count": 171,
+      "file": "社会经济.json"
+    },
+    {
+      "name": "法律法规",
+      "word_count": 117,
+      "file": "法律法规.json"
+    },
+    {
+      "name": "沙场争锋",
+      "word_count": 213,
+      "file": "沙场争锋.json"
+    },
+    {
+      "name": "社会角色",
+      "word_count": 121,
+      "file": "社会角色.json"
+    },
+    {
+      "name": "行为动作",
+      "word_count": 268,
+      "file": "行为动作.json"
+    },
+    {
+      "name": "身心健康",
+      "word_count": 417,
+      "file": "身心健康.json"
+    },
+    {
+      "name": "时间日期",
+      "word_count": 52,
+      "file": "时间日期.json"
+    }
+  ]
+}

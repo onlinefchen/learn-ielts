@@ -1,0 +1,603 @@
+{
+  "chapter": "法律法规",
+  "word_count": 117,
+  "words": [
+    {
+      "word": "law",
+      "pos": "n.",
+      "meaning": "法律；规律；定理",
+      "example": "Those who break the law are subjected to justice. 违法者要受到法律的制裁|be subject to something 有；遭受，承受。enact a law 通过法律"
+    },
+    {
+      "word": "legal",
+      "pos": "adj.",
+      "meaning": "法律的；合法的"
+    },
+    {
+      "word": "rule",
+      "pos": "n./v.",
+      "meaning": "规则/统治"
+    },
+    {
+      "word": "regulation",
+      "pos": "n.",
+      "meaning": "规则；规定；管理"
+    },
+    {
+      "word": "item",
+      "pos": "n.",
+      "meaning": "条目",
+      "example": "This is the next item on the agenda|agenda n. 议事日程;（会议的）议程；议事日程;（会议的）议程"
+    },
+    {
+      "word": "treaty",
+      "pos": "n.",
+      "meaning": "条约；协议"
+    },
+    {
+      "word": "agreement",
+      "pos": "n.",
+      "meaning": "同意；协定"
+    },
+    {
+      "word": "charter",
+      "pos": "n./v.",
+      "meaning": "宪章/租；包（船、车、飞机等）"
+    },
+    {
+      "word": "protocol",
+      "pos": "n.",
+      "meaning": "协定书；协议；礼仪"
+    },
+    {
+      "word": "norm",
+      "pos": "n.",
+      "meaning": "标准；[~s]行为准则；规范"
+    },
+    {
+      "word": "benchmark",
+      "pos": "n.",
+      "meaning": "基准，水准点"
+    },
+    {
+      "word": "criteria",
+      "pos": "n.",
+      "meaning": "[criterion 的复数形式]标准；准则"
+    },
+    {
+      "word": "standard",
+      "pos": "n.",
+      "meaning": "标准"
+    },
+    {
+      "word": "permit",
+      "pos": "v.",
+      "meaning": "允许；准许"
+    },
+    {
+      "word": "allow",
+      "pos": "v.",
+      "meaning": "允许；准许"
+    },
+    {
+      "word": "admission",
+      "pos": "n.",
+      "meaning": "承认；入场费；准许入场"
+    },
+    {
+      "word": "perform",
+      "pos": "v.",
+      "meaning": "履行；执行"
+    },
+    {
+      "word": "enforce",
+      "pos": "v.",
+      "meaning": "强制执行；强行实施；迫使"
+    },
+    {
+      "word": "default",
+      "pos": "v./n.",
+      "meaning": "不支付、不履行/违约；默认值"
+    },
+    {
+      "word": "reject",
+      "pos": "v.",
+      "meaning": "拒绝接受；摒弃"
+    },
+    {
+      "word": "constraint",
+      "pos": "n.",
+      "meaning": "约束；限制，克制"
+    },
+    {
+      "word": "official",
+      "pos": "adj.",
+      "meaning": "正式的；官方的"
+    },
+    {
+      "word": "mandatory",
+      "pos": "adj.",
+      "meaning": "法定的；强制的"
+    },
+    {
+      "word": "potent",
+      "pos": "adj.",
+      "meaning": "很有效的；强有力的"
+    },
+    {
+      "word": "bound",
+      "pos": "adj.",
+      "meaning": "[be ~ to]一定会；很可能会；有义务"
+    },
+    {
+      "word": "obligation",
+      "pos": "n.",
+      "meaning": "义务；责任"
+    },
+    {
+      "word": "court",
+      "pos": "n.",
+      "meaning": "法院；庭院"
+    },
+    {
+      "word": "supreme",
+      "pos": "adj.",
+      "meaning": "最高的；最大的"
+    },
+    {
+      "word": "enact",
+      "pos": "v.",
+      "meaning": "通过（法律）；表演"
+    },
+    {
+      "word": "legislate",
+      "pos": "v.",
+      "meaning": "立法，制定（或通过）法律"
+    },
+    {
+      "word": "equity",
+      "pos": "n.",
+      "meaning": "公平"
+    },
+    {
+      "word": "fair",
+      "pos": "adj.",
+      "meaning": "公平的；公章的"
+    },
+    {
+      "word": "just",
+      "pos": "adj./adv.",
+      "meaning": "公证的；正义的/刚刚；仅仅"
+    },
+    {
+      "word": "prejudice",
+      "pos": "n.",
+      "meaning": "偏见；成见"
+    },
+    {
+      "word": "discrimination",
+      "pos": "n.",
+      "meaning": "歧视"
+    },
+    {
+      "word": "accuse",
+      "pos": "v.",
+      "meaning": "控告；指责"
+    },
+    {
+      "word": "sue",
+      "pos": "v.",
+      "meaning": "控告，提起诉讼；提出请求"
+    },
+    {
+      "word": "prosecute",
+      "pos": "v.",
+      "meaning": "检举；起诉"
+    },
+    {
+      "word": "condemn",
+      "pos": "v.",
+      "meaning": "谴责；指责"
+    },
+    {
+      "word": "complain",
+      "pos": "v.",
+      "meaning": "抱怨；投诉"
+    },
+    {
+      "word": "boycott",
+      "pos": "n./v.",
+      "meaning": "抵制；拒绝购买"
+    },
+    {
+      "word": "session",
+      "pos": "n.",
+      "meaning": "会议；会期"
+    },
+    {
+      "word": "mediate",
+      "pos": "v.",
+      "meaning": "斡旋；调解",
+      "example": "|mediate between 在...之间进行调解"
+    },
+    {
+      "word": "plea",
+      "pos": "n.",
+      "meaning": "辩解理由；借口；请求"
+    },
+    {
+      "word": "appeal",
+      "pos": "v./n.",
+      "meaning": "呼吁；申述"
+    },
+    {
+      "word": "contradict",
+      "pos": "v.",
+      "meaning": "反驳；与...矛盾"
+    },
+    {
+      "word": "persuade",
+      "pos": "v.",
+      "meaning": "说服；使相信"
+    },
+    {
+      "word": "controversy",
+      "pos": "n.",
+      "meaning": "争议；辩论"
+    },
+    {
+      "word": "whisper",
+      "pos": "v.",
+      "meaning": "低声说；私下谈论"
+    },
+    {
+      "word": "mutter",
+      "pos": "v.",
+      "meaning": "低声低语；小声抱怨"
+    },
+    {
+      "word": "murmur",
+      "pos": "n./v.",
+      "meaning": "低声说/咕哝；低语"
+    },
+    {
+      "word": "silent",
+      "pos": "adj.",
+      "meaning": "沉默的；寂静无声的",
+      "example": "He couldn't speak English and was completely silent during the visit|silence n./v. 沉默；寂静/使安静"
+    },
+    {
+      "word": "mute",
+      "pos": "adj./n.",
+      "meaning": "缄默的；哑的；无声的/哑巴"
+    },
+    {
+      "word": "investigate",
+      "pos": "v.",
+      "meaning": "调查"
+    },
+    {
+      "word": "witness",
+      "pos": "n./v.",
+      "meaning": "目击者；见证人/见证"
+    },
+    {
+      "word": "justify",
+      "pos": "v.",
+      "meaning": "为...辩护；证明...正当"
+    },
+    {
+      "word": "reasonable",
+      "pos": "adj.",
+      "meaning": "合理的；理智的"
+    },
+    {
+      "word": "suitable",
+      "pos": "adj.",
+      "meaning": "合适的，适宜的"
+    },
+    {
+      "word": "judge",
+      "pos": "n.",
+      "meaning": "法官；裁判员"
+    },
+    {
+      "word": "jury",
+      "pos": "n.",
+      "meaning": "陪审团；评判委员会",
+      "example": "The jury will retire to consider its verdict today. 陪审团今天将退庭商议其裁决|verdict n. 裁决"
+    },
+    {
+      "word": "trial",
+      "pos": "n.",
+      "meaning": "试验；审判"
+    },
+    {
+      "word": "suspect",
+      "pos": "n./v.",
+      "meaning": "嫌疑犯/怀疑"
+    },
+    {
+      "word": "sentence",
+      "pos": "n./v.",
+      "meaning": "判决/宣判"
+    },
+    {
+      "word": "arrest",
+      "pos": "v./n.",
+      "meaning": "逮捕；吸引（注意）/逮捕",
+      "example": "|arrest sb.'s attention 引起某人的注意"
+    },
+    {
+      "word": "jail",
+      "pos": "n./v.",
+      "meaning": "监狱/监禁"
+    },
+    {
+      "word": "prison",
+      "pos": "n.",
+      "meaning": "监狱，监禁"
+    },
+    {
+      "word": "confine",
+      "pos": "n./v.",
+      "meaning": "[~s]边界；范围/限制；监禁",
+      "example": "this is outside the confines of human knowledge|be confined to 局限于。 within the confines of 在（某范围）之内"
+    },
+    {
+      "word": "oversee",
+      "pos": "v.",
+      "meaning": "监督；监管"
+    },
+    {
+      "word": "supervise",
+      "pos": "v.",
+      "meaning": "监督；管理；指导"
+    },
+    {
+      "word": "restrict",
+      "pos": "v.",
+      "meaning": "限制；限定；约束"
+    },
+    {
+      "word": "restrain",
+      "pos": "v.",
+      "meaning": "抑制；制止",
+      "example": "|restrain oneself 克制自己"
+    },
+    {
+      "word": "commit",
+      "pos": "v.",
+      "meaning": "犯（罪）；做（坏事）"
+    },
+    {
+      "word": "sin",
+      "pos": "n./s.",
+      "meaning": "罪孽/犯戒律"
+    },
+    {
+      "word": "crime",
+      "pos": "n.",
+      "meaning": "罪行；犯罪活动"
+    },
+    {
+      "word": "vice",
+      "pos": "n.",
+      "meaning": "恶行；缺点",
+      "example": "Virtue and vise are different things: former leads to peace, the latter to misery|virtue n. 美德；高尚品德。misery n. 痛苦，悲惨；常常不高兴/老发牢骚的人"
+    },
+    {
+      "word": "bribe",
+      "pos": "n./v.",
+      "meaning": "贿赂/向...行贿",
+      "example": "|bribery n. 贿赂行为。bribee n. 受贿者 briber n. 行贿者"
+    },
+    {
+      "word": "rob",
+      "pos": "v.",
+      "meaning": "抢劫；夺走"
+    },
+    {
+      "word": "pirate",
+      "pos": "n./v.",
+      "meaning": "海盗；盗版者/盗印，窃用"
+    },
+    {
+      "word": "steal",
+      "pos": "n.",
+      "meaning": "偷，窃取；剽窃"
+    },
+    {
+      "word": "thief",
+      "pos": "n.",
+      "meaning": "窃贼；偷窃犯"
+    },
+    {
+      "word": "murder",
+      "pos": "n./v.",
+      "meaning": "谋杀"
+    },
+    {
+      "word": "suicide",
+      "pos": "n.",
+      "meaning": "自杀"
+    },
+    {
+      "word": "deceive",
+      "pos": "v.",
+      "meaning": "欺骗；蒙蔽；误导"
+    },
+    {
+      "word": "cheat",
+      "pos": "v./n.",
+      "meaning": "欺骗；作弊/作弊者"
+    },
+    {
+      "word": "fraud",
+      "pos": "n.",
+      "meaning": "骗子；赝品；欺诈"
+    },
+    {
+      "word": "liar",
+      "pos": "n.",
+      "meaning": "说谎的人"
+    },
+    {
+      "word": "trap",
+      "pos": "n./v.",
+      "meaning": "陷阱；诡计/诱骗"
+    },
+    {
+      "word": "trick",
+      "pos": "n./v.",
+      "meaning": "诡计/哄骗"
+    },
+    {
+      "word": "pretend",
+      "pos": "v.",
+      "meaning": "假装，假扮"
+    },
+    {
+      "word": "fool",
+      "pos": "n./v.",
+      "meaning": "蠢人；傻子/欺骗",
+      "example": "A fool's haste is no speed. 欲速则不达|foolish adj. 愚蠢的。make a fool of sb. 愚弄某人。haste n. 仓促，匆忙"
+    },
+    {
+      "word": "stigma",
+      "pos": "n.",
+      "meaning": "耻辱；污名"
+    },
+    {
+      "word": "confess",
+      "pos": "v.",
+      "meaning": "供认；忏悔"
+    },
+    {
+      "word": "conform",
+      "pos": "v.",
+      "meaning": "遵守；顺从；相符合"
+    },
+    {
+      "word": "reconcile",
+      "pos": "v.",
+      "meaning": "使和解；调和"
+    },
+    {
+      "word": "obey",
+      "pos": "v.",
+      "meaning": "服从；顺从"
+    },
+    {
+      "word": "succumb",
+      "pos": "v.",
+      "meaning": "屈服；屈从"
+    },
+    {
+      "word": "penalty",
+      "pos": "n.",
+      "meaning": "惩罚；处罚"
+    },
+    {
+      "word": "fine",
+      "pos": "n./adj.",
+      "meaning": "罚款/美好的"
+    },
+    {
+      "word": "mortgage",
+      "pos": "v./n.",
+      "meaning": "抵押（房屋、土地）借款/房贷"
+    },
+    {
+      "word": "ownership",
+      "pos": "n.",
+      "meaning": "所有权；物主身份"
+    },
+    {
+      "word": "copyright",
+      "pos": "n.",
+      "meaning": "版权"
+    },
+    {
+      "word": "privilege",
+      "pos": "n.",
+      "meaning": "特权"
+    },
+    {
+      "word": "accredit",
+      "pos": "v.",
+      "meaning": "把...归于；委任"
+    },
+    {
+      "word": "clue",
+      "pos": "n.",
+      "meaning": "线索；提示"
+    },
+    {
+      "word": "access",
+      "pos": "n.",
+      "meaning": "通路；查阅（或使用、接近）的机会（或权利）"
+    },
+    {
+      "word": "anonymous",
+      "pos": "adj.",
+      "meaning": "匿名的"
+    },
+    {
+      "word": "false",
+      "pos": "adj.",
+      "meaning": "不正确的；虚假的；伪造的"
+    },
+    {
+      "word": "genuine",
+      "pos": "adj.",
+      "meaning": "真诚的；真正的"
+    },
+    {
+      "word": "procedure",
+      "pos": "n.",
+      "meaning": "手续；程序"
+    },
+    {
+      "word": "routine",
+      "pos": "n./adj.",
+      "meaning": "例行公事；常规/惯例的"
+    },
+    {
+      "word": "consequence",
+      "pos": "n.",
+      "meaning": "后果"
+    },
+    {
+      "word": "demand",
+      "pos": "v./n.",
+      "meaning": "要求；需要/需求；需求量"
+    },
+    {
+      "word": "request",
+      "pos": "n./v.",
+      "meaning": "要求；请求"
+    },
+    {
+      "word": "require",
+      "pos": "v.",
+      "meaning": "需要；命令；规定"
+    },
+    {
+      "word": "petition",
+      "pos": "v./n.",
+      "meaning": "请求/请愿书；上诉"
+    },
+    {
+      "word": "command",
+      "pos": "v./n.",
+      "meaning": "命令；指挥；统率/命令；指挥；控制；运用能力",
+      "example": "|have a good command of 能自如地运用"
+    },
+    {
+      "word": "instruct",
+      "pos": "v.",
+      "meaning": "指导；讲授；通知；命令"
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+{
+  "chapter": "物品材料",
+  "word_count": 152,
+  "words": [
+    {
+      "word": "stuff",
+      "pos": "n.",
+      "meaning": "东西；原料"
+    },
+    {
+      "word": "item",
+      "pos": "n.",
+      "meaning": "一件物品；一件商品"
+    },
+    {
+      "word": "merchandise",
+      "pos": "n.",
+      "meaning": "商品"
+    },
+    {
+      "word": "souvenir",
+      "pos": "n.",
+      "meaning": "纪念品"
+    },
+    {
+      "word": "artifact/artefact",
+      "pos": "n.",
+      "meaning": "人造物品；手工艺品"
+    },
+    {
+      "word": "material",
+      "pos": "n./adj.",
+      "meaning": "材料；原料；人才；物质的"
+    },
+    {
+      "word": "raw",
+      "pos": "adj.",
+      "meaning": "天然的；未经加工的；（感情）原始的"
+    },
+    {
+      "word": "crude",
+      "pos": "adj.",
+      "meaning": "天然的；未经加工的；粗超的"
+    },
+    {
+      "word": "necessity",
+      "pos": "n.",
+      "meaning": "必需品；必要",
+      "example": "|necessary adj. 必须的；必要的"
+    },
+    {
+      "word": "outfit",
+      "pos": "adj./n.",
+      "meaning": "全套服装；全套装备；配备；装备"
+    },
+    {
+      "word": "kit",
+      "pos": "n.",
+      "meaning": "成套工具"
+    },
+    {
+      "word": "utensil",
+      "pos": "n.",
+      "meaning": "（家庭）用具；器皿"
+    },
+    {
+      "word": "garbage",
+      "pos": "n.",
+      "meaning": "（尤美）垃圾；废物"
+    },
+    {
+      "word": "rubbish",
+      "pos": "n.",
+      "meaning": "（尤英）垃圾；废弃物；废话",
+      "example": "|clear away the rubbish 清除垃圾"
+    },
+    {
+      "word": "trash",
+      "pos": "n.",
+      "meaning": "（美）垃圾"
+    },
+    {
+      "word": "recycle",
+      "pos": "v.",
+      "meaning": "使再循环；回收利用"
+    },
+    {
+      "word": "reuse",
+      "pos": "v.",
+      "meaning": "再次使用"
+    },
+    {
+      "word": "litter",
+      "pos": "n./v.",
+      "meaning": "垃圾；废弃物；乱丢东西"
+    },
+    {
+      "word": "waste",
+      "pos": "n./v.",
+      "meaning": "废物；浪费"
+    },
+    {
+      "word": "junk",
+      "pos": "n.",
+      "meaning": "无用的东西；废物"
+    },
+    {
+      "word": "landfill",
+      "pos": "n.",
+      "meaning": "垃圾填埋地；垃圾填埋"
+    },
+    {
+      "word": "sewerage",
+      "pos": "n.",
+      "meaning": "排水系统；污水处理系统；（=sewage）污水"
+    },
+    {
+      "word": "detergent",
+      "pos": "n.",
+      "meaning": "洗涤剂"
+    },
+    {
+      "word": "lotion",
+      "pos": "n.",
+      "meaning": "洁肤乳；润肤乳"
+    },
+    {
+      "word": "shampoo",
+      "pos": "v./n.",
+      "meaning": "用洗发剂（头发）；洗发剂"
+    },
+    {
+      "word": "soap",
+      "pos": "n./v.",
+      "meaning": "肥皂；用肥皂擦洗"
+    },
+    {
+      "word": "tub",
+      "pos": "n.",
+      "meaning": "桶；盆；（美）鱼缸；浴盆"
+    },
+    {
+      "word": "plug",
+      "pos": "n./v.",
+      "meaning": "塞子；插头；把...塞住"
+    },
+    {
+      "word": "tap",
+      "pos": "n.",
+      "meaning": "旋塞；龙头",
+      "example": "He rigged a rubber hose to tap in kitchen|和轻拍是一个单词。 rig v. 安装；装配"
+    },
+    {
+      "word": "pipe",
+      "pos": "n.",
+      "meaning": "管子；管道；烟斗"
+    },
+    {
+      "word": "tube",
+      "pos": "n.",
+      "meaning": "管；显像管；（英国/伦敦）地铁"
+    },
+    {
+      "word": "mop",
+      "pos": "n./v.",
+      "meaning": "拖把；用拖把擦"
+    },
+    {
+      "word": "broom",
+      "pos": "n./v.",
+      "meaning": "扫帚；用扫帚扫",
+      "example": "She used a broom to sweep up the scraps of paper|scrap n. 碎片，碎屑 ~ paper 废纸"
+    },
+    {
+      "word": "sweep",
+      "pos": "v.",
+      "meaning": "打扫；（迅猛的）吹走；掠过",
+      "example": "|sweep the board 囊括所有奖项"
+    },
+    {
+      "word": "mattress",
+      "pos": "n.",
+      "meaning": "床垫"
+    },
+    {
+      "word": "carpet",
+      "pos": "n.",
+      "meaning": "地毯",
+      "example": "|red carpet （迎接贵宾用的）红毯"
+    },
+    {
+      "word": "rug",
+      "pos": "n.",
+      "meaning": "小地毯；（盖肩或腿的）小毛毯"
+    },
+    {
+      "word": "mat",
+      "pos": "n.",
+      "meaning": "地垫"
+    },
+    {
+      "word": "cushion",
+      "pos": "n.",
+      "meaning": "软垫",
+      "example": "She plumps up the sofa cushion 她把沙发垫拍得鼓鼓的|plump adj./v. 丰满的；饱满的；发福的/使丰满；使鼓起。 ~ sth. up 鼓起，变丰满。 a back cushion 靠背垫。a sofa cushion 沙发垫"
+    },
+    {
+      "word": "pad",
+      "pos": "n./v.",
+      "meaning": "衬垫；便签本；（用软材料）填塞"
+    },
+    {
+      "word": "blanket",
+      "pos": "n.",
+      "meaning": "毛毯；毯子",
+      "example": "She huddled herself in the blanket|huddle v. 蜷缩；缩成一团"
+    },
+    {
+      "word": "quilt",
+      "pos": "n.",
+      "meaning": "被子",
+      "example": "If you air your quilt on such a wet day, it'll soak up the moisture|晾，这里用的 air。soak sth. up 吸收，吸掉（液体）"
+    },
+    {
+      "word": "sheet",
+      "pos": "n.",
+      "meaning": "被单；床单；一张（纸）；薄板"
+    },
+    {
+      "word": "pillow",
+      "pos": "n.",
+      "meaning": "枕头"
+    },
+    {
+      "word": "sponge",
+      "pos": "n.",
+      "meaning": "海绵"
+    },
+    {
+      "word": "towel",
+      "pos": "n.",
+      "meaning": "毛巾"
+    },
+    {
+      "word": "staple",
+      "pos": "n.",
+      "meaning": "订书钉；主要部分"
+    },
+    {
+      "word": "nail",
+      "pos": "n./v.",
+      "meaning": "指甲；钉子；（用钉子）钉住"
+    },
+    {
+      "word": "razor",
+      "pos": "n.",
+      "meaning": "剃刀；（用剃刀）剃",
+      "example": "|an electric razor 电动剃须刀"
+    },
+    {
+      "word": "shave",
+      "pos": "v.",
+      "meaning": "剃须；刮脸",
+      "example": "I lathered my face and started to shave|lather n./v. 肥皂泡/形成泡沫；在...涂皂泡"
+    },
+    {
+      "word": "fuse",
+      "pos": "n./v.",
+      "meaning": "保险丝；导火线；（使）融化、融合"
+    },
+    {
+      "word": "cable",
+      "pos": "n.",
+      "meaning": "电缆；缆绳；电报；有线电视",
+      "example": "a cable car 缆车"
+    },
+    {
+      "word": "cord",
+      "pos": "n.",
+      "meaning": "细绳；粗线；（体内的）线、索、带",
+      "example": "|vocal cords 声带"
+    },
+    {
+      "word": "strand",
+      "pos": "n.",
+      "meaning": "缕，股；滨，岸",
+      "example": "One strand of silk doesn't make a thread 单丝不成线"
+    },
+    {
+      "word": "match",
+      "pos": "n./v.",
+      "meaning": "火柴；比赛；匹配的人或物；与...匹配"
+    },
+    {
+      "word": "candle",
+      "pos": "n.",
+      "meaning": "蜡烛"
+    },
+    {
+      "word": "wax",
+      "pos": "n.",
+      "meaning": "蜡；蜂蜡"
+    },
+    {
+      "word": "portfolio",
+      "pos": "n.",
+      "meaning": "文件夹；公事包",
+      "example": "|briefcase n. 公事包"
+    },
+    {
+      "word": "paperback",
+      "pos": "n.",
+      "meaning": "简装书；平装书"
+    },
+    {
+      "word": "pamphlet",
+      "pos": "n.",
+      "meaning": "小册子"
+    },
+    {
+      "word": "tissue",
+      "pos": "n.",
+      "meaning": "面巾纸；（器官）组织"
+    },
+    {
+      "word": "cover",
+      "pos": "n.",
+      "meaning": "封面；盖子；套子"
+    },
+    {
+      "word": "Xerox",
+      "pos": "n.",
+      "meaning": "施乐复印机"
+    },
+    {
+      "word": "duplicate",
+      "pos": "v./n.",
+      "meaning": "重复；副本；复制品"
+    },
+    {
+      "word": "memorandum",
+      "pos": "n.",
+      "meaning": "备忘录；建议书；=memo"
+    },
+    {
+      "word": "stationery",
+      "pos": "n.",
+      "meaning": "文具；信纸"
+    },
+    {
+      "word": "glue",
+      "pos": "n.",
+      "meaning": "胶水"
+    },
+    {
+      "word": "ink",
+      "pos": "n.",
+      "meaning": "墨水"
+    },
+    {
+      "word": "rubber",
+      "pos": "n.",
+      "meaning": "（英）橡皮擦；橡胶"
+    },
+    {
+      "word": "scissors",
+      "pos": "n.",
+      "meaning": "剪刀"
+    },
+    {
+      "word": "shear",
+      "pos": "n./v.",
+      "meaning": "shears（尤指修篱笆用的）大剪刀；剪"
+    },
+    {
+      "word": "edge",
+      "pos": "n.",
+      "meaning": "边；边缘；刀口"
+    },
+    {
+      "word": "rim",
+      "pos": "n.",
+      "meaning": "（圆形物品的）外缘、边缘"
+    },
+    {
+      "word": "element",
+      "pos": "n.",
+      "meaning": "元素；组成部分；基本部分"
+    },
+    {
+      "word": "factor",
+      "pos": "n.",
+      "meaning": "因素；要素"
+    },
+    {
+      "word": "section",
+      "pos": "n.",
+      "meaning": "部分；章；节"
+    },
+    {
+      "word": "tag",
+      "pos": "n.",
+      "meaning": "标签；称号"
+    },
+    {
+      "word": "label",
+      "pos": "n.",
+      "meaning": "标签；标贴"
+    },
+    {
+      "word": "badge",
+      "pos": "n.",
+      "meaning": "徽章；证章；标志；象征"
+    },
+    {
+      "word": "bolt",
+      "pos": "n./v.",
+      "meaning": "螺栓；插销；闩上（门、窗）"
+    },
+    {
+      "word": "knob",
+      "pos": "n.",
+      "meaning": "球形把手；旋钮"
+    },
+    {
+      "word": "handle",
+      "pos": "n./v.",
+      "meaning": "柄；把手；拿；处理"
+    },
+    {
+      "word": "shutter",
+      "pos": "n./v.",
+      "meaning": "百叶窗；快门；停止（营业）"
+    },
+    {
+      "word": "curtain",
+      "pos": "n./v.",
+      "meaning": "窗帘；幕布；给...装上帘子"
+    },
+    {
+      "word": "pane",
+      "pos": "n.",
+      "meaning": "（一块）玻璃窗"
+    },
+    {
+      "word": "opacity",
+      "pos": "n.",
+      "meaning": "不透明性",
+      "example": "|opaque n. 不透明物体；adj. 不透明的"
+    },
+    {
+      "word": "jar",
+      "pos": "n.",
+      "meaning": "罐；广口瓶；猛烈震动"
+    },
+    {
+      "word": "barrel",
+      "pos": "n.",
+      "meaning": "桶"
+    },
+    {
+      "word": "bucket",
+      "pos": "n.",
+      "meaning": "（有提手的）桶"
+    },
+    {
+      "word": "pail",
+      "pos": "n.",
+      "meaning": "（尤美-通常是金属或者木质的）桶；提桶"
+    },
+    {
+      "word": "phone",
+      "pos": "n.",
+      "meaning": "电话"
+    },
+    {
+      "word": "bell",
+      "pos": "n.",
+      "meaning": "钟，铃"
+    },
+    {
+      "word": "camera",
+      "pos": "n.",
+      "meaning": "照相机"
+    },
+    {
+      "word": "portable",
+      "pos": "adj.",
+      "meaning": "手提式的；便携的"
+    },
+    {
+      "word": "spotlight",
+      "pos": "n.",
+      "meaning": "聚光灯"
+    },
+    {
+      "word": "lantern",
+      "pos": "n.",
+      "meaning": "提灯；灯笼"
+    },
+    {
+      "word": "bulb",
+      "pos": "n.",
+      "meaning": "电灯泡；球茎；球茎状物"
+    },
+    {
+      "word": "flashlight",
+      "pos": "n.",
+      "meaning": "闪光灯的闪光；手电筒"
+    },
+    {
+      "word": "refrigerator",
+      "pos": "n.",
+      "meaning": "冰箱"
+    },
+    {
+      "word": "fridge",
+      "pos": "n.",
+      "meaning": "冰箱",
+      "example": "The butter will soften out of the fridge"
+    },
+    {
+      "word": "vacuum",
+      "pos": "n./adj.",
+      "meaning": "真空；真空吸尘器；真空的"
+    },
+    {
+      "word": "fan",
+      "pos": "n./v.",
+      "meaning": "扇子；风扇；狂热爱好者；扇"
+    },
+    {
+      "word": "switch",
+      "pos": "n./v.",
+      "meaning": "开关；转换；"
+    },
+    {
+      "word": "hurdle",
+      "pos": "n.",
+      "meaning": "栏架；跨栏赛跑"
+    },
+    {
+      "word": "fence",
+      "pos": "n.",
+      "meaning": "栅栏；围栏"
+    },
+    {
+      "word": "pedal",
+      "pos": "n./v.",
+      "meaning": "踏板；踩踏板",
+      "example": "One of the pedals has come out off my bicycle"
+    },
+    {
+      "word": "shelf",
+      "pos": "n.",
+      "meaning": "架子；隔板"
+    },
+    {
+      "word": "ladder",
+      "pos": "n.",
+      "meaning": "梯子；阶梯"
+    },
+    {
+      "word": "lift",
+      "pos": "v./n.",
+      "meaning": "提；抬；提高；（英）电梯（美 elevator）"
+    },
+    {
+      "word": "stool",
+      "pos": "n.",
+      "meaning": "凳子"
+    },
+    {
+      "word": "drawer",
+      "pos": "n.",
+      "meaning": "抽屉"
+    },
+    {
+      "word": "umbrella",
+      "pos": "n.",
+      "meaning": "伞"
+    },
+    {
+      "word": "raincoat",
+      "pos": "n.",
+      "meaning": "雨衣"
+    },
+    {
+      "word": "dredge",
+      "pos": "n./v.",
+      "meaning": "挖泥船；挖掘机/挖掘；撒（糖；面粉等）"
+    },
+    {
+      "word": "can",
+      "pos": "v./n.",
+      "meaning": "把（食品）罐装保存；罐头；听"
+    },
+    {
+      "word": "mill",
+      "pos": "n./v.",
+      "meaning": "磨粉机；磨坊/碾碎；无目的地乱转"
+    },
+    {
+      "word": "forge",
+      "pos": "n./v.",
+      "meaning": "炼铁炉；锻造；伪造"
+    },
+    {
+      "word": "alloy",
+      "pos": "n.",
+      "meaning": "合金；（金属的）成色"
+    },
+    {
+      "word": "metal",
+      "pos": "n.",
+      "meaning": "金属"
+    },
+    {
+      "word": "iron",
+      "pos": "n./v.",
+      "meaning": "铁；熨斗；熨；烫"
+    },
+    {
+      "word": "lead",
+      "pos": "n.",
+      "meaning": "铅"
+    },
+    {
+      "word": "brass",
+      "pos": "n.",
+      "meaning": "黄铜；黄铜制品"
+    },
+    {
+      "word": "bronze",
+      "pos": "n.",
+      "meaning": "青铜；青铜艺术品"
+    },
+    {
+      "word": "cement",
+      "pos": "n./v.",
+      "meaning": "水泥；胶结剂；使黏结"
+    },
+    {
+      "word": "pitch",
+      "pos": "n.",
+      "meaning": "沥青"
+    },
+    {
+      "word": "lime",
+      "pos": "n.",
+      "meaning": "石灰"
+    },
+    {
+      "word": "plaster",
+      "pos": "n.",
+      "meaning": "灰泥；熟石膏"
+    },
+    {
+      "word": "leather",
+      "pos": "n.",
+      "meaning": "皮革；皮衣"
+    },
+    {
+      "word": "plastic",
+      "pos": "n./adj.",
+      "meaning": "塑料；有塑性的；塑料的"
+    },
+    {
+      "word": "fiber/fibre",
+      "pos": "n.",
+      "meaning": "纤维；纤维素"
+    },
+    {
+      "word": "fabric",
+      "pos": "n.",
+      "meaning": "织物；布料"
+    },
+    {
+      "word": "knit",
+      "pos": "v.",
+      "meaning": "编织；针织"
+    },
+    {
+      "word": "weave",
+      "pos": "v.",
+      "meaning": "编织；编造"
+    },
+    {
+      "word": "canvas",
+      "pos": "n.",
+      "meaning": "帆布；油画布"
+    },
+    {
+      "word": "linen",
+      "pos": "n.",
+      "meaning": "亚麻布；亚麻织品"
+    },
+    {
+      "word": "cotton",
+      "pos": "n.",
+      "meaning": "棉；棉线；棉布"
+    },
+    {
+      "word": "nylon",
+      "pos": "n.",
+      "meaning": "尼龙"
+    },
+    {
+      "word": "lumber",
+      "pos": "n.",
+      "meaning": "木材；木料"
+    },
+    {
+      "word": "wooden",
+      "pos": "adj.",
+      "meaning": "木制的；呆板的"
+    },
+    {
+      "word": "mine",
+      "pos": "n.",
+      "meaning": "矿场；矿井；地雷"
+    },
+    {
+      "word": "pit",
+      "pos": "n.",
+      "meaning": "深坑；煤矿；潜在危险"
+    },
+    {
+      "word": "fuel",
+      "pos": "n./v.",
+      "meaning": "燃料；给...加燃料",
+      "example": "|add fuel to 给...加燃料"
+    },
+    {
+      "word": "lubricate",
+      "pos": "v.",
+      "meaning": "润滑；加润滑油于"
+    },
+    {
+      "word": "diamond",
+      "pos": "n.",
+      "meaning": "金刚石；钻石；菱形"
+    },
+    {
+      "word": "crystal",
+      "pos": "n.",
+      "meaning": "水晶；结晶；晶体"
+    },
+    {
+      "word": "inferior",
+      "pos": "adj./n.",
+      "meaning": "差的；下级的；低等的；级别/地位低的人；次品",
+      "example": "|inferiority"
+    },
+    {
+      "word": "counterfeit",
+      "pos": "adj./v.",
+      "meaning": "假冒的；伪造"
+    },
+    {
+      "word": "fake",
+      "pos": "adj./n.",
+      "meaning": "假冒的；冒充者；假货"
+    },
+    {
+      "word": "fragile",
+      "pos": "adj.",
+      "meaning": "易碎的；脆弱的"
+    },
+    {
+      "word": "miniature",
+      "pos": "adj./n.",
+      "meaning": "微型的；很小的/微缩模型；微型画"
+    },
+    {
+      "word": "available",
+      "pos": "adj.",
+      "meaning": "可获得的"
+    },
+    {
+      "word": "durable",
+      "pos": "adj.",
+      "meaning": "耐用的；持久的"
+    }
+  ]
+}

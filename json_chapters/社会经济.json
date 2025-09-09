@@ -1,0 +1,867 @@
+{
+  "chapter": "社会经济",
+  "word_count": 171,
+  "words": [
+    {
+      "word": "economy",
+      "pos": "n.",
+      "meaning": "经济；节约"
+    },
+    {
+      "word": "trade",
+      "pos": "n./v.",
+      "meaning": "贸易/交换"
+    },
+    {
+      "word": "market",
+      "pos": "n.",
+      "meaning": "市场；市场需求"
+    },
+    {
+      "word": "industry",
+      "pos": "n.",
+      "meaning": "工业；产业；勤劳"
+    },
+    {
+      "word": "merchant",
+      "pos": "n./adj.",
+      "meaning": "商人/商业的"
+    },
+    {
+      "word": "financial",
+      "pos": "adj.",
+      "meaning": "财政的；金融的"
+    },
+    {
+      "word": "fund",
+      "pos": "v./n.",
+      "meaning": "资助/基金；资金"
+    },
+    {
+      "word": "donate",
+      "pos": "v.",
+      "meaning": "捐款；捐献"
+    },
+    {
+      "word": "endow",
+      "pos": "v.",
+      "meaning": "捐赠；赋予"
+    },
+    {
+      "word": "commercial",
+      "pos": "adj./n.",
+      "meaning": "商业的/商业广告"
+    },
+    {
+      "word": "advertise",
+      "pos": "v.",
+      "meaning": "做广告"
+    },
+    {
+      "word": "slogan",
+      "pos": "n.",
+      "meaning": "标语；口号"
+    },
+    {
+      "word": "purchase",
+      "pos": "n./v.",
+      "meaning": "购买"
+    },
+    {
+      "word": "lease",
+      "pos": "n./v.",
+      "meaning": "租约/出租；租用"
+    },
+    {
+      "word": "afford",
+      "pos": "v.",
+      "meaning": "负担得起；提供；给予"
+    },
+    {
+      "word": "retail",
+      "pos": "n./v.",
+      "meaning": "零售/以...价格零售"
+    },
+    {
+      "word": "chain",
+      "pos": "n.",
+      "meaning": "一连串；连锁店"
+    },
+    {
+      "word": "grocery",
+      "pos": "n.",
+      "meaning": "食品杂货店"
+    },
+    {
+      "word": "discount",
+      "pos": "n./v.",
+      "meaning": "折扣/打折出售"
+    },
+    {
+      "word": "promotion",
+      "pos": "n.",
+      "meaning": "促销活动；晋升"
+    },
+    {
+      "word": "voucher",
+      "pos": "n.",
+      "meaning": "代金券"
+    },
+    {
+      "word": "coupon",
+      "pos": "n.",
+      "meaning": "优惠券"
+    },
+    {
+      "word": "currency",
+      "pos": "n.",
+      "meaning": "货币；通用，流行"
+    },
+    {
+      "word": "exchange",
+      "pos": "n.",
+      "meaning": "交换；兑换"
+    },
+    {
+      "word": "swap/swop",
+      "pos": "v./n.",
+      "meaning": "交换"
+    },
+    {
+      "word": "receipt",
+      "pos": "n.",
+      "meaning": "收据；收到"
+    },
+    {
+      "word": "invoice",
+      "pos": "n./v.",
+      "meaning": "发票/开发票给"
+    },
+    {
+      "word": "tax",
+      "pos": "n./v.",
+      "meaning": "税/对...征税"
+    },
+    {
+      "word": "levy",
+      "pos": "n./v.",
+      "meaning": "税款/征收"
+    },
+    {
+      "word": "tariff",
+      "pos": "n.",
+      "meaning": "关税；（公共服务的）收费"
+    },
+    {
+      "word": "duty",
+      "pos": "n.",
+      "meaning": "职责；义务；关税"
+    },
+    {
+      "word": "impose",
+      "pos": "v.",
+      "meaning": "强加；征收（书款）"
+    },
+    {
+      "word": "consume",
+      "pos": "v.",
+      "meaning": "消耗，吃，喝"
+    },
+    {
+      "word": "spend",
+      "pos": "v./n.",
+      "meaning": "花费/开支"
+    },
+    {
+      "word": "cost",
+      "pos": "v./n.",
+      "meaning": "需付费/费用；代价；成本"
+    },
+    {
+      "word": "expense",
+      "pos": "n.",
+      "meaning": "费用；花费"
+    },
+    {
+      "word": "revenue",
+      "pos": "n.",
+      "meaning": "（公司、组织的）收入；（政府的）税收"
+    },
+    {
+      "word": "gross",
+      "pos": "adj.",
+      "meaning": "总的；毛的"
+    },
+    {
+      "word": "recession",
+      "pos": "n.",
+      "meaning": "经济衰退"
+    },
+    {
+      "word": "depression",
+      "pos": "n.",
+      "meaning": "沮丧；消沉；萧条期；不景气"
+    },
+    {
+      "word": "crisis",
+      "pos": "n.",
+      "meaning": "危机"
+    },
+    {
+      "word": "security",
+      "pos": "n.",
+      "meaning": "安全工作；安全；[securities]证券"
+    },
+    {
+      "word": "bond",
+      "pos": "n.",
+      "meaning": "债券"
+    },
+    {
+      "word": "debt",
+      "pos": "n.",
+      "meaning": "债务"
+    },
+    {
+      "word": "deficit",
+      "pos": "n.",
+      "meaning": "赤字；逆差"
+    },
+    {
+      "word": "inflation",
+      "pos": "n.",
+      "meaning": "通货膨胀"
+    },
+    {
+      "word": "deflation",
+      "pos": "n.",
+      "meaning": "通货紧缩"
+    },
+    {
+      "word": "dwindle",
+      "pos": "v.",
+      "meaning": "缩小；减少"
+    },
+    {
+      "word": "decrease",
+      "pos": "n./v.",
+      "meaning": "减少；减小/（使）减少；（使）减小"
+    },
+    {
+      "word": "downsize",
+      "pos": "v.",
+      "meaning": "使精简；裁员"
+    },
+    {
+      "word": "decline",
+      "pos": "v./n.",
+      "meaning": "下降"
+    },
+    {
+      "word": "diminish",
+      "pos": "v.",
+      "meaning": "减少；贬低"
+    },
+    {
+      "word": "reduce",
+      "pos": "v.",
+      "meaning": "减少，减小"
+    },
+    {
+      "word": "increase",
+      "pos": "n./v.",
+      "meaning": "增加，增长/（使）增加，（使）增长"
+    },
+    {
+      "word": "increment",
+      "pos": "n.",
+      "meaning": "增加量；定期加薪"
+    },
+    {
+      "word": "growth",
+      "pos": "n.",
+      "meaning": "增长；生长"
+    },
+    {
+      "word": "escalate",
+      "pos": "v.",
+      "meaning": "（使）逐步升级；（使）不断恶化"
+    },
+    {
+      "word": "expand",
+      "pos": "v.",
+      "meaning": "扩充；扩大；扩展"
+    },
+    {
+      "word": "influx",
+      "pos": "n.",
+      "meaning": "流入，涌进",
+      "example": "|influx of capital 资本的涌进"
+    },
+    {
+      "word": "affluent",
+      "pos": "adj.",
+      "meaning": "富裕的；富足的"
+    },
+    {
+      "word": "enrich",
+      "pos": "v.",
+      "meaning": "使富有；充实"
+    },
+    {
+      "word": "sufficient",
+      "pos": "adj.",
+      "meaning": "足够的",
+      "example": "|insufficient adj. 不足的"
+    },
+    {
+      "word": "adequate",
+      "pos": "adj.",
+      "meaning": "足够的；合格的"
+    },
+    {
+      "word": "spare",
+      "pos": "adj./v.",
+      "meaning": "多余的；空闲的/剩余"
+    },
+    {
+      "word": "saving",
+      "pos": "n.",
+      "meaning": "节约；节省"
+    },
+    {
+      "word": "redundant",
+      "pos": "adj.",
+      "meaning": "多余的；被裁减的"
+    },
+    {
+      "word": "lack",
+      "pos": "n./v.",
+      "meaning": "缺乏；不足/缺少；没有"
+    },
+    {
+      "word": "company",
+      "pos": "n.",
+      "meaning": "公司；陪伴；剧团",
+      "example": "|keep sb. company 陪伴某人"
+    },
+    {
+      "word": "firm",
+      "pos": "n./adj.",
+      "meaning": "公司/坚定的；坚固的"
+    },
+    {
+      "word": "enterprise",
+      "pos": "n.",
+      "meaning": "企业；事业"
+    },
+    {
+      "word": "agent",
+      "pos": "n.",
+      "meaning": "代理人，代理商"
+    },
+    {
+      "word": "entity",
+      "pos": "n.",
+      "meaning": "实体，独立存在物"
+    },
+    {
+      "word": "invest",
+      "pos": "v.",
+      "meaning": "投资；投入"
+    },
+    {
+      "word": "input",
+      "pos": "n.",
+      "meaning": "输入信息；投入物"
+    },
+    {
+      "word": "product",
+      "pos": "n.",
+      "meaning": "产品；产物"
+    },
+    {
+      "word": "acquisition",
+      "pos": "n.",
+      "meaning": "获得；（对公司的）并购"
+    },
+    {
+      "word": "goods",
+      "pos": "n.",
+      "meaning": "商品；货物"
+    },
+    {
+      "word": "cargo",
+      "pos": "n.",
+      "meaning": "货物"
+    },
+    {
+      "word": "insure",
+      "pos": "v.",
+      "meaning": "确保；给...上保险"
+    },
+    {
+      "word": "guarantee",
+      "pos": "v./n.",
+      "meaning": "担保；确保/保证；保修单；担保金；担保物"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，可信赖的"
+    },
+    {
+      "word": "negotiation",
+      "pos": "n.",
+      "meaning": "谈判，协商"
+    },
+    {
+      "word": "attend",
+      "pos": "v.",
+      "meaning": "参加，出席"
+    },
+    {
+      "word": "absent",
+      "pos": "adj.",
+      "meaning": "缺席的；不在场的；心不在焉的"
+    },
+    {
+      "word": "sale",
+      "pos": "n.",
+      "meaning": "买；销售；销售额"
+    },
+    {
+      "word": "wholesale",
+      "pos": "n.",
+      "meaning": "批发"
+    },
+    {
+      "word": "auction",
+      "pos": "v./n.",
+      "meaning": "拍卖"
+    },
+    {
+      "word": "bid",
+      "pos": "v./n.",
+      "meaning": "出价；投标"
+    },
+    {
+      "word": "deal",
+      "pos": "v./n.",
+      "meaning": "买卖；[~ with]处理；应付/协议；交易；大量"
+    },
+    {
+      "word": "transaction",
+      "pos": "n.",
+      "meaning": "（一笔）交易；业务"
+    },
+    {
+      "word": "turnover",
+      "pos": "n.",
+      "meaning": "（人员的）流动率；营业额"
+    },
+    {
+      "word": "dump",
+      "pos": "v.",
+      "meaning": "丢弃；倾倒；倾销"
+    },
+    {
+      "word": "export",
+      "pos": "v./n.",
+      "meaning": "出口/出口；出口商品"
+    },
+    {
+      "word": "import",
+      "pos": "v./n.",
+      "meaning": "进口/进口；进口商品"
+    },
+    {
+      "word": "quota",
+      "pos": "n.",
+      "meaning": "限额；配额；定额"
+    },
+    {
+      "word": "share",
+      "pos": "n./v.",
+      "meaning": "股份，股票；一份/分享；共享；分担"
+    },
+    {
+      "word": "benefit",
+      "pos": "n./v.",
+      "meaning": "益处/有利于；获益"
+    },
+    {
+      "word": "interest",
+      "pos": "n./v.",
+      "meaning": "兴趣；利益；利息/使感兴趣"
+    },
+    {
+      "word": "dividend",
+      "pos": "n.",
+      "meaning": "股息；红利"
+    },
+    {
+      "word": "stock",
+      "pos": "n.",
+      "meaning": "股本；股票；库存"
+    },
+    {
+      "word": "account",
+      "pos": "n.",
+      "meaning": "账户；解释"
+    },
+    {
+      "word": "deposit",
+      "pos": "n.",
+      "meaning": "存款；押金"
+    },
+    {
+      "word": "instalment/installment",
+      "pos": "n.",
+      "meaning": "（分期付款的）一期付款"
+    },
+    {
+      "word": "cheque/check",
+      "pos": "n.",
+      "meaning": "支票"
+    },
+    {
+      "word": "cash",
+      "pos": "n./v.",
+      "meaning": "现金/兑现（支票）"
+    },
+    {
+      "word": "coin",
+      "pos": "n./v.",
+      "meaning": "硬币/铸币；创造（新词语）"
+    },
+    {
+      "word": "shilling",
+      "pos": "n.",
+      "meaning": "先令"
+    },
+    {
+      "word": "copper",
+      "pos": "n.",
+      "meaning": "铜；[~s]铜币；警察",
+      "example": "|cop n. 警察"
+    },
+    {
+      "word": "treasure",
+      "pos": "n.",
+      "meaning": "金银财宝；宝物；珍品"
+    },
+    {
+      "word": "wealth",
+      "pos": "n.",
+      "meaning": "财富；丰富"
+    },
+    {
+      "word": "estate",
+      "pos": "n.",
+      "meaning": "地产；遗产"
+    },
+    {
+      "word": "possess",
+      "pos": "v.",
+      "meaning": "占用；拥有；影响；控制"
+    },
+    {
+      "word": "legacy",
+      "pos": "n.",
+      "meaning": "遗赠；遗产"
+    },
+    {
+      "word": "descend",
+      "pos": "v.",
+      "meaning": "下降，下来"
+    },
+    {
+      "word": "worthy",
+      "pos": "adj.",
+      "meaning": "有价值的"
+    },
+    {
+      "word": "valuable",
+      "pos": "adj.",
+      "meaning": "很值钱的；贵重的；很重要的"
+    },
+    {
+      "word": "cheap",
+      "pos": "adj.",
+      "meaning": "廉价的；质劣价低的"
+    },
+    {
+      "word": "incentive",
+      "pos": "n.",
+      "meaning": "刺激；激励"
+    },
+    {
+      "word": "accelerate",
+      "pos": "v.",
+      "meaning": "加速"
+    },
+    {
+      "word": "prompt",
+      "pos": "v./adj.",
+      "meaning": "促使/迅速的"
+    },
+    {
+      "word": "salary",
+      "pos": "n.",
+      "meaning": "工资；（按月领的）薪水"
+    },
+    {
+      "word": "income",
+      "pos": "n.",
+      "meaning": "收入"
+    },
+    {
+      "word": "wage",
+      "pos": "n.",
+      "meaning": "（通常指按周领的）工钱"
+    },
+    {
+      "word": "payment",
+      "pos": "n.",
+      "meaning": "支付；支付的款项；付款额"
+    },
+    {
+      "word": "refund",
+      "pos": "n./v.",
+      "meaning": "退款"
+    },
+    {
+      "word": "reimburse",
+      "pos": "v.",
+      "meaning": "赔偿；补偿"
+    },
+    {
+      "word": "payroll",
+      "pos": "n.",
+      "meaning": "工资名单"
+    },
+    {
+      "word": "remuneration",
+      "pos": "n.",
+      "meaning": "报酬"
+    },
+    {
+      "word": "subsidy",
+      "pos": "n.",
+      "meaning": "津贴，补贴",
+      "example": "|subsidise=subsidize v. 资助，给...发津贴"
+    },
+    {
+      "word": "earn",
+      "pos": "v.",
+      "meaning": "赚得；赢得；获得"
+    },
+    {
+      "word": "undertaking",
+      "pos": "n.",
+      "meaning": "任务；事业；许诺；保证",
+      "example": "I give an undertaking that we shall proceed with the legislation|a written undertaking 书面保证。an undertaking clause 承诺条款"
+    },
+    {
+      "word": "career",
+      "pos": "n.",
+      "meaning": "职业；事业；职业生涯"
+    },
+    {
+      "word": "profession",
+      "pos": "n.",
+      "meaning": "职业"
+    },
+    {
+      "word": "occupation",
+      "pos": "n.",
+      "meaning": "占领，占据；职业"
+    },
+    {
+      "word": "job",
+      "pos": "n.",
+      "meaning": "职业；工作"
+    },
+    {
+      "word": "vocation",
+      "pos": "n.",
+      "meaning": "（认为特别适合自己的）职业；使命感"
+    },
+    {
+      "word": "labour/labor",
+      "pos": "n.",
+      "meaning": "劳动；体力劳动"
+    },
+    {
+      "word": "workforce",
+      "pos": "n.",
+      "meaning": "劳动力；全体员工"
+    },
+    {
+      "word": "workaholic",
+      "pos": "n.",
+      "meaning": "工作狂"
+    },
+    {
+      "word": "personnel",
+      "pos": "n.",
+      "meaning": "人员，职员；人事部门"
+    },
+    {
+      "word": "clerk",
+      "pos": "n.",
+      "meaning": "店员，办事员，接待员"
+    },
+    {
+      "word": "interview",
+      "pos": "n./v.",
+      "meaning": "面试；采访/对...进行面试；采访"
+    },
+    {
+      "word": "résumé/resume",
+      "pos": "n.",
+      "meaning": "UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要"
+    },
+    {
+      "word": "recommend",
+      "pos": "v.",
+      "meaning": "推荐；劝告；介绍"
+    },
+    {
+      "word": "employ",
+      "pos": "v.",
+      "meaning": "雇用；采用"
+    },
+    {
+      "word": "hire",
+      "pos": "v./n.",
+      "meaning": "雇用；租用/租赁（业）"
+    },
+    {
+      "word": "fire",
+      "pos": "v./n.",
+      "meaning": "解雇/火"
+    },
+    {
+      "word": "lay-off",
+      "pos": "n.",
+      "meaning": "（因岗位不足的）解雇；裁员；歇工期"
+    },
+    {
+      "word": "dismiss",
+      "pos": "v.",
+      "meaning": "解雇；解散；驳回"
+    },
+    {
+      "word": "discharge",
+      "pos": "v./n.",
+      "meaning": "解雇/卸货"
+    },
+    {
+      "word": "resign",
+      "pos": "v.",
+      "meaning": "辞去；辞职"
+    },
+    {
+      "word": "sack",
+      "pos": "n./v.",
+      "meaning": "大口袋，麻布袋/开除"
+    },
+    {
+      "word": "retire",
+      "pos": "v.",
+      "meaning": "退休"
+    },
+    {
+      "word": "result",
+      "pos": "n./v.",
+      "meaning": "结果，后果/导致"
+    },
+    {
+      "word": "failure",
+      "pos": "n.",
+      "meaning": "失败；失败的人；失败的事"
+    },
+    {
+      "word": "abortion",
+      "pos": "n.",
+      "meaning": "人工流产；中途失败"
+    },
+    {
+      "word": "loss",
+      "pos": "n.",
+      "meaning": "遗失；损失；亏损"
+    },
+    {
+      "word": "opportunity",
+      "pos": "n.",
+      "meaning": "机会；时机"
+    },
+    {
+      "word": "chance",
+      "pos": "n.",
+      "meaning": "机会；可能性"
+    },
+    {
+      "word": "choose",
+      "pos": "v.",
+      "meaning": "选择"
+    },
+    {
+      "word": "change",
+      "pos": "n.",
+      "meaning": "改变"
+    },
+    {
+      "word": "solve",
+      "pos": "v.",
+      "meaning": "解答，解决"
+    },
+    {
+      "word": "develop",
+      "pos": "v.",
+      "meaning": "发展，开发"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持续的"
+    },
+    {
+      "word": "improve",
+      "pos": "v.",
+      "meaning": "改善；改进"
+    },
+    {
+      "word": "manage",
+      "pos": "v.",
+      "meaning": "管理；设法做到"
+    },
+    {
+      "word": "regulate",
+      "pos": "v.",
+      "meaning": "管理；调整"
+    },
+    {
+      "word": "sanction",
+      "pos": "n./v.",
+      "meaning": "批准；制裁/批准；对...制裁"
+    },
+    {
+      "word": "coordinate",
+      "pos": "v./n.",
+      "meaning": "调和；协调/坐标"
+    },
+    {
+      "word": "cooperate",
+      "pos": "v.",
+      "meaning": "合作；协作"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作"
+    }
+  ]
+}
