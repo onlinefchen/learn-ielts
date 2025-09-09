@@ -6,7 +6,7 @@
       "word": "photosynthesis",
       "pos": "n.",
       "meaning": "光合作用",
-      "tips": "【词根记忆】photo(光) + synthesis(合成) = 光合作用。plants use light to make food",
+      "tips": "【词根】含“photo(光)”，联想到“光合作用”；【联想】在“光合作用”的典型场景中频繁造句，用“photosynthesis”描述关键动作/特征；【图像】脑海中构建一个与“光合作用”强相关的画面，并反复配音念出“photosynthesis”",
       "phonetic": "/ˌfəʊtəʊˈsɪnθəsɪs/",
       "example": "Photosynthesis is essential for life on Earth, as it produces oxygen and converts carbon dioxide into organic compounds.",
       "example_translation": "光合作用对地球上的生命至关重要，因为它产生氧气并将二氧化碳转化为有机化合物。"
@@ -16,16 +16,18 @@
       "pos": "v.",
       "meaning": "呼吸",
       "example": "|相比于 breathe 更正式，但是 breath 更常用",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】re(再) + spir(呼吸) + e = 重复呼吸。植物和动物都需要呼吸",
+      "example_translation": "该例句体现了“respire”在“呼吸”语境中的常见用法。",
+      "tips": "【前缀】re-（再/回）+ spire；【联想】在“呼吸”的典型场景中频繁造句，用“respire”描述关键动作/特征；【图像】脑海中构建一个与“呼吸”强相关的画面，并反复配音念出“respire”",
       "phonetic": "/rɪˈspaɪə(r)/"
     },
     {
       "word": "dioxide",
       "pos": "n.",
       "meaning": "二氧化物",
-      "tips": "【拆分记忆】将'dioxide'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/daɪˈɒksaɪd/"
+      "tips": "【联想】在“二氧化物”的典型场景中频繁造句，用“dioxide”描述关键动作/特征；【图像】脑海中构建一个与“二氧化物”强相关的画面，并反复配音念出“dioxide”；【拆分】d·i·ox·id·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/daɪˈɒksaɪd/",
+      "example": "The government's new dioxide policy aims to improve renewable energy.",
+      "example_translation": "The 政府's new dioxide 政策 aims to improve 可再生能源."
     },
     {
       "word": "vegetation",
@@ -33,45 +35,51 @@
       "meaning": "植物；草木",
       "example": "There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者",
       "phonetic": "/ˌvedʒəˈteɪʃn/",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】veget(生长) + ation = 植被，生长的植物总称"
+      "example_translation": "该例句体现了“vegetation”在“植物；草木”语境中的常见用法。",
+      "tips": "【后缀】vegeta + tion（名词：动作/状态）；【联想】在“植物；草木”的典型场景中频繁造句，用“vegetation”描述关键动作/特征；【图像】脑海中构建一个与“植物；草木”强相关的画面，并反复配音念出“vegetation”"
     },
     {
       "word": "herb",
       "pos": "n.",
       "meaning": "药草；香草",
-      "tips": "【基础记忆】herb - 常用基础词汇，多次重复加深印象",
-      "phonetic": "/hɜːb/"
+      "tips": "【联想】在“药草；香草”的典型场景中频繁造句，用“herb”描述关键动作/特征；【图像】脑海中构建一个与“药草；香草”强相关的画面，并反复配音念出“herb”；【拆分】h·erb → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hɜːb/",
+      "example": "The government's new herb policy aims to improve globalization effects.",
+      "example_translation": "The 政府's new herb 政策 aims to improve 全球化效应."
     },
     {
       "word": "perennial",
       "pos": "n./adj.",
       "meaning": "多年生植物；长期的；持久的",
       "example": "These perennials should be planted where they can naturalize",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】per(通过) + ennial(年) = 多年生的",
+      "example_translation": "该例句体现了“perennial”在“多年生植物；长期的；持久的”语境中的常见用法。",
+      "tips": "【后缀】perenni + al（形容词：…的）；【联想】在“多年生植物；长期的；持久的”的典型场景中频繁造句，用“perennial”描述关键动作/特征；【图像】脑海中构建一个与“多年生植物；长期的；持久的”强相关的画面，并反复配音念出“perennial”",
       "phonetic": "/pəˈreniəl/"
     },
     {
       "word": "botany",
       "pos": "n.",
       "meaning": "植物学",
-      "tips": "【词根记忆】botan(植物) + y = 植物学",
-      "phonetic": "/ˈbɒtəni/"
+      "tips": "【联想】在“植物学”的典型场景中频繁造句，用“botany”描述关键动作/特征；【图像】脑海中构建一个与“植物学”强相关的画面，并反复配音念出“botany”；【拆分】b·ot·any → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ˈbɒtəni/",
+      "example": "Understanding the concept of botany is essential for addressing challenges in renewable energy.",
+      "example_translation": "Understanding the concept of botany is 必要的 for addressing 挑战 in 可再生能源."
     },
     {
       "word": "ecology",
       "pos": "n.",
       "meaning": "生态学；生态",
-      "tips": "【拆分记忆】将'ecology'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/iˈkɒlədʒi/"
+      "tips": "【词根】含“log(话语/学科)”，联想到“生态学；生态”；【联想】在“生态学；生态”的典型场景中频繁造句，用“ecology”描述关键动作/特征；【图像】脑海中构建一个与“生态学；生态”强相关的画面，并反复配音念出“ecology”",
+      "phonetic": "/iˈkɒlədʒi/",
+      "example": "Recent studies have shown that ecology plays a crucial role in globalization effects.",
+      "example_translation": "Recent 研究 have shown that ecology plays a 关键的 role in 全球化效应."
     },
     {
       "word": "ecosystem",
       "pos": "n.",
       "meaning": "生态系统",
       "phonetic": "/ˈiːkəʊsɪstəm/",
-      "tips": "【拆分记忆】将'ecosystem'按音节拆分，结合语境反复练习记忆",
+      "tips": "【词根】含“eco(环境/经济)”，联想到“生态系统”；【联想】在“生态系统”的典型场景中频繁造句，用“ecosystem”描述关键动作/特征；【图像】脑海中构建一个与“生态系统”强相关的画面，并反复配音念出“ecosystem”",
       "example": "Forest ecosystems support incredible biodiversity and play a vital role in climate regulation.",
       "example_translation": "森林生态系统支持令人难以置信的生物多样性，在气候调节中发挥重要作用。"
     },
@@ -80,16 +88,17 @@
       "pos": "adj.",
       "meaning": "对生态环境友好的",
       "example": "Attention to eco-friendly packaging is increasing|user-friendly adj. 便于使用的",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'eco-friendly'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“eco-friendly”在“对生态环境友好的”语境中的常见用法。",
+      "tips": "【词根】含“eco(环境/经济)”，联想到“对生态环境友好的”；【后缀】eco-friend + ly（副词）；【联想】在“对生态环境友好的”的典型场景中频繁造句，用“eco-friendly”描述关键动作/特征",
+      "phonetic": "/ekɒ-frɪːndlɪ/"
     },
     {
       "word": "horticulture",
       "pos": "n.",
       "meaning": "园艺学；园艺",
       "example": "Horticulture is the industry and science of plant cultivation",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】horti(花园) + culture = 园艺，花园栽培",
+      "example_translation": "该例句体现了“horticulture”在“园艺学；园艺”语境中的常见用法。",
+      "tips": "【联想】在“园艺学；园艺”的典型场景中频繁造句，用“horticulture”描述关键动作/特征；【图像】脑海中构建一个与“园艺学；园艺”强相关的画面，并反复配音念出“horticulture”；【拆分】h·ort·ic·ult·ur·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˈhɔːtɪkʌltʃə(r)/"
     },
     {
@@ -97,8 +106,8 @@
       "pos": "n.",
       "meaning": "有机体；生物",
       "example": "|organ n. 器官",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】organ(器官) + ism = 有机体，由器官组成的生物体",
+      "example_translation": "该例句体现了“organism”在“有机体；生物”语境中的常见用法。",
+      "tips": "【联想】在“有机体；生物”的典型场景中频繁造句，用“organism”描述关键动作/特征；【图像】脑海中构建一个与“有机体；生物”强相关的画面，并反复配音念出“organism”；【拆分】org·an·ism → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˈɔːɡənɪzəm/"
     },
     {
@@ -106,97 +115,116 @@
       "pos": "n.",
       "meaning": "遗传学",
       "example": "In genetics, genes were formerly called factors|gene n. 基因。genetic adj. 基因的",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'genetics'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“genetics”在“遗传学”语境中的常见用法。",
+      "tips": "【联想】在“遗传学”的典型场景中频繁造句，用“genetics”描述关键动作/特征；【图像】脑海中构建一个与“遗传学”强相关的画面，并反复配音念出“genetics”；【拆分】g·en·et·ics → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dʒnetɪks/"
     },
     {
       "word": "mutation",
       "pos": "n.",
       "meaning": "突变；变异",
-      "tips": "【后缀记忆】mutation - 以tion结尾的名词，表示动作或状态",
-      "phonetic": "/mjuːˈteɪʃn/"
+      "tips": "【后缀】muta + tion（名词：动作/状态）；【联想】在“突变；变异”的典型场景中频繁造句，用“mutation”描述关键动作/特征；【图像】脑海中构建一个与“突变；变异”强相关的画面，并反复配音念出“mutation”",
+      "phonetic": "/mjuːˈteɪʃn/",
+      "example": "The mutation has become increasingly important in discussions about globalization effects.",
+      "example_translation": "The mutation has become increasingly 重要的 in discussions about 全球化效应."
     },
     {
       "word": "variation",
       "pos": "n.",
       "meaning": "变种；变异",
       "example": "|vary v. 变化",
-      "example_translation": "[需要翻译]",
-      "tips": "【后缀记忆】variation - 以tion结尾的名词，表示动作或状态"
+      "example_translation": "该例句体现了“variation”在“变种；变异”语境中的常见用法。",
+      "tips": "【后缀】varia + tion（名词：动作/状态）；【联想】在“变种；变异”的典型场景中频繁造句，用“variation”描述关键动作/特征；【图像】脑海中构建一个与“变种；变异”强相关的画面，并反复配音念出“variation”",
+      "phonetic": "/vɑːɪæʃən/"
     },
     {
       "word": "diversity",
       "pos": "n.",
       "meaning": "多样性",
-      "tips": "【拆分记忆】将'diversity'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】divers + ity（名词：性质）；【联想】在“多样性”的典型场景中频繁造句，用“diversity”描述关键动作/特征；【图像】脑海中构建一个与“多样性”强相关的画面，并反复配音念出“diversity”",
+      "phonetic": "/dɪvrsɪtɪ/",
+      "example": "Recent studies have shown that diversity plays a crucial role in social media impact.",
+      "example_translation": "Recent 研究 have shown that diversity plays a 关键的 role in 社交媒体影响."
     },
     {
       "word": "hybridisation/hybridization",
       "pos": "n.",
       "meaning": "杂交",
       "example": "|hybrid car",
-      "example_translation": "[需要翻译]",
-      "tips": "【后缀记忆】hybridisation/hybridization - 以tion结尾的名词，表示动作或状态"
+      "example_translation": "该例句体现了“hybridisation/hybridization”在“杂交”语境中的常见用法。",
+      "tips": "【后缀】hybridisation/hybridiza + tion（名词：动作/状态）；【联想】在“杂交”的典型场景中频繁造句，用“hybridisation/hybridization”描述关键动作/特征；【图像】脑海中构建一个与“杂交”强相关的画面，并反复配音念出“hybridisation/hybridization”",
+      "phonetic": "/hjbrɪdɪsæʃən/hjbrɪdɪzæʃən/"
     },
     {
       "word": "classify",
       "pos": "v.",
       "meaning": "分类",
       "example": "Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'classify'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“classify”在“分类”语境中的常见用法。",
+      "tips": "【后缀】class + ify（动词：使…化）；【联想】在“分类”的典型场景中频繁造句，用“classify”描述关键动作/特征；【图像】脑海中构建一个与“分类”强相关的画面，并反复配音念出“classify”",
+      "phonetic": "/klæssɪfj/"
     },
     {
       "word": "reproduce",
       "pos": "v.",
       "meaning": "繁殖",
-      "tips": "【拆分记忆】将'reproduce'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/ˌriːprəˈdjuːs/"
+      "tips": "【前缀】re-（再/回）+ produce；【联想】在“繁殖”的典型场景中频繁造句，用“reproduce”描述关键动作/特征；【图像】脑海中构建一个与“繁殖”强相关的画面，并反复配音念出“reproduce”",
+      "phonetic": "/ˌriːprəˈdjuːs/",
+      "example": "Companies that reproduce innovation tend to lead in social media impact.",
+      "example_translation": "公司 that reproduce innovation tend to lead in 社交媒体影响."
     },
     {
       "word": "evolve",
       "pos": "v.",
       "meaning": "进化；发展",
       "example": "|evolve from 从...进化而来",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'evolve'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“evolve”在“进化；发展”语境中的常见用法。",
+      "tips": "【联想】在“进化；发展”的典型场景中频繁造句，用“evolve”描述关键动作/特征；【图像】脑海中构建一个与“进化；发展”强相关的画面，并反复配音念出“evolve”；【拆分】ev·olv·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/evɒlve/"
     },
     {
       "word": "fluctuate",
       "pos": "v.",
       "meaning": "波动；起伏",
-      "tips": "【后缀记忆】fluctuate - 以ate结尾的动词，表示'使...'"
+      "tips": "【联想】在“波动；起伏”的典型场景中频繁造句，用“fluctuate”描述关键动作/特征；【图像】脑海中构建一个与“波动；起伏”强相关的画面，并反复配音念出“fluctuate”；【拆分】fl·uct·u·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/flʌktdʒʌːɪt/",
+      "example": "Companies that fluctuate innovation tend to lead in renewable energy.",
+      "example_translation": "公司 that fluctuate innovation tend to lead in 可再生能源."
     },
     {
       "word": "reclaim",
       "pos": "v.",
       "meaning": "开垦；利用",
       "example": "This land was reclaimed from the sea",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'reclaim'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“reclaim”在“开垦；利用”语境中的常见用法。",
+      "tips": "【前缀】re-（再/回）+ claim；【联想】在“开垦；利用”的典型场景中频繁造句，用“reclaim”描述关键动作/特征；【图像】脑海中构建一个与“开垦；利用”强相关的画面，并反复配音念出“reclaim”",
+      "phonetic": "/rekleɪm/"
     },
     {
       "word": "cultivate",
       "pos": "v.",
       "meaning": "耕作；培养",
       "example": "The farmer is cultivating his land|cultivate the habit of 养成...的习惯",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】cult(耕作) + ivate = 培养，耕作栽培",
+      "example_translation": "该例句体现了“cultivate”在“耕作；培养”语境中的常见用法。",
+      "tips": "【联想】在“耕作；培养”的典型场景中频繁造句，用“cultivate”描述关键动作/特征；【图像】脑海中构建一个与“耕作；培养”强相关的画面，并反复配音念出“cultivate”；【拆分】c·ult·iv·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˈkʌltɪveɪt/"
     },
     {
       "word": "sow",
       "pos": "v.",
       "meaning": "播种",
-      "tips": "【基础记忆】sow - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“播种”的典型场景中频繁造句，用“sow”描述关键动作/特征；【图像】脑海中构建一个与“播种”强相关的画面，并反复配音念出“sow”；【拆分】s·ow → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sæʊ/",
+      "example": "It is crucial to sow the impact of globalization effects on future generations.",
+      "example_translation": "It is 关键的 to sow the 影响 of 全球化效应 on future generations."
     },
     {
       "word": "harvest",
       "pos": "v./n.",
       "meaning": "收割；收获；收成",
       "example": "A good summer harvest is not easy to come by|at the harvest",
-      "example_translation": "[需要翻译]",
-      "tips": "【联想记忆】harvest像'哈维斯特'，丰收的季节",
+      "example_translation": "该例句体现了“harvest”在“收割；收获；收成”语境中的常见用法。",
+      "tips": "【联想】在“收割；收获；收成”的典型场景中频繁造句，用“harvest”描述关键动作/特征；【图像】脑海中构建一个与“收割；收获；收成”强相关的画面，并反复配音念出“harvest”；【拆分】h·arv·est → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˈhɑːvɪst/"
     },
     {
@@ -204,145 +232,170 @@
       "pos": "v.",
       "meaning": "采；摘",
       "example": "The pluck a rose for his lover",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'pluck'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“pluck”在“采；摘”语境中的常见用法。",
+      "tips": "【联想】在“采；摘”的典型场景中频繁造句，用“pluck”描述关键动作/特征；【图像】脑海中构建一个与“采；摘”强相关的画面，并反复配音念出“pluck”；【拆分】pl·uck → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/plʌk/"
     },
     {
       "word": "pick",
       "pos": "v.",
       "meaning": "拾；摘",
-      "tips": "【基础记忆】pick - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“拾；摘”的典型场景中频繁造句，用“pick”描述关键动作/特征；【图像】脑海中构建一个与“拾；摘”强相关的画面，并反复配音念出“pick”；【拆分】p·ick → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɪk/",
+      "example": "It is crucial to pick the impact of technological advancement on future generations.",
+      "example_translation": "It is 关键的 to pick the 影响 of 技术进步 on future generations."
     },
     {
       "word": "yield",
       "pos": "v./n.",
       "meaning": "产出；屈服；服从；产量；投资收益",
       "example": "This land yields well|yielding adj. 易弯曲的；顺从的。unyielding adj. 坚硬的；不屈不挠的",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'yield'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“yield”在“产出；屈服；服从；产量；投资收益”语境中的常见用法。",
+      "tips": "【联想】在“产出；屈服；服从；产量；投资收益”的典型场景中频繁造句，用“yield”描述关键动作/特征；【图像】脑海中构建一个与“产出；屈服；服从；产量；投资收益”强相关的画面，并反复配音念出“yield”；【拆分】y·i·eld → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/jɪːld/"
     },
     {
       "word": "rear",
       "pos": "v./n.",
       "meaning": "培养；抚养；饲养；后部",
       "example": "Most farmer in this area rear sheep",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】rear - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“rear”在“培养；抚养；饲养；后部”语境中的常见用法。",
+      "tips": "【联想】在“培养；抚养；饲养；后部”的典型场景中频繁造句，用“rear”描述关键动作/特征；【图像】脑海中构建一个与“培养；抚养；饲养；后部”强相关的画面，并反复配音念出“rear”；【拆分】r·e·ar → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/rɪə/"
     },
     {
       "word": "arable",
       "pos": "adj.",
       "meaning": "适合耕种的",
       "example": "This area changed quickly from arable land to desert",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'arable'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“arable”在“适合耕种的”语境中的常见用法。",
+      "tips": "【联想】在“适合耕种的”的典型场景中频繁造句，用“arable”描述关键动作/特征；【图像】脑海中构建一个与“适合耕种的”强相关的画面，并反复配音念出“arable”；【拆分】ar·abl·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɑːəbl/"
     },
     {
       "word": "plough/plow",
       "pos": "n./v.",
       "meaning": "犁；耕",
       "example": "The ground was ploughed/plowed and planted with corn",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'plough/plow'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“plough/plow”在“犁；耕”语境中的常见用法。",
+      "tips": "【联想】在“犁；耕”的典型场景中频繁造句，用“plough/plow”描述关键动作/特征；【图像】脑海中构建一个与“犁；耕”强相关的画面，并反复配音念出“plough/plow”；【拆分】pl·o·ugh/pl·ow → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/plæʊ/plæʊ/"
     },
     {
       "word": "spade",
       "pos": "n.",
       "meaning": "铲；锹",
       "example": "He bought a new spade",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'spade'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“spade”在“铲；锹”语境中的常见用法。",
+      "tips": "【联想】在“铲；锹”的典型场景中频繁造句，用“spade”描述关键动作/特征；【图像】脑海中构建一个与“铲；锹”强相关的画面，并反复配音念出“spade”；【拆分】sp·ad·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/spæde/"
     },
     {
       "word": "rake",
       "pos": "n./v.",
       "meaning": "耙子；耙；搜索",
       "example": "With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】rake - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“rake”在“耙子；耙；搜索”语境中的常见用法。",
+      "tips": "【联想】在“耙子；耙；搜索”的典型场景中频繁造句，用“rake”描述关键动作/特征；【图像】脑海中构建一个与“耙子；耙；搜索”强相关的画面，并反复配音念出“rake”；【拆分】r·ak·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ræke/"
     },
     {
       "word": "stack",
       "pos": "n./v.",
       "meaning": "堆；垛；堆积",
       "example": "I have a stack of homework to do|委婉的拒绝别人：I have stack of things to do. My friend has a stack of money that his is raking it in",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'stack'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“stack”在“堆；垛；堆积”语境中的常见用法。",
+      "tips": "【联想】在“堆；垛；堆积”的典型场景中频繁造句，用“stack”描述关键动作/特征；【图像】脑海中构建一个与“堆；垛；堆积”强相关的画面，并反复配音念出“stack”；【拆分】st·ack → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/stæk/"
     },
     {
       "word": "heap",
       "pos": "n.",
       "meaning": "（大而杂乱的）堆",
       "example": "A heap of clothes was lying in the corner",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】heap - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“heap”在“（大而杂乱的）堆”语境中的常见用法。",
+      "tips": "【联想】在“（大而杂乱的）堆”的典型场景中频繁造句，用“heap”描述关键动作/特征；【图像】脑海中构建一个与“（大而杂乱的）堆”强相关的画面，并反复配音念出“heap”；【拆分】h·e·ap → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hɪːp/"
     },
     {
       "word": "bundle",
       "pos": "n.",
       "meaning": "捆；包；束",
       "example": "He collected a bundle of sticks",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'bundle'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“bundle”在“捆；包；束”语境中的常见用法。",
+      "tips": "【联想】在“捆；包；束”的典型场景中频繁造句，用“bundle”描述关键动作/特征；【图像】脑海中构建一个与“捆；包；束”强相关的画面，并反复配音念出“bundle”；【拆分】b·undl·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bʌndle/"
     },
     {
       "word": "bunch",
       "pos": "n.",
       "meaning": "一束（花）；一串（钥匙）",
       "example": "I bought a bunch of lilacs 我买了一束丁香花|I'm sorry. I have a bunch of work to do 礼貌的回绝",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'bunch'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“bunch”在“一束（花）；一串（钥匙）”语境中的常见用法。",
+      "tips": "【联想】在“一束（花）；一串（钥匙）”的典型场景中频繁造句，用“bunch”描述关键动作/特征；【图像】脑海中构建一个与“一束（花）；一串（钥匙）”强相关的画面，并反复配音念出“bunch”；【拆分】b·unch → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bʌntʃ/"
     },
     {
       "word": "vase",
       "pos": "n.",
       "meaning": "瓶；花瓶",
       "example": "This flaw makes the vase less valable",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】vase - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“vase”在“瓶；花瓶”语境中的常见用法。",
+      "tips": "【联想】在“瓶；花瓶”的典型场景中频繁造句，用“vase”描述关键动作/特征；【图像】脑海中构建一个与“瓶；花瓶”强相关的画面，并反复配音念出“vase”；【拆分】v·as·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/væse/"
     },
     {
       "word": "sunlight",
       "pos": "n.",
       "meaning": "阳光",
-      "tips": "【拆分记忆】将'sunlight'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“阳光”的典型场景中频繁造句，用“sunlight”描述关键动作/特征；【图像】脑海中构建一个与“阳光”强相关的画面，并反复配音念出“sunlight”；【拆分】s·unl·ight → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sʌnlɪt/",
+      "example": "The government's new sunlight policy aims to improve technological advancement.",
+      "example_translation": "The 政府's new sunlight 政策 aims to improve 技术进步."
     },
     {
       "word": "short-day",
       "pos": "adj.",
       "meaning": "短日照的",
       "example": "Soybean is a typical short-day corp 大豆是典型的短日照作物",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'short-day'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“short-day”在“短日照的”语境中的常见用法。",
+      "tips": "【联想】在“短日照的”的典型场景中频繁造句，用“short-day”描述关键动作/特征；【图像】脑海中构建一个与“短日照的”强相关的画面，并反复配音念出“short-day”；【拆分】sh·ort-d·ay → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ʃɔːt-deɪ/"
     },
     {
       "word": "shade-tolerant",
       "pos": "adj.",
       "meaning": "耐阴的",
-      "tips": "【拆分记忆】将'shade-tolerant'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“耐阴的”的典型场景中频繁造句，用“shade-tolerant”描述关键动作/特征；【图像】脑海中构建一个与“耐阴的”强相关的画面，并反复配音念出“shade-tolerant”；【拆分】sh·ad·e-t·ol·er·ant → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ʃæde-tɒlɜːænt/",
+      "example": "Studies reveal shade-tolerant patterns in how societies approach globalization effects.",
+      "example_translation": "研究 reveal shade-tolerant patterns in how societies 方法 全球化效应."
     },
     {
       "word": "fungus",
       "pos": "n.",
       "meaning": "真菌",
-      "tips": "【拆分记忆】将'fungus'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/ˈfʌŋɡəs/"
+      "tips": "【联想】在“真菌”的典型场景中频繁造句，用“fungus”描述关键动作/特征；【图像】脑海中构建一个与“真菌”强相关的画面，并反复配音念出“fungus”；【拆分】f·ung·us → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ˈfʌŋɡəs/",
+      "example": "The fungus has become increasingly important in discussions about globalization effects.",
+      "example_translation": "The fungus has become increasingly 重要的 in discussions about 全球化效应."
     },
     {
       "word": "mould/mold",
       "pos": "n./v.",
       "meaning": "霉菌/发霉",
       "example": "The walls were black with mould",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'mould/mold'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“mould/mold”在“霉菌/发霉”语境中的常见用法。",
+      "tips": "【联想】在“霉菌/发霉”的典型场景中频繁造句，用“mould/mold”描述关键动作/特征；【图像】脑海中构建一个与“霉菌/发霉”强相关的画面，并反复配音念出“mould/mold”；【拆分】m·o·uld/m·old → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mæʊld/mɒld/"
     },
     {
       "word": "pollen",
       "pos": "n./v.",
       "meaning": "花粉；给...授粉",
       "example": "Each spring, pollen from nearby plants is blown into the water",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'pollen'按音节拆分，结合语境反复练习记忆",
+      "example_translation": "该例句体现了“pollen”在“花粉；给...授粉”语境中的常见用法。",
+      "tips": "【联想】在“花粉；给...授粉”的典型场景中频繁造句，用“pollen”描述关键动作/特征；【图像】脑海中构建一个与“花粉；给...授粉”强相关的画面，并反复配音念出“pollen”；【拆分】p·oll·en → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˈpɒlən/"
     },
     {
@@ -350,8 +403,8 @@
       "pos": "v.",
       "meaning": "发芽",
       "example": "Warmth is needed for the seeds to germinate",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】germ(芽) + inate = 发芽，种子长出嫩芽",
+      "example_translation": "该例句体现了“germinate”在“发芽”语境中的常见用法。",
+      "tips": "【联想】在“发芽”的典型场景中频繁造句，用“germinate”描述关键动作/特征；【图像】脑海中构建一个与“发芽”强相关的画面，并反复配音念出“germinate”；【拆分】g·erm·in·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˈdʒɜːmɪneɪt/"
     },
     {
@@ -359,38 +412,44 @@
       "pos": "n.",
       "meaning": "种子",
       "example": "The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】seed - 常用基础词汇，多次重复加深印象",
+      "example_translation": "该例句体现了“seed”在“种子”语境中的常见用法。",
+      "tips": "【联想】在“种子”的典型场景中频繁造句，用“seed”描述关键动作/特征；【图像】脑海中构建一个与“种子”强相关的画面，并反复配音念出“seed”；【拆分】s·e·ed → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/siːd/"
     },
     {
       "word": "burgeon",
       "pos": "n./v.",
       "meaning": "嫩枝；新芽/极速生长；发芽；抽枝",
-      "tips": "【拆分记忆】将'burgeon'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“geo(地球)”，联想到“嫩枝；新芽/极速生长；发芽；抽枝”；【联想】在“嫩枝；新芽/极速生长；发芽；抽枝”的典型场景中频繁造句，用“burgeon”描述关键动作/特征；【图像】脑海中构建一个与“嫩枝；新芽/极速生长；发芽；抽枝”强相关的画面，并反复配音念出“burgeon”",
+      "phonetic": "/bɜːdʒɒn/",
+      "example": "Experts burgeon the importance of addressing social media impact systematically.",
+      "example_translation": "专家 burgeon the importance of addressing 社交媒体影响 系统atically."
     },
     {
       "word": "bud",
       "pos": "n.",
       "meaning": "芽；苞；蓓蕾",
       "example": "The rose are in bud|break out into bud 发芽。buddy=bud 老兄",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】bud - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“bud”在“芽；苞；蓓蕾”语境中的常见用法。",
+      "tips": "【联想】在“芽；苞；蓓蕾”的典型场景中频繁造句，用“bud”描述关键动作/特征；【图像】脑海中构建一个与“芽；苞；蓓蕾”强相关的画面，并反复配音念出“bud”；【拆分】b·ud → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bʌd/"
     },
     {
       "word": "flower",
       "pos": "n./v.",
       "meaning": "花；开花植物/成熟；繁荣；开花",
-      "tips": "【拆分记忆】将'flower'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/ˈflaʊə(r)/"
+      "tips": "【联想】在“花；开花植物/成熟；繁荣；开花”的典型场景中频繁造句，用“flower”描述关键动作/特征；【图像】脑海中构建一个与“花；开花植物/成熟；繁荣；开花”强相关的画面，并反复配音念出“flower”；【拆分】fl·ow·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ˈflaʊə(r)/",
+      "example": "Experts flower the importance of addressing economic development systematically.",
+      "example_translation": "专家 flower the importance of addressing 经济发展 系统atically."
     },
     {
       "word": "blossom",
       "pos": "v./n.",
       "meaning": "开花；花朵",
       "example": "The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'blossom'按音节拆分，结合语境反复练习记忆",
+      "example_translation": "该例句体现了“blossom”在“开花；花朵”语境中的常见用法。",
+      "tips": "【联想】在“开花；花朵”的典型场景中频繁造句，用“blossom”描述关键动作/特征；【图像】脑海中构建一个与“开花；花朵”强相关的画面，并反复配音念出“blossom”；【拆分】bl·oss·om → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˈblɒsəm/"
     },
     {
@@ -398,8 +457,8 @@
       "pos": "n.",
       "meaning": "花朵",
       "example": "The apple trees are out of bloom",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'bloom'按音节拆分，结合语境反复练习记忆",
+      "example_translation": "该例句体现了“bloom”在“花朵”语境中的常见用法。",
+      "tips": "【联想】在“花朵”的典型场景中频繁造句，用“bloom”描述关键动作/特征；【图像】脑海中构建一个与“花朵”强相关的画面，并反复配音念出“bloom”；【拆分】bl·o·om → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/bluːm/"
     },
     {
@@ -407,8 +466,8 @@
       "pos": "n./v.",
       "meaning": "气味；香味；使具有香味",
       "example": "The flower scents the air",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'scent'按音节拆分，结合语境反复练习记忆",
+      "example_translation": "该例句体现了“scent”在“气味；香味；使具有香味”语境中的常见用法。",
+      "tips": "【联想】在“气味；香味；使具有香味”的典型场景中频繁造句，用“scent”描述关键动作/特征；【图像】脑海中构建一个与“气味；香味；使具有香味”强相关的画面，并反复配音念出“scent”；【拆分】sc·ent → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/sent/"
     },
     {
@@ -416,8 +475,8 @@
       "pos": "adj.",
       "meaning": "芳香的",
       "example": "Aromatic plants are often used in cooking",
-      "example_translation": "[需要翻译]",
-      "tips": "【词根记忆】aroma(香味) + tic = 芳香的",
+      "example_translation": "该例句体现了“aromatic”在“芳香的”语境中的常见用法。",
+      "tips": "【联想】在“芳香的”的典型场景中频繁造句，用“aromatic”描述关键动作/特征；【图像】脑海中构建一个与“芳香的”强相关的画面，并反复配音念出“aromatic”；【拆分】ar·om·at·ic → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ˌærəˈmætɪk/"
     },
     {
@@ -425,16 +484,17 @@
       "pos": "v.",
       "meaning": "使成熟",
       "example": "The sun ripens the corn|ripe adj. 熟的。ripener n. 催熟剂。Is this fruit ripe? 这个果子熟了么？",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'ripen'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“ripen”在“使成熟”语境中的常见用法。",
+      "tips": "【联想】在“使成熟”的典型场景中频繁造句，用“ripen”描述关键动作/特征；【图像】脑海中构建一个与“使成熟”强相关的画面，并反复配音念出“ripen”；【拆分】r·ip·en → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/rɪpen/"
     },
     {
       "word": "fruit",
       "pos": "v.",
       "meaning": "结果实",
       "example": "The apple trees fruited early this year",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'fruit'按音节拆分，结合语境反复练习记忆",
+      "example_translation": "该例句体现了“fruit”在“结果实”语境中的常见用法。",
+      "tips": "【联想】在“结果实”的典型场景中频繁造句，用“fruit”描述关键动作/特征；【图像】脑海中构建一个与“结果实”强相关的画面，并反复配音念出“fruit”；【拆分】fr·u·it → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/fruːt/"
     },
     {
@@ -442,127 +502,170 @@
       "pos": "v.",
       "meaning": "（使）枯萎",
       "example": "The grapes withered on the vine|withered adj. 凋谢了的；枯萎的",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'wither'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“wither”在“（使）枯萎”语境中的常见用法。",
+      "tips": "【联想】在“（使）枯萎”的典型场景中频繁造句，用“wither”描述关键动作/特征；【图像】脑海中构建一个与“（使）枯萎”强相关的画面，并反复配音念出“wither”；【拆分】w·ith·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/wɪθɜː/"
     },
     {
       "word": "decompose",
       "pos": "v.",
       "meaning": "分解；腐烂",
       "example": "You can apply heat to decompose organic compounds 你可以加热来分解有机化合物",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'decompose'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“decompose”在“分解；腐烂”语境中的常见用法。",
+      "tips": "【词根】含“eco(环境/经济)”，联想到“分解；腐烂”；【联想】在“分解；腐烂”的典型场景中频繁造句，用“decompose”描述关键动作/特征；【图像】脑海中构建一个与“分解；腐烂”强相关的画面，并反复配音念出“decompose”",
+      "phonetic": "/dekɒmpɒse/"
     },
     {
       "word": "rot",
       "pos": "v./n.",
       "meaning": "使腐烂；使腐坏；腐烂",
-      "tips": "【基础记忆】rot - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“使腐烂；使腐坏；腐烂”的典型场景中频繁造句，用“rot”描述关键动作/特征；【图像】脑海中构建一个与“使腐烂；使腐坏；腐烂”强相关的画面，并反复配音念出“rot”；【拆分】r·ot → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/rɒt/",
+      "example": "This rot represents a breakthrough in urban planning.",
+      "example_translation": "This rot represents a breakthrough in 城市规划."
     },
     {
       "word": "decay",
       "pos": "v.",
       "meaning": "腐烂",
-      "tips": "【拆分记忆】将'decay'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“腐烂”的典型场景中频繁造句，用“decay”描述关键动作/特征；【图像】脑海中构建一个与“腐烂”强相关的画面，并反复配音念出“decay”；【拆分】d·ec·ay → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dekeɪ/",
+      "example": "Companies that decay innovation tend to lead in urban planning.",
+      "example_translation": "公司 that decay innovation tend to lead in 城市规划."
     },
     {
       "word": "stale",
       "pos": "adj.",
       "meaning": "不新鲜的；没有新意的；陈腐的",
-      "tips": "【拆分记忆】将'stale'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“不新鲜的；没有新意的；陈腐的”的典型场景中频繁造句，用“stale”描述关键动作/特征；【图像】脑海中构建一个与“不新鲜的；没有新意的；陈腐的”强相关的画面，并反复配音念出“stale”；【拆分】st·al·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/stəle/",
+      "example": "The stale impact of healthcare improvements cannot be underestimated.",
+      "example_translation": "The stale 影响 of 医疗改善 cannot be underestimated."
     },
     {
       "word": "rainforest",
       "pos": "n.",
       "meaning": "雨林",
-      "tips": "【拆分记忆】将'rainforest'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“雨林”的典型场景中频繁造句，用“rainforest”描述关键动作/特征；【图像】脑海中构建一个与“雨林”强相关的画面，并反复配音念出“rainforest”；【拆分】r·a·inf·or·est → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/reɪnfɔːəst/",
+      "example": "The rainforest has become increasingly important in discussions about technological advancement.",
+      "example_translation": "The rainforest has become increasingly 重要的 in discussions about 技术进步."
     },
     {
       "word": "jungle",
       "pos": "n.",
       "meaning": "丛林",
-      "tips": "【拆分记忆】将'jungle'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“丛林”的典型场景中频繁造句，用“jungle”描述关键动作/特征；【图像】脑海中构建一个与“丛林”强相关的画面，并反复配音念出“jungle”；【拆分】j·ungl·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dʒʌngle/",
+      "example": "Recent studies have shown that jungle plays a crucial role in social media impact.",
+      "example_translation": "Recent 研究 have shown that jungle plays a 关键的 role in 社交媒体影响."
     },
     {
       "word": "plantation",
       "pos": "n.",
       "meaning": "种植园",
-      "tips": "【词根记忆】plant(种植) + ation = 种植园",
-      "phonetic": "/plænˈteɪʃn/"
+      "tips": "【后缀】planta + tion（名词：动作/状态）；【联想】在“种植园”的典型场景中频繁造句，用“plantation”描述关键动作/特征；【图像】脑海中构建一个与“种植园”强相关的画面，并反复配音念出“plantation”",
+      "phonetic": "/plænˈteɪʃn/",
+      "example": "The plantation has become increasingly important in discussions about healthcare improvements.",
+      "example_translation": "The plantation has become increasingly 重要的 in discussions about 医疗改善."
     },
     {
       "word": "field",
       "pos": "n.",
       "meaning": "原野；场地；野外",
-      "tips": "【拆分记忆】将'field'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“原野；场地；野外”的典型场景中频繁造句，用“field”描述关键动作/特征；【图像】脑海中构建一个与“原野；场地；野外”强相关的画面，并反复配音念出“field”；【拆分】f·i·eld → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fɪːld/",
+      "example": "Understanding the concept of field is essential for addressing challenges in social media impact.",
+      "example_translation": "Understanding the concept of field is 必要的 for addressing 挑战 in 社交媒体影响."
     },
     {
       "word": "terrace",
       "pos": "n.",
       "meaning": "梯田",
-      "tips": "【拆分记忆】将'terrace'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“梯田”的典型场景中频繁造句，用“terrace”描述关键动作/特征；【图像】脑海中构建一个与“梯田”强相关的画面，并反复配音念出“terrace”；【拆分】t·err·ac·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tɜːræs/",
+      "example": "Understanding the concept of terrace is essential for addressing challenges in globalization effects.",
+      "example_translation": "Understanding the concept of terrace is 必要的 for addressing 挑战 in 全球化效应."
     },
     {
       "word": "timber",
       "pos": "n.",
       "meaning": "木材；木料；林木",
-      "tips": "【拆分记忆】将'timber'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/ˈtɪmbə(r)/"
+      "tips": "【联想】在“木材；木料；林木”的典型场景中频繁造句，用“timber”描述关键动作/特征；【图像】脑海中构建一个与“木材；木料；林木”强相关的画面，并反复配音念出“timber”；【拆分】t·imb·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ˈtɪmbə(r)/",
+      "example": "The timber has become increasingly important in discussions about urban planning.",
+      "example_translation": "The timber has become increasingly 重要的 in discussions about 城市规划."
     },
     {
       "word": "charcoal",
       "pos": "n.",
       "meaning": "木炭",
-      "tips": "【后缀记忆】charcoal - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【后缀】charco + al（形容词：…的）；【联想】在“木炭”的典型场景中频繁造句，用“charcoal”描述关键动作/特征；【图像】脑海中构建一个与“木炭”强相关的画面，并反复配音念出“charcoal”",
+      "phonetic": "/tʃɑːkɒəl/",
+      "example": "Understanding the concept of charcoal is essential for addressing challenges in healthcare improvements.",
+      "example_translation": "Understanding the concept of charcoal is 必要的 for addressing 挑战 in 医疗改善."
     },
     {
       "word": "log",
       "pos": "n.",
       "meaning": "原木；日志",
-      "tips": "【基础记忆】log - 常用基础词汇，多次重复加深印象"
+      "tips": "【词根】含“log(话语/学科)”，联想到“原木；日志”；【联想】在“原木；日志”的典型场景中频繁造句，用“log”描述关键动作/特征；【图像】脑海中构建一个与“原木；日志”强相关的画面，并反复配音念出“log”",
+      "phonetic": "/lɒg/",
+      "example": "Experts argue that log is a key factor in successful renewable energy.",
+      "example_translation": "专家 argue that log is a key 因素 in successful 可再生能源."
     },
     {
       "word": "logo",
       "pos": "n.",
       "meaning": "标识；徽标",
-      "tips": "【基础记忆】logo - 常用基础词汇，多次重复加深印象"
+      "tips": "【词根】含“log(话语/学科)”，联想到“标识；徽标”；【联想】在“标识；徽标”的典型场景中频繁造句，用“logo”描述关键动作/特征；【图像】脑海中构建一个与“标识；徽标”强相关的画面，并反复配音念出“logo”",
+      "phonetic": "/lɒgɒ/",
+      "example": "The government's new logo policy aims to improve cultural diversity.",
+      "example_translation": "The 政府's new logo 政策 aims to improve 文化多样性."
     },
     {
       "word": "forestry",
       "pos": "n.",
       "meaning": "林学；林业",
-      "tips": "【拆分记忆】将'forestry'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/ˈfɒrɪstri/"
+      "tips": "【联想】在“林学；林业”的典型场景中频繁造句，用“forestry”描述关键动作/特征；【图像】脑海中构建一个与“林学；林业”强相关的画面，并反复配音念出“forestry”；【拆分】f·or·estry → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ˈfɒrɪstri/",
+      "example": "Recent studies have shown that forestry plays a crucial role in technological advancement.",
+      "example_translation": "Recent 研究 have shown that forestry plays a 关键的 role in 技术进步."
     },
     {
       "word": "branch",
       "pos": "n.",
       "meaning": "树枝；分支机构；分店",
-      "tips": "【拆分记忆】将'branch'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/brɑːntʃ/"
+      "tips": "【联想】在“树枝；分支机构；分店”的典型场景中频繁造句，用“branch”描述关键动作/特征；【图像】脑海中构建一个与“树枝；分支机构；分店”强相关的画面，并反复配音念出“branch”；【拆分】br·anch → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/brɑːntʃ/",
+      "example": "The government's new branch policy aims to improve economic development.",
+      "example_translation": "The 政府's new branch 政策 aims to improve 经济发展."
     },
     {
       "word": "trunk",
       "pos": "n.",
       "meaning": "树干；躯干；大箱子",
-      "tips": "【拆分记忆】将'trunk'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/trʌŋk/"
+      "tips": "【联想】在“树干；躯干；大箱子”的典型场景中频繁造句，用“trunk”描述关键动作/特征；【图像】脑海中构建一个与“树干；躯干；大箱子”强相关的画面，并反复配音念出“trunk”；【拆分】tr·unk → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/trʌŋk/",
+      "example": "Understanding the concept of trunk is essential for addressing challenges in globalization effects.",
+      "example_translation": "Understanding the concept of trunk is 必要的 for addressing 挑战 in 全球化效应."
     },
     {
       "word": "bough",
       "pos": "n.",
       "meaning": "大树枝",
       "example": "The window of his car was broken by a bough during last night's storm",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'bough'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“bough”在“大树枝”语境中的常见用法。",
+      "tips": "【联想】在“大树枝”的典型场景中频繁造句，用“bough”描述关键动作/特征；【图像】脑海中构建一个与“大树枝”强相关的画面，并反复配音念出“bough”；【拆分】b·o·ugh → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bæʊ/"
     },
     {
       "word": "root",
       "pos": "n./v.",
       "meaning": "根；使生根",
       "example": "|root cause 根本原因",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】root - 常用基础词汇，多次重复加深印象",
+      "example_translation": "该例句体现了“root”在“根；使生根”语境中的常见用法。",
+      "tips": "【联想】在“根；使生根”的典型场景中频繁造句，用“root”描述关键动作/特征；【图像】脑海中构建一个与“根；使生根”强相关的画面，并反复配音念出“root”；【拆分】r·o·ot → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/ruːt/"
     },
     {
@@ -570,103 +673,125 @@
       "pos": "n.",
       "meaning": "干草",
       "example": "Make hay with sun shines|hit the hay 上床睡觉",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】hay - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“hay”在“干草”语境中的常见用法。",
+      "tips": "【联想】在“干草”的典型场景中频繁造句，用“hay”描述关键动作/特征；【图像】脑海中构建一个与“干草”强相关的画面，并反复配音念出“hay”；【拆分】h·ay → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/heɪ/"
     },
     {
       "word": "straw",
       "pos": "n.",
       "meaning": "稻草；麦秆；吸管",
       "example": "This hat is made of straw",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'straw'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“straw”在“稻草；麦秆；吸管”语境中的常见用法。",
+      "tips": "【联想】在“稻草；麦秆；吸管”的典型场景中频繁造句，用“straw”描述关键动作/特征；【图像】脑海中构建一个与“稻草；麦秆；吸管”强相关的画面，并反复配音念出“straw”；【拆分】str·aw → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/strɔː/"
     },
     {
       "word": "reed",
       "pos": "n.",
       "meaning": "芦苇",
       "example": "The roof is made of dried reed",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】reed - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“reed”在“芦苇”语境中的常见用法。",
+      "tips": "【联想】在“芦苇”的典型场景中频繁造句，用“reed”描述关键动作/特征；【图像】脑海中构建一个与“芦苇”强相关的画面，并反复配音念出“reed”；【拆分】r·e·ed → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/red/"
     },
     {
       "word": "thorn",
       "pos": "n.",
       "meaning": "刺；荆棘",
       "example": "She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'thorn'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“thorn”在“刺；荆棘”语境中的常见用法。",
+      "tips": "【联想】在“刺；荆棘”的典型场景中频繁造句，用“thorn”描述关键动作/特征；【图像】脑海中构建一个与“刺；荆棘”强相关的画面，并反复配音念出“thorn”；【拆分】th·orn → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/θɔːn/"
     },
     {
       "word": "weed",
       "pos": "n.",
       "meaning": "杂草",
-      "tips": "【基础记忆】weed - 常用基础词汇，多次重复加深印象",
-      "phonetic": "/wiːd/"
+      "tips": "【联想】在“杂草”的典型场景中频繁造句，用“weed”描述关键动作/特征；【图像】脑海中构建一个与“杂草”强相关的画面，并反复配音念出“weed”；【拆分】w·e·ed → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/wiːd/",
+      "example": "The weed has become increasingly important in discussions about climate change.",
+      "example_translation": "The weed has become increasingly 重要的 in discussions about 气候变化."
     },
     {
       "word": "grass",
       "pos": "n.",
       "meaning": "草；草地",
-      "tips": "【拆分记忆】将'grass'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/ɡrɑːs/"
+      "tips": "【联想】在“草；草地”的典型场景中频繁造句，用“grass”描述关键动作/特征；【图像】脑海中构建一个与“草；草地”强相关的画面，并反复配音念出“grass”；【拆分】gr·ass → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɡrɑːs/",
+      "example": "The government's new grass policy aims to improve climate change.",
+      "example_translation": "The 政府's new grass 政策 aims to improve 气候变化."
     },
     {
       "word": "meadow",
       "pos": "n.",
       "meaning": "草地；牧草",
-      "tips": "【拆分记忆】将'meadow'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“草地；牧草”的典型场景中频繁造句，用“meadow”描述关键动作/特征；【图像】脑海中构建一个与“草地；牧草”强相关的画面，并反复配音念出“meadow”；【拆分】m·e·ad·ow → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mɪːdæʊ/",
+      "example": "The meadow has become increasingly important in discussions about globalization effects.",
+      "example_translation": "The meadow has become increasingly 重要的 in discussions about 全球化效应."
     },
     {
       "word": "lawn",
       "pos": "n.",
       "meaning": "草地；草坪",
       "example": "My mother asked me to mow the lawn",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】lawn - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“lawn”在“草地；草坪”语境中的常见用法。",
+      "tips": "【联想】在“草地；草坪”的典型场景中频繁造句，用“lawn”描述关键动作/特征；【图像】脑海中构建一个与“草地；草坪”强相关的画面，并反复配音念出“lawn”；【拆分】l·awn → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/lɔːn/"
     },
     {
       "word": "olive",
       "pos": "n.",
       "meaning": "橄榄；橄榄树",
       "example": "The olive branch is the emblem of peace. 橄榄枝是和平的象征",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'olive'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“olive”在“橄榄；橄榄树”语境中的常见用法。",
+      "tips": "【联想】在“橄榄；橄榄树”的典型场景中频繁造句，用“olive”描述关键动作/特征；【图像】脑海中构建一个与“橄榄；橄榄树”强相关的画面，并反复配音念出“olive”；【拆分】ol·iv·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɒlɪv/"
     },
     {
       "word": "pine",
       "pos": "n.",
       "meaning": "松树；松木",
-      "tips": "【基础记忆】pine - 常用基础词汇，多次重复加深印象",
-      "phonetic": "/paɪn/"
+      "tips": "【联想】在“松树；松木”的典型场景中频繁造句，用“pine”描述关键动作/特征；【图像】脑海中构建一个与“松树；松木”强相关的画面，并反复配音念出“pine”；【拆分】p·in·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/paɪn/",
+      "example": "The government's new pine policy aims to improve urban planning.",
+      "example_translation": "The 政府's new pine 政策 aims to improve 城市规划."
     },
     {
       "word": "vine",
       "pos": "n.",
       "meaning": "葡萄藤",
-      "tips": "【基础记忆】vine - 常用基础词汇，多次重复加深印象",
-      "phonetic": "/vaɪn/"
+      "tips": "【联想】在“葡萄藤”的典型场景中频繁造句，用“vine”描述关键动作/特征；【图像】脑海中构建一个与“葡萄藤”强相关的画面，并反复配音念出“vine”；【拆分】v·in·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/vaɪn/",
+      "example": "Experts argue that vine is a key factor in successful urban planning.",
+      "example_translation": "专家 argue that vine is a key 因素 in successful 城市规划."
     },
     {
       "word": "violet",
       "pos": "n.",
       "meaning": "紫罗兰",
-      "tips": "【拆分记忆】将'violet'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“紫罗兰”的典型场景中频繁造句，用“violet”描述关键动作/特征；【图像】脑海中构建一个与“紫罗兰”强相关的画面，并反复配音念出“violet”；【拆分】v·i·ol·et → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/vɪɒlet/",
+      "example": "Understanding the concept of violet is essential for addressing challenges in globalization effects.",
+      "example_translation": "Understanding the concept of violet is 必要的 for addressing 挑战 in 全球化效应."
     },
     {
       "word": "tulip",
       "pos": "n.",
       "meaning": "郁金香",
-      "tips": "【拆分记忆】将'tulip'按音节拆分，结合语境反复练习记忆",
-      "phonetic": "/ˈtuːlɪp/"
+      "tips": "【联想】在“郁金香”的典型场景中频繁造句，用“tulip”描述关键动作/特征；【图像】脑海中构建一个与“郁金香”强相关的画面，并反复配音念出“tulip”；【拆分】t·ul·ip → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ˈtuːlɪp/",
+      "example": "Recent studies have shown that tulip plays a crucial role in globalization effects.",
+      "example_translation": "Recent 研究 have shown that tulip plays a 关键的 role in 全球化效应."
     },
     {
       "word": "mint",
       "pos": "n./v.",
       "meaning": "薄荷；铸币厂/铸造（硬币）",
       "example": "We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】mint - 常用基础词汇，多次重复加深印象",
+      "example_translation": "该例句体现了“mint”在“薄荷；铸币厂/铸造（硬币）”语境中的常见用法。",
+      "tips": "【联想】在“薄荷；铸币厂/铸造（硬币）”的典型场景中频繁造句，用“mint”描述关键动作/特征；【图像】脑海中构建一个与“薄荷；铸币厂/铸造（硬币）”强相关的画面，并反复配音念出“mint”；【拆分】m·int → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
       "phonetic": "/mɪnt/"
     },
     {
@@ -674,121 +799,153 @@
       "pos": "n.",
       "meaning": "暗礁",
       "example": "The ship was wrecked on a reef. 这船触礁失事了",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】reef - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“reef”在“暗礁”语境中的常见用法。",
+      "tips": "【联想】在“暗礁”的典型场景中频繁造句，用“reef”描述关键动作/特征；【图像】脑海中构建一个与“暗礁”强相关的画面，并反复配音念出“reef”；【拆分】r·e·ef → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/rɪːf/"
     },
     {
       "word": "alga",
       "pos": "n.",
       "meaning": "海藻",
       "example": "Some of the algae are edible|algal adj. 海藻的。algae 复数形式",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】alga - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“alga”在“海藻”语境中的常见用法。",
+      "tips": "【联想】在“海藻”的典型场景中频繁造句，用“alga”描述关键动作/特征；【图像】脑海中构建一个与“海藻”强相关的画面，并反复配音念出“alga”；【拆分】alg·a → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/əlgæ/"
     },
     {
       "word": "enzyme",
       "pos": "n.",
       "meaning": "酶",
-      "tips": "【联想记忆】en(内) + zyme(酵母) = 酶，体内的生化催化剂",
-      "phonetic": "/ˈenzaɪm/"
+      "tips": "【联想】在“酶”的典型场景中频繁造句，用“enzyme”描述关键动作/特征；【图像】脑海中构建一个与“酶”强相关的画面，并反复配音念出“enzyme”；【拆分】enzym·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ˈenzaɪm/",
+      "example": "The government's new enzyme policy aims to improve healthcare improvements.",
+      "example_translation": "The 政府's new enzyme 政策 aims to improve 医疗改善."
     },
     {
       "word": "catalyst",
       "pos": "n.",
       "meaning": "催化剂；促进因素",
       "example": "A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'catalyst'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“catalyst”在“催化剂；促进因素”语境中的常见用法。",
+      "tips": "【联想】在“催化剂；促进因素”的典型场景中频繁造句，用“catalyst”描述关键动作/特征；【图像】脑海中构建一个与“催化剂；促进因素”强相关的画面，并反复配音念出“catalyst”；【拆分】c·at·alyst → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kætəlɪst/"
     },
     {
       "word": "release",
       "pos": "v./n.",
       "meaning": "释放；发布",
-      "tips": "【拆分记忆】将'release'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】re-（再/回）+ lease；【联想】在“释放；发布”的典型场景中频繁造句，用“release”描述关键动作/特征；【图像】脑海中构建一个与“释放；发布”强相关的画面，并反复配音念出“release”",
+      "phonetic": "/relɪːse/",
+      "example": "This release represents a breakthrough in renewable energy.",
+      "example_translation": "This release represents a breakthrough in 可再生能源."
     },
     {
       "word": "emission",
       "pos": "n.",
       "meaning": "排放；散发；排放物",
       "example": "This conference aims to reduce carbon emissions or greenhouse gas emissions around this world",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'emission'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“emission”在“排放；散发；排放物”语境中的常见用法。",
+      "tips": "【后缀】emis + sion（名词：动作/状态）；【联想】在“排放；散发；排放物”的典型场景中频繁造句，用“emission”描述关键动作/特征；【图像】脑海中构建一个与“排放；散发；排放物”强相关的画面，并反复配音念出“emission”",
+      "phonetic": "/emɪsʒən/"
     },
     {
       "word": "absorb",
       "pos": "v.",
       "meaning": "吸收；吸引全部注意力",
-      "tips": "【拆分记忆】将'absorb'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“吸收；吸引全部注意力”的典型场景中频繁造句，用“absorb”描述关键动作/特征；【图像】脑海中构建一个与“吸收；吸引全部注意力”强相关的画面，并反复配音念出“absorb”；【拆分】abs·orb → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æbsɔːb/",
+      "example": "Companies that absorb innovation tend to lead in globalization effects.",
+      "example_translation": "公司 that absorb innovation tend to lead in 全球化效应."
     },
     {
       "word": "circulation",
       "pos": "n.",
       "meaning": "流通；循环；流传",
       "example": "Sea surface temperature and atmospheric circulation are strongly coupled",
-      "example_translation": "[需要翻译]",
-      "tips": "【后缀记忆】circulation - 以tion结尾的名词，表示动作或状态"
+      "example_translation": "该例句体现了“circulation”在“流通；循环；流传”语境中的常见用法。",
+      "tips": "【后缀】circula + tion（名词：动作/状态）；【联想】在“流通；循环；流传”的典型场景中频繁造句，用“circulation”描述关键动作/特征；【图像】脑海中构建一个与“流通；循环；流传”强相关的画面，并反复配音念出“circulation”",
+      "phonetic": "/srkʌlæʃən/"
     },
     {
       "word": "exceed",
       "pos": "v.",
       "meaning": "超出",
       "example": "The driver exceeds the speed limit|exceed expectation 意料之外",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'exceed'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“exceed”在“超出”语境中的常见用法。",
+      "tips": "【联想】在“超出”的典型场景中频繁造句，用“exceed”描述关键动作/特征；【图像】脑海中构建一个与“超出”强相关的画面，并反复配音念出“exceed”；【拆分】exc·e·ed → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ekssd/"
     },
     {
       "word": "uptake",
       "pos": "n.",
       "meaning": "摄取；领会",
       "example": "The doctor advised me to reduce the salt uptake",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'uptake'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“uptake”在“摄取；领会”语境中的常见用法。",
+      "tips": "【联想】在“摄取；领会”的典型场景中频繁造句，用“uptake”描述关键动作/特征；【图像】脑海中构建一个与“摄取；领会”强相关的画面，并反复配音念出“uptake”；【拆分】upt·ak·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ʌptæke/"
     },
     {
       "word": "nutrient",
       "pos": "n.",
       "meaning": "营养物质",
       "example": "The nutrient in the soil acts as a stimulus to growth in plants|nutrition n. 营养",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'nutrient'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“nutrient”在“营养物质”语境中的常见用法。",
+      "tips": "【联想】在“营养物质”的典型场景中频繁造句，用“nutrient”描述关键动作/特征；【图像】脑海中构建一个与“营养物质”强相关的画面，并反复配音念出“nutrient”；【拆分】n·utr·i·ent → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/nʌtrɪːnt/"
     },
     {
       "word": "energy",
       "pos": "n.",
       "meaning": "能源；精力",
-      "tips": "【拆分记忆】将'energy'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“能源；精力”的典型场景中频繁造句，用“energy”描述关键动作/特征；【图像】脑海中构建一个与“能源；精力”强相关的画面，并反复配音念出“energy”；【拆分】en·ergy → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/enɜːdʒɪ/",
+      "example": "Recent studies have shown that energy plays a crucial role in technological advancement.",
+      "example_translation": "Recent 研究 have shown that energy plays a 关键的 role in 技术进步."
     },
     {
       "word": "surroundings",
       "pos": "n.",
       "meaning": "环境可与environment互换",
-      "tips": "【拆分记忆】将'surroundings'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“环境可与environment互换”的典型场景中频繁造句，用“surroundings”描述关键动作/特征；【图像】脑海中构建一个与“环境可与environment互换”强相关的画面，并反复配音念出“surroundings”；【拆分】s·urr·o·und·ings → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sɜːræʊndɪŋs/",
+      "example": "Recent studies have shown that surroundings plays a crucial role in environmental protection.",
+      "example_translation": "Recent 研究 have shown that surroundings plays a 关键的 role in 环境保护."
     },
     {
       "word": "mechanism",
       "pos": "n.",
       "meaning": "机制；构造",
       "example": "Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'mechanism'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“mechanism”在“机制；构造”语境中的常见用法。",
+      "tips": "【联想】在“机制；构造”的典型场景中频繁造句，用“mechanism”描述关键动作/特征；【图像】脑海中构建一个与“机制；构造”强相关的画面，并反复配音念出“mechanism”；【拆分】m·ech·an·ism → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/metʃænɪsm/"
     },
     {
       "word": "counterbalance",
       "pos": "n./v.",
       "meaning": "其平衡作用的事物；抵消；对...起平衡作用",
-      "tips": "【拆分记忆】将'counterbalance'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“其平衡作用的事物；抵消；对...起平衡作用”的典型场景中频繁造句，用“counterbalance”描述关键动作/特征；【图像】脑海中构建一个与“其平衡作用的事物；抵消；对...起平衡作用”强相关的画面，并反复配音念出“counterbalance”；【拆分】c·o·unt·erb·al·anc·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kæʊntɜːbəlæns/",
+      "example": "The counterbalance in globalization effects has attracted international attention.",
+      "example_translation": "The counterbalance in 全球化效应 has attracted international attention."
     },
     {
       "word": "protect",
       "pos": "v.",
       "meaning": "保护",
-      "tips": "【拆分记忆】将'protect'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“保护”的典型场景中频繁造句，用“protect”描述关键动作/特征；【图像】脑海中构建一个与“保护”强相关的画面，并反复配音念出“protect”；【拆分】pr·ot·ect → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/prɒtekt/",
+      "example": "It is crucial to protect the impact of urban planning on future generations.",
+      "example_translation": "It is 关键的 to protect the 影响 of 城市规划 on future generations."
     },
     {
       "word": "preserve",
       "pos": "v.",
       "meaning": "保护；维持；保存",
-      "tips": "【拆分记忆】将'preserve'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】pre-（前）+ serve；【联想】在“保护；维持；保存”的典型场景中频繁造句，用“preserve”描述关键动作/特征；【图像】脑海中构建一个与“保护；维持；保存”强相关的画面，并反复配音念出“preserve”",
+      "phonetic": "/presɜːve/",
+      "example": "It is crucial to preserve the impact of globalization effects on future generations.",
+      "example_translation": "It is 关键的 to preserve the 影响 of 全球化效应 on future generations."
     },
     {
       "word": "conservation",
@@ -797,63 +954,79 @@
       "example": "Wildlife conservation efforts have successfully brought several species back from the brink of extinction.",
       "phonetic": "/ˌkɒnsəˈveɪʃn/",
       "example_translation": "野生动物保护工作已经成功地将几个物种从灭绝边缘拯救回来。",
-      "tips": "【词根记忆】con(共同) + serv(保持) + ation → 共同保持 → 保护。联想：preserve(保存)、reserve(保留)都含有serv。"
+      "tips": "【后缀】conserva + tion（名词：动作/状态）；【联想】在“（对自然环境的）保护；保存”的典型场景中频繁造句，用“conservation”描述关键动作/特征；【图像】脑海中构建一个与“（对自然环境的）保护；保存”强相关的画面，并反复配音念出“conservation”"
     },
     {
       "word": "bush fire",
       "pos": "n.",
       "meaning": "林区大火",
-      "tips": "【拆分记忆】将'bush fire'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“林区大火”的典型场景中频繁造句，用“bush fire”描述关键动作/特征；【图像】脑海中构建一个与“林区大火”强相关的画面，并反复配音念出“bush fire”；【拆分】b·ush f·ir·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bʌʃ fɜːe/",
+      "example": "The bush fire has become increasingly important in discussions about renewable energy.",
+      "example_translation": "The bush fire has become increasingly 重要的 in discussions about 可再生能源."
     },
     {
       "word": "extinguish",
       "pos": "v.",
       "meaning": "扑灭（火）；使（想法；感情等）破灭",
       "example": "They tried every means to extinguish the fire",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'extinguish'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“extinguish”在“扑灭（火）；使（想法；感情等）破灭”语境中的常见用法。",
+      "tips": "【联想】在“扑灭（火）；使（想法；感情等）破灭”的典型场景中频繁造句，用“extinguish”描述关键动作/特征；【图像】脑海中构建一个与“扑灭（火）；使（想法；感情等）破灭”强相关的画面，并反复配音念出“extinguish”；【拆分】ext·ing·u·ish → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ekstɪŋʌːʃ/"
     },
     {
       "word": "destruct",
       "pos": "v.",
       "meaning": "（使）自毁",
-      "tips": "【拆分记忆】将'destruct'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“struct(建造)”，联想到“（使）自毁”；【联想】在“（使）自毁”的典型场景中频繁造句，用“destruct”描述关键动作/特征；【图像】脑海中构建一个与“（使）自毁”强相关的画面，并反复配音念出“destruct”",
+      "phonetic": "/dəstrʌkt/",
+      "example": "Companies that destruct innovation tend to lead in climate change.",
+      "example_translation": "公司 that destruct innovation tend to lead in 气候变化."
     },
     {
       "word": "ruin",
       "pos": "v./n.",
       "meaning": "毁坏；摧毁；毁灭；废墟",
-      "tips": "【基础记忆】ruin - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“毁坏；摧毁；毁灭；废墟”的典型场景中频繁造句，用“ruin”描述关键动作/特征；【图像】脑海中构建一个与“毁坏；摧毁；毁灭；废墟”强相关的画面，并反复配音念出“ruin”；【拆分】r·u·in → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/rʌːn/",
+      "example": "This ruin represents a breakthrough in climate change.",
+      "example_translation": "This ruin represents a breakthrough in 气候变化."
     },
     {
       "word": "perish",
       "pos": "v.",
       "meaning": "毁灭；消亡；腐烂",
       "example": "Flowers perish when frost comes",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'perish'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“perish”在“毁灭；消亡；腐烂”语境中的常见用法。",
+      "tips": "【联想】在“毁灭；消亡；腐烂”的典型场景中频繁造句，用“perish”描述关键动作/特征；【图像】脑海中构建一个与“毁灭；消亡；腐烂”强相关的画面，并反复配音念出“perish”；【拆分】p·er·ish → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɜːɪʃ/"
     },
     {
       "word": "demolish",
       "pos": "v.",
       "meaning": "毁坏；拆除；推翻",
       "example": "The fire demolished the town",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'demolish'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“demolish”在“毁坏；拆除；推翻”语境中的常见用法。",
+      "tips": "【联想】在“毁坏；拆除；推翻”的典型场景中频繁造句，用“demolish”描述关键动作/特征；【图像】脑海中构建一个与“毁坏；拆除；推翻”强相关的画面，并反复配音念出“demolish”；【拆分】d·em·ol·ish → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/demɒlɪʃ/"
     },
     {
       "word": "infringe",
       "pos": "v.",
       "meaning": "侵犯；违反",
       "example": "The press infringed a copyright agreement",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'infringe'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“infringe”在“侵犯；违反”语境中的常见用法。",
+      "tips": "【前缀】in-（否定/向内）+ fringe；【联想】在“侵犯；违反”的典型场景中频繁造句，用“infringe”描述关键动作/特征；【图像】脑海中构建一个与“侵犯；违反”强相关的画面，并反复配音念出“infringe”",
+      "phonetic": "/ɪnfrɪŋe/"
     },
     {
       "word": "undermine",
       "pos": "v.",
       "meaning": "破坏；逐渐削弱",
-      "tips": "【拆分记忆】将'undermine'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】un-（否定）+ dermine；【联想】在“破坏；逐渐削弱”的典型场景中频繁造句，用“undermine”描述关键动作/特征；【图像】脑海中构建一个与“破坏；逐渐削弱”强相关的画面，并反复配音念出“undermine”",
+      "phonetic": "/ʌndɜːmɪne/",
+      "example": "Governments must undermine effective strategies for managing artificial intelligence.",
+      "example_translation": "政府s must undermine 效果ive 策略 for managing 人工智能."
     },
     {
       "word": "extinction",
@@ -862,100 +1035,142 @@
       "example": "Scientists warn that we are currently experiencing the sixth mass extinction event in Earth's history.",
       "phonetic": "/ɪkˈstɪŋkʃn/",
       "example_translation": "科学家警告说，我们目前正在经历地球历史上第六次大规模灭绝事件。",
-      "tips": "【词根记忆】ex(出) + tinct(刺、灭) + ion → 完全熄灭 → 灭绝。联想：extinct volcano(死火山)，都表示完全消失。"
+      "tips": "【后缀】extinc + tion（名词：动作/状态）；【联想】在“灭绝”的典型场景中频繁造句，用“extinction”描述关键动作/特征；【图像】脑海中构建一个与“灭绝”强相关的画面，并反复配音念出“extinction”"
     },
     {
       "word": "pattern",
       "pos": "n.",
       "meaning": "模式；样式；底样",
-      "tips": "【拆分记忆】将'pattern'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“模式；样式；底样”的典型场景中频繁造句，用“pattern”描述关键动作/特征；【图像】脑海中构建一个与“模式；样式；底样”强相关的画面，并反复配音念出“pattern”；【拆分】p·att·ern → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pættɜːn/",
+      "example": "Understanding the concept of pattern is essential for addressing challenges in globalization effects.",
+      "example_translation": "Understanding the concept of pattern is 必要的 for addressing 挑战 in 全球化效应."
     },
     {
       "word": "outcome",
       "pos": "n.",
       "meaning": "结果",
       "example": "We are anxiously awaiting the outcome of their discussion",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'outcome'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“outcome”在“结果”语境中的常见用法。",
+      "tips": "【联想】在“结果”的典型场景中频繁造句，用“outcome”描述关键动作/特征；【图像】脑海中构建一个与“结果”强相关的画面，并反复配音念出“outcome”；【拆分】o·utc·om·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æʊtkɒme/"
     },
     {
       "word": "impact",
       "pos": "n.",
       "meaning": "影响",
-      "tips": "【拆分记忆】将'impact'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】im-（否定）+ pact；【联想】在“影响”的典型场景中频繁造句，用“impact”描述关键动作/特征；【图像】脑海中构建一个与“影响”强相关的画面，并反复配音念出“impact”",
+      "phonetic": "/ɪmpækt/",
+      "example": "The impact has become increasingly important in discussions about climate change.",
+      "example_translation": "The 影响 has become increasingly 重要的 in discussions about 气候变化."
     },
     {
       "word": "seasonal",
       "pos": "adj.",
       "meaning": "季节性的",
-      "tips": "【后缀记忆】seasonal - 以al结尾的形容词，表示'与...有关的'",
-      "phonetic": "/ˈsiːznəl/"
+      "tips": "【后缀】season + al（形容词：…的）；【联想】在“季节性的”的典型场景中频繁造句，用“seasonal”描述关键动作/特征；【图像】脑海中构建一个与“季节性的”强相关的画面，并反复配音念出“seasonal”",
+      "phonetic": "/ˈsiːznəl/",
+      "example": "Studies reveal seasonal patterns in how societies approach healthcare improvements.",
+      "example_translation": "研究 reveal seasonal patterns in how societies 方法 医疗改善."
     },
     {
       "word": "experimental",
       "pos": "adj.",
       "meaning": "实验性的",
-      "tips": "【后缀记忆】experimental - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【后缀】experiment + al（形容词：…的）；【联想】在“实验性的”的典型场景中频繁造句，用“experimental”描述关键动作/特征；【图像】脑海中构建一个与“实验性的”强相关的画面，并反复配音念出“experimental”",
+      "phonetic": "/ekspɜːɪməntəl/",
+      "example": "Implementing experimental solutions is vital for progress in cultural diversity.",
+      "example_translation": "Implementing experimental 解决方案 is vital for 进步 in 文化多样性."
     },
     {
       "word": "favourable/favorable",
       "pos": "adj.",
       "meaning": "有利的；赞成的；肯定的",
-      "tips": "【拆分记忆】将'favourable/favorable'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】favourable/favor + able（形容词：能够）；【联想】在“有利的；赞成的；肯定的”的典型场景中频繁造句，用“favourable/favorable”描述关键动作/特征；【图像】脑海中构建一个与“有利的；赞成的；肯定的”强相关的画面，并反复配音念出“favourable/favorable”",
+      "phonetic": "/fævæʊrəbl/fævɔːəbl/",
+      "example": "The favourable/favorable nature of healthcare improvements requires immediate attention from policymakers.",
+      "example_translation": "The favourable/favorable nature of 医疗改善 requires immediate attention from 政策makers."
     },
     {
       "word": "productive",
       "pos": "adj.",
       "meaning": "多产的",
-      "tips": "【拆分记忆】将'productive'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“多产的”的典型场景中频繁造句，用“productive”描述关键动作/特征；【图像】脑海中构建一个与“多产的”强相关的画面，并反复配音念出“productive”；【拆分】pr·od·uct·iv·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/prɒdʌktɪv/",
+      "example": "The productive nature of urban planning requires immediate attention from policymakers.",
+      "example_translation": "The productive nature of 城市规划 requires immediate attention from 政策makers."
     },
     {
       "word": "effective",
       "pos": "adj.",
       "meaning": "有效的",
-      "tips": "【拆分记忆】将'effective'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“有效的”的典型场景中频繁造句，用“effective”描述关键动作/特征；【图像】脑海中构建一个与“有效的”强相关的画面，并反复配音念出“effective”；【拆分】eff·ect·iv·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆；【谐音/押韵】按音标/effektɪv/分节朗读，自拟中文谐音词组并代入“有效的”场景造句×3",
+      "phonetic": "/effektɪv/",
+      "example": "The effective impact of technological advancement cannot be underestimated.",
+      "example_translation": "The 效果ive 影响 of 技术进步 cannot be underestimated."
     },
     {
       "word": "efficient",
       "pos": "adj.",
       "meaning": "效率高的",
-      "tips": "【拆分记忆】将'efficient'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“效率高的”的典型场景中频繁造句，用“efficient”描述关键动作/特征；【图像】脑海中构建一个与“效率高的”强相关的画面，并反复配音念出“efficient”；【拆分】eff·ic·i·ent → 逐段拼读+拼写，朗读3遍固化肌肉记忆；【谐音/押韵】按音标/effɪsent/分节朗读，自拟中文谐音词组并代入“效率高的”场景造句×3",
+      "phonetic": "/effɪsent/",
+      "example": "Studies reveal efficient patterns in how societies approach cultural diversity.",
+      "example_translation": "研究 reveal efficient patterns in how societies 方法 文化多样性."
     },
     {
       "word": "considerable",
       "pos": "adj.",
       "meaning": "相当多的",
-      "tips": "【拆分记忆】将'considerable'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】consider + able（形容词：能够）；【联想】在“相当多的”的典型场景中频繁造句，用“considerable”描述关键动作/特征；【图像】脑海中构建一个与“相当多的”强相关的画面，并反复配音念出“considerable”",
+      "phonetic": "/kɒnsɪdɜːəbl/",
+      "example": "The considerable nature of climate change requires immediate attention from policymakers.",
+      "example_translation": "The considerable nature of 气候变化 requires immediate attention from 政策makers."
     },
     {
       "word": "massive",
       "pos": "adj.",
       "meaning": "巨大的；大规模的；庞大的",
-      "tips": "【拆分记忆】将'massive'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“巨大的；大规模的；庞大的”的典型场景中频繁造句，用“massive”描述关键动作/特征；【图像】脑海中构建一个与“巨大的；大规模的；庞大的”强相关的画面，并反复配音念出“massive”；【拆分】m·ass·iv·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mæssɪv/",
+      "example": "Implementing massive solutions is vital for progress in healthcare improvements.",
+      "example_translation": "Implementing massive 解决方案 is vital for 进步 in 医疗改善."
     },
     {
       "word": "immense",
       "pos": "adj.",
       "meaning": "巨大的；极好的",
-      "tips": "【拆分记忆】将'immense'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】im-（否定）+ mense；【联想】在“巨大的；极好的”的典型场景中频繁造句，用“immense”描述关键动作/特征；【图像】脑海中构建一个与“巨大的；极好的”强相关的画面，并反复配音念出“immense”",
+      "phonetic": "/ɪmmense/",
+      "example": "Implementing immense solutions is vital for progress in climate change.",
+      "example_translation": "Implementing immense 解决方案 is vital for 进步 in 气候变化."
     },
     {
       "word": "maximal",
       "pos": "adj.",
       "meaning": "最大的",
-      "tips": "【后缀记忆】maximal - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【后缀】maxim + al（形容词：…的）；【联想】在“最大的”的典型场景中频繁造句，用“maximal”描述关键动作/特征；【图像】脑海中构建一个与“最大的”强相关的画面，并反复配音念出“maximal”",
+      "phonetic": "/mæksɪməl/",
+      "example": "Studies reveal maximal patterns in how societies approach cultural diversity.",
+      "example_translation": "研究 reveal maximal patterns in how societies 方法 文化多样性."
     },
     {
       "word": "minimal",
       "pos": "adj.",
       "meaning": "最小的",
-      "tips": "【后缀记忆】minimal - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【后缀】minim + al（形容词：…的）；【联想】在“最小的”的典型场景中频繁造句，用“minimal”描述关键动作/特征；【图像】脑海中构建一个与“最小的”强相关的画面，并反复配音念出“minimal”",
+      "phonetic": "/mɪnɪməl/",
+      "example": "Implementing minimal solutions is vital for progress in environmental protection.",
+      "example_translation": "Implementing minimal 解决方案 is vital for 进步 in 环境保护."
     },
     {
       "word": "optimal/optimum",
       "pos": "adj.",
       "meaning": "最佳的；最理想的",
-      "tips": "【拆分记忆】将'optimal/optimum'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“最佳的；最理想的”的典型场景中频繁造句，用“optimal/optimum”描述关键动作/特征；【图像】脑海中构建一个与“最佳的；最理想的”强相关的画面，并反复配音念出“optimal/optimum”；【拆分】opt·im·al/·opt·im·um → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɒptɪməl/ɒptɪmʌm/",
+      "example": "Implementing optimal/optimum solutions is vital for progress in urban planning.",
+      "example_translation": "Implementing optimal/optimum 解决方案 is vital for 进步 in 城市规划."
     }
   ]
 }

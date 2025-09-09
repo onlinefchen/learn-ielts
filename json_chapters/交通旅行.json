@@ -9,7 +9,7 @@
       "phonetic": "/ˈnævɪɡeɪt/",
       "example": "Modern GPS technology has revolutionized how we navigate through unfamiliar cities, making paper maps almost obsolete.",
       "example_translation": "现代GPS技术彻底改变了我们在陌生城市中导航的方式，使纸质地图几乎过时了。",
-      "tips": "【词根记忆】nav(船) + ig + ate(动词后缀) = 驾驶船只航行 → 导航。联想：navy(海军)也是nav开头，都与航海有关。"
+      "tips": "【联想】在“航行；横渡”的典型场景中频繁造句，用“navigate”描述关键动作/特征；【图像】脑海中构建一个与“航行；横渡”强相关的画面，并反复配音念出“navigate”；【拆分】n·av·ig·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆"
     },
     {
       "word": "voyage",
@@ -18,7 +18,7 @@
       "example": "The historic voyage of Christopher Columbus in 1492 fundamentally changed the course of world history.",
       "phonetic": "/ˈvɔɪɪdʒ/",
       "example_translation": "克里斯托弗·哥伦布1492年的历史性航行从根本上改变了世界历史的进程。",
-      "tips": "【联想记忆】voy看作boy(男孩) + age(年龄) → 男孩到了一定年龄要出海远航 → 航行。注意与journey(陆地旅行)和flight(空中旅行)的区别。"
+      "tips": "【联想】在“航海，航行；旅行”的典型场景中频繁造句，用“voyage”描述关键动作/特征；【图像】脑海中构建一个与“航海，航行；旅行”强相关的画面，并反复配音念出“voyage”；【拆分】v·oy·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆"
     },
     {
       "word": "aviation",
@@ -27,7 +27,7 @@
       "phonetic": "/ˌeɪviˈeɪʃn/",
       "example": "The aviation industry has faced unprecedented challenges due to the global pandemic, with many airlines struggling to survive.",
       "example_translation": "由于全球疫情，航空业面临着前所未有的挑战，许多航空公司都在努力求生。",
-      "tips": "【词根记忆】avi(鸟) + ation(名词后缀) = 像鸟一样飞行的行业 → 航空业。联想：aviary(鸟舍)也是avi开头。"
+      "tips": "【后缀】avia + tion（名词：动作/状态）；【联想】在“航空；航空学；航空工业”的典型场景中频繁造句，用“aviation”描述关键动作/特征；【图像】脑海中构建一个与“航空；航空学；航空工业”强相关的画面，并反复配音念出“aviation”"
     },
     {
       "word": "journey",
@@ -36,822 +36,1177 @@
       "phonetic": "/ˈdʒɜːni/",
       "example": "The journey to achieving carbon neutrality requires collective efforts from governments, businesses, and individuals alike.",
       "example_translation": "实现碳中和的历程需要政府、企业和个人的共同努力。",
-      "tips": "【词源记忆】来自法语journée(一天的行程)，jour=day → 古时一天能走的路程 → 旅程。记住：journey强调过程，destination强调目的地。"
+      "tips": "【联想】在“旅行；历程”的典型场景中频繁造句，用“journey”描述关键动作/特征；【图像】脑海中构建一个与“旅行；历程”强相关的画面，并反复配音念出“journey”；【拆分】j·o·urn·ey → 逐段拼读+拼写，朗读3遍固化肌肉记忆"
     },
     {
       "word": "travel",
       "pos": "n./v.",
       "meaning": "旅行/旅行",
       "phonetic": "/ˈtrævl/",
-      "tips": "【拆分记忆】将'travel'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“旅行/旅行”的典型场景中频繁造句，用“travel”描述关键动作/特征；【图像】脑海中构建一个与“旅行/旅行”强相关的画面，并反复配音念出“travel”；【拆分】tr·av·el → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Experts travel the importance of addressing cultural diversity systematically.",
+      "example_translation": "专家 travel the importance of addressing 文化多样性 系统atically."
     },
     {
       "word": "safari",
       "pos": "n.",
       "meaning": "观兽旅行",
-      "tips": "【拆分记忆】将'safari'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“观兽旅行”的典型场景中频繁造句，用“safari”描述关键动作/特征；【图像】脑海中构建一个与“观兽旅行”强相关的画面，并反复配音念出“safari”；【拆分】s·af·ar·i → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sæfɑːɪ/",
+      "example": "Understanding the concept of safari is essential for addressing challenges in urban planning.",
+      "example_translation": "Understanding the concept of safari is 必要的 for addressing 挑战 in 城市规划."
     },
     {
       "word": "parade",
       "pos": "v./n.",
       "meaning": "游行；炫耀/庆祝游行；列队进行；炫耀",
-      "tips": "【拆分记忆】将'parade'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“游行；炫耀/庆祝游行；列队进行；炫耀”的典型场景中频繁造句，用“parade”描述关键动作/特征；【图像】脑海中构建一个与“游行；炫耀/庆祝游行；列队进行；炫耀”强相关的画面，并反复配音念出“parade”；【拆分】p·ar·ad·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɑːæde/",
+      "example": "The need to parade in renewable energy has never been more urgent.",
+      "example_translation": "The need to parade in 可再生能源 has never been more urgent."
     },
     {
       "word": "haunt",
       "pos": "v./n.",
       "meaning": "（鬼魂等）常出没于/常去的地方",
-      "tips": "【拆分记忆】将'haunt'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“（鬼魂等）常出没于/常去的地方”的典型场景中频繁造句，用“haunt”描述关键动作/特征；【图像】脑海中构建一个与“（鬼魂等）常出没于/常去的地方”强相关的画面，并反复配音念出“haunt”；【拆分】h·a·unt → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hɔːnt/",
+      "example": "This haunt represents a breakthrough in renewable energy.",
+      "example_translation": "This haunt represents a breakthrough in 可再生能源."
     },
     {
       "word": "attraction",
       "pos": "n.",
       "meaning": "吸引；具有吸引力的事物",
-      "tips": "【后缀记忆】attraction - 以tion结尾的名词，表示动作或状态"
+      "tips": "【词根】含“tract(拉/拖)”，联想到“吸引；具有吸引力的事物”；【后缀】attrac + tion（名词：动作/状态）；【联想】在“吸引；具有吸引力的事物”的典型场景中频繁造句，用“attraction”描述关键动作/特征",
+      "phonetic": "/ættrækʃən/",
+      "example": "Understanding the concept of attraction is essential for addressing challenges in climate change.",
+      "example_translation": "Understanding the concept of attraction is 必要的 for addressing 挑战 in 气候变化."
     },
     {
       "word": "memorial",
       "pos": "n./adj.",
       "meaning": "纪念碑/纪念的；悼念的",
-      "tips": "【后缀记忆】memorial - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【后缀】memori + al（形容词：…的）；【联想】在“纪念碑/纪念的；悼念的”的典型场景中频繁造句，用“memorial”描述关键动作/特征；【图像】脑海中构建一个与“纪念碑/纪念的；悼念的”强相关的画面，并反复配音念出“memorial”",
+      "phonetic": "/memɔːɪəl/",
+      "example": "The government's new memorial policy aims to improve environmental protection.",
+      "example_translation": "The 政府's new memorial 政策 aims to improve 环境保护."
     },
     {
       "word": "pyramid",
       "pos": "n.",
       "meaning": "金字塔；棱锥体",
-      "tips": "【拆分记忆】将'pyramid'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“金字塔；棱锥体”的典型场景中频繁造句，用“pyramid”描述关键动作/特征；【图像】脑海中构建一个与“金字塔；棱锥体”强相关的画面，并反复配音念出“pyramid”；【拆分】pyr·am·id → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pjræmɪd/",
+      "example": "Recent studies have shown that pyramid plays a crucial role in urban planning.",
+      "example_translation": "Recent 研究 have shown that pyramid plays a 关键的 role in 城市规划."
     },
     {
       "word": "port",
       "pos": "n.",
       "meaning": "港口；左舷",
       "phonetic": "/pɔːt/",
-      "tips": "【基础记忆】port - 常用基础词汇，多次重复加深印象"
+      "tips": "【词根】含“port(携带/运输)”，联想到“港口；左舷”；【联想】在“港口；左舷”的典型场景中频繁造句，用“port”描述关键动作/特征；【图像】脑海中构建一个与“港口；左舷”强相关的画面，并反复配音念出“port”",
+      "example": "Recent studies have shown that port plays a crucial role in globalization effects.",
+      "example_translation": "Recent 研究 have shown that port plays a 关键的 role in 全球化效应."
     },
     {
       "word": "visa",
       "pos": "n.",
       "meaning": "签证",
       "phonetic": "/ˈviːzə/",
-      "tips": "【基础记忆】visa - 常用基础词汇，多次重复加深印象"
+      "tips": "【词根】含“vis(看)”，联想到“签证”；【联想】在“签证”的典型场景中频繁造句，用“visa”描述关键动作/特征；【图像】脑海中构建一个与“签证”强相关的画面，并反复配音念出“visa”",
+      "example": "Recent studies have shown that visa plays a crucial role in environmental protection.",
+      "example_translation": "Recent 研究 have shown that visa plays a 关键的 role in 环境保护."
     },
     {
       "word": "traffic",
       "pos": "n.",
       "meaning": "交通；车流",
       "phonetic": "/ˈtræfɪk/",
-      "tips": "【拆分记忆】将'traffic'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“交通；车流”的典型场景中频繁造句，用“traffic”描述关键动作/特征；【图像】脑海中构建一个与“交通；车流”强相关的画面，并反复配音念出“traffic”；【拆分】tr·aff·ic → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The government's new traffic policy aims to improve artificial intelligence.",
+      "example_translation": "The 政府's new traffic 政策 aims to improve 人工智能."
     },
     {
       "word": "airline",
       "pos": "n.",
       "meaning": "航空公司",
-      "tips": "【拆分记忆】将'airline'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“航空公司”的典型场景中频繁造句，用“airline”描述关键动作/特征；【图像】脑海中构建一个与“航空公司”强相关的画面，并反复配音念出“airline”；【拆分】a·irl·in·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/eəlɪne/",
+      "example": "The government's new airline policy aims to improve artificial intelligence.",
+      "example_translation": "The 政府's new airline 政策 aims to improve 人工智能."
     },
     {
       "word": "airplane",
       "pos": "n.",
       "meaning": "飞机",
-      "tips": "【拆分记忆】将'airplane'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“飞机”的典型场景中频繁造句，用“airplane”描述关键动作/特征；【图像】脑海中构建一个与“飞机”强相关的画面，并反复配音念出“airplane”；【拆分】a·irpl·an·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/eəplæne/",
+      "example": "The airplane has become increasingly important in discussions about economic development.",
+      "example_translation": "The airplane has become increasingly 重要的 in discussions about 经济发展."
     },
     {
       "word": "helicopter",
       "pos": "n.",
       "meaning": "直升机",
-      "tips": "【拆分记忆】将'helicopter'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“直升机”的典型场景中频繁造句，用“helicopter”描述关键动作/特征；【图像】脑海中构建一个与“直升机”强相关的画面，并反复配音念出“helicopter”；【拆分】h·el·ic·opt·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/helɪkɒptɜː/",
+      "example": "Experts argue that helicopter is a key factor in successful artificial intelligence.",
+      "example_translation": "专家 argue that helicopter is a key 因素 in successful 人工智能."
     },
     {
       "word": "jet",
       "pos": "n.",
       "meaning": "喷气式飞机；喷气口",
-      "tips": "【基础记忆】jet - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“喷气式飞机；喷气口”的典型场景中频繁造句，用“jet”描述关键动作/特征；【图像】脑海中构建一个与“喷气式飞机；喷气口”强相关的画面，并反复配音念出“jet”；【拆分】j·et → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dʒet/",
+      "example": "The government's new jet policy aims to improve renewable energy.",
+      "example_translation": "The 政府's new jet 政策 aims to improve 可再生能源."
     },
     {
       "word": "parachute",
       "pos": "n.",
       "meaning": "降落伞",
-      "tips": "【拆分记忆】将'parachute'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“降落伞”的典型场景中频繁造句，用“parachute”描述关键动作/特征；【图像】脑海中构建一个与“降落伞”强相关的画面，并反复配音念出“parachute”；【拆分】p·ar·ach·ut·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɑːætʃʌte/",
+      "example": "The parachute has become increasingly important in discussions about globalization effects.",
+      "example_translation": "The parachute has become increasingly 重要的 in discussions about 全球化效应."
     },
     {
       "word": "flight",
       "pos": "n.",
       "meaning": "飞行；航班",
-      "tips": "【拆分记忆】将'flight'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“飞行；航班”的典型场景中频繁造句，用“flight”描述关键动作/特征；【图像】脑海中构建一个与“飞行；航班”强相关的画面，并反复配音念出“flight”；【拆分】fl·ight → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/flɪt/",
+      "example": "The government's new flight policy aims to improve healthcare improvements.",
+      "example_translation": "The 政府's new flight 政策 aims to improve 医疗改善."
     },
     {
       "word": "pilot",
       "pos": "n.",
       "meaning": "飞行员",
       "phonetic": "/ˈpaɪlət/",
-      "tips": "【拆分记忆】将'pilot'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“飞行员”的典型场景中频繁造句，用“pilot”描述关键动作/特征；【图像】脑海中构建一个与“飞行员”强相关的画面，并反复配音念出“pilot”；【拆分】p·il·ot → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The pilot has become increasingly important in discussions about climate change.",
+      "example_translation": "The pilot has become increasingly 重要的 in discussions about 气候变化."
     },
     {
       "word": "passenger",
       "pos": "n.",
       "meaning": "乘客",
       "phonetic": "/ˈpæsɪndʒə(r)/",
-      "tips": "【拆分记忆】将'passenger'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“乘客”的典型场景中频繁造句，用“passenger”描述关键动作/特征；【图像】脑海中构建一个与“乘客”强相关的画面，并反复配音念出“passenger”；【拆分】p·ass·eng·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Experts argue that passenger is a key factor in successful artificial intelligence.",
+      "example_translation": "专家 argue that passenger is a key 因素 in successful 人工智能."
     },
     {
       "word": "baggage",
       "pos": "n.",
       "meaning": "（尤美）行李",
       "phonetic": "/ˈbæɡɪdʒ/",
-      "tips": "【拆分记忆】将'baggage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“（尤美）行李”的典型场景中频繁造句，用“baggage”描述关键动作/特征；【图像】脑海中构建一个与“（尤美）行李”强相关的画面，并反复配音念出“baggage”；【拆分】b·agg·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Recent studies have shown that baggage plays a crucial role in healthcare improvements.",
+      "example_translation": "Recent 研究 have shown that baggage plays a 关键的 role in 医疗改善."
     },
     {
       "word": "luggage",
       "pos": "n.",
       "meaning": "行李",
       "phonetic": "/ˈlʌɡɪdʒ/",
-      "tips": "【拆分记忆】将'luggage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“行李”的典型场景中频繁造句，用“luggage”描述关键动作/特征；【图像】脑海中构建一个与“行李”强相关的画面，并反复配音念出“luggage”；【拆分】l·ugg·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Recent studies have shown that luggage plays a crucial role in social media impact.",
+      "example_translation": "Recent 研究 have shown that luggage plays a 关键的 role in 社交媒体影响."
     },
     {
       "word": "suitcase",
       "pos": "n.",
       "meaning": "手提箱",
-      "tips": "【拆分记忆】将'suitcase'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“手提箱”的典型场景中频繁造句，用“suitcase”描述关键动作/特征；【图像】脑海中构建一个与“手提箱”强相关的画面，并反复配音念出“suitcase”；【拆分】s·u·itc·as·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sʌːtkæse/",
+      "example": "Recent studies have shown that suitcase plays a crucial role in climate change.",
+      "example_translation": "Recent 研究 have shown that suitcase plays a 关键的 role in 气候变化."
     },
     {
       "word": "carry-on",
       "pos": "n./adj.",
       "meaning": "（可随身携带上飞机的）小包/随身携带上飞机的",
-      "tips": "【拆分记忆】将'carry-on'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“（可随身携带上飞机的）小包/随身携带上飞机的”的典型场景中频繁造句，用“carry-on”描述关键动作/特征；【图像】脑海中构建一个与“（可随身携带上飞机的）小包/随身携带上飞机的”强相关的画面，并反复配音念出“carry-on”；【拆分】c·arry-·on → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɑːrj-ɒn/",
+      "example": "The carry-on has become increasingly important in discussions about climate change.",
+      "example_translation": "The carry-on has become increasingly 重要的 in discussions about 气候变化."
     },
     {
       "word": "rack",
       "pos": "n.",
       "meaning": "挂物架；置物架",
-      "tips": "【基础记忆】rack - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“挂物架；置物架”的典型场景中频繁造句，用“rack”描述关键动作/特征；【图像】脑海中构建一个与“挂物架；置物架”强相关的画面，并反复配音念出“rack”；【拆分】r·ack → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ræk/",
+      "example": "Understanding the concept of rack is essential for addressing challenges in economic development.",
+      "example_translation": "Understanding the concept of rack is 必要的 for addressing 挑战 in 经济发展."
     },
     {
       "word": "freight",
       "pos": "n./v.",
       "meaning": "货运；货物/运送（货物）",
-      "tips": "【拆分记忆】将'freight'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“货运；货物/运送（货物）”的典型场景中频繁造句，用“freight”描述关键动作/特征；【图像】脑海中构建一个与“货运；货物/运送（货物）”强相关的画面，并反复配音念出“freight”；【拆分】fr·e·ight → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/freɪt/",
+      "example": "Experts freight the importance of addressing education systems systematically.",
+      "example_translation": "专家 freight the importance of addressing 教育体系 系统atically."
     },
     {
       "word": "fare",
       "pos": "n.",
       "meaning": "车费；路费",
       "phonetic": "/feə(r)/",
-      "tips": "【基础记忆】fare - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“车费；路费”的典型场景中频繁造句，用“fare”描述关键动作/特征；【图像】脑海中构建一个与“车费；路费”强相关的画面，并反复配音念出“fare”；【拆分】f·ar·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Understanding the concept of fare is essential for addressing challenges in social media impact.",
+      "example_translation": "Understanding the concept of fare is 必要的 for addressing 挑战 in 社交媒体影响."
     },
     {
       "word": "atlas",
       "pos": "n.",
       "meaning": "地图册；地图集",
       "phonetic": "/ˈætləs/",
-      "tips": "【拆分记忆】将'atlas'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“地图册；地图集”的典型场景中频繁造句，用“atlas”描述关键动作/特征；【图像】脑海中构建一个与“地图册；地图集”强相关的画面，并反复配音念出“atlas”；【拆分】atl·as → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The atlas has become increasingly important in discussions about healthcare improvements.",
+      "example_translation": "The atlas has become increasingly 重要的 in discussions about 医疗改善."
     },
     {
       "word": "route",
       "pos": "n.",
       "meaning": "路线",
       "phonetic": "/ruːt/",
-      "tips": "【拆分记忆】将'route'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“路线”的典型场景中频繁造句，用“route”描述关键动作/特征；【图像】脑海中构建一个与“路线”强相关的画面，并反复配音念出“route”；【拆分】r·o·ut·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The route has become increasingly important in discussions about cultural diversity.",
+      "example_translation": "The route has become increasingly 重要的 in discussions about 文化多样性."
     },
     {
       "word": "itinerary",
       "pos": "n.",
       "meaning": "路线；行程",
       "phonetic": "/aɪˈtɪnərəri/",
-      "tips": "【拆分记忆】将'itinerary'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“路线；行程”的典型场景中频繁造句，用“itinerary”描述关键动作/特征；【图像】脑海中构建一个与“路线；行程”强相关的画面，并反复配音念出“itinerary”；【拆分】it·in·er·ary → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The itinerary has become increasingly important in discussions about economic development.",
+      "example_translation": "The itinerary has become increasingly 重要的 in discussions about 经济发展."
     },
     {
       "word": "passage",
       "pos": "n.",
       "meaning": "通过；通道；走廊",
-      "tips": "【拆分记忆】将'passage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“通过；通道；走廊”的典型场景中频繁造句，用“passage”描述关键动作/特征；【图像】脑海中构建一个与“通过；通道；走廊”强相关的画面，并反复配音念出“passage”；【拆分】p·ass·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pæssædʒ/",
+      "example": "The government's new passage policy aims to improve healthcare improvements.",
+      "example_translation": "The 政府's new passage 政策 aims to improve 医疗改善."
     },
     {
       "word": "intersection",
       "pos": "n.",
       "meaning": "十字路口；交叉路口",
-      "tips": "【后缀记忆】intersection - 以tion结尾的名词，表示动作或状态"
+      "tips": "【前缀】in-（否定/向内）+ tersection；【后缀】intersec + tion（名词：动作/状态）；【联想】在“十字路口；交叉路口”的典型场景中频繁造句，用“intersection”描述关键动作/特征",
+      "phonetic": "/ɪntɜːsekʃən/",
+      "example": "The intersection has become increasingly important in discussions about climate change.",
+      "example_translation": "The intersection has become increasingly 重要的 in discussions about 气候变化."
     },
     {
       "word": "cross",
       "pos": "n./v.",
       "meaning": "十字形；十字架/穿过",
-      "tips": "【拆分记忆】将'cross'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“十字形；十字架/穿过”的典型场景中频繁造句，用“cross”描述关键动作/特征；【图像】脑海中构建一个与“十字形；十字架/穿过”强相关的画面，并反复配音念出“cross”；【拆分】cr·oss → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/krɒss/",
+      "example": "The cross in renewable energy has attracted international attention.",
+      "example_translation": "The cross in 可再生能源 has attracted international attention."
     },
     {
       "word": "way",
       "pos": "n.",
       "meaning": "路；方式",
-      "tips": "【基础记忆】way - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“路；方式”的典型场景中频繁造句，用“way”描述关键动作/特征；【图像】脑海中构建一个与“路；方式”强相关的画面，并反复配音念出“way”；【拆分】w·ay → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/weɪ/",
+      "example": "Recent studies have shown that way plays a crucial role in economic development.",
+      "example_translation": "Recent 研究 have shown that way plays a 关键的 role in 经济发展."
     },
     {
       "word": "path",
       "pos": "n.",
       "meaning": "小路",
-      "tips": "【基础记忆】path - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“小路”的典型场景中频繁造句，用“path”描述关键动作/特征；【图像】脑海中构建一个与“小路”强相关的画面，并反复配音念出“path”；【拆分】p·ath → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pæθ/",
+      "example": "The path has become increasingly important in discussions about education systems.",
+      "example_translation": "The path has become increasingly 重要的 in discussions about 教育体系."
     },
     {
       "word": "lane",
       "pos": "n.",
       "meaning": "小巷；车道",
-      "tips": "【基础记忆】lane - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“小巷；车道”的典型场景中频繁造句，用“lane”描述关键动作/特征；【图像】脑海中构建一个与“小巷；车道”强相关的画面，并反复配音念出“lane”；【拆分】l·an·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/læne/",
+      "example": "Understanding the concept of lane is essential for addressing challenges in globalization effects.",
+      "example_translation": "Understanding the concept of lane is 必要的 for addressing 挑战 in 全球化效应."
     },
     {
       "word": "avenue",
       "pos": "n.",
       "meaning": "大街；途径",
-      "tips": "【拆分记忆】将'avenue'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“大街；途径”的典型场景中频繁造句，用“avenue”描述关键动作/特征；【图像】脑海中构建一个与“大街；途径”强相关的画面，并反复配音念出“avenue”；【拆分】av·en·u·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ævendʒʌː/",
+      "example": "The government's new avenue policy aims to improve urban planning.",
+      "example_translation": "The 政府's new avenue 政策 aims to improve 城市规划."
     },
     {
       "word": "highway",
       "pos": "n.",
       "meaning": "[尤美]公路",
       "phonetic": "/ˈhaɪweɪ/",
-      "tips": "【拆分记忆】将'highway'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“[尤美]公路”的典型场景中频繁造句，用“highway”描述关键动作/特征；【图像】脑海中构建一个与“[尤美]公路”强相关的画面，并反复配音念出“highway”；【拆分】h·ighw·ay → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The government's new highway policy aims to improve climate change.",
+      "example_translation": "The 政府's new highway 政策 aims to improve 气候变化."
     },
     {
       "word": "curb",
       "pos": "n.",
       "meaning": "路缘；起控制作用的事物",
-      "tips": "【基础记忆】curb - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“路缘；起控制作用的事物”的典型场景中频繁造句，用“curb”描述关键动作/特征；【图像】脑海中构建一个与“路缘；起控制作用的事物”强相关的画面，并反复配音念出“curb”；【拆分】c·urb → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɜːb/",
+      "example": "Experts argue that curb is a key factor in successful healthcare improvements.",
+      "example_translation": "专家 argue that curb is a key 因素 in successful 医疗改善."
     },
     {
       "word": "signpost",
       "pos": "n.",
       "meaning": "路标",
-      "tips": "【拆分记忆】将'signpost'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“路标”的典型场景中频繁造句，用“signpost”描述关键动作/特征；【图像】脑海中构建一个与“路标”强相关的画面，并反复配音念出“signpost”；【拆分】s·ignp·ost → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sɪgnpɒst/",
+      "example": "Understanding the concept of signpost is essential for addressing challenges in environmental protection.",
+      "example_translation": "Understanding the concept of signpost is 必要的 for addressing 挑战 in 环境保护."
     },
     {
       "word": "pave",
       "pos": "v.",
       "meaning": "铺（路或地面）",
-      "tips": "【基础记忆】pave - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“铺（路或地面）”的典型场景中频繁造句，用“pave”描述关键动作/特征；【图像】脑海中构建一个与“铺（路或地面）”强相关的画面，并反复配音念出“pave”；【拆分】p·av·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pæve/",
+      "example": "Governments must pave effective strategies for managing cultural diversity.",
+      "example_translation": "政府s must pave 效果ive 策略 for managing 文化多样性."
     },
     {
       "word": "vehicle",
       "pos": "n.",
       "meaning": "车辆；交通工具；手段；工具",
       "phonetic": "/ˈviːəkl/",
-      "tips": "【拆分记忆】将'vehicle'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“车辆；交通工具；手段；工具”的典型场景中频繁造句，用“vehicle”描述关键动作/特征；【图像】脑海中构建一个与“车辆；交通工具；手段；工具”强相关的画面，并反复配音念出“vehicle”；【拆分】v·eh·icl·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Experts argue that vehicle is a key factor in successful technological advancement.",
+      "example_translation": "专家 argue that vehicle is a key 因素 in successful 技术进步."
     },
     {
       "word": "auto",
       "pos": "n.",
       "meaning": "汽车",
-      "tips": "【基础记忆】auto - 常用基础词汇，多次重复加深印象"
+      "tips": "【词根】含“auto(自己)”，联想到“汽车”；【联想】在“汽车”的典型场景中频繁造句，用“auto”描述关键动作/特征；【图像】脑海中构建一个与“汽车”强相关的画面，并反复配音念出“auto”",
+      "phonetic": "/ɔːtɒ/",
+      "example": "Recent studies have shown that auto plays a crucial role in cultural diversity.",
+      "example_translation": "Recent 研究 have shown that auto plays a 关键的 role in 文化多样性."
     },
     {
       "word": "express",
       "pos": "n./v./adj.",
       "meaning": "特快列车；快递服务/表示/特快的",
-      "tips": "【拆分记忆】将'express'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“特快列车；快递服务/表示/特快的”的典型场景中频繁造句，用“express”描述关键动作/特征；【图像】脑海中构建一个与“特快列车；快递服务/表示/特快的”强相关的画面，并反复配音念出“express”；【拆分】expr·ess → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ekspress/",
+      "example": "The government's new express policy aims to improve urban planning.",
+      "example_translation": "The 政府's new express 政策 aims to improve 城市规划."
     },
     {
       "word": "tram",
       "pos": "n.",
       "meaning": "[尤英]有轨电车",
       "example": "|[US]streetcar/trolley",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】tram - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“tram”在“[尤英]有轨电车”语境中的常见用法。",
+      "tips": "【联想】在“[尤英]有轨电车”的典型场景中频繁造句，用“tram”描述关键动作/特征；【图像】脑海中构建一个与“[尤英]有轨电车”强相关的画面，并反复配音念出“tram”；【拆分】tr·am → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/træm/"
     },
     {
       "word": "coach",
       "pos": "n./v.",
       "meaning": "[英]长途汽车；教练；私人教师/训练",
-      "tips": "【拆分记忆】将'coach'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“[英]长途汽车；教练；私人教师/训练”的典型场景中频繁造句，用“coach”描述关键动作/特征；【图像】脑海中构建一个与“[英]长途汽车；教练；私人教师/训练”强相关的画面，并反复配音念出“coach”；【拆分】c·o·ach → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kəʊtʃ/",
+      "example": "The coach in urban planning has attracted international attention.",
+      "example_translation": "The coach in 城市规划 has attracted international attention."
     },
     {
       "word": "ambulance",
       "pos": "n.",
       "meaning": "救护车",
-      "tips": "【拆分记忆】将'ambulance'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“救护车”的典型场景中频繁造句，用“ambulance”描述关键动作/特征；【图像】脑海中构建一个与“救护车”强相关的画面，并反复配音念出“ambulance”；【拆分】amb·ul·anc·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æmbʌlæns/",
+      "example": "Recent studies have shown that ambulance plays a crucial role in globalization effects.",
+      "example_translation": "Recent 研究 have shown that ambulance plays a 关键的 role in 全球化效应."
     },
     {
       "word": "truck",
       "pos": "n.",
       "meaning": "卡车；敞篷火车",
-      "tips": "【拆分记忆】将'truck'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“卡车；敞篷火车”的典型场景中频繁造句，用“truck”描述关键动作/特征；【图像】脑海中构建一个与“卡车；敞篷火车”强相关的画面，并反复配音念出“truck”；【拆分】tr·uck → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/trʌk/",
+      "example": "Recent studies have shown that truck plays a crucial role in technological advancement.",
+      "example_translation": "Recent 研究 have shown that truck plays a 关键的 role in 技术进步."
     },
     {
       "word": "lorry",
       "pos": "n.",
       "meaning": "[英]卡车",
-      "tips": "【拆分记忆】将'lorry'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“[英]卡车”的典型场景中频繁造句，用“lorry”描述关键动作/特征；【图像】脑海中构建一个与“[英]卡车”强相关的画面，并反复配音念出“lorry”；【拆分】l·orry → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/lɔːrj/",
+      "example": "Experts argue that lorry is a key factor in successful urban planning.",
+      "example_translation": "专家 argue that lorry is a key 因素 in successful 城市规划."
     },
     {
       "word": "van",
       "pos": "n.",
       "meaning": "厢式货车；客货车",
-      "tips": "【基础记忆】van - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“厢式货车；客货车”的典型场景中频繁造句，用“van”描述关键动作/特征；【图像】脑海中构建一个与“厢式货车；客货车”强相关的画面，并反复配音念出“van”；【拆分】v·an → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/væn/",
+      "example": "Experts argue that van is a key factor in successful education systems.",
+      "example_translation": "专家 argue that van is a key 因素 in successful 教育体系."
     },
     {
       "word": "wagon",
       "pos": "n.",
       "meaning": "四轮运货马车（或牛车）；[英]（火车的）火车车厢",
-      "tips": "【拆分记忆】将'wagon'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“四轮运货马车（或牛车）；[英]（火车的）火车车厢”的典型场景中频繁造句，用“wagon”描述关键动作/特征；【图像】脑海中构建一个与“四轮运货马车（或牛车）；[英]（火车的）火车车厢”强相关的画面，并反复配音念出“wagon”；【拆分】w·ag·on → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/wægɒn/",
+      "example": "Understanding the concept of wagon is essential for addressing challenges in healthcare improvements.",
+      "example_translation": "Understanding the concept of wagon is 必要的 for addressing 挑战 in 医疗改善."
     },
     {
       "word": "carriage",
       "pos": "n.",
       "meaning": "四轮马车；[英]（客运火车的）车厢",
       "phonetic": "/ˈkærɪdʒ/",
-      "tips": "【拆分记忆】将'carriage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“四轮马车；[英]（客运火车的）车厢”的典型场景中频繁造句，用“carriage”描述关键动作/特征；【图像】脑海中构建一个与“四轮马车；[英]（客运火车的）车厢”强相关的画面，并反复配音念出“carriage”；【拆分】c·arr·i·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The government's new carriage policy aims to improve economic development.",
+      "example_translation": "The 政府's new carriage 政策 aims to improve 经济发展."
     },
     {
       "word": "tractor",
       "pos": "n.",
       "meaning": "拖拉机；牵引力",
-      "tips": "【拆分记忆】将'tractor'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“tract(拉/拖)”，联想到“拖拉机；牵引力”；【联想】在“拖拉机；牵引力”的典型场景中频繁造句，用“tractor”描述关键动作/特征；【图像】脑海中构建一个与“拖拉机；牵引力”强相关的画面，并反复配音念出“tractor”",
+      "phonetic": "/træktɔː/",
+      "example": "Recent studies have shown that tractor plays a crucial role in education systems.",
+      "example_translation": "Recent 研究 have shown that tractor plays a 关键的 role in 教育体系."
     },
     {
       "word": "cart",
       "pos": "n.",
       "meaning": "货运马车；手推车；购物车",
-      "tips": "【基础记忆】cart - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“货运马车；手推车；购物车”的典型场景中频繁造句，用“cart”描述关键动作/特征；【图像】脑海中构建一个与“货运马车；手推车；购物车”强相关的画面，并反复配音念出“cart”；【拆分】c·art → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɑːt/",
+      "example": "Recent studies have shown that cart plays a crucial role in environmental protection.",
+      "example_translation": "Recent 研究 have shown that cart plays a 关键的 role in 环境保护."
     },
     {
       "word": "pedicab",
       "pos": "n.",
       "meaning": "（人力）三轮车",
-      "tips": "【拆分记忆】将'pedicab'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“ped(脚/儿童)”，联想到“（人力）三轮车”；【联想】在“（人力）三轮车”的典型场景中频繁造句，用“pedicab”描述关键动作/特征；【图像】脑海中构建一个与“（人力）三轮车”强相关的画面，并反复配音念出“pedicab”",
+      "phonetic": "/pdɪkæb/",
+      "example": "Recent studies have shown that pedicab plays a crucial role in healthcare improvements.",
+      "example_translation": "Recent 研究 have shown that pedicab plays a 关键的 role in 医疗改善."
     },
     {
       "word": "cycle",
       "pos": "v./n.",
       "meaning": "骑/周期；自行车",
-      "tips": "【拆分记忆】将'cycle'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“骑/周期；自行车”的典型场景中频繁造句，用“cycle”描述关键动作/特征；【图像】脑海中构建一个与“骑/周期；自行车”强相关的画面，并反复配音念出“cycle”；【拆分】cycl·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sɪkle/",
+      "example": "The need to cycle in cultural diversity has never been more urgent.",
+      "example_translation": "The need to cycle in 文化多样性 has never been more urgent."
     },
     {
       "word": "garage",
       "pos": "n.",
       "meaning": "汽车修理厂；车库",
-      "tips": "【拆分记忆】将'garage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“汽车修理厂；车库”的典型场景中频繁造句，用“garage”描述关键动作/特征；【图像】脑海中构建一个与“汽车修理厂；车库”强相关的画面，并反复配音念出“garage”；【拆分】g·ar·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/gɑːædʒ/",
+      "example": "Recent studies have shown that garage plays a crucial role in urban planning.",
+      "example_translation": "Recent 研究 have shown that garage plays a 关键的 role in 城市规划."
     },
     {
       "word": "motor",
       "pos": "n./adj.",
       "meaning": "发动机/机动的",
-      "tips": "【拆分记忆】将'motor'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“发动机/机动的”的典型场景中频繁造句，用“motor”描述关键动作/特征；【图像】脑海中构建一个与“发动机/机动的”强相关的画面，并反复配音念出“motor”；【拆分】m·ot·or → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mɒtɔː/",
+      "example": "Experts argue that motor is a key factor in successful healthcare improvements.",
+      "example_translation": "专家 argue that motor is a key 因素 in successful 医疗改善."
     },
     {
       "word": "horsepower",
       "pos": "n.",
       "meaning": "马力",
-      "tips": "【拆分记忆】将'horsepower'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“马力”的典型场景中频繁造句，用“horsepower”描述关键动作/特征；【图像】脑海中构建一个与“马力”强相关的画面，并反复配音念出“horsepower”；【拆分】h·ors·ep·ow·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hɔːsepæʊɜː/",
+      "example": "The horsepower has become increasingly important in discussions about artificial intelligence.",
+      "example_translation": "The horsepower has become increasingly 重要的 in discussions about 人工智能."
     },
     {
       "word": "wheel",
       "pos": "n.",
       "meaning": "方向盘；车轮",
-      "tips": "【拆分记忆】将'wheel'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“方向盘；车轮”的典型场景中频繁造句，用“wheel”描述关键动作/特征；【图像】脑海中构建一个与“方向盘；车轮”强相关的画面，并反复配音念出“wheel”；【拆分】wh·e·el → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/wɪːl/",
+      "example": "Understanding the concept of wheel is essential for addressing challenges in education systems.",
+      "example_translation": "Understanding the concept of wheel is 必要的 for addressing 挑战 in 教育体系."
     },
     {
       "word": "brake",
       "pos": "n./v.",
       "meaning": "车闸；刹车/刹车",
       "phonetic": "/breɪk/",
-      "tips": "【拆分记忆】将'brake'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“车闸；刹车/刹车”的典型场景中频繁造句，用“brake”描述关键动作/特征；【图像】脑海中构建一个与“车闸；刹车/刹车”强相关的画面，并反复配音念出“brake”；【拆分】br·ak·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Experts brake the importance of addressing education systems systematically.",
+      "example_translation": "专家 brake the importance of addressing 教育体系 系统atically."
     },
     {
       "word": "tire/tyre",
       "pos": "n.",
       "meaning": "轮胎",
-      "tips": "【拆分记忆】将'tire/tyre'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“轮胎”的典型场景中频繁造句，用“tire/tyre”描述关键动作/特征；【图像】脑海中构建一个与“轮胎”强相关的画面，并反复配音念出“tire/tyre”；【拆分】t·ir·e/tyr·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tɜːe/tjre/",
+      "example": "Recent studies have shown that tire/tyre plays a crucial role in climate change.",
+      "example_translation": "Recent 研究 have shown that tire/tyre plays a 关键的 role in 气候变化."
     },
     {
       "word": "honk",
       "pos": "n./v.",
       "meaning": "汽车喇叭声；鹅叫声/按（汽车喇叭）",
-      "tips": "【基础记忆】honk - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“汽车喇叭声；鹅叫声/按（汽车喇叭）”的典型场景中频繁造句，用“honk”描述关键动作/特征；【图像】脑海中构建一个与“汽车喇叭声；鹅叫声/按（汽车喇叭）”强相关的画面，并反复配音念出“honk”；【拆分】h·onk → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hɒnk/",
+      "example": "The honk in social media impact has attracted international attention.",
+      "example_translation": "The honk in 社交媒体影响 has attracted international attention."
     },
     {
       "word": "crew",
       "pos": "n.",
       "meaning": "全体工作人员；一组工作人员",
       "phonetic": "/kruː/",
-      "tips": "【基础记忆】crew - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“全体工作人员；一组工作人员”的典型场景中频繁造句，用“crew”描述关键动作/特征；【图像】脑海中构建一个与“全体工作人员；一组工作人员”强相关的画面，并反复配音念出“crew”；【拆分】cr·ew → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The crew has become increasingly important in discussions about artificial intelligence.",
+      "example_translation": "The crew has become increasingly 重要的 in discussions about 人工智能."
     },
     {
       "word": "captain",
       "pos": "n.",
       "meaning": "船长；队长",
       "phonetic": "/ˈkæptɪn/",
-      "tips": "【拆分记忆】将'captain'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“船长；队长”的典型场景中频繁造句，用“captain”描述关键动作/特征；【图像】脑海中构建一个与“船长；队长”强相关的画面，并反复配音念出“captain”；【拆分】c·apt·a·in → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The captain has become increasingly important in discussions about climate change.",
+      "example_translation": "The captain has become increasingly 重要的 in discussions about 气候变化."
     },
     {
       "word": "steward",
       "pos": "n.",
       "meaning": "男乘务员；管家",
       "phonetic": "/ˈstjuːəd/",
-      "tips": "【拆分记忆】将'steward'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“男乘务员；管家”的典型场景中频繁造句，用“steward”描述关键动作/特征；【图像】脑海中构建一个与“男乘务员；管家”强相关的画面，并反复配音念出“steward”；【拆分】st·ew·ard → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Recent studies have shown that steward plays a crucial role in cultural diversity.",
+      "example_translation": "Recent 研究 have shown that steward plays a 关键的 role in 文化多样性."
     },
     {
       "word": "emergency",
       "pos": "n./adj.",
       "meaning": "紧急事件/应急的",
-      "tips": "【拆分记忆】将'emergency'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“紧急事件/应急的”的典型场景中频繁造句，用“emergency”描述关键动作/特征；【图像】脑海中构建一个与“紧急事件/应急的”强相关的画面，并反复配音念出“emergency”；【拆分】em·erg·ency → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/emɜːdʒnsɪ/",
+      "example": "Recent studies have shown that emergency plays a crucial role in urban planning.",
+      "example_translation": "Recent 研究 have shown that emergency plays a 关键的 role in 城市规划."
     },
     {
       "word": "wreck",
       "pos": "v./n.",
       "meaning": "使失事；破坏/失事的船只；残破的东西",
-      "tips": "【拆分记忆】将'wreck'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“使失事；破坏/失事的船只；残破的东西”的典型场景中频繁造句，用“wreck”描述关键动作/特征；【图像】脑海中构建一个与“使失事；破坏/失事的船只；残破的东西”强相关的画面，并反复配音念出“wreck”；【拆分】wr·eck → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/rek/",
+      "example": "This wreck represents a breakthrough in cultural diversity.",
+      "example_translation": "This wreck represents a breakthrough in 文化多样性."
     },
     {
       "word": "crash",
       "pos": "v.",
       "meaning": "撞击；崩溃；破产",
-      "tips": "【拆分记忆】将'crash'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“撞击；崩溃；破产”的典型场景中频繁造句，用“crash”描述关键动作/特征；【图像】脑海中构建一个与“撞击；崩溃；破产”强相关的画面，并反复配音念出“crash”；【拆分】cr·ash → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kræʃ/",
+      "example": "Researchers continue to crash new methods for addressing environmental protection.",
+      "example_translation": "研究ers continue to crash new 方法s for addressing 环境保护."
     },
     {
       "word": "crush",
       "pos": "v./n.",
       "meaning": "压碎、压坏/拥挤的人群；迷恋；迷恋对象",
-      "tips": "【拆分记忆】将'crush'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“压碎、压坏/拥挤的人群；迷恋；迷恋对象”的典型场景中频繁造句，用“crush”描述关键动作/特征；【图像】脑海中构建一个与“压碎、压坏/拥挤的人群；迷恋；迷恋对象”强相关的画面，并反复配音念出“crush”；【拆分】cr·ush → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/krʌʃ/",
+      "example": "The need to crush in education systems has never been more urgent.",
+      "example_translation": "The need to crush in 教育体系 has never been more urgent."
     },
     {
       "word": "dash",
       "pos": "v.",
       "meaning": "猛冲；猛摔",
-      "tips": "【基础记忆】dash - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“猛冲；猛摔”的典型场景中频繁造句，用“dash”描述关键动作/特征；【图像】脑海中构建一个与“猛冲；猛摔”强相关的画面，并反复配音念出“dash”；【拆分】d·ash → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dæʃ/",
+      "example": "It is crucial to dash the impact of technological advancement on future generations.",
+      "example_translation": "It is 关键的 to dash the 影响 of 技术进步 on future generations."
     },
     {
       "word": "vanish",
       "pos": "v.",
       "meaning": "突然消失；绝迹",
-      "tips": "【拆分记忆】将'vanish'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“突然消失；绝迹”的典型场景中频繁造句，用“vanish”描述关键动作/特征；【图像】脑海中构建一个与“突然消失；绝迹”强相关的画面，并反复配音念出“vanish”；【拆分】v·an·ish → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/vænɪʃ/",
+      "example": "Researchers continue to vanish new methods for addressing renewable energy.",
+      "example_translation": "研究ers continue to vanish new 方法s for addressing 可再生能源."
     },
     {
       "word": "disappear",
       "pos": "v.",
       "meaning": "失踪；消失",
-      "tips": "【拆分记忆】将'disappear'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】dis-（相反/否定）+ appear；【联想】在“失踪；消失”的典型场景中频繁造句，用“disappear”描述关键动作/特征；【图像】脑海中构建一个与“失踪；消失”强相关的画面，并反复配音念出“disappear”",
+      "phonetic": "/dɪsæppɪə/",
+      "example": "It is crucial to disappear the impact of renewable energy on future generations.",
+      "example_translation": "It is 关键的 to disappear the 影响 of 可再生能源 on future generations."
     },
     {
       "word": "hazard",
       "pos": "n./v.",
       "meaning": "危险/使冒风险",
-      "tips": "【拆分记忆】将'hazard'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“危险/使冒风险”的典型场景中频繁造句，用“hazard”描述关键动作/特征；【图像】脑海中构建一个与“危险/使冒风险”强相关的画面，并反复配音念出“hazard”；【拆分】h·az·ard → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hæzɑːd/",
+      "example": "Experts hazard the importance of addressing urban planning systematically.",
+      "example_translation": "专家 hazard the importance of addressing 城市规划 系统atically."
     },
     {
       "word": "harbour/harbor",
       "pos": "n.",
       "meaning": "港口",
-      "tips": "【拆分记忆】将'harbour/harbor'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“港口”的典型场景中频繁造句，用“harbour/harbor”描述关键动作/特征；【图像】脑海中构建一个与“港口”强相关的画面，并反复配音念出“harbour/harbor”；【拆分】h·arb·o·ur/h·arb·or → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hɑːbæʊr/hɑːbɔː/",
+      "example": "Experts argue that harbour/harbor is a key factor in successful healthcare improvements.",
+      "example_translation": "专家 argue that harbour/harbor is a key 因素 in successful 医疗改善."
     },
     {
       "word": "dock",
       "pos": "n.",
       "meaning": "码头；船坞",
       "phonetic": "/dɒk/",
-      "tips": "【基础记忆】dock - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“码头；船坞”的典型场景中频繁造句，用“dock”描述关键动作/特征；【图像】脑海中构建一个与“码头；船坞”强相关的画面，并反复配音念出“dock”；【拆分】d·ock → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The dock has become increasingly important in discussions about cultural diversity.",
+      "example_translation": "The dock has become increasingly 重要的 in discussions about 文化多样性."
     },
     {
       "word": "anchor",
       "pos": "n.",
       "meaning": "锚",
       "phonetic": "/ˈæŋkə(r)/",
-      "tips": "【拆分记忆】将'anchor'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“锚”的典型场景中频繁造句，用“anchor”描述关键动作/特征；【图像】脑海中构建一个与“锚”强相关的画面，并反复配音念出“anchor”；【拆分】anch·or → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Recent studies have shown that anchor plays a crucial role in renewable energy.",
+      "example_translation": "Recent 研究 have shown that anchor plays a 关键的 role in 可再生能源."
     },
     {
       "word": "submerge",
       "pos": "v.",
       "meaning": "（使）浸没；掩盖",
-      "tips": "【拆分记忆】将'submerge'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】sub-（下）+ merge；【联想】在“（使）浸没；掩盖”的典型场景中频繁造句，用“submerge”描述关键动作/特征；【图像】脑海中构建一个与“（使）浸没；掩盖”强相关的画面，并反复配音念出“submerge”",
+      "phonetic": "/sʌbmɜːdʒ/",
+      "example": "Researchers continue to submerge new methods for addressing economic development.",
+      "example_translation": "研究ers continue to submerge new 方法s for addressing 经济发展."
     },
     {
       "word": "sailor",
       "pos": "n.",
       "meaning": "水手；海员",
-      "tips": "【拆分记忆】将'sailor'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“水手；海员”的典型场景中频繁造句，用“sailor”描述关键动作/特征；【图像】脑海中构建一个与“水手；海员”强相关的画面，并反复配音念出“sailor”；【拆分】s·a·il·or → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/seɪlɔː/",
+      "example": "Experts argue that sailor is a key factor in successful globalization effects.",
+      "example_translation": "专家 argue that sailor is a key 因素 in successful 全球化效应."
     },
     {
       "word": "seaman",
       "pos": "n.",
       "meaning": "海员；水手",
-      "tips": "【拆分记忆】将'seaman'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“海员；水手”的典型场景中频繁造句，用“seaman”描述关键动作/特征；【图像】脑海中构建一个与“海员；水手”强相关的画面，并反复配音念出“seaman”；【拆分】s·e·am·an → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sɪːmæn/",
+      "example": "The seaman has become increasingly important in discussions about globalization effects.",
+      "example_translation": "The seaman has become increasingly 重要的 in discussions about 全球化效应."
     },
     {
       "word": "carrier",
       "pos": "n.",
       "meaning": "航空母舰；运输工具",
-      "tips": "【拆分记忆】将'carrier'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“航空母舰；运输工具”的典型场景中频繁造句，用“carrier”描述关键动作/特征；【图像】脑海中构建一个与“航空母舰；运输工具”强相关的画面，并反复配音念出“carrier”；【拆分】c·arr·i·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɑːrɪɜː/",
+      "example": "Understanding the concept of carrier is essential for addressing challenges in renewable energy.",
+      "example_translation": "Understanding the concept of carrier is 必要的 for addressing 挑战 in 可再生能源."
     },
     {
       "word": "steamer",
       "pos": "n.",
       "meaning": "汽船；轮船",
-      "tips": "【拆分记忆】将'steamer'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“汽船；轮船”的典型场景中频繁造句，用“steamer”描述关键动作/特征；【图像】脑海中构建一个与“汽船；轮船”强相关的画面，并反复配音念出“steamer”；【拆分】st·e·am·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/stɪːmɜː/",
+      "example": "Experts argue that steamer is a key factor in successful cultural diversity.",
+      "example_translation": "专家 argue that steamer is a key 因素 in successful 文化多样性."
     },
     {
       "word": "liner",
       "pos": "n.",
       "meaning": "邮轮；客轮",
-      "tips": "【拆分记忆】将'liner'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“邮轮；客轮”的典型场景中频繁造句，用“liner”描述关键动作/特征；【图像】脑海中构建一个与“邮轮；客轮”强相关的画面，并反复配音念出“liner”；【拆分】l·in·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/lɪnɜː/",
+      "example": "Recent studies have shown that liner plays a crucial role in urban planning.",
+      "example_translation": "Recent 研究 have shown that liner plays a 关键的 role in 城市规划."
     },
     {
       "word": "vessel",
       "pos": "n.",
       "meaning": "大船；舰；容器；器皿；血管",
-      "tips": "【拆分记忆】将'vessel'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“大船；舰；容器；器皿；血管”的典型场景中频繁造句，用“vessel”描述关键动作/特征；【图像】脑海中构建一个与“大船；舰；容器；器皿；血管”强相关的画面，并反复配音念出“vessel”；【拆分】v·ess·el → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/vessel/",
+      "example": "The vessel has become increasingly important in discussions about social media impact.",
+      "example_translation": "The vessel has become increasingly 重要的 in discussions about 社交媒体影响."
     },
     {
       "word": "ferry",
       "pos": "n./v.",
       "meaning": "渡船/渡运",
       "phonetic": "/ˈferi/",
-      "tips": "【拆分记忆】将'ferry'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“渡船/渡运”的典型场景中频繁造句，用“ferry”描述关键动作/特征；【图像】脑海中构建一个与“渡船/渡运”强相关的画面，并反复配音念出“ferry”；【拆分】f·erry → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Experts ferry the importance of addressing social media impact systematically.",
+      "example_translation": "专家 ferry the importance of addressing 社交媒体影响 系统atically."
     },
     {
       "word": "sail",
       "pos": "v.",
       "meaning": "航行；驾驶（帆船）",
       "phonetic": "/seɪl/",
-      "tips": "【基础记忆】sail - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“航行；驾驶（帆船）”的典型场景中频繁造句，用“sail”描述关键动作/特征；【图像】脑海中构建一个与“航行；驾驶（帆船）”强相关的画面，并反复配音念出“sail”；【拆分】s·a·il → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Organizations worldwide are working to sail their approach to environmental protection.",
+      "example_translation": "组织 worldwide are working to sail their 方法 to 环境保护."
     },
     {
       "word": "raft",
       "pos": "n.",
       "meaning": "木筏；木排",
-      "tips": "【基础记忆】raft - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“木筏；木排”的典型场景中频繁造句，用“raft”描述关键动作/特征；【图像】脑海中构建一个与“木筏；木排”强相关的画面，并反复配音念出“raft”；【拆分】r·aft → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ræft/",
+      "example": "Experts argue that raft is a key factor in successful economic development.",
+      "example_translation": "专家 argue that raft is a key 因素 in successful 经济发展."
     },
     {
       "word": "canoe",
       "pos": "n.",
       "meaning": "独木舟",
-      "tips": "【拆分记忆】将'canoe'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“独木舟”的典型场景中频繁造句，用“canoe”描述关键动作/特征；【图像】脑海中构建一个与“独木舟”强相关的画面，并反复配音念出“canoe”；【拆分】c·an·o·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kænɒe/",
+      "example": "The canoe has become increasingly important in discussions about artificial intelligence.",
+      "example_translation": "The canoe has become increasingly 重要的 in discussions about 人工智能."
     },
     {
       "word": "oar",
       "pos": "n./v.",
       "meaning": "桨/用桨划",
-      "tips": "【基础记忆】oar - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“桨/用桨划”的典型场景中频繁造句，用“oar”描述关键动作/特征；【图像】脑海中构建一个与“桨/用桨划”强相关的画面，并反复配音念出“oar”；【拆分】o·ar → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/əʊr/",
+      "example": "Experts oar the importance of addressing economic development systematically.",
+      "example_translation": "专家 oar the importance of addressing 经济发展 系统atically."
     },
     {
       "word": "deck",
       "pos": "n./v.",
       "meaning": "甲板/装饰",
-      "tips": "【基础记忆】deck - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“甲板/装饰”的典型场景中频繁造句，用“deck”描述关键动作/特征；【图像】脑海中构建一个与“甲板/装饰”强相关的画面，并反复配音念出“deck”；【拆分】d·eck → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dek/",
+      "example": "Experts deck the importance of addressing technological advancement systematically.",
+      "example_translation": "专家 deck the importance of addressing 技术进步 系统atically."
     },
     {
       "word": "turbine",
       "pos": "n.",
       "meaning": "涡轮机",
-      "tips": "【拆分记忆】将'turbine'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“涡轮机”的典型场景中频繁造句，用“turbine”描述关键动作/特征；【图像】脑海中构建一个与“涡轮机”强相关的画面，并反复配音念出“turbine”；【拆分】t·urb·in·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tɜːbɪne/",
+      "example": "The turbine has become increasingly important in discussions about social media impact.",
+      "example_translation": "The turbine has become increasingly 重要的 in discussions about 社交媒体影响."
     },
     {
       "word": "propeller",
       "pos": "n.",
       "meaning": "螺旋桨，推进器",
-      "tips": "【拆分记忆】将'propeller'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“螺旋桨，推进器”的典型场景中频繁造句，用“propeller”描述关键动作/特征；【图像】脑海中构建一个与“螺旋桨，推进器”强相关的画面，并反复配音念出“propeller”；【拆分】pr·op·ell·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/prɒpellɜː/",
+      "example": "Recent studies have shown that propeller plays a crucial role in social media impact.",
+      "example_translation": "Recent 研究 have shown that propeller plays a 关键的 role in 社交媒体影响."
     },
     {
       "word": "stern",
       "pos": "n./adj.",
       "meaning": "船尾/严厉的，苛刻的；严峻的，棘手的",
-      "tips": "【拆分记忆】将'stern'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“船尾/严厉的，苛刻的；严峻的，棘手的”的典型场景中频繁造句，用“stern”描述关键动作/特征；【图像】脑海中构建一个与“船尾/严厉的，苛刻的；严峻的，棘手的”强相关的画面，并反复配音念出“stern”；【拆分】st·ern → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/stɜːn/",
+      "example": "The stern has become increasingly important in discussions about renewable energy.",
+      "example_translation": "The stern has become increasingly 重要的 in discussions about 可再生能源."
     },
     {
       "word": "aboard",
       "pos": "adv.",
       "meaning": "在（船、飞机等）上",
       "phonetic": "/əˈbɔːd/",
-      "tips": "【拆分记忆】将'aboard'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“在（船、飞机等）上”的典型场景中频繁造句，用“aboard”描述关键动作/特征；【图像】脑海中构建一个与“在（船、飞机等）上”强相关的画面，并反复配音念出“aboard”；【拆分】ab·o·ard → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The policy has aboard transformed approaches to environmental protection.",
+      "example_translation": "The 政策 has aboard transformed 方法es to 环境保护."
     },
     {
       "word": "embark",
       "pos": "v.",
       "meaning": "上船、飞机等；开始做",
       "phonetic": "/ɪmˈbɑːk/",
-      "tips": "【拆分记忆】将'embark'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“上船、飞机等；开始做”的典型场景中频繁造句，用“embark”描述关键动作/特征；【图像】脑海中构建一个与“上船、飞机等；开始做”强相关的画面，并反复配音念出“embark”；【拆分】emb·ark → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Researchers continue to embark new methods for addressing social media impact.",
+      "example_translation": "研究ers continue to embark new 方法s for addressing 社交媒体影响."
     },
     {
       "word": "channel",
       "pos": "n.",
       "meaning": "频道；航道；海峡",
-      "tips": "【拆分记忆】将'channel'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“频道；航道；海峡”的典型场景中频繁造句，用“channel”描述关键动作/特征；【图像】脑海中构建一个与“频道；航道；海峡”强相关的画面，并反复配音念出“channel”；【拆分】ch·ann·el → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tʃænnel/",
+      "example": "Recent studies have shown that channel plays a crucial role in artificial intelligence.",
+      "example_translation": "Recent 研究 have shown that channel plays a 关键的 role in 人工智能."
     },
     {
       "word": "canal",
       "pos": "n.",
       "meaning": "运河；（人体内输送食物、气体等的）管",
-      "tips": "【后缀记忆】canal - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【后缀】can + al（形容词：…的）；【联想】在“运河；（人体内输送食物、气体等的）管”的典型场景中频繁造句，用“canal”描述关键动作/特征；【图像】脑海中构建一个与“运河；（人体内输送食物、气体等的）管”强相关的画面，并反复配音念出“canal”",
+      "phonetic": "/kænəl/",
+      "example": "Recent studies have shown that canal plays a crucial role in climate change.",
+      "example_translation": "Recent 研究 have shown that canal plays a 关键的 role in 气候变化."
     },
     {
       "word": "ditch",
       "pos": "n./v.",
       "meaning": "沟、渠/抛弃",
-      "tips": "【拆分记忆】将'ditch'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“沟、渠/抛弃”的典型场景中频繁造句，用“ditch”描述关键动作/特征；【图像】脑海中构建一个与“沟、渠/抛弃”强相关的画面，并反复配音念出“ditch”；【拆分】d·itch → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dɪtʃ/",
+      "example": "The ditch in urban planning has attracted international attention.",
+      "example_translation": "The ditch in 城市规划 has attracted international attention."
     },
     {
       "word": "railroad",
       "pos": "n.",
       "meaning": "[美]铁路；铁路公司",
-      "tips": "【拆分记忆】将'railroad'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“[美]铁路；铁路公司”的典型场景中频繁造句，用“railroad”描述关键动作/特征；【图像】脑海中构建一个与“[美]铁路；铁路公司”强相关的画面，并反复配音念出“railroad”；【拆分】r·a·ilr·o·ad → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/reɪlrəʊd/",
+      "example": "The government's new railroad policy aims to improve environmental protection.",
+      "example_translation": "The 政府's new railroad 政策 aims to improve 环境保护."
     },
     {
       "word": "railway",
       "pos": "n.",
       "meaning": "[英]铁路；铁路系统",
       "phonetic": "/ˈreɪlweɪ/",
-      "tips": "【拆分记忆】将'railway'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“[英]铁路；铁路系统”的典型场景中频繁造句，用“railway”描述关键动作/特征；【图像】脑海中构建一个与“[英]铁路；铁路系统”强相关的画面，并反复配音念出“railway”；【拆分】r·a·ilw·ay → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Recent studies have shown that railway plays a crucial role in healthcare improvements.",
+      "example_translation": "Recent 研究 have shown that railway plays a 关键的 role in 医疗改善."
     },
     {
       "word": "locomotive",
       "pos": "n.",
       "meaning": "火车头；机车",
-      "tips": "【拆分记忆】将'locomotive'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“火车头；机车”的典型场景中频繁造句，用“locomotive”描述关键动作/特征；【图像】脑海中构建一个与“火车头；机车”强相关的画面，并反复配音念出“locomotive”；【拆分】l·oc·om·ot·iv·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/lɒkɒmɒtɪv/",
+      "example": "Experts argue that locomotive is a key factor in successful economic development.",
+      "example_translation": "专家 argue that locomotive is a key 因素 in successful 经济发展."
     },
     {
       "word": "subway",
       "pos": "n.",
       "meaning": "[英]地下通道；[美]地铁",
-      "tips": "【拆分记忆】将'subway'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】sub-（下）+ way；【联想】在“[英]地下通道；[美]地铁”的典型场景中频繁造句，用“subway”描述关键动作/特征；【图像】脑海中构建一个与“[英]地下通道；[美]地铁”强相关的画面，并反复配音念出“subway”",
+      "phonetic": "/sʌbweɪ/",
+      "example": "The subway has become increasingly important in discussions about healthcare improvements.",
+      "example_translation": "The subway has become increasingly 重要的 in discussions about 医疗改善."
     },
     {
       "word": "underground",
       "pos": "adj./n.",
       "meaning": "地下的；秘密的/[英]地铁",
-      "tips": "【拆分记忆】将'underground'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】un-（否定）+ derground；【联想】在“地下的；秘密的/[英]地铁”的典型场景中频繁造句，用“underground”描述关键动作/特征；【图像】脑海中构建一个与“地下的；秘密的/[英]地铁”强相关的画面，并反复配音念出“underground”",
+      "phonetic": "/ʌndɜːgræʊnd/",
+      "example": "The underground aspects of economic development require careful consideration.",
+      "example_translation": "The underground aspects of 经济发展 require careful consideration."
     },
     {
       "word": "tunnel",
       "pos": "n.",
       "meaning": "隧道、地道",
-      "tips": "【拆分记忆】将'tunnel'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“隧道、地道”的典型场景中频繁造句，用“tunnel”描述关键动作/特征；【图像】脑海中构建一个与“隧道、地道”强相关的画面，并反复配音念出“tunnel”；【拆分】t·unn·el → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tʌnnel/",
+      "example": "The tunnel has become increasingly important in discussions about urban planning.",
+      "example_translation": "The tunnel has become increasingly 重要的 in discussions about 城市规划."
     },
     {
       "word": "rail",
       "pos": "n.",
       "meaning": "栏杆；铁路系统",
-      "tips": "【基础记忆】rail - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“栏杆；铁路系统”的典型场景中频繁造句，用“rail”描述关键动作/特征；【图像】脑海中构建一个与“栏杆；铁路系统”强相关的画面，并反复配音念出“rail”；【拆分】r·a·il → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/reɪl/",
+      "example": "Experts argue that rail is a key factor in successful technological advancement.",
+      "example_translation": "专家 argue that rail is a key 因素 in successful 技术进步."
     },
     {
       "word": "depart",
       "pos": "v.",
       "meaning": "离开；启程",
-      "tips": "【拆分记忆】将'depart'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“离开；启程”的典型场景中频繁造句，用“depart”描述关键动作/特征；【图像】脑海中构建一个与“离开；启程”强相关的画面，并反复配音念出“depart”；【拆分】d·ep·art → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/depɑːt/",
+      "example": "Companies that depart innovation tend to lead in economic development.",
+      "example_translation": "公司 that depart innovation tend to lead in 经济发展."
     },
     {
       "word": "arrive",
       "pos": "v.",
       "meaning": "到达；取得成功",
-      "tips": "【拆分记忆】将'arrive'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“到达；取得成功”的典型场景中频繁造句，用“arrive”描述关键动作/特征；【图像】脑海中构建一个与“到达；取得成功”强相关的画面，并反复配音念出“arrive”；【拆分】arr·iv·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɑːrɪv/",
+      "example": "Organizations worldwide are working to arrive their approach to social media impact.",
+      "example_translation": "组织 worldwide are working to arrive their 方法 to 社交媒体影响."
     },
     {
       "word": "destination",
       "pos": "n.",
       "meaning": "目的地；终点",
       "phonetic": "/ˌdestɪˈneɪʃn/",
-      "tips": "【后缀记忆】destination - 以tion结尾的名词，表示动作或状态"
+      "tips": "【后缀】destina + tion（名词：动作/状态）；【联想】在“目的地；终点”的典型场景中频繁造句，用“destination”描述关键动作/特征；【图像】脑海中构建一个与“目的地；终点”强相关的画面，并反复配音念出“destination”",
+      "example": "The destination has become increasingly important in discussions about technological advancement.",
+      "example_translation": "The destination has become increasingly 重要的 in discussions about 技术进步."
     },
     {
       "word": "delay",
       "pos": "n./v.",
       "meaning": "耽搁；延期/使耽搁；使延期",
       "phonetic": "/dɪˈleɪ/",
-      "tips": "【拆分记忆】将'delay'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“耽搁；延期/使耽搁；使延期”的典型场景中频繁造句，用“delay”描述关键动作/特征；【图像】脑海中构建一个与“耽搁；延期/使耽搁；使延期”强相关的画面，并反复配音念出“delay”；【拆分】d·el·ay → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "The delay in globalization effects has attracted international attention.",
+      "example_translation": "The delay in 全球化效应 has attracted international attention."
     },
     {
       "word": "postpone",
       "pos": "v.",
       "meaning": "推迟；使延期",
       "phonetic": "/pəˈspəʊn/",
-      "tips": "【拆分记忆】将'postpone'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】post-（后）+ pone；【联想】在“推迟；使延期”的典型场景中频繁造句，用“postpone”描述关键动作/特征；【图像】脑海中构建一个与“推迟；使延期”强相关的画面，并反复配音念出“postpone”",
+      "example": "Researchers continue to postpone new methods for addressing education systems.",
+      "example_translation": "研究ers continue to postpone new 方法s for addressing 教育体系."
     },
     {
       "word": "defer",
       "pos": "v.",
       "meaning": "推迟；延期",
-      "tips": "【拆分记忆】将'defer'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“推迟；延期”的典型场景中频繁造句，用“defer”描述关键动作/特征；【图像】脑海中构建一个与“推迟；延期”强相关的画面，并反复配音念出“defer”；【拆分】d·ef·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/defɜː/",
+      "example": "Organizations worldwide are working to defer their approach to technological advancement.",
+      "example_translation": "组织 worldwide are working to defer their 方法 to 技术进步."
     },
     {
       "word": "lull",
       "pos": "n./v.",
       "meaning": "暂停；暂时平静期/使昏昏欲睡",
-      "tips": "【基础记忆】lull - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“暂停；暂时平静期/使昏昏欲睡”的典型场景中频繁造句，用“lull”描述关键动作/特征；【图像】脑海中构建一个与“暂停；暂时平静期/使昏昏欲睡”强相关的画面，并反复配音念出“lull”；【拆分】l·ull → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/lʌll/",
+      "example": "The lull in artificial intelligence has attracted international attention.",
+      "example_translation": "The lull in 人工智能 has attracted international attention."
     },
     {
       "word": "expire",
       "pos": "v.",
       "meaning": "期满；气绝；死亡",
-      "tips": "【拆分记忆】将'expire'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“期满；气绝；死亡”的典型场景中频繁造句，用“expire”描述关键动作/特征；【图像】脑海中构建一个与“期满；气绝；死亡”强相关的画面，并反复配音念出“expire”；【拆分】exp·ir·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ekspɜːe/",
+      "example": "Companies that expire innovation tend to lead in urban planning.",
+      "example_translation": "公司 that expire innovation tend to lead in 城市规划."
     },
     {
       "word": "due",
       "pos": "adj.",
       "meaning": "到期的；预期的",
       "example": "|overdue adj. 过期未完成的",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】due - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“due”在“到期的；预期的”语境中的常见用法。",
+      "tips": "【联想】在“到期的；预期的”的典型场景中频繁造句，用“due”描述关键动作/特征；【图像】脑海中构建一个与“到期的；预期的”强相关的画面，并反复配音念出“due”；【拆分】d·u·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ddʒʌː/"
     },
     {
       "word": "postage",
       "pos": "n.",
       "meaning": "邮费；邮资",
-      "tips": "【拆分记忆】将'postage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】post-（后）+ age；【联想】在“邮费；邮资”的典型场景中频繁造句，用“postage”描述关键动作/特征；【图像】脑海中构建一个与“邮费；邮资”强相关的画面，并反复配音念出“postage”",
+      "phonetic": "/pɒstædʒ/",
+      "example": "Recent studies have shown that postage plays a crucial role in economic development.",
+      "example_translation": "Recent 研究 have shown that postage plays a 关键的 role in 经济发展."
     },
     {
       "word": "stamp",
       "pos": "n./v.",
       "meaning": "邮票；印章/贴邮票；盖章",
-      "tips": "【拆分记忆】将'stamp'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“邮票；印章/贴邮票；盖章”的典型场景中频繁造句，用“stamp”描述关键动作/特征；【图像】脑海中构建一个与“邮票；印章/贴邮票；盖章”强相关的画面，并反复配音念出“stamp”；【拆分】st·amp → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/stæmp/",
+      "example": "Experts stamp the importance of addressing renewable energy systematically.",
+      "example_translation": "专家 stamp the importance of addressing 可再生能源 系统atically."
     },
     {
       "word": "envelope",
       "pos": "n.",
       "meaning": "信封",
-      "tips": "【拆分记忆】将'envelope'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“信封”的典型场景中频繁造句，用“envelope”描述关键动作/特征；【图像】脑海中构建一个与“信封”强相关的画面，并反复配音念出“envelope”；【拆分】env·el·op·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/envelɒpe/",
+      "example": "The government's new envelope policy aims to improve urban planning.",
+      "example_translation": "The 政府's new envelope 政策 aims to improve 城市规划."
     },
     {
       "word": "mail",
       "pos": "n./v.",
       "meaning": "邮件；邮包；邮政/邮寄",
-      "tips": "【基础记忆】mail - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“邮件；邮包；邮政/邮寄”的典型场景中频繁造句，用“mail”描述关键动作/特征；【图像】脑海中构建一个与“邮件；邮包；邮政/邮寄”强相关的画面，并反复配音念出“mail”；【拆分】m·a·il → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/meɪl/",
+      "example": "Experts mail the importance of addressing healthcare improvements systematically.",
+      "example_translation": "专家 mail the importance of addressing 医疗改善 系统atically."
     },
     {
       "word": "packet",
       "pos": "n.",
       "meaning": "包装盒；小件包裹",
-      "tips": "【拆分记忆】将'packet'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“包装盒；小件包裹”的典型场景中频繁造句，用“packet”描述关键动作/特征；【图像】脑海中构建一个与“包装盒；小件包裹”强相关的画面，并反复配音念出“packet”；【拆分】p·ack·et → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pæket/",
+      "example": "The government's new packet policy aims to improve social media impact.",
+      "example_translation": "The 政府's new packet 政策 aims to improve 社交媒体影响."
     },
     {
       "word": "package",
       "pos": "n./v.",
       "meaning": "包裹；盒；包/包装",
-      "tips": "【拆分记忆】将'package'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“包裹；盒；包/包装”的典型场景中频繁造句，用“package”描述关键动作/特征；【图像】脑海中构建一个与“包裹；盒；包/包装”强相关的画面，并反复配音念出“package”；【拆分】p·ack·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pækædʒ/",
+      "example": "The package in globalization effects has attracted international attention.",
+      "example_translation": "The package in 全球化效应 has attracted international attention."
     },
     {
       "word": "bind",
       "pos": "v.",
       "meaning": "捆；绑",
-      "tips": "【基础记忆】bind - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“捆；绑”的典型场景中频繁造句，用“bind”描述关键动作/特征；【图像】脑海中构建一个与“捆；绑”强相关的画面，并反复配音念出“bind”；【拆分】b·ind → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bɪnd/",
+      "example": "Researchers continue to bind new methods for addressing renewable energy.",
+      "example_translation": "研究ers continue to bind new 方法s for addressing 可再生能源."
     },
     {
       "word": "parcel",
       "pos": "v./n.",
       "meaning": "打包；包/土地的一块；包裹",
-      "tips": "【拆分记忆】将'parcel'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“打包；包/土地的一块；包裹”的典型场景中频繁造句，用“parcel”描述关键动作/特征；【图像】脑海中构建一个与“打包；包/土地的一块；包裹”强相关的画面，并反复配音念出“parcel”；【拆分】p·arc·el → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɑːsl/",
+      "example": "This parcel represents a breakthrough in artificial intelligence.",
+      "example_translation": "This parcel represents a breakthrough in 人工智能."
     },
     {
       "word": "load",
       "pos": "v./n.",
       "meaning": "装载；装满/负荷；大量",
-      "tips": "【基础记忆】load - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“装载；装满/负荷；大量”的典型场景中频繁造句，用“load”描述关键动作/特征；【图像】脑海中构建一个与“装载；装满/负荷；大量”强相关的画面，并反复配音念出“load”；【拆分】l·o·ad → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ləʊd/",
+      "example": "This load represents a breakthrough in globalization effects.",
+      "example_translation": "This load represents a breakthrough in 全球化效应."
     },
     {
       "word": "burden",
       "pos": "v./n.",
       "meaning": "使负担/重担；负担",
-      "tips": "【拆分记忆】将'burden'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“使负担/重担；负担”的典型场景中频繁造句，用“burden”描述关键动作/特征；【图像】脑海中构建一个与“使负担/重担；负担”强相关的画面，并反复配音念出“burden”；【拆分】b·urd·en → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bɜːden/",
+      "example": "The need to burden in globalization effects has never been more urgent.",
+      "example_translation": "The need to burden in 全球化效应 has never been more urgent."
     },
     {
       "word": "transfer",
       "pos": "v.",
       "meaning": "迁移；转移；调动",
-      "tips": "【拆分记忆】将'transfer'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】trans-（穿过/转变）+ fer；【联想】在“迁移；转移；调动”的典型场景中频繁造句，用“transfer”描述关键动作/特征；【图像】脑海中构建一个与“迁移；转移；调动”强相关的画面，并反复配音念出“transfer”",
+      "phonetic": "/trænsfɜː/",
+      "example": "Organizations worldwide are working to transfer their approach to artificial intelligence.",
+      "example_translation": "组织 worldwide are working to transfer their 方法 to 人工智能."
     },
     {
       "word": "transmit",
       "pos": "v.",
       "meaning": "传送；传染；传播；传输",
-      "tips": "【拆分记忆】将'transmit'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“mit(送/发)”，联想到“传送；传染；传播；传输”；【前缀】trans-（穿过/转变）+ mit；【联想】在“传送；传染；传播；传输”的典型场景中频繁造句，用“transmit”描述关键动作/特征",
+      "phonetic": "/trænsmɪt/",
+      "example": "Governments must transmit effective strategies for managing cultural diversity.",
+      "example_translation": "政府s must transmit 效果ive 策略 for managing 文化多样性."
     },
     {
       "word": "transit",
       "pos": "v./n.",
       "meaning": "通过；运送/运输；通行；过境；中装",
       "phonetic": "/ˈtrænzɪt/",
-      "tips": "【拆分记忆】将'transit'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“通过；运送/运输；通行；过境；中装”的典型场景中频繁造句，用“transit”描述关键动作/特征；【图像】脑海中构建一个与“通过；运送/运输；通行；过境；中装”强相关的画面，并反复配音念出“transit”；【拆分】tr·ans·it → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "This transit represents a breakthrough in social media impact.",
+      "example_translation": "This transit represents a breakthrough in 社交媒体影响."
     },
     {
       "word": "deliver",
       "pos": "v.",
       "meaning": "传送；递送",
-      "tips": "【拆分记忆】将'deliver'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“传送；递送”的典型场景中频繁造句，用“deliver”描述关键动作/特征；【图像】脑海中构建一个与“传送；递送”强相关的画面，并反复配音念出“deliver”；【拆分】d·el·iv·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/delɪvr/",
+      "example": "Governments must deliver effective strategies for managing urban planning.",
+      "example_translation": "政府s must deliver 效果ive 策略 for managing 城市规划."
     },
     {
       "word": "convey",
       "pos": "v.",
       "meaning": "运送；输送；表达；传递",
-      "tips": "【拆分记忆】将'convey'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“运送；输送；表达；传递”的典型场景中频繁造句，用“convey”描述关键动作/特征；【图像】脑海中构建一个与“运送；输送；表达；传递”强相关的画面，并反复配音念出“convey”；【拆分】c·onv·ey → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɒnvej/",
+      "example": "Researchers continue to convey new methods for addressing environmental protection.",
+      "example_translation": "研究ers continue to convey new 方法s for addressing 环境保护."
     },
     {
       "word": "speed",
       "pos": "n.",
       "meaning": "速度；迅速",
-      "tips": "【拆分记忆】将'speed'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“速度；迅速”的典型场景中频繁造句，用“speed”描述关键动作/特征；【图像】脑海中构建一个与“速度；迅速”强相关的画面，并反复配音念出“speed”；【拆分】sp·e·ed → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sped/",
+      "example": "The government's new speed policy aims to improve education systems.",
+      "example_translation": "The 政府's new speed 政策 aims to improve 教育体系."
     },
     {
       "word": "velocity",
       "pos": "n.",
       "meaning": "速度",
       "phonetic": "/vəˈlɒsəti/",
-      "tips": "【拆分记忆】将'velocity'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】veloc + ity（名词：性质）；【联想】在“速度”的典型场景中频繁造句，用“velocity”描述关键动作/特征；【图像】脑海中构建一个与“速度”强相关的画面，并反复配音念出“velocity”",
+      "example": "The velocity has become increasingly important in discussions about cultural diversity.",
+      "example_translation": "The velocity has become increasingly 重要的 in discussions about 文化多样性."
     },
     {
       "word": "swift",
       "pos": "adj.",
       "meaning": "迅速的；敏捷的",
-      "tips": "【拆分记忆】将'swift'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“迅速的；敏捷的”的典型场景中频繁造句，用“swift”描述关键动作/特征；【图像】脑海中构建一个与“迅速的；敏捷的”强相关的画面，并反复配音念出“swift”；【拆分】sw·ift → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/swɪft/",
+      "example": "The swift impact of healthcare improvements cannot be underestimated.",
+      "example_translation": "The swift 影响 of 医疗改善 cannot be underestimated."
     }
   ]
 }

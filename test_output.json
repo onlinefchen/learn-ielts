@@ -1,0 +1,46 @@
+{
+  "chapter": "时间日期",
+  "word_count": 5,
+  "words": [
+    {
+      "word": "daily",
+      "pos": "adj./n.",
+      "meaning": "每日的/日报",
+      "tips": "【拆分记忆】将'daily'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/dæɪly/",
+      "example": "The term \"daily\" is commonly used in academic contexts."
+    },
+    {
+      "word": "monthly",
+      "pos": "adj./adv./n.",
+      "meaning": "每月的/每月一次/月刊",
+      "tips": "【拆分记忆】将'monthly'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/mɒnthly/",
+      "example": "The term \"monthly\" is commonly used in academic contexts."
+    },
+    {
+      "word": "quarterly",
+      "pos": "adj./adv./n.",
+      "meaning": "季度的/按季度地/季刊",
+      "tips": "【拆分记忆】将'quarterly'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/qʌærterly/",
+      "example": "The term \"quarterly\" is commonly used in academic contexts."
+    },
+    {
+      "word": "annual",
+      "pos": "adj./n.",
+      "meaning": "每年的；一年的/年报",
+      "tips": "【后缀记忆】annual - 以al结尾的形容词，表示'与...有关的'",
+      "phonetic": "/ˈænjuəl/",
+      "example": "The term \"annual\" is commonly used in academic contexts."
+    },
+    {
+      "word": "yearly",
+      "pos": "adj./adv.",
+      "meaning": "每年的；一年的/每年地",
+      "tips": "【拆分记忆】将'yearly'按音节拆分，结合语境反复练习记忆",
+      "phonetic": "/yeærly/",
+      "example": "The term \"yearly\" is commonly used in academic contexts."
+    }
+  ]
+}

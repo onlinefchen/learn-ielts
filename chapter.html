@@ -192,13 +192,12 @@
                                 ${reviewCount > 0 ? `<span class="review-badge">复习${reviewCount}次</span>` : ''}
                                 ${needsReview ? `<span class="needs-review-badge">需复习</span>` : ''}
                             </h3>
-                            ${word.phonetic ? `
                             <div class="word-phonetic">
-                                <span>${word.phonetic}</span>
+                                ${word.phonetic ? `<span>${word.phonetic}</span>` : ''}
                                 <button class="speak-btn" onclick="speakWord('${word.word.replace(/'/g, "\\'")}')">
                                     🔊
                                 </button>
-                            </div>` : ''}
+                            </div>
                         </div>
                         <div class="word-actions">
                             ${!isMastered ? `

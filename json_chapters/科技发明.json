@@ -7,805 +7,1098 @@
       "pos": "n.",
       "meaning": "技术",
       "example": "|technological adj. 技术上的；advanced technology 先进的技术",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'technology'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“technology”在“技术”语境中的常见用法。",
+      "tips": "【词根】含“log(话语/学科)”，联想到“技术”；【联想】在“技术”的典型场景中频繁造句，用“technology”描述关键动作/特征；【图像】脑海中构建一个与“技术”强相关的画面，并反复配音念出“technology”；【谐音/押韵】按音标/tetʃnɒlɒdʒɪ/分节朗读，自拟中文谐音词组并代入“技术”场景造句×3",
+      "phonetic": "/tetʃnɒlɒdʒɪ/"
     },
     {
       "word": "technique",
       "pos": "n.",
       "meaning": "技巧；技术",
       "example": "|technical adj. 技术的；技能的；工艺的。technician n. 技术员；技师",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'technique'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“technique”在“技巧；技术”语境中的常见用法。",
+      "tips": "【联想】在“技巧；技术”的典型场景中频繁造句，用“technique”描述关键动作/特征；【图像】脑海中构建一个与“技巧；技术”强相关的画面，并反复配音念出“technique”；【拆分】t·echn·iq·u·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tetʃnɪkwe/"
     },
     {
       "word": "polytechnic",
       "pos": "adj./n.",
       "meaning": "有关多种工艺的；理工学院",
-      "tips": "【拆分记忆】将'polytechnic'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“有关多种工艺的；理工学院”的典型场景中频繁造句，用“polytechnic”描述关键动作/特征；【图像】脑海中构建一个与“有关多种工艺的；理工学院”强相关的画面，并反复配音念出“polytechnic”；【拆分】p·olyt·echn·ic → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɒlɪtetʃnɪk/",
+      "example": "The polytechnic aspects of technological advancement require careful consideration.",
+      "example_translation": "The polytechnic aspects of 技术进步 require careful consideration."
     },
     {
       "word": "engineer",
       "pos": "n.",
       "meaning": "工程师；技师",
-      "tips": "【拆分记忆】将'engineer'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“工程师；技师”的典型场景中频繁造句，用“engineer”描述关键动作/特征；【图像】脑海中构建一个与“工程师；技师”强相关的画面，并反复配音念出“engineer”；【拆分】eng·in·e·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/engɪnɪə/",
+      "example": "Understanding the concept of engineer is essential for addressing challenges in education systems.",
+      "example_translation": "Understanding the concept of engineer is 必要的 for addressing 挑战 in 教育体系."
     },
     {
       "word": "mechanic",
       "pos": "n.",
       "meaning": "技工；机械师；机修工",
-      "tips": "【拆分记忆】将'mechanic'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“技工；机械师；机修工”的典型场景中频繁造句，用“mechanic”描述关键动作/特征；【图像】脑海中构建一个与“技工；机械师；机修工”强相关的画面，并反复配音念出“mechanic”；【拆分】m·ech·an·ic → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/metʃænɪk/",
+      "example": "Understanding the concept of mechanic is essential for addressing challenges in renewable energy.",
+      "example_translation": "Understanding the concept of mechanic is 必要的 for addressing 挑战 in 可再生能源."
     },
     {
       "word": "advance",
       "pos": "n./v.",
       "meaning": "发展；前进",
-      "tips": "【拆分记忆】将'advance'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“发展；前进”的典型场景中频繁造句，用“advance”描述关键动作/特征；【图像】脑海中构建一个与“发展；前进”强相关的画面，并反复配音念出“advance”；【拆分】adv·anc·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ædvæns/",
+      "example": "The advance in social media impact has attracted international attention.",
+      "example_translation": "The advance in 社交媒体影响 has attracted international attention."
     },
     {
       "word": "innovate",
       "pos": "v.",
       "meaning": "创新；改革",
-      "tips": "【后缀记忆】innovate - 以ate结尾的动词，表示'使...'"
+      "tips": "【前缀】in-（否定/向内）+ novate；【联想】在“创新；改革”的典型场景中频繁造句，用“innovate”描述关键动作/特征；【图像】脑海中构建一个与“创新；改革”强相关的画面，并反复配音念出“innovate”",
+      "phonetic": "/ɪnnɒveɪt/",
+      "example": "Governments must innovate effective strategies for managing climate change.",
+      "example_translation": "政府s must innovate 效果ive 策略 for managing 气候变化."
     },
     {
       "word": "breakthrough",
       "pos": "n.",
       "meaning": "突破",
-      "tips": "【拆分记忆】将'breakthrough'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“突破”的典型场景中频繁造句，用“breakthrough”描述关键动作/特征；【图像】脑海中构建一个与“突破”强相关的画面，并反复配音念出“breakthrough”；【拆分】br·e·akthr·o·ugh → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/brɪːkθræʊ/",
+      "example": "Recent studies have shown that breakthrough plays a crucial role in environmental protection.",
+      "example_translation": "Recent 研究 have shown that breakthrough plays a 关键的 role in 环境保护."
     },
     {
       "word": "gizmo",
       "pos": "n.",
       "meaning": "小装置",
-      "tips": "【拆分记忆】将'gizmo'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“小装置”的典型场景中频繁造句，用“gizmo”描述关键动作/特征；【图像】脑海中构建一个与“小装置”强相关的画面，并反复配音念出“gizmo”；【拆分】g·izm·o → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/gɪzmɒ/",
+      "example": "The gizmo has become increasingly important in discussions about environmental protection.",
+      "example_translation": "The gizmo has become increasingly 重要的 in discussions about 环境保护."
     },
     {
       "word": "patent",
       "pos": "n./v.",
       "meaning": "专利；专利权；得到...的专利权；给...专利证",
-      "tips": "【拆分记忆】将'patent'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“专利；专利权；得到...的专利权；给...专利证”的典型场景中频繁造句，用“patent”描述关键动作/特征；【图像】脑海中构建一个与“专利；专利权；得到...的专利权；给...专利证”强相关的画面，并反复配音念出“patent”；【拆分】p·at·ent → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/peɪtnt/",
+      "example": "The patent in education systems has attracted international attention.",
+      "example_translation": "The patent in 教育体系 has attracted international attention."
     },
     {
       "word": "devise",
       "pos": "v.",
       "meaning": "设计；发明",
       "example": "|device n. 装置；设备",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'devise'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“devise”在“设计；发明”语境中的常见用法。",
+      "tips": "【词根】含“vis(看)”，联想到“设计；发明”；【联想】在“设计；发明”的典型场景中频繁造句，用“devise”描述关键动作/特征；【图像】脑海中构建一个与“设计；发明”强相关的画面，并反复配音念出“devise”",
+      "phonetic": "/devæɪz/"
     },
     {
       "word": "invent",
       "pos": "v.",
       "meaning": "发明，创造",
       "example": "Do you who invented the magnetic needle?|invention n. 发明，创造。inventor n. 发明者，创造者",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'invent'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“invent”在“发明，创造”语境中的常见用法。",
+      "tips": "【前缀】in-（否定/向内）+ vent；【联想】在“发明，创造”的典型场景中频繁造句，用“invent”描述关键动作/特征；【图像】脑海中构建一个与“发明，创造”强相关的画面，并反复配音念出“invent”",
+      "phonetic": "/ɪnvent/"
     },
     {
       "word": "discover",
       "pos": "v.",
       "meaning": "发现",
-      "tips": "【拆分记忆】将'discover'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】dis-（相反/否定）+ cover；【联想】在“发现”的典型场景中频繁造句，用“discover”描述关键动作/特征；【图像】脑海中构建一个与“发现”强相关的画面，并反复配音念出“discover”",
+      "phonetic": "/dɪskɒvɜː/",
+      "example": "Researchers continue to discover new methods for addressing cultural diversity.",
+      "example_translation": "研究ers continue to discover new 方法s for addressing 文化多样性."
     },
     {
       "word": "disclose",
       "pos": "v.",
       "meaning": "揭露；透露",
-      "tips": "【拆分记忆】将'disclose'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】dis-（相反/否定）+ close；【联想】在“揭露；透露”的典型场景中频繁造句，用“disclose”描述关键动作/特征；【图像】脑海中构建一个与“揭露；透露”强相关的画面，并反复配音念出“disclose”",
+      "phonetic": "/dɪsklɒse/",
+      "example": "It is crucial to disclose the impact of healthcare improvements on future generations.",
+      "example_translation": "It is 关键的 to disclose the 影响 of 医疗改善 on future generations."
     },
     {
       "word": "reveal",
       "pos": "v.",
       "meaning": "展现；显示；透露",
-      "tips": "【后缀记忆】reveal - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【前缀】re-（再/回）+ veal；【后缀】reve + al（形容词：…的）；【联想】在“展现；显示；透露”的典型场景中频繁造句，用“reveal”描述关键动作/特征",
+      "phonetic": "/reveəl/",
+      "example": "Companies that reveal innovation tend to lead in education systems.",
+      "example_translation": "公司 that reveal innovation tend to lead in 教育体系."
     },
     {
       "word": "uncover",
       "pos": "v.",
       "meaning": "揭露；发现",
-      "tips": "【拆分记忆】将'uncover'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】un-（否定）+ cover；【联想】在“揭露；发现”的典型场景中频繁造句，用“uncover”描述关键动作/特征；【图像】脑海中构建一个与“揭露；发现”强相关的画面，并反复配音念出“uncover”",
+      "phonetic": "/ʌnkɒvɜː/",
+      "example": "Researchers continue to uncover new methods for addressing environmental protection.",
+      "example_translation": "研究ers continue to uncover new 方法s for addressing 环境保护."
     },
     {
       "word": "expose",
       "pos": "v.",
       "meaning": "使暴露；揭发；使曝光",
-      "tips": "【拆分记忆】将'expose'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“使暴露；揭发；使曝光”的典型场景中频繁造句，用“expose”描述关键动作/特征；【图像】脑海中构建一个与“使暴露；揭发；使曝光”强相关的画面，并反复配音念出“expose”；【拆分】exp·os·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ekspɒse/",
+      "example": "Companies that expose innovation tend to lead in economic development.",
+      "example_translation": "公司 that expose innovation tend to lead in 经济发展."
     },
     {
       "word": "domain",
       "pos": "n.",
       "meaning": "（活动、学问等的）领域；领土；领地",
-      "tips": "【拆分记忆】将'domain'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“（活动、学问等的）领域；领土；领地”的典型场景中频繁造句，用“domain”描述关键动作/特征；【图像】脑海中构建一个与“（活动、学问等的）领域；领土；领地”强相关的画面，并反复配音念出“domain”；【拆分】d·om·a·in → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dɒmeɪn/",
+      "example": "The government's new domain policy aims to improve healthcare improvements.",
+      "example_translation": "The 政府's new domain 政策 aims to improve 医疗改善."
     },
     {
       "word": "field",
       "pos": "n.",
       "meaning": "领域",
-      "tips": "【拆分记忆】将'field'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“领域”的典型场景中频繁造句，用“field”描述关键动作/特征；【图像】脑海中构建一个与“领域”强相关的画面，并反复配音念出“field”；【拆分】f·i·eld → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fɪːld/",
+      "example": "Understanding the concept of field is essential for addressing challenges in social media impact.",
+      "example_translation": "Understanding the concept of field is 必要的 for addressing 挑战 in 社交媒体影响."
     },
     {
       "word": "realm",
       "pos": "n.",
       "meaning": "领域",
-      "tips": "【拆分记忆】将'realm'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】re-（再/回）+ alm；【联想】在“领域”的典型场景中频繁造句，用“realm”描述关键动作/特征；【图像】脑海中构建一个与“领域”强相关的画面，并反复配音念出“realm”",
+      "phonetic": "/reəlm/",
+      "example": "Recent studies have shown that realm plays a crucial role in economic development.",
+      "example_translation": "Recent 研究 have shown that realm plays a 关键的 role in 经济发展."
     },
     {
       "word": "foundation",
       "pos": "n.",
       "meaning": "基础；地基；基金会",
-      "tips": "【后缀记忆】foundation - 以tion结尾的名词，表示动作或状态"
+      "tips": "【后缀】founda + tion（名词：动作/状态）；【联想】在“基础；地基；基金会”的典型场景中频繁造句，用“foundation”描述关键动作/特征；【图像】脑海中构建一个与“基础；地基；基金会”强相关的画面，并反复配音念出“foundation”",
+      "phonetic": "/fæʊndæʃən/",
+      "example": "Recent studies have shown that foundation plays a crucial role in environmental protection.",
+      "example_translation": "Recent 研究 have shown that foundation plays a 关键的 role in 环境保护."
     },
     {
       "word": "specialise/specialize",
       "pos": "v.",
       "meaning": "专攻",
       "example": "|specialize in 专攻；专门研究；专门经营",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'specialise/specialize'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“specialise/specialize”在“专攻”语境中的常见用法。",
+      "tips": "【后缀】specialise/special + ize（动词：使…化）；【联想】在“专攻”的典型场景中频繁造句，用“specialise/specialize”描述关键动作/特征；【图像】脑海中构建一个与“专攻”强相关的画面，并反复配音念出“specialise/specialize”",
+      "phonetic": "/spesəlæɪz/spesəlæɪz/"
     },
     {
       "word": "absorb",
       "pos": "v.",
       "meaning": "理解；掌握",
-      "tips": "【拆分记忆】将'absorb'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“理解；掌握”的典型场景中频繁造句，用“absorb”描述关键动作/特征；【图像】脑海中构建一个与“理解；掌握”强相关的画面，并反复配音念出“absorb”；【拆分】abs·orb → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æbsɔːb/",
+      "example": "It is crucial to absorb the impact of economic development on future generations.",
+      "example_translation": "It is 关键的 to absorb the 影响 of 经济发展 on future generations."
     },
     {
       "word": "concentrate",
       "pos": "v.",
       "meaning": "（集中）心思；（使）浓缩",
       "example": "|concentration n. 专心；浓度。concentrate on 专心于",
-      "example_translation": "[需要翻译]",
-      "tips": "【后缀记忆】concentrate - 以ate结尾的动词，表示'使...'"
+      "example_translation": "该例句体现了“concentrate”在“（集中）心思；（使）浓缩”语境中的常见用法。",
+      "tips": "【联想】在“（集中）心思；（使）浓缩”的典型场景中频繁造句，用“concentrate”描述关键动作/特征；【图像】脑海中构建一个与“（集中）心思；（使）浓缩”强相关的画面，并反复配音念出“concentrate”；【拆分】c·onc·entr·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɒnsntreɪt/"
     },
     {
       "word": "focus",
       "pos": "v./n.",
       "meaning": "集中于；焦点",
-      "tips": "【拆分记忆】将'focus'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“集中于；焦点”的典型场景中频繁造句，用“focus”描述关键动作/特征；【图像】脑海中构建一个与“集中于；焦点”强相关的画面，并反复配音念出“focus”；【拆分】f·oc·us → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fɒkʌs/",
+      "example": "This focus represents a breakthrough in technological advancement.",
+      "example_translation": "This focus represents a breakthrough in 技术进步."
     },
     {
       "word": "utilise/utilize",
       "pos": "v.",
       "meaning": "利用",
       "example": "|utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'utilise/utilize'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“utilise/utilize”在“利用”语境中的常见用法。",
+      "tips": "【后缀】utilise/util + ize（动词：使…化）；【联想】在“利用”的典型场景中频繁造句，用“utilise/utilize”描述关键动作/特征；【图像】脑海中构建一个与“利用”强相关的画面，并反复配音念出“utilise/utilize”",
+      "phonetic": "/ʌtɪlæɪz/ʌtɪlæɪz/"
     },
     {
       "word": "usage",
       "pos": "n.",
       "meaning": "使用；用法",
-      "tips": "【拆分记忆】将'usage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“使用；用法”的典型场景中频繁造句，用“usage”描述关键动作/特征；【图像】脑海中构建一个与“使用；用法”强相关的画面，并反复配音念出“usage”；【拆分】us·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ʌsædʒ/",
+      "example": "The government's new usage policy aims to improve artificial intelligence.",
+      "example_translation": "The 政府's new usage 政策 aims to improve 人工智能."
     },
     {
       "word": "tester",
       "pos": "n.",
       "meaning": "测试员；测试仪",
-      "tips": "【拆分记忆】将'tester'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“测试员；测试仪”的典型场景中频繁造句，用“tester”描述关键动作/特征；【图像】脑海中构建一个与“测试员；测试仪”强相关的画面，并反复配音念出“tester”；【拆分】t·est·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/təstɜː/",
+      "example": "Experts argue that tester is a key factor in successful artificial intelligence.",
+      "example_translation": "专家 argue that tester is a key 因素 in successful 人工智能."
     },
     {
       "word": "apply",
       "pos": "v.",
       "meaning": "应用；适用",
       "example": "|apply to 适用于。apply A to B 把 A 应用于 B",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'apply'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“apply”在“应用；适用”语境中的常见用法。",
+      "tips": "【后缀】app + ly（副词）；【联想】在“应用；适用”的典型场景中频繁造句，用“apply”描述关键动作/特征；【图像】脑海中构建一个与“应用；适用”强相关的画面，并反复配音念出“apply”",
+      "phonetic": "/æpplɪ/"
     },
     {
       "word": "device",
       "pos": "n.",
       "meaning": "装置；设备；手段；策略",
-      "tips": "【拆分记忆】将'device'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“装置；设备；手段；策略”的典型场景中频繁造句，用“device”描述关键动作/特征；【图像】脑海中构建一个与“装置；设备；手段；策略”强相关的画面，并反复配音念出“device”；【拆分】d·ev·ic·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/devɪs/",
+      "example": "Recent studies have shown that device plays a crucial role in technological advancement.",
+      "example_translation": "Recent 研究 have shown that device plays a 关键的 role in 技术进步."
     },
     {
       "word": "appliance",
       "pos": "n.",
       "meaning": "应用；（家用）器具",
-      "tips": "【拆分记忆】将'appliance'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“应用；（家用）器具”的典型场景中频繁造句，用“appliance”描述关键动作/特征；【图像】脑海中构建一个与“应用；（家用）器具”强相关的画面，并反复配音念出“appliance”；【拆分】appl·i·anc·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æpplɪæns/",
+      "example": "Experts argue that appliance is a key factor in successful globalization effects.",
+      "example_translation": "专家 argue that appliance is a key 因素 in successful 全球化效应."
     },
     {
       "word": "facility",
       "pos": "n.",
       "meaning": "设备；便利",
-      "tips": "【拆分记忆】将'facility'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】facil + ity（名词：性质）；【联想】在“设备；便利”的典型场景中频繁造句，用“facility”描述关键动作/特征；【图像】脑海中构建一个与“设备；便利”强相关的画面，并反复配音念出“facility”",
+      "phonetic": "/fæslɪtɪ/",
+      "example": "Understanding the concept of facility is essential for addressing challenges in climate change.",
+      "example_translation": "Understanding the concept of facility is 必要的 for addressing 挑战 in 气候变化."
     },
     {
       "word": "equipment",
       "pos": "n.",
       "meaning": "设备",
-      "tips": "【拆分记忆】将'equipment'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】equip + ment（名词：结果）；【联想】在“设备”的典型场景中频繁造句，用“equipment”描述关键动作/特征；【图像】脑海中构建一个与“设备”强相关的画面，并反复配音念出“equipment”",
+      "phonetic": "/ekwɪpmənt/",
+      "example": "The equipment has become increasingly important in discussions about climate change.",
+      "example_translation": "The equipment has become increasingly 重要的 in discussions about 气候变化."
     },
     {
       "word": "instrument",
       "pos": "n.",
       "meaning": "仪器；工具；乐器",
-      "tips": "【拆分记忆】将'instrument'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】in-（否定/向内）+ strument；【后缀】instru + ment（名词：结果）；【联想】在“仪器；工具；乐器”的典型场景中频繁造句，用“instrument”描述关键动作/特征",
+      "phonetic": "/ɪnstrʌmənt/",
+      "example": "The instrument has become increasingly important in discussions about urban planning.",
+      "example_translation": "The instrument has become increasingly 重要的 in discussions about 城市规划."
     },
     {
       "word": "tool",
       "pos": "n.",
       "meaning": "工具",
-      "tips": "【基础记忆】tool - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“工具”的典型场景中频繁造句，用“tool”描述关键动作/特征；【图像】脑海中构建一个与“工具”强相关的画面，并反复配音念出“tool”；【拆分】t·o·ol → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tʌːl/",
+      "example": "Experts argue that tool is a key factor in successful environmental protection.",
+      "example_translation": "专家 argue that tool is a key 因素 in successful 环境保护."
     },
     {
       "word": "gauge",
       "pos": "n./v.",
       "meaning": "测量仪器；测量；判断",
-      "tips": "【拆分记忆】将'gauge'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“测量仪器；测量；判断”的典型场景中频繁造句，用“gauge”描述关键动作/特征；【图像】脑海中构建一个与“测量仪器；测量；判断”强相关的画面，并反复配音念出“gauge”；【拆分】g·a·ug·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/gɔːdʒ/",
+      "example": "Experts gauge the importance of addressing social media impact systematically.",
+      "example_translation": "专家 gauge the importance of addressing 社交媒体影响 系统atically."
     },
     {
       "word": "measure",
       "pos": "v./n.",
       "meaning": "测量；衡量；措施",
       "example": "|measurable adj. 可测量的。measurement n. 测量；衡量；尺寸。take measures 采取措施",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'measure'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“measure”在“测量；衡量；措施”语境中的常见用法。",
+      "tips": "【联想】在“测量；衡量；措施”的典型场景中频繁造句，用“measure”描述关键动作/特征；【图像】脑海中构建一个与“测量；衡量；措施”强相关的画面，并反复配音念出“measure”；【拆分】m·e·as·ur·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mɪːʒər/"
     },
     {
       "word": "calculate",
       "pos": "v.",
       "meaning": "计算；考虑；打算",
       "example": "|calculation n. 计算。calculator n. 计算器",
-      "example_translation": "[需要翻译]",
-      "tips": "【后缀记忆】calculate - 以ate结尾的动词，表示'使...'"
+      "example_translation": "该例句体现了“calculate”在“计算；考虑；打算”语境中的常见用法。",
+      "tips": "【联想】在“计算；考虑；打算”的典型场景中频繁造句，用“calculate”描述关键动作/特征；【图像】脑海中构建一个与“计算；考虑；打算”强相关的画面，并反复配音念出“calculate”；【拆分】c·alc·ul·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kəlkʌleɪt/"
     },
     {
       "word": "compute",
       "pos": "n.",
       "meaning": "计算；估计",
-      "tips": "【拆分记忆】将'compute'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“计算；估计”的典型场景中频繁造句，用“compute”描述关键动作/特征；【图像】脑海中构建一个与“计算；估计”强相关的画面，并反复配音念出“compute”；【拆分】c·omp·ut·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɒmpʌte/",
+      "example": "The government's new compute policy aims to improve globalization effects.",
+      "example_translation": "The 政府's new compute 政策 aims to improve 全球化效应."
     },
     {
       "word": "count",
       "pos": "v.",
       "meaning": "计算",
       "example": "|counter n. 柜台；计数器",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'count'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“count”在“计算”语境中的常见用法。",
+      "tips": "【联想】在“计算”的典型场景中频繁造句，用“count”描述关键动作/特征；【图像】脑海中构建一个与“计算”强相关的画面，并反复配音念出“count”；【拆分】c·o·unt → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kæʊnt/"
     },
     {
       "word": "estimate",
       "pos": "n./v.",
       "meaning": "估计；估价；评价",
-      "tips": "【后缀记忆】estimate - 以ate结尾的动词，表示'使...'"
+      "tips": "【联想】在“估计；估价；评价”的典型场景中频繁造句，用“estimate”描述关键动作/特征；【图像】脑海中构建一个与“估计；估价；评价”强相关的画面，并反复配音念出“estimate”；【拆分】est·im·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/əstɪmeɪt/",
+      "example": "Experts estimate the importance of addressing cultural diversity systematically.",
+      "example_translation": "专家 estimate the importance of addressing 文化多样性 系统atically."
     },
     {
       "word": "assess",
       "pos": "v.",
       "meaning": "评估；估算",
-      "tips": "【拆分记忆】将'assess'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“评估；估算”的典型场景中频繁造句，用“assess”描述关键动作/特征；【图像】脑海中构建一个与“评估；估算”强相关的画面，并反复配音念出“assess”；【拆分】ass·ess → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æssess/",
+      "example": "It is crucial to assess the impact of healthcare improvements on future generations.",
+      "example_translation": "It is 关键的 to assess the 影响 of 医疗改善 on future generations."
     },
     {
       "word": "evaluate",
       "pos": "v.",
       "meaning": "评价；评估",
-      "tips": "【后缀记忆】evaluate - 以ate结尾的动词，表示'使...'"
+      "tips": "【联想】在“评价；评估”的典型场景中频繁造句，用“evaluate”描述关键动作/特征；【图像】脑海中构建一个与“评价；评估”强相关的画面，并反复配音念出“evaluate”；【拆分】ev·al·u·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/evəldʒʌːɪt/",
+      "example": "It is crucial to evaluate the impact of technological advancement on future generations.",
+      "example_translation": "It is 关键的 to evaluate the 影响 of 技术进步 on future generations."
     },
     {
       "word": "accessory",
       "pos": "n.",
       "meaning": "附件；配件",
-      "tips": "【拆分记忆】将'accessory'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“附件；配件”的典型场景中频繁造句，用“accessory”描述关键动作/特征；【图像】脑海中构建一个与“附件；配件”强相关的画面，并反复配音念出“accessory”；【拆分】acc·ess·ory → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æksssərɪ/",
+      "example": "The government's new accessory policy aims to improve education systems.",
+      "example_translation": "The 政府's new accessory 政策 aims to improve 教育体系."
     },
     {
       "word": "byproduct",
       "pos": "n.",
       "meaning": "副产品",
       "example": "|bypass n. 旁路。bypath n. 旁道；小路。bywork n. 业余活计。byname n. 绰号",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'byproduct'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“byproduct”在“副产品”语境中的常见用法。",
+      "tips": "【联想】在“副产品”的典型场景中频繁造句，用“byproduct”描述关键动作/特征；【图像】脑海中构建一个与“副产品”强相关的画面，并反复配音念出“byproduct”；【拆分】bypr·od·uct → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bjprɒdʌkt/"
     },
     {
       "word": "auxiliary",
       "pos": "adj.",
       "meaning": "辅助的；协助的；备用的",
-      "tips": "【拆分记忆】将'auxiliary'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“辅助的；协助的；备用的”的典型场景中频繁造句，用“auxiliary”描述关键动作/特征；【图像】脑海中构建一个与“辅助的；协助的；备用的”强相关的画面，并反复配音念出“auxiliary”；【拆分】a·ux·il·i·ary → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɔːksɪlɪərɪ/",
+      "example": "Studies reveal auxiliary patterns in how societies approach artificial intelligence.",
+      "example_translation": "研究 reveal auxiliary patterns in how societies 方法 人工智能."
     },
     {
       "word": "versatile",
       "pos": "adj.",
       "meaning": "多功能的；多用途的",
-      "tips": "【拆分记忆】将'versatile'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“多功能的；多用途的”的典型场景中频繁造句，用“versatile”描述关键动作/特征；【图像】脑海中构建一个与“多功能的；多用途的”强相关的画面，并反复配音念出“versatile”；【拆分】v·ers·at·il·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/vɜːsætɪle/",
+      "example": "Implementing versatile solutions is vital for progress in renewable energy.",
+      "example_translation": "Implementing versatile 解决方案 is vital for 进步 in 可再生能源."
     },
     {
       "word": "add",
       "pos": "v.",
       "meaning": "添加；附加",
-      "tips": "【基础记忆】add - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“添加；附加”的典型场景中频繁造句，用“add”描述关键动作/特征；【图像】脑海中构建一个与“添加；附加”强相关的画面，并反复配音念出“add”",
+      "phonetic": "/ædd/",
+      "example": "Companies that add innovation tend to lead in globalization effects.",
+      "example_translation": "公司 that add innovation tend to lead in 全球化效应."
     },
     {
       "word": "accumulate",
       "pos": "v.",
       "meaning": "累积；（数额）不断增加",
-      "tips": "【后缀记忆】accumulate - 以ate结尾的动词，表示'使...'"
+      "tips": "【联想】在“累积；（数额）不断增加”的典型场景中频繁造句，用“accumulate”描述关键动作/特征；【图像】脑海中构建一个与“累积；（数额）不断增加”强相关的画面，并反复配音念出“accumulate”；【拆分】acc·um·ul·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ækkʌmʌleɪt/",
+      "example": "Organizations worldwide are working to accumulate their approach to renewable energy.",
+      "example_translation": "组织 worldwide are working to accumulate their 方法 to 可再生能源."
     },
     {
       "word": "assemble",
       "pos": "v.",
       "meaning": "集合；聚集",
-      "tips": "【拆分记忆】将'assemble'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“集合；聚集”的典型场景中频繁造句，用“assemble”描述关键动作/特征；【图像】脑海中构建一个与“集合；聚集”强相关的画面，并反复配音念出“assemble”；【拆分】ass·embl·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æssemble/",
+      "example": "Organizations worldwide are working to assemble their approach to economic development.",
+      "example_translation": "组织 worldwide are working to assemble their 方法 to 经济发展."
     },
     {
       "word": "gather",
       "pos": "v.",
       "meaning": "收集；采集",
-      "tips": "【拆分记忆】将'gather'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“收集；采集”的典型场景中频繁造句，用“gather”描述关键动作/特征；【图像】脑海中构建一个与“收集；采集”强相关的画面，并反复配音念出“gather”；【拆分】g·ath·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/gæθɜː/",
+      "example": "Companies that gather innovation tend to lead in economic development.",
+      "example_translation": "公司 that gather innovation tend to lead in 经济发展."
     },
     {
       "word": "attach",
       "pos": "v.",
       "meaning": "使依附；附加；缚；系；贴",
       "example": "|attachment n. 附件；附属物。attach importance to 重视",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'attach'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“attach”在“使依附；附加；缚；系；贴”语境中的常见用法。",
+      "tips": "【联想】在“使依附；附加；缚；系；贴”的典型场景中频繁造句，用“attach”描述关键动作/特征；【图像】脑海中构建一个与“使依附；附加；缚；系；贴”强相关的画面，并反复配音念出“attach”；【拆分】att·ach → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ættætʃ/"
     },
     {
       "word": "belong",
       "pos": "v.",
       "meaning": "应在（某处）；适合（某种情形）",
       "example": "|belong to 属于",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'belong'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“belong”在“应在（某处）；适合（某种情形）”语境中的常见用法。",
+      "tips": "【联想】在“应在（某处）；适合（某种情形）”的典型场景中频繁造句，用“belong”描述关键动作/特征；【图像】脑海中构建一个与“应在（某处）；适合（某种情形）”强相关的画面，并反复配音念出“belong”；【拆分】b·el·ong → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/belɒng/"
     },
     {
       "word": "optics",
       "pos": "n.",
       "meaning": "光学",
-      "tips": "【拆分记忆】将'optics'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“光学”的典型场景中频繁造句，用“optics”描述关键动作/特征；【图像】脑海中构建一个与“光学”强相关的画面，并反复配音念出“optics”；【拆分】opt·ics → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɒptɪks/",
+      "example": "Experts argue that optics is a key factor in successful cultural diversity.",
+      "example_translation": "专家 argue that optics is a key 因素 in successful 文化多样性."
     },
     {
       "word": "microscope",
       "pos": "n.",
       "meaning": "显微镜",
       "example": "|microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'microscope'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“microscope”在“显微镜”语境中的常见用法。",
+      "tips": "【词根】含“micro(小)”，联想到“显微镜”；【联想】在“显微镜”的典型场景中频繁造句，用“microscope”描述关键动作/特征；【图像】脑海中构建一个与“显微镜”强相关的画面，并反复配音念出“microscope”",
+      "phonetic": "/mɪkrɒskɒpe/"
     },
     {
       "word": "lens",
       "pos": "n.",
       "meaning": "镜头；透镜",
-      "tips": "【基础记忆】lens - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“镜头；透镜”的典型场景中频繁造句，用“lens”描述关键动作/特征；【图像】脑海中构建一个与“镜头；透镜”强相关的画面，并反复配音念出“lens”；【拆分】l·ens → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/lens/",
+      "example": "The lens has become increasingly important in discussions about economic development.",
+      "example_translation": "The lens has become increasingly 重要的 in discussions about 经济发展."
     },
     {
       "word": "radar",
       "pos": "n.",
       "meaning": "雷达",
       "phonetic": "/ˈreɪdɑː(r)/",
-      "tips": "【拆分记忆】将'radar'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“雷达”的典型场景中频繁造句，用“radar”描述关键动作/特征；【图像】脑海中构建一个与“雷达”强相关的画面，并反复配音念出“radar”；【拆分】r·ad·ar → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "example": "Recent studies have shown that radar plays a crucial role in education systems.",
+      "example_translation": "Recent 研究 have shown that radar plays a 关键的 role in 教育体系."
     },
     {
       "word": "echo",
       "pos": "n./v.",
       "meaning": "回声；发回声；模仿；重复",
-      "tips": "【基础记忆】echo - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“回声；发回声；模仿；重复”的典型场景中频繁造句，用“echo”描述关键动作/特征；【图像】脑海中构建一个与“回声；发回声；模仿；重复”强相关的画面，并反复配音念出“echo”；【拆分】ech·o → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/etʃɒ/",
+      "example": "The echo in globalization effects has attracted international attention.",
+      "example_translation": "The echo in 全球化效应 has attracted international attention."
     },
     {
       "word": "sensor",
       "pos": "n.",
       "meaning": "传感器",
-      "tips": "【拆分记忆】将'sensor'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“传感器”的典型场景中频繁造句，用“sensor”描述关键动作/特征；【图像】脑海中构建一个与“传感器”强相关的画面，并反复配音念出“sensor”；【拆分】s·ens·or → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sensɔː/",
+      "example": "Recent studies have shown that sensor plays a crucial role in urban planning.",
+      "example_translation": "Recent 研究 have shown that sensor plays a 关键的 role in 城市规划."
     },
     {
       "word": "multimedia",
       "pos": "n.",
       "meaning": "多媒体",
-      "tips": "【拆分记忆】将'multimedia'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“多媒体”的典型场景中频繁造句，用“multimedia”描述关键动作/特征；【图像】脑海中构建一个与“多媒体”强相关的画面，并反复配音念出“multimedia”；【拆分】m·ult·im·ed·i·a → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mʌltɪmdɪæ/",
+      "example": "The multimedia has become increasingly important in discussions about cultural diversity.",
+      "example_translation": "The multimedia has become increasingly 重要的 in discussions about 文化多样性."
     },
     {
       "word": "network",
       "pos": "n.",
       "meaning": "网络",
-      "tips": "【拆分记忆】将'network'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“网络”的典型场景中频繁造句，用“network”描述关键动作/特征；【图像】脑海中构建一个与“网络”强相关的画面，并反复配音念出“network”；【拆分】n·etw·ork → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/netwɔːk/",
+      "example": "Experts argue that network is a key factor in successful renewable energy.",
+      "example_translation": "专家 argue that network is a key 因素 in successful 可再生能源."
     },
     {
       "word": "browser",
       "pos": "n.",
       "meaning": "浏览器",
-      "tips": "【拆分记忆】将'browser'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“浏览器”的典型场景中频繁造句，用“browser”描述关键动作/特征；【图像】脑海中构建一个与“浏览器”强相关的画面，并反复配音念出“browser”；【拆分】br·ows·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bræʊsɜː/",
+      "example": "Experts argue that browser is a key factor in successful renewable energy.",
+      "example_translation": "专家 argue that browser is a key 因素 in successful 可再生能源."
     },
     {
       "word": "dial",
       "pos": "v.",
       "meaning": "拨（电话号码）",
-      "tips": "【基础记忆】dial - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“拨（电话号码）”的典型场景中频繁造句，用“dial”描述关键动作/特征；【图像】脑海中构建一个与“拨（电话号码）”强相关的画面，并反复配音念出“dial”；【拆分】d·i·al → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dɪəl/",
+      "example": "It is crucial to dial the impact of cultural diversity on future generations.",
+      "example_translation": "It is 关键的 to dial the 影响 of 文化多样性 on future generations."
     },
     {
       "word": "microcomputer",
       "pos": "n.",
       "meaning": "微型计算机",
-      "tips": "【拆分记忆】将'microcomputer'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“micro(小)”，联想到“微型计算机”；【联想】在“微型计算机”的典型场景中频繁造句，用“microcomputer”描述关键动作/特征；【图像】脑海中构建一个与“微型计算机”强相关的画面，并反复配音念出“microcomputer”",
+      "phonetic": "/mɪkrɒkɒmpʌtɜː/",
+      "example": "Recent studies have shown that microcomputer plays a crucial role in technological advancement.",
+      "example_translation": "Recent 研究 have shown that microcomputer plays a 关键的 role in 技术进步."
     },
     {
       "word": "laptop",
       "pos": "n.",
       "meaning": "笔记本电脑",
-      "tips": "【拆分记忆】将'laptop'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“笔记本电脑”的典型场景中频繁造句，用“laptop”描述关键动作/特征；【图像】脑海中构建一个与“笔记本电脑”强相关的画面，并反复配音念出“laptop”；【拆分】l·apt·op → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/læptɒp/",
+      "example": "Experts argue that laptop is a key factor in successful artificial intelligence.",
+      "example_translation": "专家 argue that laptop is a key 因素 in successful 人工智能."
     },
     {
       "word": "software",
       "pos": "n.",
       "meaning": "软件",
-      "tips": "【拆分记忆】将'software'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“软件”的典型场景中频繁造句，用“software”描述关键动作/特征；【图像】脑海中构建一个与“软件”强相关的画面，并反复配音念出“software”；【拆分】s·oftw·ar·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sɒftweə/",
+      "example": "Experts argue that software is a key factor in successful renewable energy.",
+      "example_translation": "专家 argue that software is a key 因素 in successful 可再生能源."
     },
     {
       "word": "keyboard",
       "pos": "n.",
       "meaning": "键盘",
-      "tips": "【拆分记忆】将'keyboard'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“键盘”的典型场景中频繁造句，用“keyboard”描述关键动作/特征；【图像】脑海中构建一个与“键盘”强相关的画面，并反复配音念出“keyboard”；【拆分】k·eyb·o·ard → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kejbəʊrd/",
+      "example": "The government's new keyboard policy aims to improve cultural diversity.",
+      "example_translation": "The 政府's new keyboard 政策 aims to improve 文化多样性."
     },
     {
       "word": "screen",
       "pos": "n.",
       "meaning": "屏幕",
-      "tips": "【拆分记忆】将'screen'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“屏幕”的典型场景中频繁造句，用“screen”描述关键动作/特征；【图像】脑海中构建一个与“屏幕”强相关的画面，并反复配音念出“screen”；【拆分】scr·e·en → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/skrɪːn/",
+      "example": "The screen has become increasingly important in discussions about artificial intelligence.",
+      "example_translation": "The screen has become increasingly 重要的 in discussions about 人工智能."
     },
     {
       "word": "loudspeaker",
       "pos": "n.",
       "meaning": "扬声器；喇叭",
-      "tips": "【拆分记忆】将'loudspeaker'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“扬声器；喇叭”的典型场景中频繁造句，用“loudspeaker”描述关键动作/特征；【图像】脑海中构建一个与“扬声器；喇叭”强相关的画面，并反复配音念出“loudspeaker”；【拆分】l·o·udsp·e·ak·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/læʊdspɪːkɜː/",
+      "example": "Understanding the concept of loudspeaker is essential for addressing challenges in artificial intelligence.",
+      "example_translation": "Understanding the concept of loudspeaker is 必要的 for addressing 挑战 in 人工智能."
     },
     {
       "word": "microphone",
       "pos": "n.",
       "meaning": "麦克风；话筒",
-      "tips": "【拆分记忆】将'microphone'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“micro(小)”，联想到“麦克风；话筒”；【联想】在“麦克风；话筒”的典型场景中频繁造句，用“microphone”描述关键动作/特征；【图像】脑海中构建一个与“麦克风；话筒”强相关的画面，并反复配音念出“microphone”",
+      "phonetic": "/mɪkrɒfɒne/",
+      "example": "The government's new microphone policy aims to improve environmental protection.",
+      "example_translation": "The 政府's new microphone 政策 aims to improve 环境保护."
     },
     {
       "word": "cassette",
       "pos": "n.",
       "meaning": "盒式磁带；底片盒",
-      "tips": "【拆分记忆】将'cassette'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“盒式磁带；底片盒”的典型场景中频繁造句，用“cassette”描述关键动作/特征；【图像】脑海中构建一个与“盒式磁带；底片盒”强相关的画面，并反复配音念出“cassette”；【拆分】c·ass·ett·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kæssette/",
+      "example": "The government's new cassette policy aims to improve social media impact.",
+      "example_translation": "The 政府's new cassette 政策 aims to improve 社交媒体影响."
     },
     {
       "word": "tape",
       "pos": "n.",
       "meaning": "磁带；录音带；胶带",
-      "tips": "【基础记忆】tape - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“磁带；录音带；胶带”的典型场景中频繁造句，用“tape”描述关键动作/特征；【图像】脑海中构建一个与“磁带；录音带；胶带”强相关的画面，并反复配音念出“tape”；【拆分】t·ap·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tæpe/",
+      "example": "Understanding the concept of tape is essential for addressing challenges in technological advancement.",
+      "example_translation": "Understanding the concept of tape is 必要的 for addressing 挑战 in 技术进步."
     },
     {
       "word": "binary",
       "pos": "adj.",
       "meaning": "二进制的；二元的",
-      "tips": "【拆分记忆】将'binary'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“二进制的；二元的”的典型场景中频繁造句，用“binary”描述关键动作/特征；【图像】脑海中构建一个与“二进制的；二元的”强相关的画面，并反复配音念出“binary”；【拆分】b·in·ary → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/bɪnərɪ/",
+      "example": "The binary impact of social media impact cannot be underestimated.",
+      "example_translation": "The binary 影响 of 社交媒体影响 cannot be underestimated."
     },
     {
       "word": "digital",
       "pos": "adj.",
       "meaning": "数字的",
-      "tips": "【后缀记忆】digital - 以al结尾的形容词，表示'与...有关的'"
+      "tips": "【后缀】digit + al（形容词：…的）；【联想】在“数字的”的典型场景中频繁造句，用“digital”描述关键动作/特征；【图像】脑海中构建一个与“数字的”强相关的画面，并反复配音念出“digital”",
+      "phonetic": "/dɪgɪtəl/",
+      "example": "Studies reveal digital patterns in how societies approach healthcare improvements.",
+      "example_translation": "研究 reveal digital patterns in how societies 方法 医疗改善."
     },
     {
       "word": "wireless",
       "pos": "adj.",
       "meaning": "无线的",
-      "tips": "【拆分记忆】将'wireless'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】wire + less（形容词：没有）；【联想】在“无线的”的典型场景中频繁造句，用“wireless”描述关键动作/特征；【图像】脑海中构建一个与“无线的”强相关的画面，并反复配音念出“wireless”",
+      "phonetic": "/wɜːeləs/",
+      "example": "Implementing wireless solutions is vital for progress in social media impact.",
+      "example_translation": "Implementing wireless 解决方案 is vital for 进步 in 社交媒体影响."
     },
     {
       "word": "high-definition",
       "pos": "adj.",
       "meaning": "高分辨率的",
-      "tips": "【后缀记忆】high-definition - 以tion结尾的名词，表示动作或状态"
+      "tips": "【后缀】high-defini + tion（名词：动作/状态）；【联想】在“高分辨率的”的典型场景中频繁造句，用“high-definition”描述关键动作/特征；【图像】脑海中构建一个与“高分辨率的”强相关的画面，并反复配音念出“high-definition”",
+      "phonetic": "/hɪ-defɪnɪʃən/",
+      "example": "Studies reveal high-definition patterns in how societies approach climate change.",
+      "example_translation": "研究 reveal high-definition patterns in how societies 方法 气候变化."
     },
     {
       "word": "audio",
       "pos": "adj.",
       "meaning": "声音的",
-      "tips": "【拆分记忆】将'audio'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“aud(听)”，联想到“声音的”；【联想】在“声音的”的典型场景中频繁造句，用“audio”描述关键动作/特征；【图像】脑海中构建一个与“声音的”强相关的画面，并反复配音念出“audio”",
+      "phonetic": "/ɔːdɪɒ/",
+      "example": "Studies reveal audio patterns in how societies approach healthcare improvements.",
+      "example_translation": "研究 reveal audio patterns in how societies 方法 医疗改善."
     },
     {
       "word": "vision",
       "pos": "n.",
       "meaning": "视觉；视力",
-      "tips": "【拆分记忆】将'vision'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“vis(看)”，联想到“视觉；视力”；【联想】在“视觉；视力”的典型场景中频繁造句，用“vision”描述关键动作/特征；【图像】脑海中构建一个与“视觉；视力”强相关的画面，并反复配音念出“vision”",
+      "phonetic": "/vɪʒən/",
+      "example": "Understanding the concept of vision is essential for addressing challenges in social media impact.",
+      "example_translation": "Understanding the concept of vision is 必要的 for addressing 挑战 in 社交媒体影响."
     },
     {
       "word": "fantasy",
       "pos": "n.",
       "meaning": "幻想",
       "example": "He is unable to divorce fantasy from reality|fantastic adj. 奇异的；奇妙的",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'fantasy'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“fantasy”在“幻想”语境中的常见用法。",
+      "tips": "【联想】在“幻想”的典型场景中频繁造句，用“fantasy”描述关键动作/特征；【图像】脑海中构建一个与“幻想”强相关的画面，并反复配音念出“fantasy”；【拆分】f·ant·asy → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fæntæsj/"
     },
     {
       "word": "science fiction/sci-fi",
       "pos": "n.",
       "meaning": "科幻作品",
-      "tips": "【后缀记忆】science fiction/sci-fi - 以tion结尾的名词，表示动作或状态"
+      "tips": "【联想】在“科幻作品”的典型场景中频繁造句，用“science fiction/sci-fi”描述关键动作/特征；【图像】脑海中构建一个与“科幻作品”强相关的画面，并反复配音念出“science fiction/sci-fi”；【拆分】sc·i·enc·e f·ict·i·on/sc·i-f·i → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/skɪːns fɪkʃən/skɪ-fɪ/",
+      "example": "The science fiction/sci-fi has become increasingly important in discussions about globalization effects.",
+      "example_translation": "The science fiction/sci-fi has become increasingly 重要的 in discussions about 全球化效应."
     },
     {
       "word": "pump",
       "pos": "n./v.",
       "meaning": "泵；（用泵）抽",
-      "tips": "【基础记忆】pump - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“泵；（用泵）抽”的典型场景中频繁造句，用“pump”描述关键动作/特征；【图像】脑海中构建一个与“泵；（用泵）抽”强相关的画面，并反复配音念出“pump”；【拆分】p·ump → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pʌmp/",
+      "example": "Experts pump the importance of addressing cultural diversity systematically.",
+      "example_translation": "专家 pump the importance of addressing 文化多样性 系统atically."
     },
     {
       "word": "generator",
       "pos": "n.",
       "meaning": "发电机",
-      "tips": "【拆分记忆】将'generator'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“发电机”的典型场景中频繁造句，用“generator”描述关键动作/特征；【图像】脑海中构建一个与“发电机”强相关的画面，并反复配音念出“generator”；【拆分】g·en·er·at·or → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dʒnɜːætɔː/",
+      "example": "Experts argue that generator is a key factor in successful social media impact.",
+      "example_translation": "专家 argue that generator is a key 因素 in successful 社交媒体影响."
     },
     {
       "word": "gear",
       "pos": "n./v.",
       "meaning": "齿轮；传动装置；使适合",
       "example": "Education should be geared to children's needs|in high gear 以高速档；高速地。gear up 换高速档；促进",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】gear - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“gear”在“齿轮；传动装置；使适合”语境中的常见用法。",
+      "tips": "【联想】在“齿轮；传动装置；使适合”的典型场景中频繁造句，用“gear”描述关键动作/特征；【图像】脑海中构建一个与“齿轮；传动装置；使适合”强相关的画面，并反复配音念出“gear”；【拆分】g·e·ar → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/gɪə/"
     },
     {
       "word": "pivot",
       "pos": "n.",
       "meaning": "枢轴；支点；中心；重点",
       "example": "The mother is often the pivot of family life",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'pivot'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“pivot”在“枢轴；支点；中心；重点”语境中的常见用法。",
+      "tips": "【联想】在“枢轴；支点；中心；重点”的典型场景中频繁造句，用“pivot”描述关键动作/特征；【图像】脑海中构建一个与“枢轴；支点；中心；重点”强相关的画面，并反复配音念出“pivot”；【拆分】p·iv·ot → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɪvɒt/"
     },
     {
       "word": "hydraulic",
       "pos": "adj.",
       "meaning": "水力的；液压的",
-      "tips": "【拆分记忆】将'hydraulic'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“水力的；液压的”的典型场景中频繁造句，用“hydraulic”描述关键动作/特征；【图像】脑海中构建一个与“水力的；液压的”强相关的画面，并反复配音念出“hydraulic”；【拆分】hydr·a·ul·ic → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/hjdrɔːlɪk/",
+      "example": "The hydraulic impact of education systems cannot be underestimated.",
+      "example_translation": "The hydraulic 影响 of 教育体系 cannot be underestimated."
     },
     {
       "word": "drainage",
       "pos": "n.",
       "meaning": "排水系统；排水",
-      "tips": "【拆分记忆】将'drainage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“排水系统；排水”的典型场景中频繁造句，用“drainage”描述关键动作/特征；【图像】脑海中构建一个与“排水系统；排水”强相关的画面，并反复配音念出“drainage”；【拆分】dr·a·in·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/dreɪnædʒ/",
+      "example": "Experts argue that drainage is a key factor in successful education systems.",
+      "example_translation": "专家 argue that drainage is a key 因素 in successful 教育体系."
     },
     {
       "word": "sewage",
       "pos": "n.",
       "meaning": "（下水道的）污水",
-      "tips": "【拆分记忆】将'sewage'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“（下水道的）污水”的典型场景中频繁造句，用“sewage”描述关键动作/特征；【图像】脑海中构建一个与“（下水道的）污水”强相关的画面，并反复配音念出“sewage”；【拆分】s·ew·ag·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/sdʒʌːædʒ/",
+      "example": "The sewage has become increasingly important in discussions about artificial intelligence.",
+      "example_translation": "The sewage has become increasingly 重要的 in discussions about 人工智能."
     },
     {
       "word": "ventilation",
       "pos": "n.",
       "meaning": "通风设备；通风",
-      "tips": "【后缀记忆】ventilation - 以tion结尾的名词，表示动作或状态"
+      "tips": "【后缀】ventila + tion（名词：动作/状态）；【联想】在“通风设备；通风”的典型场景中频繁造句，用“ventilation”描述关键动作/特征；【图像】脑海中构建一个与“通风设备；通风”强相关的画面，并反复配音念出“ventilation”",
+      "phonetic": "/ventɪlæʃən/",
+      "example": "Recent studies have shown that ventilation plays a crucial role in renewable energy.",
+      "example_translation": "Recent 研究 have shown that ventilation plays a 关键的 role in 可再生能源."
     },
     {
       "word": "compress",
       "pos": "v.",
       "meaning": "压缩；压紧",
-      "tips": "【拆分记忆】将'compress'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“压缩；压紧”的典型场景中频繁造句，用“compress”描述关键动作/特征；【图像】脑海中构建一个与“压缩；压紧”强相关的画面，并反复配音念出“compress”；【拆分】c·ompr·ess → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɒmpress/",
+      "example": "Governments must compress effective strategies for managing economic development.",
+      "example_translation": "政府s must compress 效果ive 策略 for managing 经济发展."
     },
     {
       "word": "condense",
       "pos": "v.",
       "meaning": "减缩；精简；（使气体）凝结",
       "example": "A long story may be condensed into a few sentences",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'condense'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“condense”在“减缩；精简；（使气体）凝结”语境中的常见用法。",
+      "tips": "【联想】在“减缩；精简；（使气体）凝结”的典型场景中频繁造句，用“condense”描述关键动作/特征；【图像】脑海中构建一个与“减缩；精简；（使气体）凝结”强相关的画面，并反复配音念出“condense”；【拆分】c·ond·ens·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɒndense/"
     },
     {
       "word": "refine",
       "pos": "v.",
       "meaning": "精炼；提纯",
-      "tips": "【拆分记忆】将'refine'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】re-（再/回）+ fine；【联想】在“精炼；提纯”的典型场景中频繁造句，用“refine”描述关键动作/特征；【图像】脑海中构建一个与“精炼；提纯”强相关的画面，并反复配音念出“refine”",
+      "phonetic": "/refɪne/",
+      "example": "Organizations worldwide are working to refine their approach to healthcare improvements.",
+      "example_translation": "组织 worldwide are working to refine their 方法 to 医疗改善."
     },
     {
       "word": "simplify",
       "pos": "v.",
       "meaning": "简化；精简",
       "example": "|simplicity n. 简单；质朴。simple adj. 简单的。simply adv. 简单地；仅仅",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'simplify'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“simplify”在“简化；精简”语境中的常见用法。",
+      "tips": "【后缀】simpl + ify（动词：使…化）；【联想】在“简化；精简”的典型场景中频繁造句，用“simplify”描述关键动作/特征；【图像】脑海中构建一个与“简化；精简”强相关的画面，并反复配音念出“simplify”",
+      "phonetic": "/sɪmplɪfj/"
     },
     {
       "word": "purify",
       "pos": "v.",
       "meaning": "净化；使纯净",
-      "tips": "【拆分记忆】将'purify'按音节拆分，结合语境反复练习记忆"
+      "tips": "【后缀】pur + ify（动词：使…化）；【联想】在“净化；使纯净”的典型场景中频繁造句，用“purify”描述关键动作/特征；【图像】脑海中构建一个与“净化；使纯净”强相关的画面，并反复配音念出“purify”",
+      "phonetic": "/pɜːɪfj/",
+      "example": "Organizations worldwide are working to purify their approach to climate change.",
+      "example_translation": "组织 worldwide are working to purify their 方法 to 气候变化."
     },
     {
       "word": "filter",
       "pos": "v./n.",
       "meaning": "过滤；（光或声音）透过；过滤器",
       "example": "|filter through （消息等）慢慢传开；走漏",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'filter'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“filter”在“过滤；（光或声音）透过；过滤器”语境中的常见用法。",
+      "tips": "【联想】在“过滤；（光或声音）透过；过滤器”的典型场景中频繁造句，用“filter”描述关键动作/特征；【图像】脑海中构建一个与“过滤；（光或声音）透过；过滤器”强相关的画面，并反复配音念出“filter”；【拆分】f·ilt·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fɪltɜː/"
     },
     {
       "word": "distil/distill",
       "pos": "v.",
       "meaning": "蒸馏；提取...的精华",
-      "tips": "【拆分记忆】将'distil/distill'按音节拆分，结合语境反复练习记忆"
+      "tips": "【前缀】dis-（相反/否定）+ til/distill；【联想】在“蒸馏；提取...的精华”的典型场景中频繁造句，用“distil/distill”描述关键动作/特征；【图像】脑海中构建一个与“蒸馏；提取...的精华”强相关的画面，并反复配音念出“distil/distill”",
+      "phonetic": "/dɪstɪl/dɪstɪll/",
+      "example": "Researchers continue to distil/distill new methods for addressing technological advancement.",
+      "example_translation": "研究ers continue to distil/distill new 方法s for addressing 技术进步."
     },
     {
       "word": "mode",
       "pos": "n.",
       "meaning": "模式；方式",
-      "tips": "【基础记忆】mode - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“模式；方式”的典型场景中频繁造句，用“mode”描述关键动作/特征；【图像】脑海中构建一个与“模式；方式”强相关的画面，并反复配音念出“mode”；【拆分】m·od·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mɒde/",
+      "example": "The government's new mode policy aims to improve healthcare improvements.",
+      "example_translation": "The 政府's new mode 政策 aims to improve 医疗改善."
     },
     {
       "word": "mould/mold",
       "pos": "v./n.",
       "meaning": "浇铸；塑造/模子",
       "example": "|和霉菌是一个词",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'mould/mold'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "|和霉菌是一个词",
+      "tips": "【联想】在“浇铸；塑造/模子”的典型场景中频繁造句，用“mould/mold”描述关键动作/特征；【图像】脑海中构建一个与“浇铸；塑造/模子”强相关的画面，并反复配音念出“mould/mold”；【拆分】m·o·uld/m·old → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mæʊld/mɒld/"
     },
     {
       "word": "prototype",
       "pos": "n.",
       "meaning": "原型；雏形",
-      "tips": "【拆分记忆】将'prototype'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“原型；雏形”的典型场景中频繁造句，用“prototype”描述关键动作/特征；【图像】脑海中构建一个与“原型；雏形”强相关的画面，并反复配音念出“prototype”；【拆分】pr·ot·otyp·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/prɒtɒtjpe/",
+      "example": "The government's new prototype policy aims to improve social media impact.",
+      "example_translation": "The 政府's new prototype 政策 aims to improve 社交媒体影响."
     },
     {
       "word": "framework",
       "pos": "n.",
       "meaning": "框架；体系；结构",
-      "tips": "【拆分记忆】将'framework'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“框架；体系；结构”的典型场景中频繁造句，用“framework”描述关键动作/特征；【图像】脑海中构建一个与“框架；体系；结构”强相关的画面，并反复配音念出“framework”；【拆分】fr·am·ew·ork → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fræmdʒʌːɔːk/",
+      "example": "Recent studies have shown that framework plays a crucial role in renewable energy.",
+      "example_translation": "Recent 研究 have shown that framework plays a 关键的 role in 可再生能源."
     },
     {
       "word": "aspect",
       "pos": "n.",
       "meaning": "（问题、事务的）方面",
-      "tips": "【拆分记忆】将'aspect'按音节拆分，结合语境反复练习记忆"
+      "tips": "【词根】含“spect(看)”，联想到“（问题、事务的）方面”；【联想】在“（问题、事务的）方面”的典型场景中频繁造句，用“aspect”描述关键动作/特征；【图像】脑海中构建一个与“（问题、事务的）方面”强相关的画面，并反复配音念出“aspect”",
+      "phonetic": "/æspekt/",
+      "example": "The government's new aspect policy aims to improve technological advancement.",
+      "example_translation": "The 政府's new aspect 政策 aims to improve 技术进步."
     },
     {
       "word": "phase",
       "pos": "n.",
       "meaning": "阶段；时期",
       "example": "The first phase of the project has been completed",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'phase'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“phase”在“阶段；时期”语境中的常见用法。",
+      "tips": "【联想】在“阶段；时期”的典型场景中频繁造句，用“phase”描述关键动作/特征；【图像】脑海中构建一个与“阶段；时期”强相关的画面，并反复配音念出“phase”；【拆分】ph·as·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fæse/"
     },
     {
       "word": "operate",
       "pos": "v.",
       "meaning": "操作；运营；做手术",
       "example": "|operation n. 操作；企业；手术",
-      "example_translation": "[需要翻译]",
-      "tips": "【后缀记忆】operate - 以ate结尾的动词，表示'使...'"
+      "example_translation": "该例句体现了“operate”在“操作；运营；做手术”语境中的常见用法。",
+      "tips": "【联想】在“操作；运营；做手术”的典型场景中频繁造句，用“operate”描述关键动作/特征；【图像】脑海中构建一个与“操作；运营；做手术”强相关的画面，并反复配音念出“operate”；【拆分】op·er·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɒpɜːeɪt/"
     },
     {
       "word": "facilitate",
       "pos": "v.",
       "meaning": "使便利；促进",
       "example": "Many modern inventions facilitate housework",
-      "example_translation": "[需要翻译]",
-      "tips": "【后缀记忆】facilitate - 以ate结尾的动词，表示'使...'"
+      "example_translation": "该例句体现了“facilitate”在“使便利；促进”语境中的常见用法。",
+      "tips": "【联想】在“使便利；促进”的典型场景中频繁造句，用“facilitate”描述关键动作/特征；【图像】脑海中构建一个与“使便利；促进”强相关的画面，并反复配音念出“facilitate”；【拆分】f·ac·il·it·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fæslɪteɪt/"
     },
     {
       "word": "transform",
       "pos": "v.",
       "meaning": "使改变形态；使改观",
       "example": "|transformation n. 变化；转变",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'transform'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“transform”在“使改变形态；使改观”语境中的常见用法。",
+      "tips": "【词根】含“form(形状)”，联想到“使改变形态；使改观”；【前缀】trans-（穿过/转变）+ form；【联想】在“使改变形态；使改观”的典型场景中频繁造句，用“transform”描述关键动作/特征",
+      "phonetic": "/trænsfɔːm/"
     },
     {
       "word": "convert",
       "pos": "v./n.",
       "meaning": "（使）转变、改变（信仰、观点等）/皈依者",
       "example": "|conversion n. 转变；换算。convert defeat into victory 转败为胜",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'convert'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“convert”在“（使）转变、改变（信仰、观点等）/皈依者”语境中的常见用法。",
+      "tips": "【联想】在“（使）转变、改变（信仰、观点等）/皈依者”的典型场景中频繁造句，用“convert”描述关键动作/特征；【图像】脑海中构建一个与“（使）转变、改变（信仰、观点等）/皈依者”强相关的画面，并反复配音念出“convert”；【拆分】c·onv·ert → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɒnvɜːt/"
     },
     {
       "word": "alter",
       "pos": "v.",
       "meaning": "变更；改变",
       "example": "|alternative adj. 可供选择的。an alter ego 知己；个性的另一面",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'alter'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“alter”在“变更；改变”语境中的常见用法。",
+      "tips": "【联想】在“变更；改变”的典型场景中频繁造句，用“alter”描述关键动作/特征；【图像】脑海中构建一个与“变更；改变”强相关的画面，并反复配音念出“alter”；【拆分】alt·er → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/əltɜː/"
     },
     {
       "word": "shift",
       "pos": "v./n.",
       "meaning": "转移；变换/轮班",
       "example": "The wind shifted to the north|the day shift 白班。the night shift 晚班",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'shift'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“shift”在“转移；变换/轮班”语境中的常见用法。",
+      "tips": "【联想】在“转移；变换/轮班”的典型场景中频繁造句，用“shift”描述关键动作/特征；【图像】脑海中构建一个与“转移；变换/轮班”强相关的画面，并反复配音念出“shift”；【拆分】sh·ift → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ʃɪft/"
     },
     {
       "word": "turn",
       "pos": "v./n.",
       "meaning": "转移；转变/（一次轮到的）机会",
       "example": "|turning n. 旋转；转弯处",
-      "example_translation": "[需要翻译]",
-      "tips": "【基础记忆】turn - 常用基础词汇，多次重复加深印象"
+      "example_translation": "该例句体现了“turn”在“转移；转变/（一次轮到的）机会”语境中的常见用法。",
+      "tips": "【联想】在“转移；转变/（一次轮到的）机会”的典型场景中频繁造句，用“turn”描述关键动作/特征；【图像】脑海中构建一个与“转移；转变/（一次轮到的）机会”强相关的画面，并反复配音念出“turn”；【拆分】t·urn → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/tɜːn/"
     },
     {
       "word": "adapt",
       "pos": "v.",
       "meaning": "适应；改编",
       "example": "|adaptation n. 适应。adapt to sth. 适应某事",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'adapt'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“adapt”在“适应；改编”语境中的常见用法。",
+      "tips": "【联想】在“适应；改编”的典型场景中频繁造句，用“adapt”描述关键动作/特征；【图像】脑海中构建一个与“适应；改编”强相关的画面，并反复配音念出“adapt”；【拆分】ad·apt → 逐段拼读+拼写，朗读3遍固化肌肉记忆；【易混】adapt(适应) vs adopt(采纳/收养)：a→适应环境，o→收养他人",
+      "phonetic": "/ædæpt/"
     },
     {
       "word": "adjust",
       "pos": "v.",
       "meaning": "调节；改变（行为或观点）以适应",
       "example": "|adjustment n. 调整；适应。 adjust to 适应",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'adjust'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“adjust”在“调节；改变（行为或观点）以适应”语境中的常见用法。",
+      "tips": "【联想】在“调节；改变（行为或观点）以适应”的典型场景中频繁造句，用“adjust”描述关键动作/特征；【图像】脑海中构建一个与“调节；改变（行为或观点）以适应”强相关的画面，并反复配音念出“adjust”；【拆分】adj·ust → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/æddʒʌst/"
     },
     {
       "word": "pinpoint",
       "pos": "v./n.",
       "meaning": "精确指明...位置/针尖；极小的事物",
-      "tips": "【拆分记忆】将'pinpoint'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“精确指明...位置/针尖；极小的事物”的典型场景中频繁造句，用“pinpoint”描述关键动作/特征；【图像】脑海中构建一个与“精确指明...位置/针尖；极小的事物”强相关的画面，并反复配音念出“pinpoint”；【拆分】p·inp·o·int → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/pɪnpɔɪnt/",
+      "example": "The need to pinpoint in climate change has never been more urgent.",
+      "example_translation": "The need to pinpoint in 气候变化 has never been more urgent."
     },
     {
       "word": "accurate",
       "pos": "adj.",
       "meaning": "准确的；正确无误的",
-      "tips": "【后缀记忆】accurate - 以ate结尾的动词，表示'使...'"
+      "tips": "【联想】在“准确的；正确无误的”的典型场景中频繁造句，用“accurate”描述关键动作/特征；【图像】脑海中构建一个与“准确的；正确无误的”强相关的画面，并反复配音念出“accurate”；【拆分】acc·ur·at·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ækkɜːeɪt/",
+      "example": "The accurate impact of education systems cannot be underestimated.",
+      "example_translation": "The accurate 影响 of 教育体系 cannot be underestimated."
     },
     {
       "word": "precise",
       "pos": "adj.",
       "meaning": "精确的；准确的；一丝不苟的",
       "example": "precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'precise'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“precise”在“精确的；准确的；一丝不苟的”语境中的常见用法。",
+      "tips": "【前缀】pre-（前）+ cise；【联想】在“精确的；准确的；一丝不苟的”的典型场景中频繁造句，用“precise”描述关键动作/特征；【图像】脑海中构建一个与“精确的；准确的；一丝不苟的”强相关的画面，并反复配音念出“precise”",
+      "phonetic": "/prekæɪz/"
     },
     {
       "word": "correct",
       "pos": "adj.",
       "meaning": "正确的",
       "example": "|correction n. 改正。incorrect adj. 不正确的；错误的",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'correct'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“correct”在“正确的”语境中的常见用法。",
+      "tips": "【联想】在“正确的”的典型场景中频繁造句，用“correct”描述关键动作/特征；【图像】脑海中构建一个与“正确的”强相关的画面，并反复配音念出“correct”；【拆分】c·orr·ect → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɔːrekt/"
     },
     {
       "word": "error",
       "pos": "n.",
       "meaning": "错误；过失",
-      "tips": "【拆分记忆】将'error'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“错误；过失”的典型场景中频繁造句，用“error”描述关键动作/特征；【图像】脑海中构建一个与“错误；过失”强相关的画面，并反复配音念出“error”；【拆分】err·or → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/ɜːrɔː/",
+      "example": "The government's new error policy aims to improve education systems.",
+      "example_translation": "The 政府's new error 政策 aims to improve 教育体系."
     },
     {
       "word": "mistake",
       "pos": "n./v.",
       "meaning": "错误/误解",
-      "tips": "【拆分记忆】将'mistake'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“错误/误解”的典型场景中频繁造句，用“mistake”描述关键动作/特征；【图像】脑海中构建一个与“错误/误解”强相关的画面，并反复配音念出“mistake”；【拆分】m·ist·ak·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/mɪstæke/",
+      "example": "The mistake in cultural diversity has attracted international attention.",
+      "example_translation": "The mistake in 文化多样性 has attracted international attention."
     },
     {
       "word": "flaw",
       "pos": "n.",
       "meaning": "缺陷；错误",
-      "tips": "【基础记忆】flaw - 常用基础词汇，多次重复加深印象"
+      "tips": "【联想】在“缺陷；错误”的典型场景中频繁造句，用“flaw”描述关键动作/特征；【图像】脑海中构建一个与“缺陷；错误”强相关的画面，并反复配音念出“flaw”；【拆分】fl·aw → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/flɔː/",
+      "example": "Recent studies have shown that flaw plays a crucial role in healthcare improvements.",
+      "example_translation": "Recent 研究 have shown that flaw plays a 关键的 role in 医疗改善."
     },
     {
       "word": "wrong",
       "pos": "adj./adv.",
       "meaning": "错误的；错误地",
       "example": "|go wrong 出现问题；出差错",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'wrong'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“wrong”在“错误的；错误地”语境中的常见用法。",
+      "tips": "【联想】在“错误的；错误地”的典型场景中频繁造句，用“wrong”描述关键动作/特征；【图像】脑海中构建一个与“错误的；错误地”强相关的画面，并反复配音念出“wrong”；【拆分】wr·ong → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/rɒng/"
     },
     {
       "word": "fault",
       "pos": "n./v.",
       "meaning": "缺点；故障/找出缺点",
       "example": "|faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨",
-      "example_translation": "[需要翻译]",
-      "tips": "【拆分记忆】将'fault'按音节拆分，结合语境反复练习记忆"
+      "example_translation": "该例句体现了“fault”在“缺点；故障/找出缺点”语境中的常见用法。",
+      "tips": "【联想】在“缺点；故障/找出缺点”的典型场景中频繁造句，用“fault”描述关键动作/特征；【图像】脑海中构建一个与“缺点；故障/找出缺点”强相关的画面，并反复配音念出“fault”；【拆分】f·a·ult → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/fɔːlt/"
     },
     {
       "word": "stumble",
       "pos": "v.",
       "meaning": "犯错误；绊脚；跌跌撞撞的走",
-      "tips": "【拆分记忆】将'stumble'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“犯错误；绊脚；跌跌撞撞的走”的典型场景中频繁造句，用“stumble”描述关键动作/特征；【图像】脑海中构建一个与“犯错误；绊脚；跌跌撞撞的走”强相关的画面，并反复配音念出“stumble”；【拆分】st·umbl·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/stʌmble/",
+      "example": "Organizations worldwide are working to stumble their approach to renewable energy.",
+      "example_translation": "组织 worldwide are working to stumble their 方法 to 可再生能源."
     },
     {
       "word": "contingency",
       "pos": "n.",
       "meaning": "意外事件；可能发生的事",
-      "tips": "【拆分记忆】将'contingency'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“意外事件；可能发生的事”的典型场景中频繁造句，用“contingency”描述关键动作/特征；【图像】脑海中构建一个与“意外事件；可能发生的事”强相关的画面，并反复配音念出“contingency”；【拆分】c·ont·ing·ency → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/kɒntɪŋensɪ/",
+      "example": "Experts argue that contingency is a key factor in successful renewable energy.",
+      "example_translation": "专家 argue that contingency is a key 因素 in successful 可再生能源."
     },
     {
       "word": "circumstance",
       "pos": "n.",
       "meaning": "情况；条件；环境；境遇",
-      "tips": "【拆分记忆】将'circumstance'按音节拆分，结合语境反复练习记忆"
+      "tips": "【联想】在“情况；条件；环境；境遇”的典型场景中频繁造句，用“circumstance”描述关键动作/特征；【图像】脑海中构建一个与“情况；条件；环境；境遇”强相关的画面，并反复配音念出“circumstance”；【拆分】c·irc·umst·anc·e → 逐段拼读+拼写，朗读3遍固化肌肉记忆",
+      "phonetic": "/srkʌmstæns/",
+      "example": "Recent studies have shown that circumstance plays a crucial role in social media impact.",
+      "example_translation": "Recent 研究 have shown that circumstance plays a 关键的 role in 社交媒体影响."
     }
   ]
 }
